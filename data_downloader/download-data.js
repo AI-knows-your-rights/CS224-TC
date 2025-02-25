@@ -54,7 +54,7 @@ async function downloadData(all = false) {
             continue; // Skip this service
         }
 
-        const serviceDir = path.join(__dirname, service.name);
+        const serviceDir = path.join(__dirname, "../data", service.name);
         createDirectory(serviceDir);
 
         // Save service details

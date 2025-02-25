@@ -1,0 +1,178 @@
+<!doctype html>
+
+<html ng-app="app" lang="en">
+  <head>
+    <title>iWantTFC | Stream Filipino Movies &amp; TV Shows</title>
+    <link rel="manifest" href="/cache/www.iwanttfc.com/manifest.json">
+    <meta property="fb:app_id" content="1244062508988890"/>
+    <meta property="og:image" content="https://s3.us-east-1.amazonaws.com/flixforge-absprod/c/6/images/aa4diU90ZZ4cGt_VwZaBaQ.jpg"/>
+    <meta property="og:image:width" content="1024"/>
+    <meta property="og:image:height" content="1020"/>
+    <meta property="og:title" content="iWantTFC | Stream Filipino Movies &amp; TV Shows" />
+    <meta name="description" content="Discover iWantTFC for the best in Filipino movies, series, and exclusive content. Stream dramas, comedies, and more. Enjoy Filipino entertainment in the Philippines."/>
+    <meta property="og:description" content="Discover iWantTFC for the best in Filipino movies, series, and exclusive content. Stream dramas, comedies, and more. Enjoy Filipino entertainment in the Philippines." /><meta property="og:url" content="https://www.iwanttfc.com" />
+    <meta property="og:type" content="website" /> 
+    <meta http-equiv="X-UA-Compatible" content="IE=11" />
+
+    <meta name="theme-color" content="#111111" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <link rel="shortcut icon" href="https://d348f57gkrlrz4.cloudfront.net/c/4/images/QhGS3yDKylrrelmNBwhIOQ.png" type="image/png" />
+    <link rel="apple-touch-icon" href="https://d348f57gkrlrz4.cloudfront.net/c/4/images/QhGS3yDKylrrelmNBwhIOQ.png" type="image/png" />
+
+
+    <link rel="stylesheet" href="//flixforge.b-cdn.net/lib/maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.2.min.css" />
+    <link rel="stylesheet" href="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+    <link rel="stylesheet" href="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/bootstrap-daterangepicker/3.0.3/daterangepicker.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+
+    <script>
+      WebFont.load({
+        google: {
+          families: ['Material Icons'],
+        }
+      });
+    </script>
+
+    <style>
+      .wf-inactive .material-icons, .fa-events-icons-loading .fa, .fa-events-icons-failed .fa {
+        display: none;
+      }
+    </style>
+
+    <base href="/">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130192816-13"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-130192816-13', {
+        'custom_map' : {
+          'dimension1': 'item_id',
+          'dimension2': 'parent_name',
+          'dimension3': 'parent_id',
+          'dimension4': 'position',
+          'dimension5': 'position_percent',
+          'dimension6': 'Audio Language',
+          'metric1': 'Video Percentage Watched',
+          'metric2': 'Video Time Watched',
+          'metric3': 'Video Starts',
+          'metric4': 'Video Completes'
+        }
+      });
+    </script>
+    <script>
+      /**
+       *  script.js error handler
+       *  Handled error in case script.js fails to load
+       *  Handled error in case script.js takes more than 15 seconds to load
+       */
+      var host = {};
+      var config = {};
+      var index = {};
+      var settings = {};
+      var catalog = {};
+      var Items = {};
+      var Tags = {};
+
+      const SCRIPT_TIMEOUT = 15000;
+      let scriptLoaded = false;
+
+      setTimeout(() => {
+        if (!scriptLoaded) {
+          handleScriptError();
+        }
+      }, SCRIPT_TIMEOUT);
+
+      function handleScriptError() {
+        const errorPageUrl = '/error.html';
+        window.location.href = errorPageUrl;
+      }
+
+      function handleScriptLoad() {
+        scriptLoaded = true;
+      }
+    </script>
+    <script src="https://absprod-static.iwanttfc.com/c/6/catalog/M3bS1_Mqbid9bJAl7BzByA/script.js?ts=1740456655" onerror="handleScriptError()" onload="handleScriptLoad()"></script>
+    <script>
+      if (typeof abscbn !== 'undefined' && settings && settings.moengageAppId) {
+        (function(i,s,o,g,r,a,m,n){i.moengage_object=r;t={};q=function(f){return function(){(i.moengage_q=i.moengage_q||[]).push({f:f,a:arguments})}};f=['track_event','add_user_attribute','add_first_name','add_last_name','add_email','add_mobile','add_user_name','add_gender','add_birthday','destroy_session','add_unique_user_id','moe_events','call_web_push','track','location_type_attribute'],h={onsite:["getData","registerCallback"]};for(k
+          in f){t[f[k]]=q(f[k])}for(k in h)for(l in h[k]){null==t[k]&&(t[k]={}),t[k][h[k][l]]=q(k+"."+h[k][l])}a=s.createElement(o);m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);i.moe=i.moe||function(){n=arguments[0];return
+          t};a.onload=function(){if(n){i[r]=moe(n)}}})(window,document,'script','https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js','Moengage')
+      }
+    </script>
+  <link href="https://absprod-static.iwanttfc.com/builds/c3f3fbd1c4075e6b6607/app.css" rel="stylesheet">
+<link rel="canonical" href="https://www.iwanttfc.com/" />
+</head>
+
+  <body ui-tour>
+    <div id="preloader" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; text-align: center; opacity: 0; transition: opacity .3s ease">
+      <span style="display: inline-block; height: 100%; vertical-align: middle"></span>
+      <img src="//flixforge.b-cdn.net/lib/img/default-loader.gif" style="width: 64px; height: 64px;" />
+    </div>
+
+    <textarea id="txt" style="opacity: 0"></textarea>
+
+    <app></app>
+
+    <script defer src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>
+    <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.11.0/shaka-player.compiled.js"></script>
+<!--    <script src="//flixforge.b-cdn.net/lib/shaka-player/4.7.10/shaka-player.compiled.js"></script>-->
+    <script src="//flixforge.b-cdn.net/lib/code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.4/ofi.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/filesize/3.6.1/filesize.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.1/moment.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/ru.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/bg.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/de.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/es.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/fr.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/nl.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/pt.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/th.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/zh-cn.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/zh-hk.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/zh-tw.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/ar.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/ja.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/fa.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/moment-duration-format/2.2.2/moment-duration-format.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/bootstrap-daterangepicker/3.1.0/daterangepicker.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/ua-parser-js/0.7.38/ua-parser.min.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+    <script src="//flixforge.b-cdn.net/lib/js/slick.js?v=3"></script>
+    <script src="//flixforge.b-cdn.net/lib/js/isoCountries.js"></script>
+    <script src="//flixforge.b-cdn.net/lib/js/card-js.js?124"></script>
+    <script src="//flixforge.b-cdn.net/lib/js/clipboard.js"></script>
+
+    <script>
+      setTimeout(function () {
+        let preloader = document.getElementById('preloader');
+
+        if (preloader) {
+          preloader.style.opacity = 1;
+        }
+      }, 250);
+    </script>
+
+    <noscript>
+      <h1>Please enable JavaScript</h1>
+    </noscript>
+  <script type="text/javascript" src="https://absprod-static.iwanttfc.com/builds/c3f3fbd1c4075e6b6607/app.js"></script><script>window.fwSettings={'widget_id':61000001760};!function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}() </script><script type='text/javascript' src='https://widget.freshworks.com/widgets/61000001760.js' async defer></script><script type="text/javascript"  src="/BKnit_jlEvx8t7SIbJO3/DSuN0N8cJmt8u5Oc/aE0gZA/OQdL/CWgiak0"></script></body>
+</html>

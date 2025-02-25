@@ -1,0 +1,916 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="ctl00_Head1"><title>
+	Shipping Policy - Codejunkies
+</title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta id="ctl00_MetaKeywords" name="Keywords" content="pokemon go, go plus, gotcha pokemon go, action replay powersaves, powersaves, powersaves pro, powersaves plus, Nintendo 3DS, 3DS, NintendoDS, DS, powersaves for amiibo, amiibo, gaming accessories, cheat devices, Wii, Wii U, PS4, PS3, PS2, GameCube" /><meta id="ctl00_MetaDescription" name="Description" content="Gaming accessories and cheat devices for Pokemon Go, Nintendo 3DS, Nintendo DS, PS4, PS3, PS2, GameCube, Wii and Wii U." /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" /><link rel="manifest" href="/manifest.json" /><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" /><meta name="theme-color" content="#ffffff" /><link href="//fonts.googleapis.com/css?family=Ubuntu:300,400,500,600,700" rel="stylesheet" type="text/css" /><link href="/BVModules/Themes/Codejunkies/bootstrap-3.3.2-dist/css/bootstrap.min.css" rel="stylesheet"><link href="/BVModules/Themes/Codejunkies/bootstrap-3.3.2-dist/css/bootstrap-theme.css" rel="stylesheet"><link href="/BVModules/Themes/Codejunkies/MobileMenu/responsive-nav.css" rel="stylesheet">
+        
+        
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+        
+        <script src="/BVModules/Themes/Codejunkies/MobileMenu/jquery.responsive-nav.js"></script><script src="/BVModules/Themes/Codejunkies/bootstrap-3.3.2-dist/js/bootstrap.min.js"></script><script src="/BVModules/Themes/Codejunkies/scripts/app.js"></script><link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" /><link href="/BVModules/Themes/Codejunkies/styles/styles.css" rel="stylesheet">
+
+        
+        <!--[if lt IE 9]>
+            <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+            <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+            
+            
+        <![endif]-->
+
+		<link href="https://www.codejunkies.com/shippingterms.aspx" rel="canonical" /><!-- Google Analytics -->
+<script async src='//www.google-analytics.com/analytics.js'></script>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-602118-8', { 'userId': '' });
+ga('require', 'displayfeatures');
+ga('require', 'linkid', 'linkid.js');
+ga('require', 'ec');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+</head>
+	<body id="ServicePages">
+        <form name="aspnetForm" method="post" action="/shippingterms.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+
+<script src="/WebResource.axd?d=3aJe5EVz5a65qlRd-GY67g5nnnvDIf24CjSOobaq7WCyuvijvYeTwU0DtFCGQ4iTJFkRqQtL_f7yiM8ZjhczHP0RBY9Nf9BKzC-rHWnq_CE1&amp;t=636948274840000000" type="text/javascript"></script>
+<script src="/BVModules/Themes/Codejunkies/scripts/theme.js" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+var Anthem_FormID = "aspnetForm";
+//]]>
+</script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="ABAAC5D6" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vzRcJsyNJ6Gz+46ZSuFp8+G1tofIS2KDAmG0tC9W1Z+NgJ7OXi4z4BFBGyZi40qRbFB5EvDpYsOrJxPMS1J50x/Tm88it76Ib+wLHTgtCqAjP32ZC6CqeagXNhW78GrgrvyBs+3Gh8DarUHssgv1juZmsepSC3K7qS/fqGz3bYWqj74pLgoGmJ4AgZWeazsO" />
+</div>
+            
+            
+
+		    
+
+<script>
+
+    $(document).ready(function () {
+        $('.navbar-fixed-top .dropdown').on('show.bs.dropdown', function () {
+            $(this).find('.dropdown-menu').first().stop(true, true).slideDown();
+        });
+
+        // Add slideUp animation to Bootstrap dropdown when collapsing.
+        $('.navbar-fixed-top .dropdown').on('hide.bs.dropdown', function () {
+            $(this).find('.dropdown-menu').first().stop(true, true).slideUp();
+        });
+
+        $(".navbar-toggle").on("click", function () {
+            $(this).toggleClass("active");
+        });
+    });
+   
+
+</script>
+<style>    .codesAndSaves {
+        display:inline-block;vertical-align: middle;
+    }
+
+     .codesAndSaves:hover {
+        text-decoration:none;
+        color:#37c4ff;
+    }
+
+     .nav-switch-submenu a, .nav-switch-submenu a:hover{
+         min-height:123px !important;
+     }
+
+     .main-logo-left{display:inline-block;float:left;}
+</style>
+
+
+
+<div style="position:relative;" class="clearfix">
+<div class="navbar yamm navbar-fixed-top navbar-default" role="navigation">
+    <!-- FIRST NAVIGATION BAR 1 -->
+    <div class="codejunkiesHeader-social">
+        <div class="container">
+            <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="/default.aspx"><img src="/BVModules/Themes/Codejunkies/images/mobile-logo.png" alt="Brand" runat="server" class="img-responsive center-block" /></a>
+           
+            <button type="button" class="navbar-toggle" data-toggle="collapse"  data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="sr-only">Toggle navigation</span>
+            </button>
+           
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <ul class="nav-social nav-right"> 
+                        <li class="hidden-xs"><a href="http://uk.codejunkies.com/search/codes_search.aspx" class="codesAndSaves">Saves &amp; Codes</a></li>
+
+<li class="hidden-xs"><a href="https://experience.codejunkies.com"><i class="fa fa-users"></i>
+
+</a></li>
+
+                        <li class="hidden-xs"><a href="http://support.codejunkies.com/"><i class="fa fa-question-circle fa-lg" aria-hidden="true"></i></a></li>
+                        <li class="hidden-xs"><a href="/contactus.aspx"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+                       <!-- <li class="hidden-xs"><a href="#"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a></li>-->
+                        <li class="hidden-xs"><a href="https://twitter.com/PowersavesPro"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></a></li>
+                        <li class="hidden-sm hidden-md hidden-lg"><a href="/MyAccount_Orders.aspx"><i class="fa fa-user fa-3x" aria-hidden="true"></i> <uc:PointsTotals id="PointsTotals5" runat="server" /></a></li>
+                        <li class="hidden-sm hidden-md hidden-lg"><a  href="/cart.aspx" class="cart"><i class="fa fa-shopping-cart fa-3x"></i> <uc:CartTotals ID="CartTotal5" runat="server" /></a></li> 
+                   
+                        
+                      </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- SECOND NAVIGATION BAR -->
+    <div class="container">
+        <div class="collapse navbar-collapse">
+
+            <div class="main-logo-left hidden-xs">
+                    <a href="/default.aspx" class=" hidden-xs hidden-lg "><img src="/BVModules/Themes/Codejunkies/images/mobile-logo.png" alt="Brand" runat="server" class="img-responsive" /></a>
+                    <a href="/default.aspx" class="hidden-xs hidden-sm hidden-md"><img src="/BVModules/Themes/Codejunkies/images/logo.png" alt="Brand" runat="server" class="img-responsive" style="margin-top: 10px;"/></a>
+                <!--<a href="/default.aspx" class="hidden-sm "><img src="/BVModules/Themes/Codejunkies/images/logo.png" alt="Brand" runat="server" class="img-responsive center-block" /></a>
+                <a href="/default.aspx" class=" hidden-lg hidden-md"><img src="/BVModules/Themes/Codejunkies/images/mobile-logo.png" alt="Brand" runat="server" class="img-responsive center-block" /></a>-->
+            </div>
+
+
+
+            <ul class="nav navbar-nav nav-left">
+                <li class="dropdown yamm-fw">
+                    <a href="/Departments/Powersaves.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PowerSaves <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/what-is-powersaves-prime.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/powersaves-prime.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PowerSaves Prime
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+
+                                        <a href="/Products/PowerSaves-Pro__EF001113V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001113V.png" class="img-responsive"/>
+                                            <div class="caption">
+                                                PowerSaves Pro
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/PowerBase-for-Pokémon__EF001323V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001246.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PowerBase for Pokémon
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/PowerSaves-for-Amiibo__EF001200.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001200.png" class="img-responsive"/>
+                                            <div class="caption">
+                                                PowerSaves Amiibo
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/Powersaves-Pro-License-Key__EF001192V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001192V.png" class="img-responsive"/>
+                                            <div class="caption">
+                                                License Key
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/PowerSaves-Pro-Upgrade__EF001183.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001183.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PowerPlay Upgrade
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown yamm-fw ">
+                    <a href="/Products/Go-tcha-Wristband__EF001250V.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pokemon Go<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+                                    
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                            <a href="/Products/Go-tcha-Evolve-Pro-plus-__EF001405V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-evovleproplus.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Evolve Pro+
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                            <a href="/Products/Go-tcha-Expedition__EF001396V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-expedition.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Expedition
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Generation__EF001354V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-generation.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Generation
+                                            </div>
+                                        </a>
+                                    </div>
+                                
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Classic__EF001336V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001250V.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Classic Wristband
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Clip__EF001338V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-gotcha-clip.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Clip
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Limited-Edition-Go-tcha-Ranger__EF001302V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-LEranger.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Limited Edition Go-tcha Ranger
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Clip-Accessory-Pack__EF001346V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-gotcha-clipap.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Clip Accessory Pack
+                                            </div>
+                                        </a>
+                                    </div>
+
+ <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Accessory-Pack__EF001256.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001256.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Original Accessory Pack
+                                            </div>
+                                        </a>
+                                    </div>
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Evolve__EF001315V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001315V.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Evolve
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-tcha-Evolve-Trainer-Club-Edition__EF001335.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-gotcha-evolve-tc.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go-tcha Evolve Trainer Club Edition
+                                            </div>
+                                        </a>
+                                    </div>
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+                                        <a href="/Products/Go-Ninja__EF001416.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-goninja2.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Go Ninja
+                                            </div>
+                                        </a>
+                                    </div>
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+<a href="/Products/Go-tcha-Tag__EF001355.aspx">
+<img src="/BVModules/Themes/Codejunkies/images/Menu/nav-gotcha-tag.png" class="img-responsive" />
+<div class="caption">
+Go-tcha Tag
+</div>
+</a>
+</div>
+
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 " style="float: right;">
+<a href="/Products/Go-tcha-Ranger__EF001297V.aspx">
+<img src="/BVModules/Themes/Codejunkies/images/Menu/nav-ranger.png" class="img-responsive" />
+<div class="caption">
+Go-tcha Ranger
+</div>
+</a>
+</div>
+
+
+
+
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                 <li class="dropdown yamm-fw">
+                    <a href="/Departments/Power-Points.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="hidden-sm">Power</span> Points <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x1-Power-Point__EF001196.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001196.png" class="img-responsive" />
+                                            <div class="caption">
+                                                x1 Power Point
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2 ">
+
+                                        <a href="/Products/x2-Power-Points__EF001208.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001208.png"  class="img-responsive" />
+                                            <div class="caption">
+                                                x2 Power Points
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x5-Power-Points__EF001197.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001197.png" class="img-responsive" />
+                                            <div class="caption">
+                                                x5 Power Points
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x10-Power-Points__EF001198.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001198.png" class="img-responsive" />
+                                            <div class="caption">
+                                                x10 Power Points
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x15-Power-Points__EF001209.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001209.png" class="img-responsive" />
+                                            <div class="caption">
+                                                x15 Power Points
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x20-Power-Points__EF001210.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001210.png" class="img-responsive" />
+                                            <div class="caption">
+                                                x20 Power Points
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                 <li class="dropdown yamm-fw">
+                    <a href="/Departments/Switch.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Switch <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu nav-switch-submenu">
+                                <div class="row">
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/NitroPro-Controller-Monster-Pack__EF001332.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-nitropro.png" class="img-responsive" />
+                                            <div class="caption">
+                                                NitroPro Controller - Monster Pack
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/NitroTag-Monster-Hunter-Rise__EF001333.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001259.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Monster Hunter Rise
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Departments/Switch/NitroTags/Splatoon-2.aspx" >
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001259.png" class="img-responsive" />
+                                            <div class="caption">
+                                                NitroTag Splatoon 2
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Departments/Switch/NitroTags/Mario-Kart-8-Deluxe.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001259.png" class="img-responsive" />
+                                            <div class="caption">
+                                                NitroTag Mario Kart 8 Deluxe
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Departments/Switch/NitroTags/Zelda-Breath-of-the-Wild.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001259.png" class="img-responsive" />
+                                            <div class="caption">
+                                                NitroTag Zelda Breath of the Wild
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Departments/Switch/NitroTags/Super-Mario-Odyssey.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001259.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Super Mario Odyssey
+                                            </div>
+                                        </a>
+                                    </div>
+                                  
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown yamm-fw">
+                    <a href="/Departments/Amiibo.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Amiibo <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+                                      <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/PowerSaves-for-Amiibo__EF001200.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001200.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PowerSaves Amiibo
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/PowerBase-for-Amiibo__EF001300V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-powerbase.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Amiibo Powerbase
+                                            </div>
+                                        </a>
+                                    </div>
+  
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x-10-Amiibo-Powertags__EF001255.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001255.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PowerTags x10
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/x-3-Amiibo-Powertags__EF001254.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001254.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PowerTags x3
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                 <li class="dropdown yamm-fw">
+                    <a href="/Departments/Playstation.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Playstation<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+
+                                     <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/Evo-Hub__EF001241V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001241V.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Evo Hub
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                      <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/CoolDog-Controller-for-PS4__EF001234.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF001234.png" class="img-responsive" />
+                                            <div class="caption">
+                                                CoolDog Controller for PS4
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                      <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+
+                                        <a href="/Products/PS5-Wireless-Controller__EF001417.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-xerocontroller.png" class="img-responsive" />
+                                            <div class="caption">
+                                                PS5 Wireless Controller
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                 <li class="dropdown yamm-fw">
+                    <a href="/Departments/Retro.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Retro <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+
+									<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/SD-Media-Launcher__EF000195.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF000195.png" class="img-responsive" />
+                                            <div class="caption">
+                                                GameCube Action Replay
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                      <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/SD-Media-Launcher__EF000580V.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/EF000580V.png" class="img-responsive" />
+                                            <div class="caption">
+                                                SD Media Launcher
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/Racing-Game-Steering-Wheel-for-Wii__EF000613.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-wiiracingwheel.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Racing Game Steering Wheel (Wii) 
+                                            </div>
+                                        </a>
+                                    </div>
+
+
+
+<div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/DSiDS-Action-Replay-Replacement-USB-Cable__ER000015.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-dsicable.png" class="img-responsive" />
+                                            <div class="caption">
+                                                DSi/DS Action Replay Replacement USB Cable
+                                            </div>
+                                        </a>
+</div>
+
+
+                                </div>
+                            </div>
+                        </li>
+
+
+                    </ul>
+                </li>
+                
+                
+                                 <li class="dropdown yamm-fw">
+                    <a href="/Departments/SpyCat.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SpyCat<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <div class="yamm-content nav-all-powersaves-sub-menu">
+                                <div class="row">
+                                     <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/CatShark-Catalytic-Converter-Alarm__EF001334.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-catshark.png" class="img-responsive" />
+                                            <div class="caption">
+                                                CatShark
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/WiFi-Commander-Watch__EF001403.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-wificomwatch.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Wifi Commander Watch
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    <div class="col-xs-6 col-sm-2 col-md-2 col-lg-2">
+                                        <a href="/Products/WiFi-Commander__EF001404.aspx">
+                                            <img src="/BVModules/Themes/Codejunkies/images/Menu/nav-wificomunit.png" class="img-responsive" />
+                                            <div class="caption">
+                                                Wifi Commander Handheld
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                
+                
+                
+                <li class="hidden-sm hidden-md hidden-lg"><a href="/contactus.aspx">Contact Us</a></li>
+                <li class="hidden-sm hidden-md hidden-lg"><a href="/MyAccount_Orders.aspx">My Account</a></li>
+               
+            </ul>
+            <ul class="nav navbar-nav nav-right hidden-xs">
+                 <li class="hidden-xs" style="float:right;"><a href="/MyAccount_Orders.aspx"><i class="fa fa-user" aria-hidden="true"></i> <uc:PointsTotals id="PointsTotals1" runat="server" /></a></li>
+                <li class="hidden-xs" style="float:right;"><a  href="/cart.aspx" class="cart"><i class="fa fa-shopping-cart"></i> <uc:CartTotals ID="CartTotals19" runat="server" /></a></li>
+            </ul>
+
+        </div>
+    </div>
+</div>
+<!-- END NAVIGATION --><div class="search row collapse">
+	
+
+    <label for="ctl00_Header1_ContentColumnControl3_ctl01_KeywordField" id="ctl00_Header1_ContentColumnControl3_ctl01_lblTitle">Product Search</label>
+
+    <div class="small-9 columns">
+        <input name="ctl00$Header1$ContentColumnControl3$ctl01$KeywordField" id="ctl00_Header1_ContentColumnControl3_ctl01_KeywordField" autocapitalize="off" type="search" />
+    </div>
+    <div class="small-3 columns">
+        <input type="submit" name="ctl00$Header1$ContentColumnControl3$ctl01$btnSearch" value="Search" id="ctl00_Header1_ContentColumnControl3_ctl01_btnSearch" class="button prefix secondary" />
+    </div>
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="main">
+                <div class="container">
+				    <div class="row">
+					    <div class="col-md-9">
+                            <h1><i class="fa fa-question-circle"></i> Customer Service</h1>
+                            <hr />
+						            
+    <h2><span id="ctl00_MainContentHolder_TitleLabel">Shipping Policy</span></h2>
+    <div id="ctl00_MainContentHolder_termsInfo"><h3>UK Shipping with Royal Mail</h3>
+<p>All products purchased for shipping within the UK are sent via Royal Mail 48h Tracked.</p>
+<h4>All Other Countries</h4>
+<p>For all other countries we try to keep delivery costs as reasonable as possible. Delivery costs are calculated based on shipping zones (Mainland Europe and Rest of World) and the combined weight of your order. Once you select your delivery country on the checkout screen the actual delivery cost will be displayed.</p>
+<h4>Delivery Times</h4>
+<p>Deliveries will be made by Royal Mail. Royal Mail deliveries <em>may</em> require a signature. Items that are in stock are dispatched the next working day (an item is in stock unless it clearly states that it is a pre-order or out-of-stock item on the product description page).</p>
+<p><b>UK</b> - Orders normally arrive within 3-5 working days.<br/>
+<b>Europe</b> - Orders normally arrive within 5-7 working days<br/>
+<b>Rest of World</b> - Orders normally arrive within 10-14 working days.<br/>Please note that delivery can take up to 25 workings days after dispatch.</p>
+<p>Please check your order details carefully, as a wrong shipping address may cause a delay in delivery.</p>
+<p><b>Orders that are posted to incorrect/incomplete addresses due to customer error will have to wait for the return of the order to us before we resend the order out to the amended correct address.</b></p>
+<h4>Customs Charges</h4>
+<p>In some cases, additional customs fees and duties may be charged, depending on the country the items are shipped to. These fees are to be paid by the customer.</p>
+<p>Please contact your local customs department for more information regarding customs fees and additional charges.</p>
+<p>CodeJunkies is not responsible for delays due to customs.</p></div>
+
+                            <hr />
+					    </div>
+					    <div class="col-md-3 sidemenu">
+                            <h4>How Can We Help?</h4>
+						    
+
+<div style="position:relative;" class="clearfix">
+
+
+<div class="block sidemenu">
+    <h4>Customer Service</h4>
+    <ul class="side-nav"><li><a title="Contact Us" href="ContactUs.aspx">Contact Us</a></li><li><a title="Frequently Asked Questions" href="FAQ.aspx">FAQ</a></li><li><a title="Privacy Policy" href="Privacy.aspx">Privacy Policy</a></li><li><a title="Return Request" href="ReturnForm.aspx">Return Request</a></li><li><a title="Site Map" href="SiteMap.aspx">Site Map</a></li><li><a title="Terms and Conditions" href="Terms.aspx">Terms and Conditions</a></li></ul>
+</div>
+</div>
+
+					    </div>
+				    </div>
+                </div>
+            </div>
+
+            
+
+<footer>
+<div class="prefooter">
+        <div class="container">
+    <div class="row">
+        <div class="col-sm-2">
+            <div class="clearfix">
+                <div class="headline"><h5>Useful Links</h5></div>
+                <ul class="custompagesnav">
+                    <li><a href="/about-us.aspx">About Us</a></li>
+                </ul>
+            	
+            </div>
+        </div>
+        <div class="col-sm-2">
+            <div class="clearfix">
+            	 
+
+<div style="position:relative;" class="clearfix">
+<div class="block html"><div class="headline"><h5>Store</h5></div></div>
+<div class="block categorymenuplus">
+<ul><li><a title="PowerSaves Prime" href="/Departments/PowerSaves-Prime.aspx">PowerSaves Prime</a></li><li><a href="/Departments/PowerSaves.aspx">PowerSaves</a></li><li><a href="/Departments/Pokemon-Go.aspx">Pokemon Go</a></li><li><a title="Power Points" href="/Departments/Power-Points.aspx">Power Points</a></li><li><a href="/Departments/Amiibo.aspx">Amiibo</a></li><li><a title="PS4 and PS5 Accessories" href="/Departments/Playstation.aspx">Playstation</a></li><li><a href="/Departments/Retro.aspx">Retro</a></li><li><a href="/Departments/Switch.aspx">Switch</a></li><li><a href="/Departments/Your-Account.aspx">Your Account</a></li><li><a href="/Departments/SpyCat.aspx">SpyCat</a></li></ul>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class="col-sm-2">
+            <div class="clearfix">
+                
+
+<div style="position:relative;" class="clearfix">
+<div class="block html"><div class="headline"><h5>Policies</h5></div>
+<ul>
+<li><a href="/Privacy.aspx">Privacy Policy</a></li>
+<li><a href="/Cookies.aspx">Cookies</a></li>
+<li><a href="/ReturnForm.aspx">Return Policy</a></li>
+<li><a href="/shippingterms.aspx">Shipping Policy</a></li>
+<li><a href="/Terms.aspx">Terms &amp; Conditions</a></li>
+</ul></div>
+</div>
+
+            </div>
+        </div>
+        <div class="col-sm-2">
+            <div class="clearfix">
+            	
+                
+
+<div style="position:relative;" class="clearfix">
+<div class="block html"><div class="headline"><h5>Service</h5></div>
+<ul>
+<li><a href="/ContactUs.aspx">Contact Us</a></li>
+<li><a href="/FAQ.aspx">Store FAQs</a></li>
+<li><a href="/ViewOrder.aspx">Order Status</a></li>
+<li><a href="https://support.codejunkies.com/">Product FAQ</a></li>
+</ul></div>
+</div>
+
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="clearfix">
+                
+
+<div style="position:relative;" class="clearfix">
+
+
+<div class="block mailingListSignup">
+      <div class="headline"><h5><span id="ctl00_Footer1_ContentColumnControl5_ctl00_lblTitle">Mailing List</span></h5></div>
+     
+			
+			<div id="ctl00_Footer1_ContentColumnControl5_ctl00_pnlMailingListSignupForm">
+	
+			        
+			        
+			               
+                    <span id="Anthem_ctl00_Footer1_ContentColumnControl5_ctl00_rfvEmail__"></span>
+			        <span id="Anthem_ctl00_Footer1_ContentColumnControl5_ctl00_valEmail__"></span>
+			        
+			        <input name="ctl00$Footer1$ContentColumnControl5$ctl00$EmailAddressField" id="ctl00_Footer1_ContentColumnControl5_ctl00_EmailAddressField" tabindex="1" title="Enter your email" class="form-control" type="email" autocomplete="off" autocapitalize="off" placeholder="Enter Your Email Address" /><br />
+				    <input type="submit" name="ctl00$Footer1$ContentColumnControl5$ctl00$btnGoEmail" value="Subscribe" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Footer1$ContentColumnControl5$ctl00$btnGoEmail&quot;, &quot;&quot;, true, &quot;MailingListSignupGroup&quot;, &quot;&quot;, false, false))" id="ctl00_Footer1_ContentColumnControl5_ctl00_btnGoEmail" class="btn btn-secondary pull-right" />
+         
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+               </div>
+</div>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                
+            </div>
+            <div class="col-sm-4">
+                
+            </div>
+        </div>
+    </div>
+</div>
+</footer>
+
+<div id="to-top" class="scroll-button" style="display: block;">
+    <a class="scroll-button" title="Back to Top" href="javascript:void(0)"></a>
+</div>
+
+
+
+<div id="wait">
+    <div>
+        <span>
+            Please Wait...
+        </span>
+        <img src="images/system/ajax-loader.gif" alt="processing" />
+    </div>
+</div>
+
+<style>
+
+
+    .footer{
+        background-color: #0654a7;
+        color:#fff;
+    }
+
+    .footer .smallText, .footer i {color:#fff;}
+
+    .headline {
+        font-weight:200; font-family: 'Ubuntu Open Sans', sans-serif;
+    border-bottom: 1px solid #e4e9f0;
+    display: block;
+    margin: 10px 0 25px;
+}
+
+
+.headline h5 {
+    border-bottom: 1px solid #0654a7;
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding-bottom: 5px;
+}
+</style>
+
+			
+				
+
+
+
+
+
+
+
+
+        
+			
+		</form>
+	</body>
+</html>

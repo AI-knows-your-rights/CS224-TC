@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive" />
+    <meta name="language" content="en-US" />
+    <meta name="subject" content="fandom" />
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works" />
+    <meta name="distribution" content="GLOBAL" />
+    <meta name="classification" content="transformative works" />
+    <meta name="author" content="Organization for Transformative Works" />
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+          Terms of Service
+        |
+        Archive of Our Own
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_1_default/1_site_screen_.css" />
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 62em), handheld" href="/stylesheets/skins/skin_1_default/4_site_midsize.handheld_.css" />
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_1_default/5_site_narrow.handheld_.css" />
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_1_default/6_site_speech_.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_1_default/7_site_print_.css" />
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_1_default/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_1_default/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_1_default/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_1_default/11_site_screen_IE7.css" /><![endif]-->
+
+
+<!--sandbox for developers	-->
+<link rel="stylesheet" href="/stylesheets/sandbox.css" />
+
+
+
+<script src="/javascripts/livevalidation_standalone.js"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="SXIktOOAg55YPRoSHPr6HDBmcbp8e5jAz2-mg6qOjgKlyLH7MLsh_0WPvhSuqdqA2Llli9jcKpVYzvlS17d6kA" />
+
+    
+  </head>
+
+  <body class="logged-out" >
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <noscript><p id="javascript-warning">While we&#39;ve done our best to make the core functionality of this site accessible without JavaScript, it will work better with it enabled. Please consider turning it on!</p></noscript>
+
+<!-- BEGIN header -->
+
+<header id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/logo_42.png" /></a>
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="moDqmpS502Xen33j9hDJkDGHayfXnA_rS5lrz_XKxhlOYWNGZp4Gj1YYyImASyty9iFrHn3y5A1ZttLhMZsLIA" autocomplete="off" />
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]" /></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]" /></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1" />Remember Me</label>
+    <input type="submit" name="commit" value="Log In" />
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <nav aria-label="Site">
+    <ul class="primary navigation actions">
+      <li class="dropdown">
+        <a href="/menu/fandoms">Fandoms</a>
+        <ul class="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+      </li>
+      <li class="dropdown">
+        <a href="/menu/browse">Browse</a>
+        <ul class="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+      </li>
+      <li class="dropdown">
+        <a href="/menu/search">Search</a>
+        <ul class="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+      </li>
+      <li class="dropdown">
+        <a href="/menu/about">About</a>
+        <ul class="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+      </li>
+      <li class="search"><form class="search" id="search" role="search" aria-label="Work" action="/works/search" accept-charset="UTF-8" method="get">
+  <fieldset>
+    <p>
+      <label class="landmark" for="site_search">Work Search</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]" />
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: hetalia f/f sort:kudos</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button" /></span>
+    </p>
+  </fieldset>
+</form></li>
+    </ul>
+  </nav>
+
+
+
+  <div class="clear"></div>
+
+</header>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="system docs tos region" role="main">
+          
+          <div class="flash"></div>
+          <!--Descriptive page name, messages and instructions-->
+<h2 class="heading">Terms of Service</h2>
+<!--/descriptions-->
+
+<!--subnav-->
+<h3 class="landmark heading">Navigation</h3>
+<ul class="navigation actions">
+  <li><span class="current">Terms of Service</span></li>
+  <li><a href="/content">Content Policy</a></li>
+  <li><a href="/privacy">Privacy Policy</a></li>
+  <li><a href="/tos_faq">TOS FAQ</a></li>
+</ul>
+
+<!--/subnav-->
+
+<!--main content-->
+<h3 class="landmark heading">Main Text</h3>
+<div id="tos" class="userstuff">
+  <p><big><strong>The Archive of Our Own (AO3) is a home for fanworks, including fanfiction based on books, movies, TV, comics, other media, and real-person fiction (RPF).</strong></big></p>
+
+<h3 class="heading" id="believe">What We Believe</h3>
+<ol style="list-style-type:decimal;">
+  <li>
+    Our goal is <a href="/tos_faq#max_inclusiveness">maximum inclusiveness of fanwork content</a>.
+  </li>
+  <li>
+    AO3 is run by the Organization for Transformative Works (OTW). We are committed to <a href="https://www.transformativeworks.org/faq/#faq-legalfaq">defending fanworks against legal challenges</a>. We have legal resources and alliances on which we can draw. However, that is not a guarantee that the OTW can or will fight each battle. The OTW Board will take into account a variety of factors, both legal and otherwise, when responding to a legal challenge. More information is available <a href="https://www.transformativeworks.org/legal">on the OTW site</a>.
+  </li>
+  <li>
+    We do not sell any data that you post on, submit to, or share on OTW sites (<a href="/">archiveofourown.org</a>, <a href="https://fanlore.org/">fanlore.org</a>, and <a href="https://www.transformativeworks.org/">transformativeworks.org</a>), and we do not include or accept paid advertisements from third parties.
+  </li>
+  <li>
+    We strive to make our Terms of Service (TOS) readable. We have provided explanations for the more unusual legal terms, and answers to common questions are available in the <a href="/tos_faq">TOS <abbr title="Frequently Asked Questions">FAQ</abbr></a>.
+  </li>
+</ol>
+
+<nav aria-labelledby="nav-toc-heading" class="toc">
+  <details open>
+    <summary><h3 class="heading" id="nav-toc-heading">Table of Contents for the Terms of Service (TOS)</h3></summary>
+    <p>There are three parts to the AO3 Terms of Service. The General Principles are the first part of the TOS.</p>
+    <ol class="toc" style="list-style-type:upper-roman;">
+      <li><details open="open"><summary><h4 class="heading">General Principles (current section)</h4></summary><p><a href="/tos#tos">General Principles Introduction</a></p><ol style="list-style-type: upper-alpha;"><li><a href="/tos#I.A">General terms</a></li><li><a href="/tos#I.B">Updates to the Terms of Service</a></li><li><a href="/tos#I.C">Potential problems with AO3</a></li><li><a href="/tos#I.D">Content you access when using AO3</a></li><li><a href="/tos#I.E">What we do with Content</a></li><li><a href="/tos#I.F">What you can&#39;t do</a></li><li><a href="/tos#I.G">Registration and email addresses</a></li><li><a href="/tos#I.H">Age Policy</a></li><li><a href="/tos#I.I">Abuse Policy</a></li></ol></details></li>
+      <li><details><summary><h4 class="heading">Content Policy</h4></summary><p><a href="/content#content">Content Policy Introduction</a></p><ol style="list-style-type: upper-alpha;"><li><a href="/content#II.A">Offensive Content</a></li><li><a href="/content#II.B">Fanworks</a></li><li><a href="/content#II.C">Commercial Promotion</a></li><li><a href="/content#II.D">Copyright Infringement</a></li><li><a href="/content#II.E">Plagiarism</a></li><li><a href="/content#II.F">Personal Information and Fannish Identities</a></li><li><a href="/content#II.G">Impersonation</a></li><li><a href="/content#II.H">Harassment</a></li><li><a href="/content#II.I">User Icons</a></li><li><a href="/content#II.J">Mandatory Tags</a></li><li><a href="/content#II.K">Illegal and Inappropriate Content</a></li></ol></details></li>
+      <li><details><summary><h4 class="heading">Privacy Policy</h4></summary><p><a href="/privacy#privacy">Privacy Policy Introduction</a></p><ol style="list-style-type: upper-alpha;"><li><a href="/privacy#III.A">Applicability</a></li><li><a href="/privacy#III.B">Scope of Personal Information we process</a></li><li><a href="/privacy#III.C">Types of Personal Information we collect and process</a></li><li><a href="/privacy#III.D">Aggregate and anonymous information</a></li><li><a href="/privacy#III.E">Your rights under applicable data privacy laws</a></li><li><a href="/privacy#III.F">Information shared with third parties</a></li><li><a href="/privacy#III.G">Termination of account</a></li><li><a href="/privacy#III.H">Retention of Personal Information</a></li><li><a href="/privacy#III.I">Contact us</a></li></ol></details></li>
+    </ol>
+  </details>
+</nav>
+
+<h3 class="heading">I. General Principles</h3>
+<h4 class="heading" id="I.A"><span id="general">I.A. General terms</span></h4>
+<ol style="list-style-type:decimal;">
+  <li id="I.A.1">
+    <p>
+      <strong>Agreement:</strong> AO3 hosts and shares content created by fans, for fans. Our <a href="/content">Content Policy</a> and <a href="/privacy">Privacy Policy</a> are part of these Terms of Service (TOS). By submitting a work; bookmark; comment; tag; link; text, image, audio, or video file; username; fannish next-of-kin; <a href="/privacy#III.A.1">Personal Information</a> (such as an email address); or <a href="/tos_faq#define_content">any other form of content</a> ("Content") to the Archive of Our Own service (hereinafter "Service", "AO3", or "Archive"), or by creating an account and/or accessing Content on AO3, you affirm, confirm, and state that you comply with and assent to the TOS.
+    </p>
+  </li>
+  <li id="I.A.2">
+    <p>
+      <strong>Entirety of agreement:</strong> These Terms of Service constitute the entire agreement between you and the Organization for Transformative Works (OTW) and govern your use of AO3. They replace all prior agreements between you and the OTW concerning your use of AO3. They do not govern your use of any other OTW sites and/or projects, all of which are covered under separate agreements.
+    </p>
+  </li>
+  <li id="I.A.3">
+    <p>
+      <strong>Jurisdiction:</strong> The AO3 TOS, the relationship between you and the OTW, and all disputes arising out of or related to them shall be governed by the laws of the United States and specifically <a href="/tos_faq#ny_law">the State of New York</a>, without regard to any conflict-of-law provisions. You and the OTW agree to submit to the personal and exclusive jurisdiction of the courts located within New York County (Manhattan), New York, and to waive any objection to the laying of venue there.
+    </p>
+  </li>
+  <li id="I.A.4">
+    <p>
+      <strong>Non-severability:</strong> The OTW's failure to enforce any part of the TOS will not waive the OTW's ability to enforce it. Any waiver with regard to a specific instance shall not constitute a waiver of any other breaches of the TOS, even with regard to the same user. If any provision of the TOS is found by a court of competent jurisdiction to be invalid, you agree that the court should give effect to the party's intentions as reflected in the provision, and that all other provisions of the TOS remain in full force and effect.
+    </p>
+  </li>
+  <li id="I.A.5">
+    <p>
+      <strong>Limitation on claims:</strong> You agree that, regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to any use of AO3 or its TOS must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+    </p>
+  </li>
+  <li id="I.A.6">
+    <p>
+      <strong>No assignment:</strong> These TOS are personal to you. You may not assign or transfer your rights or obligations under these TOS to any other person or entity, and any attempted assignment or transfer is void.
+    </p>
+  </li>
+</ol>
+
+<h4 class="heading" id="I.B"><span id="updates">I.B. Updates to the Terms of Service</span></h4>
+<p>
+  You can learn about changes to the TOS by visiting AO3. The TOS, including the <a href="/content">Content Policy</a> and <a href="/privacy">Privacy Policy</a>, may be modified at any time through the following process: Proposed changes will first be prominently disclosed on AO3 for a public comment period lasting at least two weeks. After the end of the comment period, proposed changes will be voted on by the OTW Board. If the OTW Board votes in favor, the changes will become effective when posted to the relevant Terms page(s). This is the only means by which the TOS may be altered. The TOS cannot be changed by emails or other communications with you.
+</p>
+
+<h4 class="heading" id="I.C"><span id="problems">I.C. Potential problems with AO3</span></h4>
+<ol style="list-style-type:decimal;">
+  <li id="I.C.1"><p>The OTW provides services, including AO3, on an &quot;as is&quot; and &quot;as available&quot; basis. The OTW does not warrant (that is, does not make a legally binding promise) that our services will meet your requirements; that our services will be uninterrupted, timely, secure, or error-free; or that the results you get from using our services will be accurate, reliable, or satisfactory to you.</p></li>
+  <li id="I.C.2"><p>If we learn of a breach which compromises the security or confidentiality of the Personal Information of AO3 users, we will notify affected users and relevant supervisory authorities as required by law as soon as practicable.</p></li>
+  <li id="I.C.3"><p>Any material you access through AO3 in any way is at your own risk. You will be solely responsible for any damage or loss of data that results from accessing any such material.</p></li>
+  <li id="I.C.4">
+    <p>
+      <strong>
+        The OTW expressly disclaims all warranties of any kind, whether express or implied, including (but not limited to) the implied warranties of <a href="/tos_faq#merchantability">merchantability</a>, <a href="/tos_faq#fitness">fitness for a particular purpose</a>, and non-infringement. The TOS govern your use of AO3, and therefore no communication from anyone associated with the OTW will create any warranty that isn't expressly stated in the TOS.
+      </strong>
+    </p>
+  </li>
+  <li id="I.C.5"><p><strong>You expressly agree that, to the maximum extent permitted by law, the OTW shall not be liable to you for any damages of any kind (even if the OTW has been advised of the possibility of such damages) resulting from AO3, including but not limited to your use of or inability to use AO3; unauthorized access to or changes in Content or information you submit; and the actions and statements of third parties who use AO3.</strong></p></li>
+  <li id="I.C.6"><p>You agree that the OTW shall not be liable to you or any third party for any limitations on, or termination of, your access to AO3. The OTW may change, put on hiatus, restrict or prohibit access to, or end AO3 or parts of its services at any time.</p></li>
+  <li id="I.C.7"><p>You agree that the OTW shall not be liable to you for any claim arising out of Content you make available, your connection to AO3, your use of AO3 or its TOS, or your violation of anyone else&#39;s rights. In other words, the OTW is not liable to you for allowing you to post, access, or download Content, or use or interact with AO3. The OTW does not assume whatever legal risks you face by posting, accessing, or doing other things with Content.</p></li>
+  <li id="I.C.8"><p>AO3 is not intended to be used as a personal storage or file recovery service. <strong>You are solely responsible for backing up any Content that you submit to AO3. The OTW will not be liable for any lost or unrecoverable Content.</strong></p></li>
+</ol>
+
+<h4 class="heading" id="I.D"><span id="access">I.D. Content you access when using AO3</span></h4>
+<ol style="list-style-type:decimal;">
+  <li id="I.D.1"><p>The OTW or users of its services may provide links to or content via sites that are owned or controlled by third parties, and may use such sites (including those identified <a href="https://www.transformativeworks.org/where-find-us/">here</a>) to communicate information about the OTW and its sites. If you follow links away from AO3, you should review those sites' terms and privacy policies, which may differ from AO3's. The OTW has no control over any third-party sites or their terms of use or privacy policies, and you agree that the OTW is not responsible for and does not endorse their content, terms, or availability.</p></li>
+  <li id="I.D.2">
+    <p>
+      Some of the Content displayed on or accessible via AO3 is not hosted on AO3 or by the OTW. Such content can include text, image, audio, or video files <a href="/tos_faq#nontextual_fanworks">embedded from and/or hosted by third-party sites</a> ("User-Embedded Content"). If you access a page that includes User-Embedded Content, the embedded file may share data with the hosted site as if you were on or at the hosted site. Although User-Embedded Content must comply with our <a href="/content">Content Policy</a>, it is not otherwise governed by these Terms of Service (including the AO3 <a href="/privacy">Privacy Policy</a>), and is instead governed by the terms of use or privacy policy of the service that hosts it. We reserve the right to provide an indicator to users that User-Embedded Content is present on or visible via your Content.
+    </p>
+  </li>
+  <li id="I.D.3"><p>You understand that the OTW does not prescreen Content or review it for purposes of compliance with the TOS. This includes (but is not limited to) a work&#39;s text, graphics, tags, comments, or any other material. Content, including User-Embedded Content, is the sole responsibility of the submitter. You understand that using AO3 may expose you to material that is offensive, atrocious, immoral, obscene, triggering, blasphemous, bigoted, erroneous, or objectionable in other ways.</p></li>
+  <li id="I.D.4">
+    <p>
+      You recognize that the OTW does not endorse Content on AO3 in any way, except when such material appears as an <a href="/tos_faq#official_statement">official statement</a> of the OTW. No members, volunteers, administrators, officers, or directors of the OTW are acting in an official capacity when they post fanworks, commentary, or other Content of the type generally provided by site users.
+    </p>
+  </li>
+  <li id="I.D.5"><p><strong>The OTW is not liable to you for any Content to which you are exposed on or because of AO3.</strong></p></li>
+</ol>
+
+<h4 class="heading" id="I.E"><span id="what_we_do">I.E. What we do with Content</span></h4>
+<p>The OTW does not claim any copyright in or ownership of your Content. <strong>We repeat: we do not own your Content.</strong> Nothing in this agreement changes that in any way. However, running AO3 requires us to make copies, and backup copies, on servers that may be located anywhere around the world.</p>
+<ol style="list-style-type:decimal;">
+  <li id="I.E.1">
+    <p>
+      You agree that we can make those copies and show your Content to other people. Specifically, by submitting Content, you grant the OTW a <a href="/tos_faq#nonexclusive_license">worldwide, royalty-free, nonexclusive license</a> to make your Content available. "Making available" includes distributing, reproducing, performing, displaying, compiling, and modifying or adapting. <a href="/tos_faq#modify_adapt">Modifying or adapting</a> here refers strictly to how your work is displayed, not how it is written, drawn, or otherwise created. User-provided tags may be modified or organized, which is a process we call <a href="/faq/tags#wrangling">tag wrangling</a>.
+    </p>
+  </li>
+  <li id="I.E.2"><p>Subject to the next paragraph of this policy, this license exists only for as long as you choose to continue to include such Content on AO3. It will terminate within a reasonable time after you remove (or the OTW removes) such Content from AO3. We will always strive to make your Content unavailable to users as soon as possible should you choose to delete it. However, if the Content is not attached to an account you control, you may be unable to delete that Content. Although removed Content will not be publicly available through AO3, we may retain backup copies for longer periods for legal and disaster recovery purposes. These copies may be accessible to AO3 and OTW administrators. If you delete Content from AO3 or edit Content in a manner that overwrites Content that you had previously submitted, we cannot restore it at your request.</p></li>
+  <li id="I.E.3">
+    <p>
+      You may provide Content to a part of AO3 that you do not completely control. For example, you may decide to <a href="/faq/orphaning">Orphan</a> a work; participate in a <a href="/faq/glossary#challengedef">Challenge</a>; comment on someone else's work; or comment on an official AO3 or OTW post, which may be <a href="https://www.transformativeworks.org/otw-news-post-moderation-policy/">subject to moderation</a>. Where this is the case, by submitting Content to those parts of AO3, you agree to the <a href="/tos_faq#partial_control">rules for removing and retaining such Content</a> on those parts of AO3.
+    </p>
+  </li>
+  <li id="I.E.4">
+    <p>
+      Some of the Content hosted on AO3 is imported via <a href="https://opendoors.transformativeworks.org/en/">Open Doors</a>. Open Doors' agreement with each collection's archivist is separate from AO3's TOS. If a work has been imported via Open Doors and its creator requests that the work be removed from AO3, we will remove it. If an archivist chooses to remove their imported collection, any imported works that have been claimed or Orphaned by their creators will remain on AO3.
+    </p>
+  </li>
+  <li id="I.E.5"><p>You acknowledge and agree that the OTW may preserve Content and may disclose Content if required to do so by law or in the good-faith belief that such preservation or disclosure is reasonably necessary to comply with legal processes; enforce the TOS; respond to claims that any Content violates the rights of third parties; or protect the rights, property, or personal safety of the OTW, users of the OTW's services, or the public. Refer to the <a href="/privacy">Privacy Policy</a> for details about when we may preserve and/or disclose your Personal Information.</p></li>
+</ol>
+
+<h4 class="heading" id="I.F"><span id="general_rules">I.F. What you can&#39;t do</span></h4>
+<p>You agree not to use AO3 (as well as the email addresses and URLs of OTW sites):</p>
+<ol style="list-style-type:decimal;">
+  <li id="I.F.1">
+    <p>
+      to make available any Content that violates the <a href="/content">Content Policy</a>;
+    </p>
+  </li>
+  <li id="I.F.2">
+    <p>
+      to <a href="/content#II.G">impersonate any person or entity</a> (including, but not limited to, an AO3 or OTW representative or volunteer, or an AO3 <a href="/tos_faq#impersonate_function">function</a>), or to falsely state or otherwise misrepresent your affiliation with a person or entity;
+    </p>
+  </li>
+  <li id="I.F.3"><p>to forge or otherwise manipulate identifiers (such as email headers or other information intended to route or authenticate Content) in order to disguise the origin of any Content transmitted to or through any OTW sites, servers, networks, or services;</p></li>
+  <li id="I.F.4">
+    <p>
+      to make available any Content that a court has ruled constitutes <a href="/content#II.D">infringement of a copyright</a>, patent, trademark, or trade secret; or that violates any other rights of a third party (as consistent with the OTW's <a href="https://www.transformativeworks.org/faq/#faq-WhydoestheOTWbelievethattransformativeworksarelegal">position on fanwork legality</a>);
+    </p>
+  </li>
+  <li id="I.F.5">
+    <p>
+      to conduct any commercial activity, whether for direct or indirect commercial advantage, including (without limitation) <a href="/content#II.C">making available any advertising</a>, spam, or other solicitation, or scraping Content in order to commercialize it;
+    </p>
+  </li>
+  <li id="I.F.6"><p>to make available any material that contains software viruses or other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer, hardware, or telecommunications equipment;</p></li>
+  <li id="I.F.7">
+    <p>
+      to <a href="/content#technical_integrity">interfere with or disrupt AO3</a>, any OTW-hosted Content, or any services, sites, servers, or networks connected to OTW sites;
+    </p>
+  </li>
+  <li id="I.F.8">
+    <p>
+      to create an account if you are an <a href="#age">Age-Barred Individual</a>;
+    </p>
+  </li>
+  <li id="I.F.9">
+    <p>
+      to create an account if you are a resident or national of any country with which the U.S. has prohibited transactions by mandating a <a href="/tos_faq#trade_embargo">comprehensive trade embargo</a>, as detailed by the Office of Foreign Assets Control; or
+    </p>
+  </li>
+  <li id="I.F.10"><p>to break any law that applies to you, including any rules or regulations having the force of law. As a general rule, AO3 follows U.S. law. Each user is responsible for knowing the laws of their own country.</p></li>
+</ol>
+
+<h4 class="heading" id="I.G"><span id="registration">I.G. Registration and email addresses</span></h4>
+<ol style="list-style-type:decimal;">
+  <li id="I.G.1">
+    <p>
+      As part of your registration, you agree to provide an accurate and current email address and to update the address as necessary. If your email address is inaccurate or not current, we may <a href="/tos_faq#invalid_email">suspend your account</a>.
+    </p>
+  </li>
+  <li id="I.G.2">
+    <p>
+      By registering or otherwise using an email address in connection with AO3, you assert that the email address is yours and that we may <a href="/privacy#III.C.1">lawfully communicate with you</a> as otherwise provided in the TOS.
+    </p>
+  </li>
+</ol>
+
+<h4 class="heading" id="I.H"><span id="age">I.H. Age Policy</span></h4>
+<p>AO3 does not knowingly solicit or collect information from Age-Barred Individuals. Age-Barred Individuals are:</p>
+<ol style="list-style-type:decimal;">
+  <li>individuals under the age of thirteen (13), and</li>
+  <li>
+    individuals under the age of sixteen (16) who are not old enough, in their country of residence or citizenship, to consent to the processing of personal data. This includes individuals under the age of sixteen (16) who are residents or citizens of:
+    <ol style="list-style-type:lower-alpha;">
+      <li>
+        a European Union country where the processing of <a href="https://gdpr-info.eu/art-9-gdpr/">Special Categories of Personal Data</a> from children of that age requires the consent of a parent or legal guardian, or
+      </li>
+      <li>any country (including a European Economic Area country) which does not allow the processing of personal data from children of that age without written permission from a parent or legal guardian.</li>
+    </ol>
+  </li>
+</ol>
+<p>
+  Age-Barred Individuals are <a href="/tos_faq#age_faq">not permitted to have an account or upload Content</a> to AO3. By submitting Content to AO3, you confirm that you are not an Age-Barred Individual.
+</p>
+<p>If AO3 administrators determine that an Age-Barred Individual has created an account or uploaded Content, they may suspend or delete the account, hide or delete the Content, or take other appropriate action to address the matter.</p>
+<p>If you are a child under the age of thirteen (13) and not a resident or citizen of the European Union, you may ask your parent or legal guardian to upload your Content through their account.</p>
+
+<h4 class="heading" id="I.I"><span id="abuse">I.I. Abuse Policy</span></h4>
+<p>
+  We do not prescreen Content for violations of the Terms of Service, including violations of the <a href="/content">Content Policy</a>. Complaints are investigated only when they are submitted through the appropriate channels and with the appropriate information.
+</p>
+<p>
+  Answers to common questions about the Abuse Policy can be found in the <a href="/tos_faq#policy_procedures_faq">TOS FAQ</a>.
+</p>
+<ol style="list-style-type:decimal;">
+  <li id="I.I.1">
+    <strong>Submitting a complaint</strong>
+    <p>
+      Complaints may be submitted to the Policy & Abuse committee (PAC) via the <a href="/abuse_reports/new">Policy &amp; Abuse reporting form</a>, except for Digital Millennium Copyright Act (DMCA) notices filed by the copyright owner or their legal representative. DMCA notices must be submitted to the Legal committee and are not governed by the Abuse Policy. Refer to the <a href="/dmca">DMCA Policy</a> for more information.
+    </p>
+  </li>
+  <li id="I.I.2">
+    <strong>Treatment of complaints</strong>
+    <p>
+      Complaints are covered by the <a href="/privacy">Privacy Policy</a> and processed by PAC in accordance with the <a href="https://www.transformativeworks.org/committees/policy-abuse-confidentiality-policy/">Policy &amp; Abuse Confidentiality Policy</a>. Responses to complaints will be provided at the discretion of the OTW, in accordance with the Privacy Policy and other applicable terms of these TOS.
+    </p>
+  </li>
+  <li id="I.I.3">
+    <strong>Resolution of complaints</strong>
+    <p>
+      When AO3 administrators <a href="/tos_faq#determine_removal">determine that Content needs to be removed</a>, it may be hidden from public view or removed from AO3. If the Content is a Work (defined as Content created via the New Work or Import Work forms, or imported via Open Doors) and the creator provided valid contact information, we will inform the creator as soon as possible.
+    </p>
+    <p>
+      If the Content that needs to be removed is a Work that includes potentially legitimate fanwork, the default will be to hide the Work. The Policy & Abuse committee has sole discretion to determine necessary exceptions to this default rule, which may include repeated violations of the TOS, any violations of the <a href="/content#II.K">Illegal and Inappropriate Content Policy</a>, or any circumstances where the OTW reasonably believes that the Content is unlawful, including when it contains a true threat.
+    </p>
+    <p>When Content (whether a Work or otherwise) is hidden from public view, AO3 administrators may identify the nature of the problem with the Content and set a deadline for voluntary removal of the violating material. If the creator does not remove that material within the given deadline, AO3 administrators may permanently remove the Content. At the discretion of the Policy &amp; Abuse committee, the creator may have the option to resubmit any non-violating material that was also removed.</p>
+    <p>
+      AO3 administrators may also determine that tags need to be added to or edited on a Work, and may add or edit those tags. For more information, please refer to the <a href="/content#II.J">Mandatory Tags Policy</a>.
+    </p>
+    <p>Non-Work Content, or any Content without valid contact information, that violates the TOS may be immediately removed.</p>
+  </li>
+  <li id="I.I.4">
+    <strong>Penalties</strong>
+    <p>
+      Violations of the TOS may result in warnings or suspensions ("penalties") for all accounts owned by the offending user. The determination of appropriate penalties, including the length of any suspensions, is subject to the discretion of the Policy & Abuse committee. PAC's discretion will be informed by the nature of the violation and the behavior of the user. For more information, please refer to the <a href="/tos_faq#penalty">TOS FAQ</a>.
+    </p>
+    <p>
+      The removal of Content imported via Open Doors will not usually result in a penalty for the archivist or creator, except for violations of <a href="/content#II.K.1">Subsection II.K.1 of the Content Policy</a>.
+    </p>
+    <p>
+      We may determine that we need to remove Content to resolve a threatened or pending lawsuit or to mitigate other liability. If so, we will remove the Content. Unless said Content was submitted by an <a href="#age">Age-Barred Individual</a> or otherwise violates the TOS, removal for such reasons will not lead to a suspension.
+    </p>
+    <p>
+      A suspended user's non-violating Content will not be automatically removed unless the user is an Age-Barred Individual or has violated the <a href="/content#II.K">Illegal and Inappropriate Content Policy</a>. Suspended users retain the right to delete or Orphan their fanworks by contacting AO3 administrators.
+    </p>
+    <p>A suspended user may not post or edit Content or create an account while they are suspended. A user who was suspended solely due to age may post Content or create an account once they are no longer an Age-Barred Individual.</p>
+  </li>
+  <li id="I.I.5">
+    <strong>Appeals</strong>
+    <p>
+      The complainant or the subject of a complaint may <a href="/tos_faq#appeal">appeal a decision to the Policy &amp; Abuse committee</a>, in which case it will be reviewed by an additional PAC administrator. The original decision will remain in effect while an appeal is being reviewed. We will attempt to resolve appeals as speedily as possible, but we cannot guarantee any particular timeframe for a response. PAC's decisions are final.
+    </p>
+  </li>
+</ol>
+
+<hr />
+
+  <p>Effective: November 19, 2024</p>
+  <p id="license">
+    <small>
+      The AO3 <a href="/tos">Terms of Service</a>, including the <a href="/content">Content Policy</a> and <a href="/privacy">Privacy Policy</a>, are licensed under the <a rel="nofollow" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+    </small>
+  </p>
+
+</div>
+<!--/content-->
+
+<!--subnav-->
+<h3 class="landmark heading">Navigation</h3>
+<ul class="navigation actions">
+    <li><a href="#main">↑ Top</a></li>
+  <li><span class="current">Terms of Service</span></li>
+  <li><a href="/content">Content Policy</a></li>
+  <li><a href="/privacy">Privacy Policy</a></li>
+  <li><a href="/tos_faq">TOS FAQ</a></li>
+</ul>
+
+<!--/subnav-->
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+  <h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/content">Content Policy</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li>
+            <a href="https://github.com/otwcode/otwarchive/commits/v0.9.398.5">otwarchive v0.9.398.5</a>
+          </li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li>
+          <a title="View License" href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a> by the <a title="Organization for Transformative Works" href="https://transformativeworks.org/">OTW</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">
+  if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+    document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));
+  }
+</script>
+
+
+<script type="text/javascript">$j = jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js"></script>
+<script src="/javascripts/jquery.livequery.min.js"></script>
+<script src="/javascripts/rails.js"></script>
+<script src="/javascripts/application.js"></script>
+<script src="/javascripts/bootstrap/bootstrap-dropdown.min.js"></script>
+<script src="/javascripts/jquery-shuffle.js"></script>
+<script src="/javascripts/jquery.tokeninput.min.js"></script>
+<script src="/javascripts/jquery.trap.min.js"></script>
+<script src="/javascripts/ao3modal.min.js"></script>
+<script src="/javascripts/js.cookie.min.js"></script>
+
+<script src="/javascripts/filters.min.js"></script>
+
+
+
+  <script>
+//<![CDATA[
+
+    $j(document).ready(function() {
+      var permitted_hosts = ["104.153.64.122","208.85.241.152","208.85.241.157","ao3.org","archiveofourown.com","archiveofourown.gay","archiveofourown.net","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","www.ao3.org","archive.transformativeworks.org","xn--iao3-lw4b.ws"];
+      var current_host = window.location.hostname;
+
+      if (!permitted_hosts.includes(current_host) && Cookies.get("proxy_notice") !== "0" && window.location.protocol !== "file:") {
+        $j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">Важная информация:<\/p>\n    <ol>\n      <li>Вы используете прокси-сайт, который не является частью AO3 (Нашего Архива).<\/li>\n      <li>Субъект, настроивший прокси-сайт, может видеть, что вы отправляете, включая ваш IP-адрес. Если вы авторизуетесь через прокси-сайт, он может видеть ваш пароль.<\/li>\n    <\/ol>\n    <p class=\"important\">Важливе повідомлення:<\/p>\n    <ol>\n      <li>Ви використовуєте проксі-сайт, який не є частиною Archive of Our Own (Нашого Власного Архіву).<\/li>\n      <li>Творці цього проксі-сайту можуть бачити Ваші дані та дії, а також Вашу IP-адресу. Якщо Ви входите до свого облікового запису, використовуючи проксі-сайт, його творці можуть бачити Ваш пароль.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");
+      }
+    });
+
+//]]>
+</script>
+
+
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9174f8b4b835f9ed',t:'MTc0MDQ1Nzk4NC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

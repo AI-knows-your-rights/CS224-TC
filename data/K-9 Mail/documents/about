@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>About</title>
+    <meta name="description" content="K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email">
+    <link type="application/atom+xml" rel="alternate" href="https://k9mail.app/feed.xml" title="K-9 Mail" />
+    <!-- Social: Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="About">
+    <meta name="twitter:description" content="K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email"> 
+    <meta property="twitter:image:src" content="https://k9mail.app/assets/img/preview.png"> 
+
+    <!-- Social: Facebook / Open Graph -->
+    <meta property="og:url" content="https://k9mail.app/about.html">
+    <meta property="og:title" content="About"> 
+    <meta property="og:image" content="https://k9mail.app/assets/img/preview.png"> 
+
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:description" content="K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email">
+    <meta property="og:site_name" content="K-9 Mail">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://k9mail.app/favicon.ico" type="image/x-icon"/>
+    <link rel="stylesheet" href="https://k9mail.app/assets/css/main.css">
+    <link rel="stylesheet" href="https://k9mail.app/assets/css/all.css">
+    <link rel="stylesheet" href="https://k9mail.app/assets/css/inter.css">
+    <link rel="canonical" href="https://k9mail.app/about.html">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://k9mail.app/sitemap.xml" />
+    <!-- JavaScript -->
+    <script src="https://k9mail.app/assets/js/jquery-3.4.1.slim.min.js"></script>
+    <script src="https://k9mail.app/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="https://k9mail.app/assets/js/swiper.min.js"></script>
+    <script src="https://k9mail.app/assets/js/search.min.js"></script>
+</head>
+
+
+<body>
+    <div class="banner-container">
+  <div class="tbfa-banner">
+    <svg class="logo banner-icon" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path
+        d="M9.94833 3.93137H9.946H9.94288C8.02288 4.71994 7.81713 6.48256 8.1257 7.43077C8.1257 7.43077 8.12574 7.4379 8.12522 7.45086C9.23673 6.66914 10.6581 6.24788 11.9999 6.24788C15.2593 6.24788 17.9015 8.40383 17.9015 11.0633C17.9015 13.7228 15.2593 15.8788 11.9999 15.8788C11.9747 15.8788 11.9468 15.8777 11.9173 15.8766C11.7624 15.8709 11.5628 15.8635 11.482 15.9952C11.3857 16.152 11.598 16.3931 11.7202 16.5315C12.9944 17.9729 14.8426 18.154 15.328 18.2016C15.3592 18.2046 15.3847 18.2071 15.4042 18.2094C11.1226 18.6235 6.09987 15.8882 6.09829 11.1336C6.09791 10.0129 6.51195 9.06036 7.1729 8.30221C7.17133 8.302 7.16975 8.30176 7.16814 8.30155C7.16704 8.30138 7.16595 8.30125 7.16485 8.30107C7.31032 5.86816 6.37617 2.95878 4.6288 2.38669C4.50517 2.3462 4.38267 2.43918 4.36724 2.56837C4.13746 4.49279 3.63987 5.15982 3.10313 5.87941C2.29783 6.95896 1.71264 8.20668 1.73815 9.57691C1.4459 8.96525 1.20895 8.32668 1.0331 7.66641C1.00927 7.57693 0.862079 7.30213 0.700148 7.39429C0.570788 7.46793 0.473348 7.66926 0.40368 7.87915C0.137417 8.87851 0 9.94473 0 10.977C0 17.5135 5.47473 22.9771 12 22.9771C18.6274 22.9771 24 17.6045 24 10.9771C24 8.45022 23.219 6.1058 21.8852 4.17202C21.9408 4.17099 21.9965 4.17047 22.0524 4.17047C22.5703 4.17047 23.0755 4.21477 23.5626 4.29894C22.8284 3.48315 21.8379 2.82373 20.685 2.39544C21.4547 2.11632 22.2956 1.94335 23.1795 1.89956C21.7527 0.734296 19.6709 0 17.3525 0C13.9968 0 10.704 1.28969 9.94833 3.93137ZM10.6301 13.0977C9.76096 12.193 7.15782 9.18818 7.15782 9.18818L7.35932 9.19682L11.4343 12.2405C11.7396 12.4623 12.1748 12.4601 12.4773 12.2352L16.4732 9.20076L16.6854 9.18427C16.6854 9.18427 14.1673 12.118 13.2029 13.0845C12.2384 14.0511 11.4993 14.0023 10.6301 13.0977ZM13.4042 3.01512C13.4042 3.01512 13.4595 3.64035 12.8279 3.83924C12.106 4.06659 11.786 3.45932 11.786 3.45932C11.786 3.45932 11.8768 3.0423 12.4625 2.84941C13.0882 2.64336 13.4042 3.01512 13.4042 3.01512Z"
+        fill="currentColor" />
+    </svg>
+    <div class="banner-text">
+      See the future of K-9 Mail. Thunderbird for Android is available now!
+      <a class="banner-link" href="https://www.thunderbird.net/mobile" target="_blank" rel="noopener">
+        See the details on thunderbird.net
+        <svg class="banner-icon" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H12V5H5V19H19V12H21V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM9.7 15.7L8.3 14.3L17.6 5H14V3H21V10H19V6.4L9.7 15.7Z" fill="currentColor" />
+        </svg>
+      </a>
+    </div>
+  </div>
+</div>
+
+    <div class="container-fluid background">
+    <div class="container py-3">
+        <div class="navbar navbar-expand-lg justify-content-between">
+            <div class="d-lg-none">
+                <a class="navbar-toggler mr-1" href="" data-id="headers-4-sidebar-toggle"><img src="https://k9mail.app/assets/img/glyphs/burger.svg" /></a>
+            </div>
+            <div>
+                <a href="/"><img class="smallermobile" src="https://k9mail.app/assets/img/k9-logo.svg" width="80px" height="auto" /></a>
+            </div>
+            <div class="collapse navbar-collapse flex-grow-0 weight-500">
+                <div class="navbar-nav">
+                     
+                     
+                    
+                    <div class="nav-item ml-3 dropdown"><a href="/about" class="nav-link dropdown-toggle text-main" id="navbarDropdown" role="button" data-toggle="dropdown" data-hover="dropdown">About</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            
+                            <a class="dropdown-item" href="/team">Team</a>
+                            
+                            <a class="dropdown-item" href="/contribute">Contribute</a>
+                            
+                            <a class="dropdown-item" href="/community">Community</a>
+                            
+                        </div>
+                    </div>
+                    
+                     
+                    
+                    <div class="nav-item ml-3"><a class="nav-link text-main" href="/blog">Blog</a></div>
+                     
+                    
+                     
+                    
+                    <div class="nav-item ml-3"><a class="nav-link text-main" href="https://docs.k9mail.app/">Documentation</a></div>
+                     
+                    
+                     
+                    
+                    <div class="nav-item ml-3"><a class="nav-link text-main" href="/download">Download</a></div>
+                     
+                    
+                     
+                    
+                    <div class="nav-item ml-3"><a class="nav-link text-main" href="https://forum.k9mail.app/">Support Forum</a></div>
+                     
+                    
+                    
+                </div>
+            </div>
+            <div class="col-1 d-lg-none text-right px-0"></div>
+        </div>
+        <div class="navbar-side background" id="headers-4-sidebar">
+            <div class="navbar-side-content background d-flex flex-column justify-content-between">
+                <div class="weight-700">
+                    <a class="navbar-side-close mb-4" href="" data-id="headers-4-sidebar-close"><img src="https://k9mail.app/assets/img/glyphs/close.svg" width="32" /></a>
+                    <div class="navbar-nav">
+                        
+                        
+                        
+                        <div class="nav-item dropdown"><a href="/about" class="nav-link dropdown-toggle text-main" id="navbarDropdown3" role="button" data-toggle="dropdown">About</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                                
+                                <a class="dropdown-item" href="/team">Team</a>
+                                
+                                <a class="dropdown-item" href="/contribute">Contribute</a>
+                                
+                                <a class="dropdown-item" href="/community">Community</a>
+                                
+                            </div>
+                        </div>
+                        
+                        
+                        
+                        <div class="nav-item"><a class="nav-link text-main" href="/blog">Blog</a></div>
+                        
+                        
+                        
+                        
+                        <div class="nav-item"><a class="nav-link text-main" href="https://docs.k9mail.app/">Documentation</a></div>
+                        
+                        
+                        
+                        
+                        <div class="nav-item"><a class="nav-link text-main" href="/download">Download</a></div>
+                        
+                        
+                        
+                        
+                        <div class="nav-item"><a class="nav-link text-main" href="https://forum.k9mail.app/">Support Forum</a></div>
+                        
+                        
+                        
+                    </div>
+                </div>
+                <div>
+                    <p>
+                        <a class="mr-2 text-main" href="https://github.com/k9mail" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+                    </p>
+                    <p class="small mb-0"><span class="d-block d-xl-inline text-main mb-1 mb-xl-0 mr-2">&copy; 2025 K9-Mail</span></p>
+                </div>
+            </div>
+            <div class="navbar-side-content weight-700">
+                <a class="navbar-side-close mb-4" href="" data-id="headers-4-sidebar-close"><img src="https://k9mail.app/assets/img/glyphs/close.svg" width="32" /></a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(function() {
+        $('[data-id=headers-4-sidebar-toggle]').click(function(e) {
+            e.preventDefault();
+            $('#headers-4-sidebar').toggleClass('show');
+        });
+        $('[data-id=headers-4-sidebar-close]').click(function(e) {
+            e.preventDefault();
+            $('#headers-4-sidebar').removeClass('show');
+        });
+    });
+</script>
+<script>
+    $('.navbar-nav .dropdown > a').click(function() {
+        if (!$(this).hasClass("parent-clicked")) {
+            $(this).addClass("parent-clicked");
+        } else {
+            location.href = this.href;
+        }
+    });
+
+    $('.navbar-nav.nav-item > a').click(function() {
+        if (!$(this).hasClass("parent-clicked")) {
+            $(this).addClass("parent-clicked");
+        } else {
+            location.href = this.href;
+        }
+    });
+</script>
+    <!-- Top Header Section -->
+<div class="container-fluid background">
+  <div class="container py-3">
+    <h1 class="text-main">About</h1>
+  </div>
+</div>
+
+<!-- Description Section -->
+<div class="container-fluid">
+  <div class="container py-4">
+    <h2 class="text-main">History</h2>
+    <p class="text-main">K-9 Mail is an open source email client for Android with many advanced features.</p>
+    <p class="text-main">K-9 Mail was born when Jesse Vincent created a simple patch to the Email app included in
+      Android 1.0. Back then the creators of the Android OS hadn’t yet figured out how to handle community
+      contributions. So he built his own version of the Email app and shared it with the world.</p>
+    <p class="text-main">In some incarnations, Doctor Who had a robotic dog named “K-9”. The dog was, in effect, an
+      android mutt. When Jesse first created K-9, his goal was to create an Android mail client as good as the UNIX mail
+      client mutt. The name was a natural fit.</p>
+    <h2 class="text-main pt-3">License</h2>
+    <p class="text-main">K-9 Mail is licensed under the <a class="underline"
+        href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noopener">Apache License, Version
+        2.0</a>. The source code is available on <a class="underline" href="https://github.com/thunderbird/thunderbird-android/"
+        target="_blank" rel="noopener">GitHub</a>.</p>
+  </div>
+</div>
+
+    <div class="container-fluid background-footer">
+    <div class="container pt-3">
+        <div class="d-lg-flex justify-content-between align-items-center py-3 py-lg-3">
+            <div class="small mb-3 mb-lg-0">
+                <a class="text-white weight-700 size-36" href="/">K-9 Mail</a>
+            </div>
+        </div>
+        <hr class="hr-slate-20">
+        <div class="row pt-2 mb-4 mb-lg-3 justify-content-between">
+            <div class="col-5 col-lg-2 mb-3">
+                <h5 class="text-white weight-700">Documentation</h5>
+                <div class="small pt-1">
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="https://docs.k9mail.app/"><span>Overview</span></a></div>
+                </div>
+            </div>
+            <div class="col-5 col-lg-2 mb-3">
+                <h5 class="text-white weight-700">Contribute</h5>
+                <div class="small pt-1">
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="/contribute#users"><span>Users</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="/contribute#developers"><span>Developers</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="/contribute#documentation"><span>Documentation</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="/contribute#donation"><span>Donate</span></a></div>
+                </div>
+            </div>
+            <div class="col-5 col-lg-2 mb-3">
+                <h5 class="text-white weight-700">Download</h5>
+                <div class="small pt-1">
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray" target="_blank" rel="noopener"
+                            href="https://play.google.com/store/apps/details?id=com.fsck.k9"><span>Play Store</span></a>
+                    </div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray" target="_blank" rel="noopener"
+                            href="https://f-droid.org/packages/com.fsck.k9/"><span>F-Droid</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray" target="_blank" rel="noopener"
+                            href="https://github.com/thunderbird/thunderbird-android/releases"><span>GitHub</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray" target="_blank" rel="noopener"
+                            href="https://www.amazon.com/K-9-Dog-Walkers-Mail/dp/B004JK61K0/"><span>Amazon</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-5 col-lg-2 mb-3">
+                <h5 class="text-white weight-700">Information</h5>
+                <div class="small pt-1">
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray" href="/about"><span>About</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray" href="/team"><span>Team</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="/contribute"><span>Contribute</span></a></div>
+                    <div class="mb-2 size-14 weight-400"><a class="text-gray"
+                            href="/community"><span>Community</span></a></div>
+                </div>
+            </div>
+            <div class="col-5 col-lg-2">
+                <h5 class="text-white weight-700 pb-1">Social</h5>
+                <a class="mr-2 text-gray" href="https://github.com/k9mail" target="_blank" rel="noopener"><i
+                        class="fab fa-github"></i></a>
+                <a rel="me" class="mr-2 text-gray" href="https://mastodon.online/@thunderbird" target="_blank"
+                    rel="noopener"><i class="fab fa-mastodon"></i></a>
+            </div>
+        </div>
+        <div class="d-block d-lg-flex justify-content-between pt-0 pb-3">
+            <div class="small mb-2 mb-lg-0">
+                <p class="top-border mb-1"></p><span class="copyright">&copy; 2025 K-9
+                    Mail</span><span class="copyright mx-2">|</span><span class="copyright"><a href="/privacy" class="copyright underline-hover">Privacy Policy</a></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+
+</html>

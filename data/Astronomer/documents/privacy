@@ -1,0 +1,505 @@
+<!DOCTYPE html><html lang="en"><head><script type="module">let e=document.querySelector("header");window.addEventListener("load",()=>{window.scrollY>60?e&&e.classList.add("fill-bg"):e&&e.classList.remove("fill-bg")});e&&!e.classList.contains("noFade")&&window.addEventListener("scroll",()=>{window.scrollY>60?e&&e.classList.add("fill-bg"):e&&e.classList.remove("fill-bg")});let s=document.querySelector("#menuToggle"),i=document.querySelector(".hamburgerCollapse"),o=document.querySelectorAll(".dropdownTitle"),n=document.querySelectorAll(".dropdown");s&&s.addEventListener("click",()=>{s&&s.classList.toggle("isActive"),i&&i.classList.toggle("isActive"),e&&e.classList.toggle("menuIsOpen")});n&&n.forEach(t=>{t.addEventListener("click",l=>{l.target.localName==="button"?l.target.parentNode.classList.toggle("isOpen"):l.target.classList.toggle("isOpen")})});o&&o.forEach(t=>{t.addEventListener("click",()=>{o.forEach(l=>{l!==t&&l.parentElement.classList.remove("isOpen")})})});</script><!-- Global Metadata --><meta content="uI5eT7_d5Q5FjDUVa_VUxgeZxuBrYWiPMCLqZUOjrcA" name="google-site-verification"><meta charset="utf-8"><meta content="width=device-width,initial-scale=1" name="viewport"><link data-cms-original-href="/favicon.svg" href="/favicon.svg?_cchid=9c757aba2122bd77699d0b55ce381f6c" rel="icon" type="image/svg+xml"><meta content="Astro v5.3.0" name="generator"><link href="/sitemap-index.xml" rel="sitemap"><link as="font" crossorigin="" data-cms-original-href="/fonts/IntelOneMono/IntelOneMono-Regular.woff2" href="/fonts/IntelOneMono/IntelOneMono-Regular.woff2?_cchid=e01a2e4ad76e2887dd8b65adb3bceb94" rel="preload" type="font/woff2"><!-- Canonical URL --><link href="https://www.astronomer.io/privacy/" rel="canonical"><!-- Primary Meta Tags --><title>Privacy Policy - Astronomer</title><meta content="Privacy Policy - Astronomer" name="title"><meta content="Astronomer's website privacy policy and terms." name="description"><meta content="all" name="robots"><!-- Content ID --><meta content="page-privacy" name="contentID"><meta content="page" name="contentType"><!-- Open Graph / Facebook --><meta content="website" property="og:type"><meta content="https://www.astronomer.io/privacy/" property="og:url"><meta content="Privacy Policy - Astronomer" property="og:title"><meta content="Astronomer's website privacy policy and terms." property="og:description"><meta content="https://www.astronomer.io/images/General.png" property="og:image"><!-- Twitter --><meta content="summary_large_image" property="twitter:card"><meta content="https://www.astronomer.io/privacy/" property="twitter:url"><meta content="Privacy Policy - Astronomer" property="twitter:title"><meta content="Astronomer's website privacy policy and terms." property="twitter:description"><meta content="https://www.astronomer.io/images/General.png" property="twitter:image"><meta content="@astronomerio" property="twitter:site"><meta content="The Astronomer Team" property="twitter:creator"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.astronomer.io/privacy/"
+  },
+  "headline": "Privacy Policy - Astronomer",
+  "description": "Astronomer's website privacy policy and terms.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "undefined",
+    "width": "",
+    "height": ""
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Astronomer"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Astronomer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.astronomer.io/logo.svg",
+      "width": "400",
+      "height": "41"
+    }
+  },
+  "datePublished": "",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.astronomer.io/#organization",
+      "name": "Astronomer",
+      "url": "https://www.astronomer.io",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.astronomer.io/logo.svg",
+        "width": "400",
+        "height": "41"
+      },
+      "sameAs": [
+        "https://github.com/astronomer",
+        "https://twitter.com/astronomerio",
+        "https://www.linkedin.com/company/astronomer/",
+        "https://www.facebook.com/astronomerio",
+        "https://www.youtube.com/c/Astronomer",
+        "https://www.instagram.com/astronomerdata/"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "url": "https://www.astronomer.io/contact/",
+          "email": "humans@astronomer.io",
+          "contactType": "company contact"
+        },
+        {
+          "@type": "ContactPoint",
+          "url": "https://support.astronomer.io/",
+          "email": "support@astronomer.io",
+          "contactType": "customer support"
+        },
+        {
+          "@type": "ContactPoint",
+          "url": "https://www.astronomer.io/contact/",
+          "email": "sales@astronomer.io",
+          "contactType": "sales"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.astronomer.io/",
+      "url": "https://www.astronomer.io/",
+      "name": "Astronomer",
+      "publisher": { "@id": "https://www.astronomer.io/#organization" }
+    }
+  ]
+}</script><link data-cms-original-href="/_astro/_slug_.5gFZIU-o.css" href="/_astro/_slug_.5gFZIU-o.css?_cchid=70971b915a51284764324c590afa0442" rel="stylesheet">
+<style>.hero[data-astro-cid-yfbej6qz]{--button-color-bg:var(--teal-500);--button-color-text:var(--neutral-900);--link-color:var(--text-teal-medium);--link-color-visited:var(--text-teal-medium);padding-top:var(--hero-padding-top,12rem);padding-bottom:var(--hero-padding-bottom,8rem);color:var(--text-neutral-white);background-color:#16142f;display:grid;position:relative;overflow:hidden}.stars[data-astro-cid-yfbej6qz]{z-index:0;opacity:.4;object-fit:cover;width:100%;height:100%;position:absolute;top:0;left:0}.stars[data-astro-cid-yfbej6qz] img[data-astro-cid-yfbej6qz]{object-fit:cover;width:100%;height:100%}.hero[data-astro-cid-yfbej6qz].with-bigImage{padding-bottom:0;overflow-y:hidden}.bigImage[data-astro-cid-yfbej6qz]{background:#ffffff1f;border:1px solid #ffffff7a;border-radius:24px;padding:22px;position:relative;bottom:-36px}.bigImage[data-astro-cid-yfbej6qz] img[data-astro-cid-yfbej6qz]{z-index:1;border:1px solid #ffffff7a;border-radius:12px;width:100%;position:relative;overflow:hidden}.hero__content[data-astro-cid-yfbej6qz]{z-index:2;margin:auto;position:relative}.hero__content[data-astro-cid-yfbej6qz].center{text-align:center}.two-columns[data-astro-cid-yfbej6qz] .hero__content[data-astro-cid-yfbej6qz]{gap:var(--hero-content-gap,3rem);align-items:var(--hero-content-align,center);justify-content:var(--hero-content-justify,space-between);display:grid}.horizon[data-astro-cid-yfbej6qz]{z-index:0;width:100vw;position:absolute;bottom:-.5rem;left:0;right:0}@media screen and (min-width:1296px){.two-columns[data-astro-cid-yfbej6qz]{--hero-padding-top:6rem;--hero-padding-bottom:3rem}.two-columns[data-astro-cid-yfbej6qz] .hero__content[data-astro-cid-yfbej6qz]{grid-template-columns:repeat(2,50%);grid-template-rows:var(--hero-content-height,624px)}}@media screen and (max-width:980px){.button{flex:100%;display:block}.post-cover,.hero-image{order:-1}}
+main{overflow:revert!important}.prose[data-astro-cid-fb3qbcs3] li+li{margin-top:1rem}[class*=_heroCopy]{--prose-width:1200px!important}@media screen and (max-width:1220px){[class*=_heroCopy]{margin:0 auto auto!important}}@media screen and (max-width:1080px){.content-wrapper[data-astro-cid-fb3qbcs3]{flex-wrap:wrap}}.sidebar-contents[data-astro-cid-fb3qbcs3]{max-width:100%;position:sticky;top:80px}
+</style></head> <body> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCJNSWTS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <div class="header-wrapper"> <div class="promoBanner" data-astro-cid-2x2izhg2=""> <div class="promoBanner__content container flex-container justify-center align-center" data-astro-cid-2x2izhg2="" style="--container-width: 1200px;"> <div class="copy flex-container" data-astro-cid-2x2izhg2=""> <a class="link" data-astro-cid-2x2izhg2="" href="/product/observe/"> <span class="label" data-astro-cid-2x2izhg2="">NEW!</span> <span class="text" data-astro-cid-2x2izhg2="">Astro Observe is now generally available. <span class="highlight">Learn More</span></span> </a> </div> <div class="promoBanner__utility-nav flex-container justify-center" data-astro-cid-2x2izhg2=""> <a data-astro-cid-2x2izhg2="" href="https://support.astronomer.io">Support</a>
+|
+<a data-astro-cid-2x2izhg2="" href="https://cloud.astronomer.io">Log In</a> </div> </div> </div>  <header class="header" data-theme="dark"><div class="container flex-container justify-between headerWrapper"><a aria-label="Go to Home Page" class="logo" href="/"><span class="logoTitle">Astronomer</span><span class="logoImg"></span></a><button aria-label="Open Navigation Menu" class="menuToggle" id="menuToggle"><div class="hamburger hamburgerCollapse"><div class="hamburgerBox"><div class="hamburgerInner"></div></div></div></button><nav aria-label="Main Navigation" class="headerNav"><ul class="headerNavList list-reset"><li class="dropdown"><button class="block dropdownTitle">Why Astro<svg class="dropdown-caret" height="15" viewBox="0 0 14 15" width="14" xmlns="http://www.w3.org/2000/svg"><path d="M3.74141 5.75L10.2584 5.75C10.3738 5.75002 10.4865 5.78425 10.5824 5.84835C10.6783 5.91245 10.7531 6.00354 10.7972 6.11012C10.8414 6.21669 10.8529 6.33396 10.8304 6.4471C10.8079 6.56024 10.7524 6.66417 10.6708 6.74575L7.41233 10.0042C7.30294 10.1136 7.15459 10.175 6.99991 10.175C6.84523 10.175 6.69689 10.1136 6.5875 10.0042L3.329 6.74575C3.24744 6.66417 3.1919 6.56024 3.16941 6.4471C3.14691 6.33396 3.15846 6.21669 3.2026 6.11012C3.24674 6.00354 3.32149 5.91245 3.41739 5.84835C3.5133 5.78425 3.62606 5.75002 3.74141 5.75Z"></path></svg></button><ul class="dropdownMenu list-reset" id="why-astro-dropdown"><li class="child hasChildren undefined list-reset"><ul class="grandchildren list-reset 
+                        "><li class="grandchild"><a class="link" href="/dataops-platform/"><img data-cms-original-src="/icons/observe/rocket.svg" src="/icons/observe/rocket.svg?_cchid=70ea804a02667b201f5c2df549c03051"><span class="grandchild-text"><span class="linkTitle undefined">Unified DataOps Platform</span><span class="linkDesc">Fully-managed data operations, <br>powered by Apache Airflow</span></span></a></li><li class="grandchild"><a class="link" href="/airflow/"><img data-cms-original-src="/icons/observe/airflow.svg" src="/icons/observe/airflow.svg?_cchid=9f933e2187c05ec61321f43e2559d6c7"><span class="grandchild-text"><span class="linkTitle undefined">What is Airflow?</span></span></a></li><li class="grandchild"><a class="link" href="/astro-vs-apache-airflow-oss/"><img data-cms-original-src="/icons/observe/astro.svg" src="/icons/observe/astro.svg?_cchid=e68f09fd48b3b96d7cabc3cb5a23373a"><span class="grandchild-text"><span class="linkTitle undefined">Why Airflow on Astro</span></span></a></li></ul></li><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">The Astro Advantage</span></div><ul class="grandchildren list-reset The-Astro-Advantage
+                        "><li class="grandchild"><a class="link" href="/astro-vs-google-cloud-composer-airflow-gcc/"><img data-cms-original-src="/icons/observe/gcc.svg" src="/icons/observe/gcc.svg?_cchid=db30a42885eaff946d802780f7aaf864"><span class="grandchild-text"><span class="linkTitle undefined">Astro vs. GCC</span></span></a></li><li class="grandchild"><a class="link" href="/astro-vs-amazon-managed-workflows-apache-airflow-mwaa/"><img data-cms-original-src="/icons/observe/mwaa.svg" src="/icons/observe/mwaa.svg?_cchid=c8a1887ba88055d80729081cbb8f3c70"><span class="grandchild-text"><span class="linkTitle undefined">Astro vs. MWAA</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/migrations/"><img data-cms-original-src="/icons/observe/arrow.svg" src="/icons/observe/arrow.svg?_cchid=f8627be027e439f0a8dea018374b707a"><span class="grandchild-text"><span class="linkTitle undefined">Move to Astro</span></span></a></li></ul></li><li class="child undefined isCTA list-reset"><a class="link linkCTA" href="/customers/"><img alt="" data-cms-original-src="/images/observe/customer-nav-thumb.png" height="83" src="/images/observe/customer-nav-thumb.png?_cchid=7b71f242eb8c7e9aec88ad23a32cc3d5" width="147"><span class="linkCTA__desc">The best companies <br>win with Astro.</span><span class="acds-button">See Our Customers</span></a></li></ul></li><li class="dropdown"><button class="block dropdownTitle">Products<svg class="dropdown-caret" height="15" viewBox="0 0 14 15" width="14" xmlns="http://www.w3.org/2000/svg"><path d="M3.74141 5.75L10.2584 5.75C10.3738 5.75002 10.4865 5.78425 10.5824 5.84835C10.6783 5.91245 10.7531 6.00354 10.7972 6.11012C10.8414 6.21669 10.8529 6.33396 10.8304 6.4471C10.8079 6.56024 10.7524 6.66417 10.6708 6.74575L7.41233 10.0042C7.30294 10.1136 7.15459 10.175 6.99991 10.175C6.84523 10.175 6.69689 10.1136 6.5875 10.0042L3.329 6.74575C3.24744 6.66417 3.1919 6.56024 3.16941 6.4471C3.14691 6.33396 3.15846 6.21669 3.2026 6.11012C3.24674 6.00354 3.32149 5.91245 3.41739 5.84835C3.5133 5.78425 3.62606 5.75002 3.74141 5.75Z"></path></svg></button><ul class="dropdownMenu list-reset" id="products-dropdown"><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Products</span></div><ul class="grandchildren list-reset Products
+                        "><li class="grandchild"><a class="link" href="/dataops-platform/"><img data-cms-original-src="/icons/observe/rocket.svg" src="/icons/observe/rocket.svg?_cchid=70ea804a02667b201f5c2df549c03051"><span class="grandchild-text"><span class="linkTitle undefined">Platform Overview</span><span class="linkDesc">Fully-managed data operations, <br>powered by Apache Airflow</span></span></a></li><li class="grandchild"><a class="link" href="/product/"><img data-cms-original-src="/icons/observe/galaxy-star (1).svg" src="/icons/observe/galaxy-star%20(1).svg?_cchid=86ddb5e5d0619347468fb0cb954dc1bf"><span class="grandchild-text"><span class="linkTitle undefined">Astro</span></span></a></li><li class="grandchild"><a class="link" href="/product/observe/"><img data-cms-original-src="/icons/observe/telescope.svg" src="/icons/observe/telescope.svg?_cchid=09e17b752d142ae306f46760192bc3c1"><span class="grandchild-text"><span class="linkTitle undefined">Observe</span></span></a></li><li class="grandchild"><a class="link" href="/product/software/"><img data-cms-original-src="/icons/observe/clouds 1.svg" src="/icons/observe/clouds%201.svg?_cchid=eeab6d2853d7e94e93f9379dc06bb356"><span class="grandchild-text"><span class="linkTitle undefined">Astronomer Software</span><span class="linkDesc">Enterprise-grade security &amp;privacy in your own environment.</span></span></a></li></ul></li><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Tools</span></div><ul class="grandchildren list-reset Tools
+                        "><li class="grandchild"><a class="link" href="/cosmos/"><img data-cms-original-src="/icons/observe/dbt.svg" src="/icons/observe/dbt.svg?_cchid=7d56b9b01e21c417df4bd13c8c0154a3"><span class="grandchild-text"><span class="linkTitle undefined">Cosmos</span><span class="linkDesc">Easily orchestrate your dbt projects.</span></span></a></li><li class="grandchild"><a class="link" href="https://registry.astronomer.io/"><img data-cms-original-src="/icons/observe/fi-br-bookmark.svg" src="/icons/observe/fi-br-bookmark.svg?_cchid=9b6b04210e1d7c6cc9306c2be9c424c0"><span class="grandchild-text"><span class="linkTitle undefined">Registry</span><span class="linkDesc">Building Blocks for your data pipelines.</span></span></a></li></ul></li><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Explore More</span></div><ul class="grandchildren list-reset Explore-More
+                        "><li class="grandchild"><a class="link" href="/professional-services/"><img data-cms-original-src="/icons/observe/employees.svg" src="/icons/observe/employees.svg?_cchid=0b1eee840082f599cf1913efd8227e93"><span class="grandchild-text"><span class="linkTitle undefined">Professional Services</span></span></a></li><li class="grandchild"><a class="link" href="https://www.astronomer.io/docs/astro/release-notes"><img data-cms-original-src="/icons/observe/fi-br-asterik.svg" src="/icons/observe/fi-br-asterik.svg?_cchid=810a7e2ffa19e0d3e5587cf1d042b56b"><span class="grandchild-text"><span class="linkTitle undefined">Product Updates</span></span></a></li><li class="grandchild"><a class="link" href="/customers/"><img data-cms-original-src="/icons/observe/fi-br-comment-heart.svg" src="/icons/observe/fi-br-comment-heart.svg?_cchid=2a71a2076fd8dfc9953868971f3e179f"><span class="grandchild-text"><span class="linkTitle undefined">Customers</span></span></a></li></ul></li></ul></li><li class="dropdown"><button class="block dropdownTitle">Solutions<svg class="dropdown-caret" height="15" viewBox="0 0 14 15" width="14" xmlns="http://www.w3.org/2000/svg"><path d="M3.74141 5.75L10.2584 5.75C10.3738 5.75002 10.4865 5.78425 10.5824 5.84835C10.6783 5.91245 10.7531 6.00354 10.7972 6.11012C10.8414 6.21669 10.8529 6.33396 10.8304 6.4471C10.8079 6.56024 10.7524 6.66417 10.6708 6.74575L7.41233 10.0042C7.30294 10.1136 7.15459 10.175 6.99991 10.175C6.84523 10.175 6.69689 10.1136 6.5875 10.0042L3.329 6.74575C3.24744 6.66417 3.1919 6.56024 3.16941 6.4471C3.14691 6.33396 3.15846 6.21669 3.2026 6.11012C3.24674 6.00354 3.32149 5.91245 3.41739 5.84835C3.5133 5.78425 3.62606 5.75002 3.74141 5.75Z"></path></svg></button><ul class="dropdownMenu list-reset" id="solutions-dropdown"><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Use Cases</span></div><ul class="grandchildren list-reset Use-Cases
+                        "><li class="grandchild"><a class="link" href="/solutions/ai-ml/"><img data-cms-original-src="/icons/observe/fi-br-magic-wand.svg" src="/icons/observe/fi-br-magic-wand.svg?_cchid=8a0e2328d7ccbf355bf6b6c57a6a3119"><span class="grandchild-text"><span class="linkTitle undefined">AI Ops</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/data-observability/"><img data-cms-original-src="/icons/observe/telescope.svg" src="/icons/observe/telescope.svg?_cchid=09e17b752d142ae306f46760192bc3c1"><span class="grandchild-text"><span class="linkTitle undefined">Data Observability</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/etl-elt/"><img data-cms-original-src="/icons/observe/fi-br-tornado.svg" src="/icons/observe/fi-br-tornado.svg?_cchid=763d4e98fab249c09c93ac730c5f8b7c"><span class="grandchild-text"><span class="linkTitle undefined">ETL/ELT</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/mlops/"><img data-cms-original-src="/icons/observe/fi-br-physics.svg" src="/icons/observe/fi-br-physics.svg?_cchid=f77f28cb4890e194c64f99ea2dbf0b7e"><span class="grandchild-text"><span class="linkTitle undefined">MLOps</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/operational-analytics/"><img data-cms-original-src="/icons/observe/fi-br-chart-histogram.svg" src="/icons/observe/fi-br-chart-histogram.svg?_cchid=d2b57c29655cae38de56c289efb2727b"><span class="grandchild-text"><span class="linkTitle undefined">Operational Analytics</span></span></a></li></ul></li><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Industries</span></div><ul class="grandchildren list-reset Industries
+                        "><li class="grandchild"><a class="link" href="/solutions/financial-services/"><img data-cms-original-src="/icons/observe/fi-br-building.svg" src="/icons/observe/fi-br-building.svg?_cchid=f03c0809bf5c3a84ac6a439bd464cab4"><span class="grandchild-text"><span class="linkTitle undefined">Financial Services</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/gaming/"><img data-cms-original-src="/icons/observe/fi-br-gamepad.svg" src="/icons/observe/fi-br-gamepad.svg?_cchid=071e9bdcafbd3b94b3da57718738f552"><span class="grandchild-text"><span class="linkTitle undefined">Gaming</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/retail-ecommerce/"><img data-cms-original-src="/icons/observe/fi-br-shopping-cart.svg" src="/icons/observe/fi-br-shopping-cart.svg?_cchid=72a2277726a8392b1533b0046ca56f06"><span class="grandchild-text"><span class="linkTitle undefined">Retail</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/manufacturing/"><img data-cms-original-src="/icons/observe/fi-br-truck-side.svg" src="/icons/observe/fi-br-truck-side.svg?_cchid=c65f8a3286af89369742e565981ec927"><span class="grandchild-text"><span class="linkTitle undefined">Manufacturing</span></span></a></li><li class="grandchild"><a class="link" href="/solutions/healthcare/"><img data-cms-original-src="/icons/observe/fi-br-doctor.svg" src="/icons/observe/fi-br-doctor.svg?_cchid=8cde160516aba8b6bb102a5c7c1fc2b9"><span class="grandchild-text"><span class="linkTitle undefined">Healthcare</span></span></a></li></ul></li><li class="child undefined isCTA list-reset"><a class="link linkCTA" href="/case-studies/campspot/"><img alt="" data-cms-original-src="/images/observe/case-study.svg" src="/images/observe/case-study.svg?_cchid=d2d75d80aa9043b8f71d8615a55db34a"><span class="linkCTA__desc">Learn how Astro reduced job runtime from 2 hours to 2 minutes.</span><span class="acds-button">Read the Case Study</span></a></li></ul></li><li class="dropdown"><button class="block dropdownTitle">Resources<svg class="dropdown-caret" height="15" viewBox="0 0 14 15" width="14" xmlns="http://www.w3.org/2000/svg"><path d="M3.74141 5.75L10.2584 5.75C10.3738 5.75002 10.4865 5.78425 10.5824 5.84835C10.6783 5.91245 10.7531 6.00354 10.7972 6.11012C10.8414 6.21669 10.8529 6.33396 10.8304 6.4471C10.8079 6.56024 10.7524 6.66417 10.6708 6.74575L7.41233 10.0042C7.30294 10.1136 7.15459 10.175 6.99991 10.175C6.84523 10.175 6.69689 10.1136 6.5875 10.0042L3.329 6.74575C3.24744 6.66417 3.1919 6.56024 3.16941 6.4471C3.14691 6.33396 3.15846 6.21669 3.2026 6.11012C3.24674 6.00354 3.32149 5.91245 3.41739 5.84835C3.5133 5.78425 3.62606 5.75002 3.74141 5.75Z"></path></svg></button><ul class="dropdownMenu list-reset" id="resources-dropdown"><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Learn</span></div><ul class="grandchildren list-reset Learn
+                        "><li class="grandchild"><a class="link" href="https://academy.astronomer.io/"><img data-cms-original-src="/icons/observe/hat.svg" src="/icons/observe/hat.svg?_cchid=951193084bfe5b2ec811cfde9cbcde16"><span class="grandchild-text"><span class="linkTitle undefined">Academy</span></span></a></li><li class="grandchild"><a class="link" href="/resources/"><img data-cms-original-src="/icons/observe/book-open-cover.svg" src="/icons/observe/book-open-cover.svg?_cchid=0404f6b1be7af12dfc1da69f676a559f"><span class="grandchild-text"><span class="linkTitle undefined">eBook &amp; Guides</span></span></a></li><li class="grandchild"><a class="link" href="/blog/"><img data-cms-original-src="/icons/observe/blog.svg" src="/icons/observe/blog.svg?_cchid=1c0c36f248ff900c62204234bc2c78c4"><span class="grandchild-text"><span class="linkTitle undefined">Blog</span></span></a></li><li class="grandchild"><a class="link" href="/events/webinars/"><img data-cms-original-src="/icons/observe/play-alt.svg" src="/icons/observe/play-alt.svg?_cchid=05acb0bd5e788237ae3b7fce93b1a2bb"><span class="grandchild-text"><span class="linkTitle undefined">Webinars</span></span></a></li><li class="grandchild"><a class="link" href="/events/"><img data-cms-original-src="/icons/observe/calendar-days.svg" src="/icons/observe/calendar-days.svg?_cchid=a87efbac71ae1211531b64b5dd556d56"><span class="grandchild-text"><span class="linkTitle undefined">Events</span></span></a></li><li class="grandchild"><a class="link" href="/resources/"><span class="grandchild-text"><span class="linkTitle moreLink">See All Resources</span><svg fill="none" height="10" viewBox="0 0 10 10" width="10" xmlns="http://www.w3.org/2000/svg"><path d="M3.75 7.32744L3.75 2.67244C3.75002 2.59004 3.77446 2.5095 3.82025 2.441C3.86603 2.3725 3.9311 2.3191 4.00723 2.28758C4.08335 2.25605 4.16712 2.24779 4.24793 2.26386C4.32874 2.27993 4.40298 2.3196 4.46125 2.37786L6.78874 4.70536C6.86686 4.78349 6.91074 4.88946 6.91074 4.99994C6.91074 5.11043 6.86686 5.21639 6.78874 5.29452L4.46125 7.62202C4.40298 7.68028 4.32874 7.71995 4.24793 7.73602C4.16712 7.75209 4.08335 7.74384 4.00723 7.71231C3.9311 7.68078 3.86603 7.62739 3.82025 7.55888C3.77446 7.49038 3.75002 7.40984 3.75 7.32744Z" fill="#AF76FF"></path></svg></span></a></li></ul></li><li class="child hasChildren undefined list-reset"><div class="link hasChildren"><span class="linkTitle topTitle">Support</span></div><ul class="grandchildren list-reset Support
+                        "><li class="grandchild"><a class="link" href="https://support.astronomer.io/"><img data-cms-original-src="/icons/observe/knowledge.svg" src="/icons/observe/knowledge.svg?_cchid=b76daa1aaebbbe663433590601e1d891"><span class="grandchild-text"><span class="linkTitle undefined">Knowledge Base</span></span></a></li><li class="grandchild"><a class="link" href="https://status.astronomer.io/"><img data-cms-original-src="/icons/observe/status.svg" src="/icons/observe/status.svg?_cchid=8bde369f90d4b7d2d45b6e5b8de4605c"><span class="grandchild-text"><span class="linkTitle undefined">Status</span></span></a></li><li class="grandchild"><a class="link" href="https://support.astronomer.io/"><span class="grandchild-text"><span class="linkTitle moreLink">Contact Support</span><svg fill="none" height="10" viewBox="0 0 10 10" width="10" xmlns="http://www.w3.org/2000/svg"><path d="M3.75 7.32744L3.75 2.67244C3.75002 2.59004 3.77446 2.5095 3.82025 2.441C3.86603 2.3725 3.9311 2.3191 4.00723 2.28758C4.08335 2.25605 4.16712 2.24779 4.24793 2.26386C4.32874 2.27993 4.40298 2.3196 4.46125 2.37786L6.78874 4.70536C6.86686 4.78349 6.91074 4.88946 6.91074 4.99994C6.91074 5.11043 6.86686 5.21639 6.78874 5.29452L4.46125 7.62202C4.40298 7.68028 4.32874 7.71995 4.24793 7.73602C4.16712 7.75209 4.08335 7.74384 4.00723 7.71231C3.9311 7.68078 3.86603 7.62739 3.82025 7.55888C3.77446 7.49038 3.75002 7.40984 3.75 7.32744Z" fill="#AF76FF"></path></svg></span></a></li></ul></li><li class="child undefined isCTA list-reset"><a class="link linkCTA" href="/ebooks/dags-definitive-guide/"><img alt="" data-cms-original-src="/images/observe/case-study.svg" src="/images/observe/case-study.svg?_cchid=d2d75d80aa9043b8f71d8615a55db34a"><span class="linkCTA__desc">Everything you need to know to take your DAG writing skills to the next level.</span><span class="acds-button">Download the eBook</span></a></li></ul></li><li class="dropdown"><a class="block dropdownTitle" href="https://www.astronomer.io/docs/">Docs</a></li><li class="dropdown"><a class="block dropdownTitle" href="/pricing/">Pricing</a></li></ul><div class="flex-container buttons justify-center"><a class="acds-button  outline " href="/book-a-demo/">Book a Demo</a><a class="acds-button   " href="/lp/signup/">Get Started Free</a></div></nav></div></header> </div>  <main>  <div class="hero   starfield-bg--muted" data-astro-cid-yfbej6qz="">  <div class="container hero__content center" data-astro-cid-yfbej6qz="">  <h1 data-astro-cid-fb3qbcs3="">Privacy</h1> <p class="font-size-3" data-astro-cid-fb3qbcs3="">
+Last Updated: <time data-astro-cid-fb3qbcs3="">September 28, 2022</time> </p>   </div>    </div>  <section class="content-wrapper container section" data-astro-cid-fb3qbcs3=""> <div class="terms container prose row-flow" data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3="">
+This Privacy Policy describes Our policies and procedures on the
+        collection, use and disclosure of Your information when You use the
+        Service and tells You about Your privacy rights and how the law protects
+        You.
+</p> <p data-astro-cid-fb3qbcs3="">
+We use Your Personal data to provide and improve the Service. By using
+        the Service, You agree to the collection and use of information in
+        accordance with this Privacy Policy.
+</p> <h2 data-astro-cid-fb3qbcs3="" id="definitions">Definitions</h2> <p data-astro-cid-fb3qbcs3="">
+For the purposes of this Privacy Policy, the following definitions shall
+        have the same meaning regardless of whether they appear in singular or
+        in plural:
+</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Account</strong> means a unique account created for You to access
+            our Service or parts of our Service.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Company</strong> (referred to as either “the Company”, “We”,
+            “Us” or “Our” in this Agreement) refers to Astronomer, Inc, 50 West 23rd
+            Street, Suite 1400 New York, NY 10010.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3="">For GDPR purposes, the Company is the Data Controller.</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Cookies</strong> are small files that are placed on Your computer,
+            mobile device, or any other device by a website, containing the details
+            of Your browsing history on that website among its many uses.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Data Controller</strong>, for the purposes of the GDPR
+            (General Data Protection Regulation), refers to the Company as the
+            legal person which alone or jointly with others determines the
+            purposes and means of the processing of Personal Data.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Device</strong> means any device that can access the Service
+            such as a computer, a cell phone, or a digital tablet.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Personal Data</strong> is any information that relates to an
+            identified or identifiable individual.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3="">
+For the purposes of GDPR, Personal Data means any information
+            relating to You, such as a name, an identification number, location
+            data, online identifier, or the one or more factors specific to the
+            physical, physiological, genetic, mental, economic, cultural, or
+            social identity.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Platform Services</strong> means the subscription software services
+            to which the Customer is subscribed.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Processing</strong> means any operation or set of operations
+            which is performed upon Personal Data, whether by automatic means, such
+            as collection, recording, organization, storage, adaptation or alteration,
+            retrieval, consultation, use, disclosure by transmission, dissemination
+            or otherwise making available, alignment or combination, blocking, erasure
+            or destruction.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Service</strong> refers to the Website and/or Platform Services.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Service Provider</strong> means any natural or legal person who
+            processes the data on behalf of the Company. It refers to third-party
+            companies or individuals employed by the Company to facilitate the Service,
+            to provide the Service on behalf of the Company, to perform services
+            related to the Service or to assist the Company in analyzing how the
+            Service is used. For GDPR purposes, Service Providers are considered
+            Data Processors.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Third-party Social Media Service</strong> refers to any website
+            or any social network website through which a User can log in or create
+            an account to use the Service.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Usage Data</strong> refers to data collected automatically, either
+            generated using the Service or from the Service infrastructure itself
+            (for example, the duration of a page visit).
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Website</strong> refers to the Company website, accessible from
+<a data-astro-cid-fb3qbcs3="" href="https://www.astronomer.io/">www.astronomer.io</a> and various
+            other websites accessible therefrom.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">You</strong> means the individual accessing or using the Service,
+            or the company, or other legal entity on behalf of which such individual
+            is accessing or using the Service, as applicable.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3="">
+Under GDPR (General Data Protection Regulation), You are the Data
+            Subject or the User, as you are the individual using the Service.
+</p> </li> </ul> <h2 data-astro-cid-fb3qbcs3="" id="collecting-and-using-your-personal-data">
+Collecting and Using Your Personal Data
+</h2> <h3 data-astro-cid-fb3qbcs3="" id="principles-for-collecting-data">
+Principles for Collecting Data
+</h3> <p data-astro-cid-fb3qbcs3="">We are committed to ensure that Personal Data is:</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3="">Processed in accordance with applicable laws;</li> <li data-astro-cid-fb3qbcs3="">
+Collected for specified, explicit and legitimate purposes and not
+          further processed in a way incompatible with those purposes;
+</li> <li data-astro-cid-fb3qbcs3="">
+Adequate, relevant and not excessive in relation to the purposes for
+          which it is collected and/or further processed;
+</li> <li data-astro-cid-fb3qbcs3="">Accurate and kept up to date;</li> <li data-astro-cid-fb3qbcs3="">
+Kept in a form which permits identification of Individuals for no
+          longer than is necessary for the purposes for which the Personal Data
+          was collected or for which it is further processed; and
+</li> <li data-astro-cid-fb3qbcs3="">Kept securely in compliance with applicable Law.</li> </ul> <h3 data-astro-cid-fb3qbcs3="" id="method-of-collecting-data">Method of Collecting Data</h3> <p data-astro-cid-fb3qbcs3="">We may collect information about You from various sources, such as:</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Information you provide.</strong> You may provide Us with Personal
+          Data about You by your own disclosure (e.g., You fill out a contact form
+          on Our Website);
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Information we automatically collect</strong>. When you use
+          the Service, we may automatically collect Personal Data, some of which
+          may or may not involve cookies. (e.g., your IP address);
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Information we receive from third parties.</strong> From time to
+          time, We may obtain information about You from third party sources, such
+          as public databases and websites, resellers and distributors, joint marketing
+          or business partners, security and fraud detection firms and social media
+          platforms; and
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Targeted Online Advertisements</strong>. We may use one or
+          more third parties to serve ads on the Website and/or other websites.
+          These third parties may automatically collect and use certain
+          information about your online activities, either on our Website or
+          other websites, such as your IP address, your ISP and the browser you
+          are using.<br data-astro-cid-fb3qbcs3="">
+We are not responsible for cookies or web beacons in third party ads, and
+          we encourage you to check the privacy policies of advertisers and/or ad
+          services to learn about their use of cookies and other technology. If you
+          would like more information about this practice and to know your choices
+          about not having this information used by these companies, please visit
+<a data-astro-cid-fb3qbcs3="" href="https://optout.aboutads.info/?c=2&amp;lang=EN" rel="noopener" target="_blank">www.aboutads.info/choices</a>.
+</li> </ul> <h3 data-astro-cid-fb3qbcs3="" id="types-of-data-collected">Types of Data Collected</h3> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Personal Data</strong> </p> <p data-astro-cid-fb3qbcs3="">
+While using Our Service, We may ask You to provide Us with certain
+        personally identifiable information that can be used to contact or
+        identify You. Personally identifiable information may include, but is
+        not limited to:
+</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3="">Email address</li> <li data-astro-cid-fb3qbcs3="">First name and last name</li> <li data-astro-cid-fb3qbcs3="">Phone number</li> <li data-astro-cid-fb3qbcs3="">Address, State, Province, ZIP/Postal code, City</li> <li data-astro-cid-fb3qbcs3="">Usage Data</li> </ul> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Usage Data</strong> </p> <p data-astro-cid-fb3qbcs3="">Usage Data is collected automatically when using the Service.</p> <p data-astro-cid-fb3qbcs3="">
+Usage Data may include information such as Your Device’s IP address,
+        browser type, browser version, the pages of our Service that You visit,
+        the time and date of Your visit, the time spent on those pages, unique
+        device identifiers, and other diagnostic data.
+</p> <p data-astro-cid-fb3qbcs3="">
+When You access the Service by or through a mobile device, We may
+        collect certain information automatically, including, but not limited
+        to, the type of mobile device You use, Your mobile device unique ID, the
+        IP address of Your mobile device, Your mobile operating system, the type
+        of mobile Internet browser You use, unique device identifiers and other
+        diagnostic data.
+</p> <p data-astro-cid-fb3qbcs3="">
+We may also collect information that Your browser sends whenever You
+        visit our Service or when You access the Service by or through a mobile
+        device.
+</p> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Tracking Technologies and Cookies</strong> </p> <p data-astro-cid-fb3qbcs3="">
+We use Cookies and similar tracking technologies to track the activity
+        on Our Service and store certain information. Tracking technologies used
+        are beacons, tags, and scripts to collect and track information and to
+        improve and analyze Our Service. The technologies We use may include:
+</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Cookies or Browser Cookies</strong>. A cookie is a small file
+          placed on Your Device. You can instruct Your browser to refuse all
+          Cookies or to indicate when a Cookie is being sent. However, if You do
+          not accept Cookies, You may not be able to use some parts of our
+          Service. Unless you have adjusted Your browser setting so that it will
+          refuse Cookies, our Service may use Cookies.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Web Beacons or Tracking Pixels</strong>. Certain sections of
+          our Service and our emails may contain small electronic files known as
+          web beacons (also referred to as clear GIFs, pixel tags, and
+          single-pixel GIFs) that permit the Company, for example, to count
+          users who have visited those pages or opened an email and for other
+          related website statistics (for example, recording the popularity of a
+          certain section and verifying system and server integrity).
+</li> </ul> <p data-astro-cid-fb3qbcs3="">
+Cookies can be “Persistent” or “Session” Cookies. Persistent Cookies
+        remain on Your personal computer or mobile device when You go offline,
+        while Session Cookies are deleted as soon as You close Your web browser.
+</p> <p data-astro-cid-fb3qbcs3="">
+We use both Session and Persistent Cookies for the purposes set out
+        below:
+</p> <table data-astro-cid-fb3qbcs3=""> <tbody data-astro-cid-fb3qbcs3=""><tr data-astro-cid-fb3qbcs3=""> <td data-astro-cid-fb3qbcs3="">Cookie Group</td> <td data-astro-cid-fb3qbcs3="">Purpose</td> </tr> <tr data-astro-cid-fb3qbcs3=""> <td data-astro-cid-fb3qbcs3="">Essential</td> <td data-astro-cid-fb3qbcs3="">We use browser cookies that are necessary for the site to work as
+              intended. 'For example, we store your website data collection
+              preferences, so we can honor them if you return to our site. You
+              can disable these cookies in your browser settings, but if you do,
+              the site may not work as intended.
+</td> </tr> <tr data-astro-cid-fb3qbcs3=""> <td data-astro-cid-fb3qbcs3="">Functional</td> <td data-astro-cid-fb3qbcs3="">To monitor the performance of our site and to enhance your
+              browsing experience. For example, these tools enable you to
+              communicate with us via live chat.
+</td> </tr> <tr data-astro-cid-fb3qbcs3=""> <td data-astro-cid-fb3qbcs3="">Marketing and Analytics</td> <td data-astro-cid-fb3qbcs3="">To understand user behavior in order to provide you with a more
+              relevant browsing experience or personalize the content on our
+              site. 'For example, we collect information about which pages you
+              visit to help us present more relevant information.
+</td> </tr> <tr data-astro-cid-fb3qbcs3=""> <td data-astro-cid-fb3qbcs3="">Advertising</td> <td data-astro-cid-fb3qbcs3="">To personalize and measure the effectiveness of advertising on
+              our site and other websites. For example, we may serve you a
+              personalized ad based on the pages you visit on our site.
+</td> </tr> </tbody> </table> <h3 data-astro-cid-fb3qbcs3="" id="use-of-your-personal-data">Use of Your Personal Data</h3> <p data-astro-cid-fb3qbcs3="">The Company may use Personal Data for the following purposes:</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">To provide and maintain our Service</strong>, including to
+            monitor the usage of our Service.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">To manage Your Account</strong>: to manage Your registration
+            as a user of the Service. The Personal Data You provide can give You
+            access to different functionalities of the Service that are
+            available to You as a registered user.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">For the performance of a contract</strong>: the development,
+            compliance and undertaking of the purchase contract for the
+            products, items or services You have purchased or of any other
+            contract with Us through the Service.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">To contact You</strong>: To contact You by email, telephone
+            calls, SMS, or other equivalent forms of electronic communication,
+            such as a mobile application’s push notifications regarding updates
+            or informative communications related to the functionalities,
+            products or contracted services, including the security updates,
+            when necessary or reasonable for their implementation.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">To provide You with news, special offers and general information</strong> about other goods, services, and events which we offer that are similar
+            to those that you have already purchased or inquired about unless You
+            have opted not to receive such information.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">To manage Your requests</strong>: To attend and manage Your
+            requests to Us.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">For business transfers</strong>: We may use Your information
+            to evaluate or conduct a merger, divestiture, restructuring,
+            reorganization, dissolution, or other sale or transfer of some or
+            all of Our assets, whether as a going concern or as part of a
+            bankruptcy, liquidation, or similar proceeding, in which Personal
+            Data held by Us about our Service users is among the assets
+            transferred.
+</p> </li> <li data-astro-cid-fb3qbcs3=""> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">For other purposes</strong>: We may use Your information for
+            other purposes, such as data analysis, identifying usage trends,
+            determining the effectiveness of our promotional campaigns and to
+            evaluate and improve our Service, products, services, marketing, and
+            your experience.
+</p> </li> </ul> <p data-astro-cid-fb3qbcs3="">We may share Your personal information in the following situations:</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">With Service Providers</strong>: We may share Your personal
+          information with Service Providers to monitor and analyze the use of
+          our Service or to contact You.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">For business transfers</strong>: We may share or transfer Your
+          personal information in connection with, or during negotiations of,
+          any merger, sale of Company assets, financing, or acquisition of all
+          or a portion of Our business to another company.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">With Affiliates</strong>: We may share Your information with
+          Our affiliates, in which case we will require those affiliates to
+          honor this Privacy Policy. Affiliates include Our parent company and
+          any other subsidiaries, joint venture partners or other companies that
+          We control or that are under common control with Us.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">With business partners</strong>: We may share Your information
+          with Our business partners to offer You certain products, services, or
+          promotions.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">With other users</strong>: when You share personal information
+          or otherwise interact in the public areas with other users, such
+          information may be viewed by all users and may be publicly distributed
+          outside. If You interact with other users or register through a
+          Third-Party Social Media Service, Your contacts on the Third-Party
+          Social Media Service may see Your name, profile, pictures and
+          description of Your activity. Similarly, other users will be able to
+          view descriptions of Your activity, communicate with You and view Your
+          profile.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">With Your consent</strong>: We may disclose Your personal
+          information for any other purpose with Your consent.
+</li> </ul> <h3 data-astro-cid-fb3qbcs3="" id="retention-of-your-personal-data">
+Retention of Your Personal Data
+</h3> <p data-astro-cid-fb3qbcs3="">
+The Company will retain Your Personal Data only for as long as is
+        necessary for the purposes set out in this Privacy Policy. We will
+        retain and use Your Personal Data to the extent necessary to comply with
+        our legal obligations (for example, if we are required to retain your
+        data to comply with applicable laws), resolve disputes, and enforce our
+        legal agreements and policies.
+</p> <p data-astro-cid-fb3qbcs3="">
+The Company will also retain Usage Data for internal analysis purposes.
+        Usage Data is generally retained for a shorter period, except when this
+        data is used to strengthen the security or to improve the functionality
+        of Our Service, or We are legally obligated to retain this data for
+        longer time periods.
+</p> <h3 data-astro-cid-fb3qbcs3="" id="transfer-of-your-personal-data">
+Transfer of Your Personal Data
+</h3> <p data-astro-cid-fb3qbcs3="">
+Your information, including Personal Data, is processed at the Company’s
+        operating offices and in any other places where the parties involved in
+        the processing are located. It means that this information may be
+        transferred to — and maintained on — computers located outside Your
+        state, province, country, or other governmental jurisdiction where the
+        data protection laws may differ than those from Your jurisdiction.
+</p> <p data-astro-cid-fb3qbcs3="">
+Your consent to this Privacy Policy followed by Your submission of such
+        information represents Your agreement to that transfer.
+</p> <p data-astro-cid-fb3qbcs3="">
+The Company will take all steps reasonably necessary to ensure that Your
+        data is treated securely and in accordance with this Privacy Policy, and
+        no transfer of Your Personal Data will take place to an organization or
+        a country unless there are adequate controls in place, including the
+        security of Your data and other personal information.
+</p> <h3 data-astro-cid-fb3qbcs3="" id="disclosure-of-your-personal-data">
+Disclosure of Your Personal Data
+</h3> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Business Transactions</strong> </p> <p data-astro-cid-fb3qbcs3="">
+If the Company is involved in a merger, acquisition or asset sale, Your
+        Personal Data may be transferred. We will provide notice before Your
+        Personal Data is transferred and becomes subject to a different Privacy
+        Policy.
+</p> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Law enforcement</strong> </p> <p data-astro-cid-fb3qbcs3="">
+Under certain circumstances, the Company may be required to disclose
+        Your Personal Data if required to do so by law or in response to valid
+        requests by public authorities (e.g., a court or a government agency).
+</p> <p data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Other legal requirements</strong> </p> <p data-astro-cid-fb3qbcs3="">
+The Company may disclose Your Personal Data in the good faith belief
+        that such action is necessary to:
+</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3="">Comply with a legal obligation</li> <li data-astro-cid-fb3qbcs3="">Protect and defend the rights or property of the Company</li> <li data-astro-cid-fb3qbcs3="">
+Prevent or investigate possible wrongdoing in connection with the
+          Service
+</li> <li data-astro-cid-fb3qbcs3="">
+Protect the personal safety of Users of the Service or the public
+</li> <li data-astro-cid-fb3qbcs3="">Protect against legal liability</li> </ul> <h3 data-astro-cid-fb3qbcs3="" id="security-of-your-personal-data">
+Security of Your Personal Data
+</h3> <p data-astro-cid-fb3qbcs3="">
+The security of Your Personal Data is important to Us, but remember that
+        no method of transmission over the Internet, or method of electronic
+        storage is 100% secure. While We strive to use commercially acceptable
+        means to protect Your Personal Data, We cannot guarantee its absolute
+        security.
+</p> <h3 data-astro-cid-fb3qbcs3="" id="other-uses-of-your-personal-data">
+Other uses of Your Personal Data
+</h3> <p data-astro-cid-fb3qbcs3="">The Company does not sell Your Personal Data.</p> <h2 data-astro-cid-fb3qbcs3="" id="gdpr-privacy">GDPR Privacy</h2> <h3 data-astro-cid-fb3qbcs3="" id="legal-basis-for-processing-personal-data-under-gdpr">
+Legal Basis for Processing Personal Data under GDPR
+</h3> <p data-astro-cid-fb3qbcs3="">
+We may process Personal Data under one or more of the following
+        conditions:
+</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Consent</strong>: You have given Your consent for processing
+          Personal Data for one or more specific purposes.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Performance of a contract</strong>: Provision of Personal Data
+          is necessary for the performance of an agreement with You and/or for
+          any pre-contractual obligations thereof.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Legal obligations</strong>: Processing Personal Data is
+          necessary for compliance with a legal obligation to which the Company
+          is subject.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Vital interests</strong>: Processing Personal Data is
+          necessary to protect Your vital interests or of another natural
+          person.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Public interests</strong>: Processing Personal Data is related
+          to a task that is carried out in the public interest or in the
+          exercise of official authority vested in the Company.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Legitimate interests</strong>: Processing Personal Data is
+          necessary for the purposes of the legitimate interests pursued by the
+          Company.
+</li> </ul> <p data-astro-cid-fb3qbcs3="">
+In any case, the Company will, upon Your request, help to clarify the
+        specific legal basis that applies to the processing, and whether the
+        provision of Personal Data is a statutory or contractual requirement, or
+        a requirement necessary to enter into a contract.
+</p> <h3 data-astro-cid-fb3qbcs3="" id="your-rights-under-the-gdpr">Your Rights under the GDPR</h3> <p data-astro-cid-fb3qbcs3="">
+The Company undertakes to respect the confidentiality of Your Personal
+        Data and to guarantee You can exercise Your rights.
+</p> <p data-astro-cid-fb3qbcs3="">
+You have the right under this Privacy Policy, and by law if You are
+        within the EU, to:
+</p> <ul data-astro-cid-fb3qbcs3=""> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Request access to Your Personal Data</strong>. The right to
+          access, update or delete the information We have on You. Whenever made
+          possible, you can access, update or request deletion of Your Personal
+          Data directly within Your account settings section. If you are unable
+          to perform these actions yourself, please contact Us to assist You.
+          This also enables You to receive a copy of the Personal Data We hold
+          about You.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Request correction of the Personal Data that We hold about You</strong>. You have the right to have any incomplete or inaccurate information
+          We hold about You corrected.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Object to processing of Your Personal Data</strong>. This
+          right exists where We are relying on a legitimate interest as the
+          legal basis for Our processing and there is something about Your
+          situation, which makes You want to object to our processing of Your
+          Personal Data on this ground. You also have the right to object where
+          We are processing Your Personal Data for direct marketing purposes.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Request erasure of Your Personal Data</strong>. You have the
+          right to ask Us to delete or remove Personal Data when there is no
+          good reason for Us to continue processing it.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Request the transfer of Your Personal Data</strong>. We will
+          provide to You, or to a third-party You have chosen, Your Personal
+          Data in a structured, commonly used, machine-readable format. Please
+          note that this right only applies to automated information which You
+          initially provided consent for Us to use, or where We used the
+          information to perform a contract with You.
+</li> <li data-astro-cid-fb3qbcs3=""> <strong data-astro-cid-fb3qbcs3="">Withdraw Your consent</strong>. You have the right to withdraw
+          Your consent to using your Personal Data. If You withdraw Your
+          consent, We may not be able to provide You with access to certain
+          specific functionalities of the Service.
+</li> </ul> <h3 data-astro-cid-fb3qbcs3="" id="exercising-of-your-gdpr-data-protection-rights">
+Exercising of Your GDPR Data Protection Rights
+</h3> <p data-astro-cid-fb3qbcs3="">
+You may make your data subject requests by contacting Us at <a data-astro-cid-fb3qbcs3="" href="mailto:dsr@astronomer.io">dsr@astronomer.io</a>. Please note that we may ask You to verify Your identity before
+        responding to such requests. If You make a request, We will try our best
+        to respond to You as soon as possible.
+</p> <p data-astro-cid-fb3qbcs3="">
+You have the right to complain to a Data Protection Authority about Our
+        collection and use of Your Personal Data. For more information, if You
+        are in the European Economic Area (EEA), please contact Your local data
+        protection authority in the EEA.
+</p> <h3 data-astro-cid-fb3qbcs3="" id="subprocessors">Subprocessors</h3> <p data-astro-cid-fb3qbcs3="">
+A list of subprocessors can be provided upon request by emailing <a data-astro-cid-fb3qbcs3="" href="mailto:privacy@astronomer.io">privacy@astronomer.io</a>.
+</p> <p data-astro-cid-fb3qbcs3="">Your information may be transferred outside the EU.</p> <h2 data-astro-cid-fb3qbcs3="" id="california-consumer-privacy-act-ccpa">
+California Consumer Privacy Act (CCPA)
+</h2> <p data-astro-cid-fb3qbcs3="">
+California law affords residents additional rights to protect Your
+        privacy. Requests associated with Your data should also be sent to <a data-astro-cid-fb3qbcs3="" href="mailto:dsr@astronomer.io">dsr@astronomer.io</a>.
+</p> <p data-astro-cid-fb3qbcs3="">
+You have the right under this Privacy Policy, and by law if You are a
+        resident of California: The right to know about the personal information
+        a business collects about them and how it is used and shared; The right
+        to delete personal information collected from them (with some
+        exceptions); The right to opt-out of the sale of their personal
+        information; and The right to non-discrimination for exercising their
+        CCPA rights.
+</p> <h2 data-astro-cid-fb3qbcs3="" id="links-to-other-websites">Links to Other Websites</h2> <p data-astro-cid-fb3qbcs3="">
+Our Service may contain links to other websites that are not operated by
+        Us. If You click on a third-party link, You will be directed to that
+        third-party’s site. We strongly advise You to review the Privacy Policy
+        of every site You visit.
+</p> <p data-astro-cid-fb3qbcs3="">
+We have no control over and assume no responsibility for the content,
+        privacy policies or practices of any third-party sites or services.
+</p> <h2 data-astro-cid-fb3qbcs3="" id="changes-to-this-privacy-policy">
+Changes to This Privacy Policy
+</h2> <p data-astro-cid-fb3qbcs3="">
+We may update Our Privacy Policy from time-to-time. We will notify You
+        of any changes by posting the new Privacy Policy on this page and
+        updating the “Last updated” date at the top of this Privacy Policy.
+</p> <p data-astro-cid-fb3qbcs3="">
+You are advised to review this Privacy Policy periodically for any
+        changes. Changes to this Privacy Policy are effective when they are
+        posted on this page.
+</p> <h2 data-astro-cid-fb3qbcs3="" id="contact-us">Contact Us</h2> <p data-astro-cid-fb3qbcs3="">
+If you have any questions about this Privacy Policy, You can contact us:
+</p> <p data-astro-cid-fb3qbcs3="">
+By email: <a data-astro-cid-fb3qbcs3="" href="mailto:privacy@astronomer.io">privacy@astronomer.io</a> </p> <p data-astro-cid-fb3qbcs3="">
+By phone at <a data-astro-cid-fb3qbcs3="" href="tel:877-607-9045">(877) 607-9045</a> </p> <p data-astro-cid-fb3qbcs3="">
+By visiting this page on our website: <a data-astro-cid-fb3qbcs3="" href="https://www.astronomer.io/contact/">www.astronomer.io/contact/</a> </p> </div> </section>  </main> <section class="page-end-cta" data-astro-cid-aix3ynwr="" id="cta"> <div class="page-end-cta__content container" data-astro-cid-aix3ynwr=""> <div class="page-end-cta__text" data-astro-cid-aix3ynwr=""> <h2 class="page-end-cta__title acds-h3" data-astro-cid-aix3ynwr="">Build, run, &amp; observe <br>your data workflows. <br>All in one place.</h2> <p class="page-end-cta__description acds-body-xl" data-astro-cid-aix3ynwr="">Try Astro today and get $300 in free credits during your 14-day trial.</p> <div class="flex-container" data-astro-cid-aix3ynwr=""> <a class="acds-button   " data-astro-cid-aix3ynwr="true" href="/lp/signup/">Get Started Free</a><a class="acds-button  outline " data-astro-cid-aix3ynwr="true" href="/book-a-demo/">Book a Demo</a> </div> </div> <div class="page-end-cta__graphic" data-astro-cid-aix3ynwr=""> <img alt="" class="page-end-cta__image" data-astro-cid-aix3ynwr="" data-cms-original-src="/images/footer/product-shots.svg" loading="lazy" src="/images/footer/product-shots.svg?_cchid=cdf1119c268073c650b8484c262deb1f">  </div> </div> </section>  <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var a=(s,i,o)=>{let r=async()=>{await(await s())()},t=typeof i.value=="object"?i.value:void 0,c={rootMargin:t==null?void 0:t.rootMargin},n=new IntersectionObserver(e=>{for(let l of e)if(l.isIntersecting){n.disconnect(),r();break}},c);for(let e of o.children)n.observe(e)};(self.Astro||(self.Astro={})).visible=a;window.dispatchEvent(new Event("astro:visible"));})();;(()=>{var A=Object.defineProperty;var g=(i,o,a)=>o in i?A(i,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):i[o]=a;var d=(i,o,a)=>g(i,typeof o!="symbol"?o+"":o,a);{let i={0:t=>m(t),1:t=>a(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(a(t)),5:t=>new Set(a(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>1/0*t},o=t=>{let[l,e]=t;return l in i?i[l](e):void 0},a=t=>t.map(o),m=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([l,e])=>[l,o(e)]));class y extends HTMLElement{constructor(){super(...arguments);d(this,"Component");d(this,"hydrator");d(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let c=this.querySelectorAll("astro-slot"),n={},h=this.querySelectorAll("template[data-astro-template]");for(let r of h){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(let r of c){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("name")||"default"]=r.innerHTML)}let p;try{p=this.hasAttribute("props")?m(JSON.parse(this.getAttribute("props"))):{}}catch(r){let s=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(s+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${s}`,this.getAttribute("props"),r),r}let u;await this.hydrator(this)(this.Component,p,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});d(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),c.disconnect(),this.childrenConnectedCallback()},c=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});c.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}async start(){let e=JSON.parse(this.getAttribute("opts")),c=this.getAttribute("client");if(Astro[c]===void 0){window.addEventListener(`astro:${c}`,()=>this.start(),{once:!0});return}try{await Astro[c](async()=>{let n=this.getAttribute("renderer-url"),[h,{default:p}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),u=this.getAttribute("component-export")||"default";if(!u.includes("."))this.Component=h[u];else{this.Component=h;for(let f of u.split("."))this.Component=this.Component[f]}return this.hydrator=p,this.hydrate},e,this)}catch(n){console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`,n)}}attributeChangedCallback(){this.hydrate()}}d(y,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",y)}})();</script><astro-island await-children="" client="visible" component-export="default" component-url="/_astro/Footer.Vwx2mmT2.js" opts="{&quot;name&quot;:&quot;Footer&quot;,&quot;value&quot;:true}" prefix="r1" props="{&quot;hideLinks&quot;:[0,false],&quot;hideNewsletter&quot;:[0,false]}" renderer-url="/_astro/client.CTL-jGYt.js" ssr="" uid="Z1C4IYo"><footer class="acds-footer"><div class="acds-footer__inner"><div class="acds-footer__top"><nav class="acds-footer__nav"><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="product">Product</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="/product/">Platform Overview</a></li><li><a class="acds-footer__nav-item" href="/product/">Astro</a></li><li><a class="acds-footer__nav-item" href="/product/observe/">Observe</a></li><li><a class="acds-footer__nav-item" href="/product/software/">Astronomer Software</a></li><li><a class="acds-footer__nav-item" href="/security/">Security &amp; Trust</a></li><li><a class="acds-footer__nav-item" href="/pricing/">Pricing</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="tools-services">Tools &amp; Services</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="/cosmos/">Cosmos</a></li><li><a class="acds-footer__nav-item" href="https://registry.astronomer.io/">Registry</a></li><li><a class="acds-footer__nav-item" href="/docs/">Docs</a></li><li><a class="acds-footer__nav-item" href="/professional-services/">Professional Services</a></li><li><a class="acds-footer__nav-item" href="/product/updates/">Product Updates</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="use-cases">Use Cases</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="/solutions/ai-ml/">AI Ops</a></li><li><a class="acds-footer__nav-item" href="/solutions/data-observability/">Data Observability</a></li><li><a class="acds-footer__nav-item" href="/solutions/etl-elt/">ETL/ELT</a></li><li><a class="acds-footer__nav-item" href="/solutions/mlops/">ML Ops</a></li><li><a class="acds-footer__nav-item" href="/solutions/operational-analytics/">Operational Analytics</a></li><li><a class="acds-footer__nav-item" href="/solutions/">All Use Cases</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="industries">Industries</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="/solutions/financial-services/">Financial Services</a></li><li><a class="acds-footer__nav-item" href="/solutions/gaming/">Gaming</a></li><li><a class="acds-footer__nav-item" href="/solutions/retail-ecommerce/">Retail</a></li><li><a class="acds-footer__nav-item" href="/solutions/manufacturing/">Manufacturing</a></li><li><a class="acds-footer__nav-item" href="/solutions/healthcare/">Healthcare</a></li><li><a class="acds-footer__nav-item" href="/solutions/">All Industries</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="resources">Resources</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="https://academy.astronomer.io/">Academy</a></li><li><a class="acds-footer__nav-item" href="/resources/">eBooks &amp; Guides</a></li><li><a class="acds-footer__nav-item" href="/blog/">Blog</a></li><li><a class="acds-footer__nav-item" href="/events/webinars/">Webinars</a></li><li><a class="acds-footer__nav-item" href="/events/">Events</a></li><li><a class="acds-footer__nav-item" href="/podcast/">The Data Flowcast</a></li><li><a class="acds-footer__nav-item" href="/resources/">All Resources</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="airflow">Airflow</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="/airflow/">What is Airflow?</a></li><li><a class="acds-footer__nav-item" href="/astro-vs-apache-airflow-oss/">Airflow on Astro</a></li><li><a class="acds-footer__nav-item" href="/airflow/3-0/">Airflow 3.0</a></li><li><a class="acds-footer__nav-item" href="/airflow/use-cases/">Airflow Use Cases</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="company">Company</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="/about-us/">Our Story</a></li><li><a class="acds-footer__nav-item" href="/customers/">Customers</a></li><li><a class="acds-footer__nav-item" href="/partners/">Partners</a></li><li><a class="acds-footer__nav-item" href="/contact/">Contact Us</a></li><li><a class="acds-footer__nav-item" href="/press/">Newsroom</a></li><li><a class="acds-footer__nav-item" href="/careers/">Careers</a></li></ul></div><div class="acds-footer__nav--list"><h2 class="acds-eyebrow" id="support">Support</h2><ul class="acds-footer__nav-list list-reset"><li><a class="acds-footer__nav-item" href="https://support.astronomer.io/hc/en-us">Knowledge Base</a></li><li><a class="acds-footer__nav-item" href="https://status.astronomer.io/">Status</a></li><li><a class="acds-footer__nav-item" href="https://support.astronomer.io/hc/en-us">Contact Support</a></li></ul></div></nav><div class="acds-footer__newsletter"><div class="acds-footer__newsletter__content"><h2>Sign Up For the Latest <br>Updates From Astronomer</h2><div class="acds-form " data-marketo-form-id="1072" id="1072"><div class="acds-form__text"><p class="acds-form__subtext"></p></div><form id="mktoForm_1072"></form><p class="acds-form__successMessage hidden text-center" id="mktoForm_successMessage_1072">Thanks for you interest, you're subscribed!</p><p class="acds-form__terms" id="mktoForm_terms_1072"><small>By proceeding you agree to our <a href="https://www.astronomer.io/privacy/">Privacy Policy</a>, our <a href="https://www.astronomer.io/legal/terms-of-service/">Website Terms</a> and to receive emails from Astronomer.</small></p></div></div></div></div><div class="acds-footer__bottom"><div class="acds-footer__bottom-links"><nav><ul class="acds-footer__small-links list-reset flex-container"><li><a class="acds-footer__nav-item" href="/legal/">Legal</a></li><li><a class="acds-footer__nav-item" href="/privacy/">Privacy</a></li><li><a class="acds-footer__nav-item" href="/legal/terms-of-service/">Terms of Service</a></li><li><a class="acds-footer__nav-item termly-display-preferences" href="#">Consent Preferences</a></li></ul></nav><div class="acds-footer__social"><a href="https://github.com/astronomer"><img alt="GitHub" data-cms-original-src="/icons/github copy.svg" height="22" loading="lazy" src="/icons/github%20copy.svg?_cchid=81487c88eb6bb8d92496543adf6bb0a4" width="22"></a><a href="https://www.youtube.com/c/astronomer"><img alt="YouTube" data-cms-original-src="/icons/youtube copy.svg" height="22" loading="lazy" src="/icons/youtube%20copy.svg?_cchid=38c2ca7295a216d28f0b53a4028abb4c" width="22"></a><a href="https://www.linkedin.com/company/astronomer/"><img alt="LinkedIn" data-cms-original-src="/icons/linkedin copy.svg" height="22" loading="lazy" src="/icons/linkedin%20copy.svg?_cchid=be30d352de9189383acb24f1d826375e" width="22"></a><a href="https://x.com/astronomerio"><img alt="x" data-cms-original-src="/icons/x.svg" height="22" loading="lazy" src="/icons/x.svg?_cchid=830cc25e81d5b6efd0df9ee4fbe0fc7b" width="22"></a></div></div><p class="acds-footer__small-text"><a class="acds-apache-link" href="https://airflow.apache.org/">Apache Airflow®</a>, Airflow, and the Airflow logo are trademarks of the <a class="acds-apache-link" href="https://apache.org/">Apache Software Foundation</a>. Copyright © Astronomer <!-- -->2025<!-- -->. All rights reserved.</p></div></div></footer><!--astro:end--></astro-island> <script>
+      window.addEventListener("DOMContentLoaded", () => {
+        if (
+          !document.querySelector(".headerNav") &&
+          document.querySelector(".menuToggle")
+        ) {
+          document.querySelector(".menuToggle").remove();
+        }
+        setTimeout(() => {
+          document.querySelector("body").classList.remove("preload");
+        }, 100);
+
+        var i = "analytics",
+          analytics = (window[i] = window[i] || []);
+      });
+    </script> <script type="module">(function(e,n,r,t,m){e[t]=e[t]||[],e[t].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var g=n.getElementsByTagName(r)[0],a=n.createElement(r),s="";a.async=!0,a.src="https://www.googletagmanager.com/gtm.js?id="+m+s,g.parentNode.insertBefore(a,g)})(window,document,"script","dataLayer","GTM-WCJNSWTS");</script>   </body></html>
