@@ -1,5 +1,14 @@
+# T&C Ranker
 
-# Folder Structure
+This repository contains the code for the T&C Ranker project.
+It is part of Stanford CS 224N Final Project.
+
+By Ray Hu, Benjamin Ward, and Basant Khalil
+
+Mentored by Jing Huang
+
+
+## Folder Structure
 
 - data_downloader/
   - download-data.js
@@ -36,12 +45,20 @@ The Review_xx files are the downloaded documents that are less likely to be a T&
 
 ## Run the Data downloader:
 
-Go to data_downloader folder and run:
+Go to data_downloader folder, put your huggingface token in the .env file under this folder, 
+
+```bash
+HUGGINGFACE_API_TOKEN=<your_huggingface_token>
+```
+
+And then run:
+
 ```bash
 npm install
 npm run download
 ```
-Verify the data is downloaded in the data_trial_<timestamp> folder.
+
+Now, verify the five test data is downloaded in the data_trial_<timestamp> folder. Check for any errors and data quality issues.
 
 When the data is clean and tidy, run the following command to download all the data:
 ```

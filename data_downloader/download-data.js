@@ -13,6 +13,14 @@ function readJSONFile(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
+// Function to shuffle an array
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
+
 // Function to create a directory if it doesn't exist
 function createDirectory(dirPath) {
   if (!fs.existsSync(dirPath)) {
@@ -148,7 +156,8 @@ async function downloadData(all = false) {
   const limit = all ? services.length : 5;
   console.log(limit + " services will be downloaded");
   console.log("--------------------------------");
-
+  shuffleArray(services);
+  
   for (let i = 0; i < limit; i++) {
     const service = services[i]; // ["services"][0];
 
@@ -194,27 +203,33 @@ async function downloadData(all = false) {
     for (const link of documentLinks) {
       const fileName = path.basename(link);
       const filePath = path.join(documentsDir, `${fileName}.html`);
-      await downloadFile(link, filePath);
+      
+      try {
+        await downloadFile(link, filePath);
 
-      // Read and analyze the downloaded document
-      const documentContent = fs.readFileSync(filePath, "utf8");
-      const documentText = extractTextFromHTML(documentContent);
-      fs.writeFileSync(`${filePath}.txt`, documentText);
+        // Read and analyze the downloaded document
+        const documentContent = fs.readFileSync(filePath, "utf8");
+        const documentText = extractTextFromHTML(documentContent);
+        fs.writeFileSync(`${filePath}.txt`, documentText);
 
-      // Check if the document text contains T&C
-      const containsTC = await checkForTermsAndConditions(documentText);
-      if (containsTC) {
-        console.log(
-          `The document ${fileName} for service ${service.name} contains T&C.`
-        );
-      } else {
-        console.log(
-          `The document ${fileName} for service ${service.name} does not contain T&C.`
-        );
+        // Check if the document text contains T&C
+        const containsTC = await checkForTermsAndConditions(documentText);
+        if (containsTC) {
+          console.log(
+            `The document ${fileName} for service ${service.name} contains T&C.`
+          );
+        } else {
+          console.log(
+            `The document ${fileName} for service ${service.name} does not contain T&C.`
+          );
+        }
+
+        await saveDocument(documentText, fileName, service.name, containsTC, documentsDir);
+      } catch (error) {
+        console.error(`Error processing document ${fileName} for service ${service.name}:`, error.message);
+        // Optionally, you can continue to the next document or service
+        continue;
       }
-
-      await saveDocument(documentText, fileName, service.name, containsTC, documentsDir);
-
     }
   }
 }
