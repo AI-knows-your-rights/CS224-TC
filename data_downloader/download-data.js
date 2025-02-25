@@ -45,19 +45,15 @@ function extractTextFromHTML(htmlContent) {
   // Remove scripts, styles, and irrelevant elements
   $("script, style, noscript, iframe, link, meta, svg").remove();
 
+  const mainContent = $(
+    'body'
+  );
   // Extract the text from relevant sections
-  const text = $("body")
-    .find("*")
-    .contents()
-    .filter(function () {
-      return this.type === "text";
-    })
-    .map(function () {
-      return $(this).text().trim();
-    })
-    .get()
-    .join(" ")
-    .replace(/\s+/g, " "); // Normalize spaces
+  const text = mainContent
+    .text()
+    .replace(/\s+/g, " ") // Normalize spaces
+    .replace(/\n\s*\n/g, '\n\n') // 去除多余空行
+    .trim(); // 去除首尾空格
 
   return text;
 }
@@ -100,7 +96,10 @@ async function checkForTermsAndConditions(text) {
       };
     }
   } catch (error) {
-    console.error("Error during classification:", error);
+    console.error("Error during classification:", error.message);
+    if (error.response) {
+      console.error("Response data:", error.response.data);
+    }
     return {
       status: "Error",
       message: "Classification failed",
@@ -161,7 +160,7 @@ async function downloadData(all = false) {
       continue; // Skip this service
     }
 
-    const dataDirName = all ? `data_trial_${timestamp}` : `data_${timestamp}`;
+    const dataDirName = all ? `data_all_${timestamp}` : `data_trial_${timestamp}`;
     const serviceDir = path.join(__dirname, `../${dataDirName}`, service.name);
 
     createDirectory(serviceDir);
@@ -200,6 +199,7 @@ async function downloadData(all = false) {
       // Read and analyze the downloaded document
       const documentContent = fs.readFileSync(filePath, "utf8");
       const documentText = extractTextFromHTML(documentContent);
+      fs.writeFileSync(`${filePath}.txt`, documentText);
 
       // Check if the document text contains T&C
       const containsTC = await checkForTermsAndConditions(documentText);
