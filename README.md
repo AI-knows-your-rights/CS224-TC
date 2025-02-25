@@ -18,32 +18,34 @@ Mentored by Jing Huang
 
 - data/
 
-# Data
+## Data
 
-The Data are downloaded to the data_all_<timestamp>, use the latest data_all_<timestamp> folder. For each company, there is a folder with the company name.
+The Data are downloaded to the data folder. These are the raw data, not cleaned up.
 
-## Website Scoring
-It contains a details.json with the website scoring, the domain and the url, etc.
+The data_all_\<timestamp\> contains cleaned up data, use the latest folder.
 
-## Clause by Clause Rating
-Also it contains a service.html with the clause by clause rating. The servicve.html is converted to service.txt with the text content for easier reading.
+For each company, there is a folder of the company name.
 
-### TODO: convert the service.html into JSON format for easier processing.
+### Website Scoring
+The folder contains a details.json with the website scoring, the domain and the url, etc.
 
-### TODO: Re-organize the data by rating and detect the clauses distribution. Similar T&C clauses shall receive similar rating, but maybe there are overlapping in the manually rated clauses.
+### Clause by Clause Rating
+Also the folder contains a service.html with the clause by clause rating. The servicve.html is converted to service.txt with the text content for easier reading.
 
-## T&C Documents
-There is also a documents folder with the downloaded documents.
+#### TODO: convert the service.html into JSON format for easier processing.
 
-The original documents are in html format. Each document has a text version for easier reading. And then the text version is classified as a T&C or not by the facebook/bart model.
+#### TODO: Re-organize the data by rating and detect the clauses distribution. Similar T&C clauses shall receive similar rating, but maybe there are overlapping in the manually rated clauses.
 
-The TC_xx files are cleaned up data from the downloaded documents and went through the facebook/bart classification as a T&C.
+### T&C Documents
 
-The Review_xx files are the downloaded documents that are less likely to be a T&C.
+In the website folder, there is a documents subfolder that contains the T&C documents.
 
-# Usage
+The original documents are in html format. Each document has a text version for easier reading. And then the text version is classified as a T&C or not by the facebook/bart model. If they are classified as a T&C, the filename is TC_xx. If they are classified as not a T&C, the filename is Review_xx.
 
-## Run the Data downloader:
+
+## Usage
+
+### Run the Data downloader:
 
 Go to data_downloader folder, put your huggingface token in the .env file under this folder, 
 
@@ -58,16 +60,16 @@ npm install
 npm run download
 ```
 
-Now, verify the five test data is downloaded in the data_trial_<timestamp> folder. Check for any errors and data quality issues.
+Now, verify the five trial data is downloaded in the data_trial_\<timestamp\> folder. Check for any errors and data quality issues.
 
 When the data is clean and tidy, run the following command to download all the data:
 ```
 npm run download -- --all
 ```
 
-## Fine-tune the model:
+### Fine-tune the model:
 
-### Setup
+#### Setup
 
 ```bash
 conda create -n tc_ranker python=3.10
@@ -78,22 +80,22 @@ python src/lergal-bert.py
 ```
 
 
-# References
+## References
 
 
-## Cheerio
+### Cheerio
 
 https://cheerio.js.org/
 
 A library for parsing HTML.
 
-## facebook/bart
+### facebook/bart
 
 https://huggingface.co/facebook/bart-large-mnli
 
 This is a fine-tuned model for zero-shot classification. We use it to classify the downloaded documents as a T&C or not.
 
-## Legal-bert
+### Legal-bert
 LEGAL-BERT: The Muppets straight out of Law School(https://aclanthology.org/2020.findings-emnlp.261/)
 
 https://arxiv.org/pdf/2010.02559
