@@ -9,14 +9,21 @@
 
 - data/
 
-The naming convention is data_all_<timestamp>. use the latest data_all_xxxxxxxx folder.
+# Data
 
-For each company, there is a folder with the company name.
+The Data are downloaded to the data_all_<timestamp>, use the latest data_all_<timestamp> folder. For each company, there is a folder with the company name.
 
-It contains a details.json with the website scoring.
+## Website Scoring
+It contains a details.json with the website scoring, the domain and the url, etc.
 
+## Clause by Clause Rating
 Also it contains a service.html with the clause by clause rating. The servicve.html is converted to service.txt with the text content for easier reading.
 
+### TODO: convert the service.html into JSON format for easier processing.
+
+### TODO: Re-organize the data by rating and detect the clauses distribution. Similar T&C clauses shall receive similar rating, but maybe there are overlapping in the manually rated clauses.
+
+## T&C Documents
 There is also a documents folder with the downloaded documents.
 
 The original documents are in html format. Each document has a text version for easier reading. And then the text version is classified as a T&C or not by the facebook/bart model.
@@ -27,7 +34,7 @@ The Review_xx files are the downloaded documents that are less likely to be a T&
 
 # Usage
 
-Data downloader:
+## Run the Data downloader:
 
 Go to data_downloader folder and run:
 ```bash
@@ -41,9 +48,9 @@ When the data is clean and tidy, run the following command to download all the d
 npm run download -- --all
 ```
 
-Fine-tune the model:
+## Fine-tune the model:
 
-# Setup
+### Setup
 
 ```bash
 conda create -n tc_ranker python=3.10
@@ -57,19 +64,19 @@ python src/lergal-bert.py
 # References
 
 
-# Cheerio
+## Cheerio
 
 https://cheerio.js.org/
 
 A library for parsing HTML.
 
-# facebook/bart
+## facebook/bart
 
 https://huggingface.co/facebook/bart-large-mnli
 
 This is a fine-tuned model for zero-shot classification. We use it to classify the downloaded documents as a T&C or not.
 
-# Legal-bert
+## Legal-bert
 LEGAL-BERT: The Muppets straight out of Law School(https://aclanthology.org/2020.findings-emnlp.261/)
 
 https://arxiv.org/pdf/2010.02559
