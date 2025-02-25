@@ -1,0 +1,478 @@
+<!doctype html>
+<html>
+
+<head>
+    <script>
+    window.balancesApi = "https://account.presearch.com/user/token-balances"
+    window.rewardsToggleApi = "https://account.presearch.com/user/me/rewards-state"
+    window.userId = "";
+    window.rewardsDisabled = "false";
+</script>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="csrf-token" content="6eC036g9AdGsO2v8Ujq11cm3JU9wEkVW7HHIn0be">
+
+<title>Terms Of Service</title>
+
+
+
+<meta name="description" content="Presearch is a decentralized search engine, powered by the community.">
+
+<meta property="og:title" content="Presearch Keyword Staking">
+<meta property="og:description" content="Presearch is a decentralized search engine, powered by the community.">
+<meta property="og:image" content="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/images/sharing/sharingimage_keywords.png">
+<meta property="og:url" content="https://account.presearch.com/terms-of-service">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="Presearch">
+<meta name="twitter:image:alt" content="Presearch">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@presearchnews">
+<meta name="twitter:url" content="https://account.presearch.com/terms-of-service">
+<meta name="twitter:title" content="Presearch Keyword Staking">
+<meta name="twitter:description" content="Presearch is a decentralized search engine, powered by the community.">
+<meta name="twitter:image" content="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/images/sharing/sharingimage_keywords.png">
+
+<link rel="icon" type="image/x-icon" href="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/favicon.ico">
+<link rel="icon" type="image/png" href="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/favicon.png">
+
+
+<script>
+    window.domains = {"account":"https:\/\/account.presearch.com","account_api":"https:\/\/account.presearch.com","ads_api":"https:\/\/keywords.presearch.com\/api","admin_api":"https:\/\/admin.presearch.com","api":"https:\/\/api.presearch.com","marketplace_api":"https:\/\/marketplace.api.presearch.com","nodes_api":"https:\/\/nodes.api.presearch.com","network_api":"https:\/\/network.api.presearch.com","app_domain":"presearch.com"}
+    if (document.cookie.includes("use_dark_mode=true") || document.cookie.includes("use_dark_mode=1") || (!document.cookie.includes("use_dark_mode") && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('tw-dark');
+    } else {
+        document.documentElement.classList.remove('tw-dark');
+    }
+</script>
+
+
+  <link rel="stylesheet" href="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/css/app.css?id=86f980731ed835dd89c651eb27648dd8">
+  <link rel="stylesheet" href="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/css/keywords.css?id=b7a2929206848a229c58087b2ab016a8">
+  <link rel="stylesheet" href="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/css/tailwind.css?id=d22d6d9ef7116c90da476100eb5af65a">
+
+    <style>
+    header {
+    background: #2d8eff
+    }
+</style></head>
+
+<body class="terms-of-service tw-font-sans tw-flex tw-flex-col tw-flex-1  dark:tw-bg-dark-800 " x-data="data()">
+
+    
+    <div class="tw-flex tw-flex-col ">
+
+        <header class=" dark:tw-bg-dark-800 tw-h-24 tw-pb-2 tw-mb-2 ">
+            <style>
+  .light-mode-bg {
+    background: #2d8eff;
+  }
+  .foreground-color {
+      color: #fff;
+  }
+  .foreground-color.open {
+    color: #000;
+  }
+  .pre-symbol-bg {
+    background: #fff;
+    color: #2d8eff;
+  }
+  .tw-dark .foreground-color {
+      color: #fff;
+  }
+
+  .tw-dark .foreground-color.open {
+    color: #fff;
+  }
+  .tw-dark .pre-symbol-bg {
+    background: #fff;
+    color: #000;
+  }
+</style>
+<div class="tw-fixed tw-w-screen tw-h-screen tw-z-20 tw-top-0 tw-left-0" x-show="$store.showSidebar && $store.showSidebar.show" x-on:mouseover="hideSettings(true, false, true)" @click="hideSettings(true, false, true)"></div>
+<div class="tw-flex tw-justify-between tw-font-sans">
+  <div class="tw-mt-5 md:tw-mt-5 tw-top-0 tw-ml-2 dark:tw-text-white tw-text-presearch-default">
+    <a href="https://presearch.com"   class="tw-text-white hover:tw-text-white focus:tw-text-white" >
+      <svg class="tw-w-12 tw-h-12 tw-ml-4  foreground-color " viewBox="0 0 80 80"
+        version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
+        xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <g transform="translate(-21.55574,-0.85780717)">
+          <rect class="tw-text-transparent" fill="currentColor" width="76.895065" height="66.493217" x="21.55574" y="5.4498072"></rect>
+          <g transform="translate(40.352312,-0.16746033)">
+            <path d="m 9.475428,50.625267 h 7.784 a 15.048,15.048 0 0 0 6.448,-1.439999 16.448,16.448 0 0 0 5,-3.848 17.856,17.856 0 0 0 3.2,-5.6 18.256,18.256 0 0 0 1.152,-6.448001 15.816,15.816 0 0 0 -1.248,-6.248 19.024,19.024 0 0 0 -3.408,-5.44 16.96,16.96 0 0 0 -5.096,-3.944 13.808,13.808 0 0 0 -6.4,-1.536 h -20.504 v 49.704 h 13.072 z m 0,-22.503999 h 6.632 a 3.584,3.584 0 0 1 2.4,1.16 c 0.8,0.8 1.256,2.112 1.256,4.224 0,2.112 -0.48,3.368 -1.16,4.04 a 2.984,2.984 0 0 1 -2.2,1.175999 h -6.928 z" fill="currentColor" style="stroke-width:0.8"></path>
+            <path class="tw-text-transparent" d="M -18.796572,5.6172675 V 76.433267 a 4.592,4.592 0 0 0 4.592,4.592 h 70.816 a 4.592,4.592 0 0 0 4.592,-4.592 V 5.6172675 a 4.592,4.592 0 0 0 -4.592,-4.592 h -70.816 a 4.592,4.592 0 0 0 -4.592,4.592 z m 65.984,65.9840005 h -52.064 a 4.592,4.592 0 0 1 -4.592,-4.592 v -52.064 a 4.592,4.592 0 0 1 4.592,-4.592001 h 52.064 a 4.592,4.592 0 0 1 4.592,4.592001 v 52.063999 a 4.592,4.592 0 0 1 -4.592,4.592001 z" style="stroke-width:0.8;" fill="currentColor"></path>
+            <rect x="15.343428" y="56.42527" width="30.67" height="9.3999996" fill="currentColor"></rect>
+          </g>
+        </g>
+      </svg>
+    </a>
+  </div>
+  <div
+        class="new-sidebar userInfoContainer tw-top-0 tw-w-max tw-z-50 tw-right-0 tw-mr-2 md:tw-mr-5 tw-mt-8 md:tw-mt-8"
+                    :class="Alpine.store('showSidebar') && Alpine.store('showSidebar').show ? 'tw-fixed tw-mt-8 md:tw-mt-8' : 'tw-absolute'"
+          >
+    <div class="tw-font-light tw-flex tw-mr-3 md:tw-pb-0 md:tw-mr-0 tw-text-black dark:tw-text-white">
+      <div class="tw-flex tw-flex-1 tw-items-start">
+                  <div class="tw-flex-1 tw-cursor-pointer hover:tw-opacity-60 tw-min-w-max tw-transition tw-ml-6 tw-mr-1 tw-text-black dark:tw-text-white"><a href="https://account.presearch.com/login?signin" class="foreground-color" :class="$store.showSidebar && $store.showSidebar.show ? 'tw-text-black dark:tw-text-white open' : 'tw-text-white'">Register or Login</a></div>
+                                <a class="tw-transition tw-cursor-pointer tw-p-1 hover:tw-opacity-60 tw-mr-0.5 tw-text-black dark:tw-text-white steady  foreground-color "  :class="$store.showSidebar && $store.showSidebar.show ? 'tw-text-black open text-black' : 'tw-text-white text-white'"           x-show="!$store.showSidebar || !$store.showSidebar.show"
+          x-on:mouseover="showSidebar(false, false, true, $el)" x-on:mouseleave="blockShowSidebar(true)"
+          @click="showSidebarOnClick($el)">
+          <svg class="tw-w-4 tw-h-4" fill="currentColor" viewBox="0 -53 384 384" xmlns="http://www.w3.org/2000/svg">
+            <path d="m368 154.667969h-352c-8.832031 0-16-7.167969-16-16s7.167969-16 16-16h352c8.832031 0 16 7.167969 16 16s-7.167969 16-16 16zm0 0"></path>
+            <path d="m368 32h-352c-8.832031 0-16-7.167969-16-16s7.167969-16 16-16h352c8.832031 0 16 7.167969 16 16s-7.167969 16-16 16zm0 0"></path>
+            <path d="m368 277.332031h-352c-8.832031 0-16-7.167969-16-16s7.167969-16 16-16h352c8.832031 0 16 7.167969 16 16s-7.167969 16-16 16zm0 0"></path>
+          </svg>
+        </a>
+        <a class="tw-transition tw-cursor-pointer hover:tw-opacity-60 tw-text-black dark:tw-text-white steady   foreground-color "
+          :class="$store.showSidebar && $store.showSidebar.show ? 'hover:tw-text-black open' : ''"
+          x-show="$store.showSidebar && $store.showSidebar.show" @click="hideSettings(true, true)"
+          style="display: none;">
+          <svg class="tw-w-5 tw-h-5 tw-mt-0.5 tw-mr-1.5" fill="currentColor" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+            <path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"></path>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+                    </header>
+
+        
+        <div class="tw-flex tw-flex-1">
+            <div
+  class="new-sidebar tw-font-sans sidebarDiv tw-fixed tw-h-full tw-overflow-y-auto tw-flex tw-flex-col tw-flex-1 tw-z-20 tw-p-6 tw-text-black sm:tw-w-100 tw-w-full tw-max-w-full tw-h-auto tw-min-h-full tw-bg-background-light100 dark:tw-bg-background-dark200 tw-shadow tw-top-0 tw-right-0"
+  x-show="$store.showSidebar && $store.showSidebar.show"
+  x-transition:enter="tw-transition"
+  x-transition:enter-start="tw-transform tw-translate-x-96"
+  x-transition:enter-end="tw-transform tw-translate-x-0"
+  x-transition:leave="tw-ease-in tw-transition tw-transform"
+  x-transition:leave-start="tw-transform tw-translate-x-0"
+  x-transition:leave-end="tw-transform tw-translate-x-96"
+  x-cloak>
+  <div
+    class="tw-flex tw-flex-col tw-flex-1 dark:tw-text-white tw-mt-0"
+    x-data="settings()"
+  >
+    <div class="tw-flex tw-items-center menu-icons tw-transition-all">
+      <div class="tw-flex tw-flex-1" :class="$store.showSidebar && $store.showSidebar.show ? '' : 'tw-mb-6'">
+        <div x-show="$store.showSidebar && $store.showSidebar.show" class="tw-flex tw-flex-col 2xs:tw-flex-row tw-flex-1 tw-mt-2">
+          <div class="tw-flex">
+            <div class="3xs:tw-flex">
+              <div class="tw-flex tw-flex-col tw-select-none tw-items-center tw-mr-3 3xs:tw-mb-0 tw-mb-3 3xs:tw-ml-0 tw-ml-2"
+                x-show="true"
+                x-data="{ show:false }"
+                style="display: none">
+                <a class="tw-cursor-pointer tw-transform tw-transition hover:tw-scale-110"
+                  x-on:mouseover="show = true"
+                  x-on:mouseleave="show = false"
+                  href="https://presearch.com"
+                  :href="'https://presearch.com'">
+                  <svg class="tw-w-6 tw-h-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 482 482">
+                    <path d="M444.5,412.1L328.6,296.2c23.5-29,37.3-64.9,37.3-103.5c0-91.1-73.1-164.2-164.2-164.2S37.5,101.6,37.5,192.7  s73.1,164.2,164.2,164.2c29,0,56.6-8.3,81.4-23.5l120,120L444.5,412.1z M98.2,191.3c0-58,48.3-103.5,103.5-103.5  c58,0,103.5,48.3,103.5,103.5c0,58-48.3,103.5-103.5,103.5C143.7,296.2,98.2,249.3,98.2,191.3z"/>
+                  </svg>
+                </a>
+                <div class="tw-flex tw-flex-1 tw-flex-col tw-justify-center tw-items-center tw-fixed tw-mt-8 xs:tw-flex"
+                  x-show="show"
+                  x-transition:enter="tw-transition tw-ease-out"
+                  x-transition:enter-start="tw-opacity-0"
+                  x-transition:enter-end="tw-opacity-100"
+                  x-transition:leave="tw-transition tw-ease-in"
+                  x-transition:leave-start="tw-opacity-100"
+                  x-transition:leave-end="tw-opacity-0"
+                  x-transition:leave.duration.50ms
+                  style="display: none">
+                  <div class="arrow-up tw-border-white"></div>
+                  <div class="tw-whitespace-nowrap tw-text-xs tw-p-1 tw-px-2 tw-bg-black tw-text-white dark:tw-text-black dark:tw-bg-white tw-rounded tw-select-none">
+                    Search Engine
+                  </div>
+                </div>
+              </div>
+              <div class="tw-flex tw-flex-col tw-items-center tw-mr-3" x-data="{ show:false }">
+                <a class="tw-cursor-pointer tw-transform tw-transition hover:tw-scale-110"
+                  x-on:mouseover="show = true"
+                  x-on:mouseleave="show = false"
+                  :href="window.landingPages.nodes ? `https://nodes.presearch.com/dashboard` : `https://nodes.presearch.com`">
+                  <svg class="tw-w-6 tw-h-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 482 482">
+                    <path d="M410.1 311.5c-14.7 0-28.3 5.3-38.8 14l-73.1-40.9c.8-4 1.3-8.1 1.3-12.4 0-26.4-16.8-48.9-40.3-57.4v-61c23.5-8.5 40.3-31 40.3-57.4 0-33.6-27.4-61-61-61s-61 27.4-61 61c0 26.4 16.8 48.9 40.3 57.4v61c-23.5 8.5-40.3 31-40.3 57.4 0 5.9.9 11.6 2.4 17L111 328.8c-10.6-8.9-24.2-14.2-39.1-14.2-33.7 0-61 27.4-61 61s27.4 61 61 61 61-27.4 61-61c0-3.8-.4-7.5-1-11.1l72.5-41.7c9.7 6.6 21.5 10.4 34.1 10.4 14.4 0 27.6-5 38.1-13.4l73.7 41.3c-.7 3.7-1.1 7.5-1.1 11.4 0 33.6 27.4 61 61 61 33.7 0 61-27.4 61-61s-27.4-61-61.1-61zM238.4 76.7c10.8 0 19.7 8.8 19.7 19.7s-8.8 19.7-19.7 19.7c-10.8 0-19.7-8.8-19.7-19.7s8.9-19.7 19.7-19.7zM71.9 395.3c-10.8 0-19.7-8.8-19.7-19.7S61.1 356 71.9 356c10.8 0 19.6 8.8 19.6 19.7s-8.8 19.6-19.6 19.6zm166.5-103.5c-10.8 0-19.7-8.8-19.7-19.7 0-10.8 8.8-19.7 19.7-19.7 10.8 0 19.7 8.8 19.7 19.7 0 10.9-8.8 19.7-19.7 19.7zm171.7 100.4c-10.8 0-19.6-8.8-19.6-19.7 0-10.8 8.8-19.7 19.6-19.7s19.7 8.8 19.7 19.7c0 10.9-8.9 19.7-19.7 19.7z"></path>
+                  </svg>
+                </a>
+                <div class="tw-flex tw-flex-1 tw-flex-col tw-justify-center tw-items-center tw-absolute tw-mt-8 xs:tw-flex"
+                  x-show="show"
+                  x-transition:enter="tw-transition tw-ease-out"
+                  x-transition:enter-start="tw-opacity-0"
+                  x-transition:enter-end="tw-opacity-100"
+                  x-transition:leave="tw-transition tw-ease-in"
+                  x-transition:leave-start="tw-opacity-100"
+                  x-transition:leave-end="tw-opacity-0"
+                  x-transition:leave.duration.50ms
+                  style="display: none">
+                  <div class="arrow-up tw-border-white"></div>
+                  <div class="tw-whitespace-nowrap tw-text-xs tw-p-1 tw-px-2 tw-bg-black tw-text-white dark:tw-text-black dark:tw-bg-white tw-rounded tw-select-none">
+                    Nodes
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="3xs:tw-flex">
+              <div class="tw-flex tw-flex-col tw-items-center tw-mr-3 3xs:tw-mb-0 tw-mb-3 3xs:tw-ml-0 tw-ml-2" x-data="{ show:false }">
+                <a class="tw-cursor-pointer tw-transform tw-transition hover:tw-scale-110"
+                  x-on:mouseover="show = true"
+                  x-on:mouseleave="show = false"
+                  :href="window.landingPages.keywords ? `https://keywords.presearch.com/dashboard` : `https://keywords.presearch.com`">
+                  <svg class="tw-w-6 tw-h-6" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 482 482">
+                    <path d="M189.9 441.4H147V52c0-7.7 4.1-14.7 10.7-18.6s14.8-3.8 21.5 0l215.6 124.4c7.3 4.2 11.5 12.4 10.6 20.8-.9 8.4-6.7 15.5-14.7 18.2l-200.8 64.9v179.7zm0-352.2v127.5l141.6-45.8-141.6-81.7z"></path>
+                  </svg>
+                </a>
+                <div class="tw-flex tw-flex-1 tw-flex-col tw-justify-center tw-items-center tw-absolute tw-mt-8 xs:tw-flex"
+                  x-show="show"
+                  x-transition:enter="tw-transition tw-ease-out"
+                  x-transition:enter-start="tw-opacity-0"
+                  x-transition:enter-end="tw-opacity-100"
+                  x-transition:leave="tw-transition tw-ease-in"
+                  x-transition:leave-start="tw-opacity-100"
+                  x-transition:leave-end="tw-opacity-0"
+                  x-transition:leave.duration.50ms
+                  style="display: none">
+                  <div class="arrow-up tw-border-white"></div>
+                  <div class="tw-whitespace-nowrap tw-text-xs tw-p-1 tw-px-2 tw-bg-black tw-text-white dark:tw-text-black dark:tw-bg-white tw-rounded tw-select-none">
+                    Keyword Advertising
+                  </div>
+                </div>
+              </div>
+              <div class="tw-flex tw-flex-col tw-items-center tw-mr-3" x-data="{ show:false }">
+                <a class="tw-cursor-pointer tw-transform tw-transition hover:tw-scale-110"
+                  x-on:mouseover="show = true"
+                  x-on:mouseleave="show = false"
+                  :href="window.landingPages.marketplace ? `https://marketplace.presearch.com/calculator` : `https://marketplace.presearch.com`">
+                  <svg class="tw-w-6 tw-h-6" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 482 482" xml:space="preserve">
+                    <path d="M254.9 238.2h16.5c4.6 0 9.5-.9 13.8-3.1 4-2.1 7.7-4.6 10.7-8.3 2.8-3.4 5.2-7.7 6.7-11.9s2.4-8.9 2.4-13.8c0-4.6-.9-8.9-2.8-13.5-1.5-4-4-8.3-7-11.6-3.1-3.4-6.7-6.4-10.7-8.3-4.3-2.1-8.9-3.4-13.8-3.4h-43.8v105.9h27.9v-32zm0-48H269c2.1.3 4 .9 5.2 2.4 1.5 1.5 2.8 4.6 2.8 8.9 0 4.6-.9 7-2.4 8.6-1.2 1.5-2.8 2.4-4.6 2.4h-14.7v-22.3h-.4z"></path>
+                    <path d="M267.5 250.8H333V271h-65.5z"></path>
+                    <path d="M388.3 325.2h-228c-6.9 0-13-4.4-15.2-10.9L65.7 79.8H22.1c-8.8 0-16-7.2-16-16s7.2-16 16-16h55.1c6.9 0 13 4.4 15.2 10.9l18.5 54.6H441c5 0 9.8 2.4 12.8 6.4s4 9.3 2.5 14.1l-52.7 179.9c-1.9 6.8-8.2 11.5-15.3 11.5zm-216.6-32h204.6l43.3-147.9h-298l50.1 147.9zM183.4 445c-29 0-52.6-23.6-52.6-52.6s23.6-52.6 52.6-52.6 52.6 23.6 52.6 52.6-23.6 52.6-52.6 52.6zm0-77.7c-13.8 0-25.1 11.3-25.1 25.1s11.3 25.1 25.1 25.1 25.1-11.3 25.1-25.1-11.2-25.1-25.1-25.1zM355.2 445c-29 0-52.6-23.6-52.6-52.6s23.6-52.6 52.6-52.6 52.6 23.6 52.6 52.6-23.6 52.6-52.6 52.6zm0-77.7c-13.8 0-25.1 11.3-25.1 25.1s11.3 25.1 25.1 25.1 25.1-11.3 25.1-25.1-11.3-25.1-25.1-25.1z"></path>
+                  </svg>
+                </a>
+                <div class="tw-flex tw-flex-1 tw-flex-col tw-justify-center tw-items-center tw-absolute tw-mt-8 xs:tw-flex"
+                  x-show="show"
+                  x-transition:enter="tw-transition tw-ease-out"
+                  x-transition:enter-start="tw-opacity-0"
+                  x-transition:enter-end="tw-opacity-100"
+                  x-transition:leave="tw-transition tw-ease-in"
+                  x-transition:leave-start="tw-opacity-100"
+                  x-transition:leave-end="tw-opacity-0"
+                  x-transition:leave.duration.50ms
+                  style="display: none">
+                  <div class="arrow-up tw-border-white"></div>
+                  <div class="tw-whitespace-nowrap tw-text-xs tw-p-1 tw-px-2 tw-bg-black tw-text-white dark:tw-text-black dark:tw-bg-white tw-rounded tw-select-none">
+                    Buy Tokens
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tw-flex tw-mt-2 tw-ml-0.5 3xs:tw-ml-0 2xs:tw-mt-0">
+            <div class="tw-flex tw-flex-col tw-items-center tw-mr-3" x-data="{ show:false }">
+              <a class="tw-cursor-pointer tw-transform tw-transition hover:tw-scale-110" :href="window.landingPages.network ? `https://network.presearch.com` : `https://network.presearch.com`" target="_blank" x-on:mouseover="show = true" x-on:mouseleave="show=false" href="https://network.presearch.local">
+                <svg class="tw-w-7 tw-h-7" fill="currentColor" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 482 482">
+                  <path d="M40.4,276.9l50.1,28.9c0,0,9.4,9.4,20.4,0l45.1-25.5l22.9,13.6v56.9c0,4.2,1.7,6.8,5.1,9.4l50.1,28.9  c0,0,11.9,6.8,20.4,0l0,0l0,0l1.7-1.7l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l-1.7,1.7l0,0l0,0l50.1-28.9  c2.6-1.7,5.1-5.1,5.1-9.4v-56.9l22.9-13.6l45,25.5c0,0,11.1,8.5,20.4,0l0,0l0,0l0,0l0,0l0,0c0,0,1.7,0,1.7-1.7l0,0l0,0l0,0l0,0l0,0  l0,0l0,0c0,0,0,0-1.7,1.7l0,0l0,0l0,0l0,0l0,0l50.1-28.9c2.6-1.7,5.1-5.1,5.1-9.4v-62.9c0-1.7,0-2.6-1.7-4.2  c-1.7-2.6-2.6-4.2-4.2-5.1l-56.1-31.4c-2.6-1.7-6.8-1.7-11.1,0l-50.1,28.9l-24.6-15.3c1.7-1.7,1.7-4.2,1.7-5.1v-63.7  c0-4.2-1.7-6.8-5.1-9.4l-56.1-31.4c-2.6-1.7-6.8-1.7-11.1,0l-56.1,31.4c-2.6,1.7-5.1,5.1-5.1,9.4v63.7c0,2.6,1.7,4.2,1.7,5.1  l-24.6,15.3l-50.1-28.9c-2.6-1.7-6.8-1.7-11.1,0l-56.1,31.4c-2.6,1.7-5.1,5.1-5.1,9.4v63.7C35.3,270.9,37.8,275.2,40.4,276.9z   M378.7,282L354,268.4l24.6-13.6V282z M434.8,261.6l-34,20.4V242l34-20.4V261.6z M389.7,184.2l34,20.4l-34,20.4l-34-20.4  L389.7,184.2z M344.7,221.6l24.6,13.6l-24.6,13.6V221.6z M235.9,365.3l-34-20.4v-40l34,20.4V365.3z M245.2,306.6l-34-20.4l34-20.4  l34,20.4L245.2,306.6z M290.3,344.9l-34,20.4v-39.9l34-20.4V344.9z M256.3,146.8L256.3,146.8l34-20.4v39.9h-1.7L256.3,146.8z   M268.2,178.3l-11.9,6.8v-15.3L268.2,178.3z M245.2,87.3l34,20.4l-34,20.4l-34-20.4L245.2,87.3z M200.2,125.6l34,20.4v1.7l-34,18.7  h-1.7v-40.8L200.2,125.6L200.2,125.6z M235.9,169.8v15.3l-11.9-6.8L235.9,169.8z M167.9,209.7l34-20.4l38.2,22.1  c1.7,1.7,4.2,1.7,5.1,1.7c1.7,0,4.2,0,5.1-1.7l38.2-22.1l34,20.4v51.9l-22.9,13.6l-50.1-28.9c-2.6-1.7-6.8-1.7-11.1,0l-50.1,28.9  l-22.9-13.6v-51.9H167.9z M111.8,282v-27.2l24.6,13.6L111.8,282z M145.8,249.7l-24.6-13.6l24.6-13.6V249.7z M100.7,184.2l34,20.4  l-34,20.4l-34-20.4L100.7,184.2z M55.7,221.6l34,20.4V282l-34-20.4V221.6z"></path>
+                </svg>
+              </a>
+              <div class="tw-flex tw-flex-1 tw-flex-col tw-justify-center tw-items-center tw-fixed tw-mt-8 xs:flex" 
+                  x-show="show"
+                  x-transition:enter="tw-transition tw-ease-out"
+                  x-transition:enter-start="tw-opacity-0"
+                  x-transition:enter-end="tw-opacity-100"
+                  x-transition:leave="tw-transition tw-ease-in"
+                  x-transition:leave-start="tw-opacity-100"
+                  x-transition:leave-end="tw-opacity-0"
+                  x-transition:leave.duration.50ms
+                  style="display: none;">
+                  <div class="arrow-up tw-border-white"></div>
+                  <div class="tw-whitespace-nowrap tw-text-xs tw-p-1 tw-px-2 tw-bg-black tw-text-white dark:tw-text-black dark:tw-bg-white tw-rounded tw-select-none">
+                    Network
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+                <div class="tw-p-4 tw-bg-white dark:tw-bg-background-dark400 tw-rounded tw-mt-6">
+    <div class="tw-uppercase tw-text-xs tw-text-presearch-alternative">
+        <span>Presearch Keyword Staking</span>
+    </div>
+    <div>
+        <hr class="tw-my-3" />
+                <div class="tw-cursor-pointer hover:tw-opacity-60 tw-transition tw-mb-3">
+            <a href="https://keywords.presearch.com">
+                <div class="tw-text-sm">Overview</div>
+                <div class="tw-text-xs tw-font-light">About keyword staking.</div>
+            </a>
+        </div>
+        <div class="tw-cursor-pointer hover:tw-opacity-60 tw-transition tw-mb-3">
+            <a href="https://keywords.presearch.com/dashboard">
+                <div class="tw-text-sm">Dashboard</div>
+                <div class="tw-text-xs tw-font-light">Keyword staking dashboard.</div>
+            </a>
+        </div>
+        <div class="tw-cursor-pointer hover:tw-opacity-60 tw-transition tw-mb-3">
+            <a href="https://marketplace.presearch.com/calculator">
+                <div class="tw-text-sm">Buy PRE</div>
+                <div class="tw-text-xs tw-font-light">Buy PRE tokens for keyword staking.</div>
+            </a>
+        </div>
+        <div class="tw-cursor-pointer hover:tw-opacity-60 tw-transition tw-mb-3">
+            <a href="https://keywords.presearch.com/transfer-tokens">
+                <div class="tw-text-sm">Transfer PRE</div>
+                <div class="tw-text-xs tw-font-light">Trasfer your PRE tokens.</div>
+            </a>
+        </div>
+        <div class="tw-cursor-pointer hover:tw-opacity-60 tw-transition">
+            <a href="https://docs.presearch.org/faq/keywords" target="_blank">
+                <div class="tw-text-sm">FAQs</div>
+                <div class="tw-text-xs tw-font-light">Frequently asked questions.</div>
+            </a>
+        </div>
+    </div>
+</div>            <div class="tw-p-4 tw-bg-white dark:tw-bg-background-dark400 tw-rounded tw-mt-4 2xl:tw-mt-4">
+      <div class="tw-uppercase tw-text-xs tw-text-presearch-alternative">
+        <div><span class="tw-mr-1">Interface</span></div>
+      </div>
+      <div>
+        <hr class="tw-my-3" />
+        <div>
+          <div class="tw-flex tw-items-center tw-justify-between">
+            <div>
+              <div class="tw-text-sm">Theme</div>
+              <div class="tw-text-xs tw-font-light">Update the look and feel.</div>
+            </div>
+            <div class="tw-flex tw-items-center">
+              <div class="tw-flex tw-items-center tw-p-2 tw-cursor-pointer hover:tw-opacity-60 tw-transition tw-rounded"
+                @click="enableDarkMode()"
+                :class="`${state.darkModeEnabled ? 'tw-bg-background-dark200' : ''}`">
+                <div class="tw-mr-2">
+                  <svg class="tw-w-4 tw-h-4" enable-background="new 0 0 512 512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                    <path d="m469.5 256c0 48.07-15.886 92.43-42.696 128.115-38.952 51.848-95.996 76.502-165.838 76.502-117.913 0-208.534-86.704-208.534-204.617 0-68.407 22.24-129.3 72.28-168.374 36.212-28.277 81.782-45.126 131.288-45.126 117.913 0 213.5 95.587 213.5 213.5z" fill="#e3e0e4"></path>
+                    <path d="m433.97 373.97c-38.24 57.58-103.67 95.53-177.97 95.53-117.91 0-213.5-95.59-213.5-213.5 0-74.3 37.95-139.73 95.53-177.97-22.45 33.79-35.53 74.35-35.53 117.97 0 117.91 95.59 213.5 213.5 213.5 43.62 0 84.18-13.08 117.97-35.53z" fill="#d4cfd5"></path>
+                    <path d="m430.674 11.078 7.746 15.493c.194.387.507.701.894.894l15.493 7.746c1.474.737 1.474 2.841 0 3.578l-15.493 7.746c-.387.194-.701.507-.894.894l-7.746 15.493c-.737 1.474-2.841 1.474-3.578 0l-7.746-15.492c-.194-.387-.507-.701-.894-.894l-15.493-7.746c-1.474-.737-1.474-2.841 0-3.578l15.493-7.746c.387-.194.701-.507.894-.894l7.746-15.493c.737-1.475 2.841-1.475 3.578-.001z" fill="#5d91b9"></path>
+                    <path d="m68.211 500.922-7.746-15.493c-.194-.387-.507-.701-.894-.894l-15.493-7.746c-1.474-.737-1.474-2.841 0-3.578l15.493-7.746c.387-.194.701-.507.894-.894l7.746-15.493c.737-1.474 2.841-1.474 3.578 0l7.746 15.493c.194.387.507.701.894.894l15.493 7.746c1.474.737 1.474 2.841 0 3.578l-15.493 7.746c-.387.194-.701.507-.894.894l-7.746 15.493c-.737 1.474-2.841 1.474-3.578 0z" fill="#5d91b9"></path>
+                    <path d="m194 224c0 5.247-1.063 10.245-2.986 14.791-5.769 13.639-19.104 17.709-34.844 17.709-20.987 0-30.745-10.013-30.745-31 0-15.68 2.071-30.641 15.626-36.447 4.589-1.965 9.642-3.053 14.949-3.053 20.987 0 38 17.013 38 38z" fill="#d4cfd5"></path>
+                    <path d="m288.5 383.5c0 8.686-2.914 16.691-7.818 23.091-6.945 9.064-17.881 8.238-30.182 8.238-20.987 0-38-10.343-38-31.33s17.013-38 38-38 38 17.014 38 38.001z" fill="#d4cfd5"></path>
+                    <path d="m280.68 406.59c-6.94 9.07-17.88 14.91-30.18 14.91-20.99 0-38-17.01-38-38 0-.24 0-.48.01-.72 20.83 11.57 43.8 19.76 68.17 23.81z" fill="#c5bec6"></path>
+                    <path d="m378.5 172.5c0 4.425-1.25 8.558-3.415 12.066-4.051 6.562-10.658 9.328-18.936 9.328-12.703 0-21.362-8.481-21.362-21.184 0-9.192 3.105-17.335 10.899-21.017 2.977-1.406 6.303-2.193 9.814-2.193 12.703 0 23 10.297 23 23z" fill="#d4cfd5"></path>
+                    <path d="m395.5 348.5c0 3.035-.588 5.933-1.656 8.586-3.402 8.45-11.677 10.085-21.344 10.085-12.703 0-16.351-5.758-16.351-18.46 0-11.115 1.235-20.598 11.716-22.743 1.497-.306 3.047-.467 4.635-.467 12.703-.001 23 10.296 23 22.999z" fill="#d4cfd5"></path>
+                    <path d="m190.95 238.95c-5.8 13.55-19.27 23.05-34.95 23.05-20.99 0-38-17.01-38-38 0-15.68 9.5-29.15 23.05-34.95-1.96 4.59-3.05 9.64-3.05 14.95 0 20.99 17.01 38 38 38 5.31 0 10.36-1.09 14.95-3.05z" fill="#c5bec6"></path>
+                    <path d="m376.83 181.08c-3.39 8.45-11.66 14.42-21.33 14.42-12.7 0-23-10.3-23-23 0-11.22 8.04-20.57 18.67-22.58-1.08 2.65-1.67 5.55-1.67 8.58 0 12.7 10.3 23 23 23 1.48 0 2.93-.14 4.33-.42z" fill="#c5bec6"></path>
+                    <path d="m393.83 357.08c-3.39 8.45-11.66 14.42-21.33 14.42-12.7 0-23-10.3-23-23 0-11.22 8.04-20.57 18.67-22.58-1.08 2.65-1.67 5.55-1.67 8.58 0 12.7 10.3 23 23 23 1.48 0 2.93-.14 4.33-.42z" fill="#c5bec6"></path>
+                    <circle cx="264.5" cy="110" fill="#d4cfd5" r="15.5"></circle>
+                    <circle cx="254" cy="243" fill="#d4cfd5" r="17.5"></circle>
+                    <circle cx="94" cy="298" fill="#c5bec6" r="14.5"></circle>
+                    <circle cx="400" cy="271" fill="#d4cfd5" r="14.5"></circle>
+                    <circle cx="163.5" cy="149.5" fill="#d4cfd5" r="7.33"></circle>
+                    <circle cx="152.5" cy="351.5" fill="#c5bec6" r="7.33"></circle>
+                    <g fill="#d4cfd5">
+                      <circle cx="345.5" cy="399.5" r="7.33"></circle> <circle cx="429.5" cy="218.5" r="7.33"></circle> <circle cx="325.5" cy="107.5" r="7.33"></circle>
+                    </g>
+                    <path d="m441.706 136.144c-22.484-34.769-54.117-62.469-91.477-80.104-3.745-1.768-8.216-.166-9.983 3.581-1.769 3.746-.165 8.216 3.581 9.984 71.787 33.887 118.173 107.051 118.173 186.395 0 19.146-2.624 38.103-7.798 56.344-1.131 3.985 1.184 8.132 5.168 9.262.685.194 1.373.287 2.051.287 3.27 0 6.275-2.154 7.211-5.455 5.553-19.573 8.368-39.907 8.368-60.438 0-42.707-12.204-84.152-35.294-119.856z"></path>
+                    <path d="m452.248 340.549c-3.738-1.773-8.215-.178-9.989 3.565-33.94 71.613-107.051 117.886-186.259 117.886-113.589 0-206-92.411-206-206s92.411-206 206-206c18.854 0 37.529 2.544 55.509 7.563 3.994 1.116 8.127-1.218 9.24-5.207 1.114-3.99-1.218-8.127-5.207-9.24-19.293-5.386-39.326-8.116-59.542-8.116-59.031 0-114.529 22.988-156.271 64.729s-64.729 97.24-64.729 156.271 22.988 114.529 64.729 156.271 97.24 64.729 156.271 64.729c42.646 0 84.043-12.172 119.714-35.202 34.734-22.425 62.433-53.982 80.1-91.26 1.774-3.743.177-8.215-3.566-9.989z"></path>
+                    <path d="m396.03 43.708 17.432 8.716 8.715 17.43c1.271 2.541 3.867 4.146 6.708 4.146s5.438-1.605 6.708-4.146l8.715-17.43 17.432-8.716c2.54-1.27 4.146-3.867 4.146-6.708s-1.605-5.438-4.146-6.708l-17.432-8.716-8.715-17.43c-1.271-2.541-3.867-4.146-6.708-4.146s-5.438 1.605-6.708 4.146l-8.715 17.43-17.432 8.716c-2.54 1.27-4.146 3.867-4.146 6.708s1.606 5.438 4.146 6.708zm26.376-9.833c1.451-.726 2.628-1.902 3.354-3.354l3.125-6.25 3.125 6.25c.726 1.452 1.902 2.628 3.354 3.354l6.25 3.125-6.251 3.125c-1.451.726-2.628 1.902-3.354 3.354l-3.125 6.25-3.125-6.25c-.726-1.452-1.902-2.628-3.354-3.354l-6.25-3.125z"></path>
+                    <path d="m504.5 376.5h-5v-5c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v5h-5c-4.143 0-7.5 3.358-7.5 7.5s3.357 7.5 7.5 7.5h5v5c0 4.142 3.357 7.5 7.5 7.5s7.5-3.358 7.5-7.5v-5h5c4.143 0 7.5-3.358 7.5-7.5s-3.357-7.5-7.5-7.5z"></path>
+                    <path d="m102.854 468.292-17.432-8.716-8.715-17.43c-1.269-2.541-3.866-4.146-6.707-4.146s-5.438 1.605-6.708 4.146l-8.715 17.43-17.432 8.716c-2.54 1.27-4.145 3.867-4.145 6.708s1.605 5.438 4.146 6.708l17.432 8.716 8.715 17.43c1.27 2.541 3.866 4.146 6.707 4.146s5.438-1.605 6.708-4.146l8.715-17.43 17.432-8.716c2.54-1.27 4.146-3.867 4.146-6.708s-1.606-5.438-4.147-6.708zm-26.375 9.833c-1.451.726-2.628 1.902-3.354 3.354l-3.125 6.25-3.125-6.25c-.726-1.452-1.902-2.628-3.354-3.354l-6.25-3.125 6.251-3.125c1.451-.726 2.628-1.902 3.354-3.354l3.125-6.25 3.125 6.25c.726 1.452 1.902 2.628 3.354 3.354l6.249 3.125z"></path>
+                    <path d="m40 118c0-4.142-3.357-7.5-7.5-7.5h-5v-5c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v5h-5c-4.143 0-7.5 3.358-7.5 7.5s3.357 7.5 7.5 7.5h5v5c0 4.142 3.357 7.5 7.5 7.5s7.5-3.358 7.5-7.5v-5h5c4.143 0 7.5-3.358 7.5-7.5z"></path>
+                    <path d="m201.5 224c0-25.089-20.411-45.5-45.5-45.5-10.938 0-21.51 3.938-29.77 11.09-3.132 2.711-3.472 7.448-.761 10.579 2.712 3.133 7.448 3.47 10.579.761 5.534-4.791 12.619-7.43 19.951-7.43 16.817 0 30.5 13.682 30.5 30.5s-13.683 30.5-30.5 30.5c-15.699 0-28.742-11.755-30.339-27.344-.422-4.12-4.092-7.127-8.226-6.697-4.12.422-7.118 4.104-6.696 8.225 2.384 23.269 21.842 40.816 45.262 40.816 25.089 0 45.5-20.411 45.5-45.5z"></path>
+                    <path d="m250.5 414c-1.62 0-3.244-.127-4.828-.379-4.092-.653-7.935 2.141-8.583 6.231-.649 4.091 2.141 7.934 6.231 8.583 2.359.375 4.774.564 7.18.564 25.089 0 45.5-20.411 45.5-45.5s-20.411-45.499-45.5-45.499-45.5 20.411-45.5 45.5c0 7.008 1.553 13.733 4.615 19.988 1.822 3.719 6.313 5.258 10.034 3.438 3.721-1.821 5.26-6.314 3.438-10.034-2.049-4.184-3.088-8.689-3.088-13.392 0-16.818 13.683-30.5 30.5-30.5s30.5 13.682 30.5 30.5-13.682 30.5-30.499 30.5z"></path>
+                    <path d="m355.5 142c-16.817 0-30.5 13.682-30.5 30.5s13.683 30.5 30.5 30.5 30.5-13.682 30.5-30.5-13.683-30.5-30.5-30.5zm0 46c-8.547 0-15.5-6.953-15.5-15.5s6.953-15.5 15.5-15.5 15.5 6.953 15.5 15.5-6.953 15.5-15.5 15.5z"></path>
+                    <path d="m403 348.5c0-16.818-13.683-30.5-30.5-30.5s-30.5 13.682-30.5 30.5 13.683 30.5 30.5 30.5 30.5-13.682 30.5-30.5zm-46 0c0-8.547 6.953-15.5 15.5-15.5s15.5 6.953 15.5 15.5-6.953 15.5-15.5 15.5-15.5-6.953-15.5-15.5z"></path>
+                    <path d="m287.5 110c0-12.682-10.317-23-23-23s-23 10.318-23 23 10.317 23 23 23 23-10.318 23-23zm-31 0c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8-8-3.589-8-8z"></path>
+                    <path d="m229 243c0 13.785 11.215 25 25 25s25-11.215 25-25-11.215-25-25-25-25 11.215-25 25zm25-10c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10z"></path>
+                    <path d="m94 276c-12.131 0-22 9.869-22 22s9.869 22 22 22 22-9.869 22-22-9.869-22-22-22zm0 29c-3.859 0-7-3.14-7-7s3.141-7 7-7 7 3.14 7 7-3.141 7-7 7z"></path>
+                    <path d="m422 271c0-12.131-9.869-22-22-22s-22 9.869-22 22 9.869 22 22 22 22-9.869 22-22zm-22 7c-3.859 0-7-3.14-7-7s3.141-7 7-7 7 3.14 7 7-3.141 7-7 7z"></path>
+                    <circle cx="163.5" cy="149.504" r="7.496"></circle>
+                    <circle cx="325.5" cy="107.5" r="7.496"></circle>
+                    <circle cx="429.5" cy="218.503" r="7.496"></circle>
+                    <circle cx="345.5" cy="399.5" r="7.496"></circle>
+                    <circle cx="152.5" cy="351.5" r="7.496"></circle>
+                  </svg>
+                </div>
+                <div class="tw-text-sm tw-font-light">Dark</div>
+              </div>
+              <div class="tw-flex tw-items-center tw-p-2 tw-cursor-pointer hover:tw-opacity-60 tw-transition tw-rounded"
+                @click="disableDarkMode()"
+                :class="`${!state.darkModeEnabled ? 'tw-bg-gray-100' : ''}`">
+                <div class="tw-mr-2">
+                  <svg class="tw-w-4 tw-h-4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background: new 0 0 512 512" xml:space="preserve">
+                    <path style="fill: #ffa600" d="M507.834,301.608l-54.769-48.312l52.832-50.399c1.941-1.852,2.74-4.591,2.099-7.189 c-0.642-2.597-2.629-4.655-5.211-5.401l-70.316-20.292l25.988-68.056c0.955-2.5,0.495-5.316-1.204-7.389 c-1.7-2.072-4.383-3.085-7.038-2.657l-72.274,11.652l-5.878-72.561c-0.216-2.666-1.846-5.015-4.275-6.161 c-2.429-1.146-5.291-0.917-7.504,0.601l-60.266,41.342L263.409,3.742C262.064,1.426,259.579,0,256.889,0 c-2.69,0-5.174,1.426-6.519,3.742L208.347,76.11l-72.69-41.953c-2.327-1.343-5.197-1.349-7.528-0.018 c-2.333,1.331-3.773,3.799-3.78,6.473l-0.176,72.795l-72.965-6.014c-2.675-0.22-5.275,0.997-6.807,3.194 c-1.533,2.197-1.771,5.041-0.622,7.459l31.242,65.835L6.508,209.562c-2.516,0.943-4.335,3.15-4.773,5.789 c-0.438,2.638,0.575,5.308,2.656,7.003l56.619,46.152l-50.813,52.41c-1.866,1.925-2.559,4.694-1.816,7.264 c0.744,2.57,2.81,4.55,5.419,5.194l71.055,17.551L61.56,419.936c-0.856,2.535-0.286,5.331,1.494,7.336 c1.781,2.005,4.502,2.913,7.137,2.382l71.76-14.443l8.721,72.278c0.319,2.655,2.041,4.938,4.513,5.99 c2.474,1.052,5.323,0.712,7.475-0.891l58.596-43.647l39.055,59.566c1.382,2.179,3.789,3.492,6.367,3.492 c0.098,0,0.196-0.002,0.295-0.006c2.687-0.104,5.115-1.626,6.368-3.992l34.107-62.405l61.839,38.974 c2.273,1.432,5.137,1.55,7.522,0.31c2.382-1.24,3.919-3.65,4.03-6.322l3.031-72.734l72.674,8.84c2.664,0.324,5.31-0.791,6.928-2.927 c1.618-2.137,1.966-4.969,0.914-7.43l-28.636-66.997l69.465-23.003c2.552-0.845,4.456-2.979,4.997-5.599 C510.752,306.09,509.845,303.383,507.834,301.608z"></path>
+                    <ellipse style="fill: #ffdb2d" cx="254.35" cy="254.691" rx="155.069" ry="154.949"></ellipse>
+                    <path style="fill: #ffca00" d="M254.354,99.743c-3.884,0-7.732,0.147-11.543,0.428c80.25,5.901,143.525,72.825,143.525,154.521 c0,81.695-63.275,148.619-143.525,154.521c3.811,0.28,7.66,0.428,11.543,0.428c85.641,0,155.068-69.373,155.068-154.948 C409.422,169.116,339.995,99.743,254.354,99.743z"></path>
+                  </svg>
+                </div>
+                <div class="tw-text-sm tw-font-light">Light</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tw-flex tw-flex-1 2xl:tw-flex-col sm:tw-flex-row tw-flex-col tw-items-start sm:tw-items-end 2xl:tw-items-start tw-mt-2 tw-mt-4">
+      <div class="tw-flex tw-flex-col tw-mt-auto tw-w-36 2xl:tw-w-full sm:tw-w-auto tw-pr-0 sm:tw-pr-3 tw-w-full sm:tw-mb-0 tw-mb-4 tw-bg-white dark:tw-bg-background-dark400 tw-rounded tw-pl-3 tw-py-3 2xl:tw-mb-4">
+        <a class="tw-mb-2 tw-text-xs tw-transition hover:tw-opacity-60" href="https://presearch.io" target="_blank">About Presearch</a>
+        <a class="tw-mb-2 tw-text-xs tw-transition hover:tw-opacity-60" href="https://support.presearch.org" target="_blank">Help & Support</a>
+        <a class="tw-mb-2 tw-text-xs tw-transition hover:tw-opacity-60" href="https://account.presearch.com/terms">Terms & Conditions</a>
+        <a class="tw-text-xs tw-transition hover:tw-opacity-60" href="https://account.presearch.com/privacy">Privacy Policy</a>
+      </div>
+      <div class="tw-flex tw-ml-auto tw-relative tw-z-50 tw-text-black tw-w-auto 2xl:tw-w-full sm:tw-w-auto tw-w-full tw-justify-center dark:text-white tw-py-4 tw-px-0 tw-bg-white dark:tw-bg-background-dark400 tw-rounded tw-text-black dark:tw-text-white">
+        <div class="tw-w-5 tw-mx-2 hover:tw-opacity-60 tw-transition">
+          <a href="https://x.com/presearchnews" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-50 -50 400 400" fill="currentColor">
+              <path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"></path>
+            </svg>
+          </a>
+        </div>
+        <div class="tw-w-5 tw-mx-3 hover:tw-opacity-60 tw-transition">
+          <a href="https://discord.presearch.com" target="_blank">
+            <svg version="1.1" fill="currentColor" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+              <path d="M185.1,203.1c-29.6,0-53.7,26.5-53.7,59.2s24.1,59.2,53.7,59.2c29.6,0,53.7-26.5,53.7-59.2S214.7,203.1,185.1,203.1 L185.1,203.1z M185.1,291.5c-13.1,0-23.7-13.1-23.7-29.2s10.6-29.2,23.7-29.2c13.1,0,23.7,13.1,23.7,29.2S198.2,291.5,185.1,291.5 L185.1,291.5z"/>
+              <path d="M326.9,203.1c-29.6,0-53.7,26.5-53.7,59.2s24.1,59.2,53.7,59.2c29.6,0,53.7-26.5,53.7-59.2S356.5,203.1,326.9,203.1z M326.9,291.5c-13.1,0-23.7-13.1-23.7-29.2s10.6-29.2,23.7-29.2c13.1,0,23.7,13.1,23.7,29.2S339.9,291.5,326.9,291.5z"/>
+              <path d="M512,362.6c-0.4-6.3-9.3-156.4-66.3-246.1c-1.2-1.8-2.7-3.4-4.5-4.6c-70.4-45.4-118.4-45.2-120.4-45.2 c-5.8,0.1-10.8,3.5-13.3,8.4l-24.2,46.4c-9-0.6-18.1-0.9-27.3-0.9c-9.1,0-18.2,0.3-27.3,0.9l-24.2-46.3c-2.4-4.9-7.4-8.3-13.3-8.4 c-2,0-50-0.1-120.4,45.2c-1.8,1.2-3.4,2.7-4.5,4.6C9.3,206.2,0.4,356.2,0,362.6c-0.2,4,1.1,7.9,3.8,10.8 c2.6,2.9,65.4,71.9,152.1,71.9c0.4,0,0.8,0,1.2,0c4.6,0,8.9-2.1,11.7-5.7l40-50.8c15.4,1.8,31.2,2.7,47.2,2.7 c16,0,31.8-0.9,47.2-2.7l40,50.8c2.8,3.6,7.1,5.7,11.7,5.7c0.4,0,0.8,0,1.2,0c86.7,0,149.5-69,152.1-71.9 C510.8,370.5,512.2,366.6,512,362.6L512,362.6z M362.1,415.2l-25-31.7c38.1-7.8,72.3-21.2,98.9-39.1c6.9-4.6,8.7-13.9,4.1-20.8 c-4.6-6.9-13.9-8.7-20.8-4.1c-39.8,26.7-99.4,42-163.3,42c-64,0-123.5-15.3-163.3-42c-6.9-4.6-16.2-2.8-20.8,4.1 c-4.6,6.9-2.8,16.2,4.1,20.8c26.7,17.9,60.9,31.2,98.9,39.1l-25,31.7c-58.7-2.7-105.5-43.8-119.4-57.4 c2.3-29.1,14.4-148.9,59.5-222.4c44.2-27.9,77.6-35.7,92.5-37.8l14.2,27.3c-33.5,4.9-64.8,13.9-91.5,26.4 c-7.5,3.5-10.7,12.5-7.2,20c3.5,7.5,12.5,10.7,20,7.2c38.1-18,87.2-27.8,138.1-27.8c50.9,0,99.9,9.9,138.1,27.9 c2.1,1,4.2,1.4,6.4,1.4c5.6,0,11-3.2,13.6-8.6c3.5-7.5,0.3-16.4-7.2-20c-26.7-12.6-58.1-21.6-91.5-26.4l14.2-27.3 c14.9,2.2,48.3,9.9,92.5,37.8c45,73.4,57.1,193.4,59.5,222.4C467.6,371.4,421.1,412.5,362.1,415.2L362.1,415.2z"/>
+            </svg>
+          </a>
+        </div>
+        <div class="tw-w-5 tw-mx-3 hover:tw-opacity-60 tw-transition">
+          <a href="https://reddit.com/r/presearch" target="_blank">
+            <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path d="M17.631 2.782c.034 1.32.952 2.631 2.685 2.631 1.621 0 2.691-1.216 2.691-2.706 0-1.345-.925-2.707-2.692-2.707-.958 0-1.836.428-2.335 1.321L13.683.032a.75.75 0 00-.941.527l-1.923 7.31c-2.236.16-4.278.777-5.951 1.709-2.77-2.595-6.557 1.633-4.091 4.562C-.997 19.682 5.371 24 12 24c6.681 0 12.974-4.39 11.223-9.86 2.458-2.919-1.301-7.154-4.095-4.564-1.87-1.04-4.206-1.678-6.75-1.736l1.617-6.148zM20.315 1.5c.879 0 1.191.65 1.191 1.208 0 .667-.409 1.206-1.191 1.206-.88 0-1.191-.65-1.191-1.208 0-.674.412-1.206 1.191-1.206zM3.531 10.455c-.793.607-1.455 1.297-1.957 2.052-.38-1.412.839-2.632 1.957-2.052zM12 22.5c-8.943 0-13.396-7.182-6.982-11.298.422-.194 2.664-1.876 6.982-1.876 3.756 0 5.474 1.184 6.98 1.875C25.37 15.3 20.998 22.5 12 22.5zm10.426-9.992c-.502-.756-1.164-1.446-1.958-2.053 1.141-.589 2.335.654 1.958 2.053z"/>
+              <path d="M10.305 14.935c0-1.321-.998-2.206-2.217-2.206-1.076 0-2.219.773-2.219 2.206 0 1.32.996 2.206 2.217 2.206 1.076 0 2.219-.773 2.219-2.206zm-2.936 0c0-.655.55-.706.719-.706.403 0 .717.229.717.706 0 .655-.55.706-.719.706-.168 0-.717-.051-.717-.706zM15.914 12.729c-1.076 0-2.219.773-2.219 2.206 0 1.32.996 2.206 2.217 2.206 1.076 0 2.219-.773 2.219-2.206 0-1.321-.998-2.206-2.217-2.206zm-.002 2.912c-.168 0-.717-.051-.717-.706s.55-.706.719-.706c.403 0 .717.229.717.706 0 .655-.55.706-.719.706zM15.297 18.42c-1.106 1.517-5.454 1.536-6.593.001-.56-.812-1.786.023-1.241.842 1.591 2.402 7.483 2.403 9.074 0 .536-.803-.667-1.64-1.24-.843z"/>
+            </svg>
+          </a>
+        </div>
+        <div class="tw-w-5 tw-mx-3 hover:tw-opacity-60 tw-transition">
+          <a href="https://www.youtube.com/channel/UCgU-2uscwUP6x27mUpCGWwg" target="_blank">
+            <svg viewBox="0 -62 512.00199 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path d="m334.808594 170.992188-113.113282-61.890626c-6.503906-3.558593-14.191406-3.425781-20.566406.351563-6.378906 3.78125-10.183594 10.460937-10.183594 17.875v122.71875c0 7.378906 3.78125 14.046875 10.117188 17.832031 3.308594 1.976563 6.976562 2.96875 10.652344 2.96875 3.367187 0 6.742187-.832031 9.847656-2.503906l113.117188-60.824219c6.714843-3.613281 10.90625-10.59375 10.9375-18.222656.027343-7.628906-4.113282-14.640625-10.808594-18.304687zm-113.859375 63.617187v-91.71875l84.539062 46.257813zm0 0"></path>
+              <path d="m508.234375 91.527344-.023437-.234375c-.433594-4.121094-4.75-40.777344-22.570313-59.421875-20.597656-21.929688-43.949219-24.59375-55.179687-25.871094-.929688-.105469-1.78125-.203125-2.542969-.304688l-.894531-.09375c-67.6875-4.921874-169.910157-5.5937495-170.933594-5.59765575l-.089844-.00390625-.089844.00390625c-1.023437.00390625-103.246094.67578175-171.542968 5.59765575l-.902344.09375c-.726563.097657-1.527344.1875-2.398438.289063-11.101562 1.28125-34.203125 3.949219-54.859375 26.671875-16.972656 18.445312-21.878906 54.316406-22.382812 58.347656l-.058594.523438c-.152344 1.714844-3.765625 42.539062-3.765625 83.523437v38.3125c0 40.984375 3.613281 81.808594 3.765625 83.527344l.027344.257813c.433593 4.054687 4.746093 40.039062 22.484375 58.691406 19.367187 21.195312 43.855468 24 57.027344 25.507812 2.082031.238282 3.875.441406 5.097656.65625l1.183594.164063c39.082031 3.71875 161.617187 5.550781 166.8125 5.625l.15625.003906.15625-.003906c1.023437-.003907 103.242187-.675781 170.929687-5.597657l.894531-.09375c.855469-.113281 1.816406-.214843 2.871094-.324218 11.039062-1.171875 34.015625-3.605469 54.386719-26.019532 16.972656-18.449218 21.882812-54.320312 22.382812-58.347656l.058594-.523437c.152344-1.71875 3.769531-42.539063 3.769531-83.523438v-38.3125c-.003906-40.984375-3.617187-81.804687-3.769531-83.523437zm-26.238281 121.835937c0 37.933594-3.3125 77-3.625 80.585938-1.273438 9.878906-6.449219 32.574219-14.71875 41.5625-12.75 14.027343-25.847656 15.417969-35.410156 16.429687-1.15625.121094-2.226563.238282-3.195313.359375-65.46875 4.734375-163.832031 5.460938-168.363281 5.488281-5.082032-.074218-125.824219-1.921874-163.714844-5.441406-1.941406-.316406-4.039062-.558594-6.25-.808594-11.214844-1.285156-26.566406-3.042968-38.371094-16.027343l-.277344-.296875c-8.125-8.464844-13.152343-29.6875-14.429687-41.148438-.238281-2.710937-3.636719-42.238281-3.636719-80.703125v-38.3125c0-37.890625 3.304688-76.914062 3.625-80.574219 1.519532-11.636718 6.792969-32.957031 14.71875-41.574218 13.140625-14.453125 26.996094-16.054688 36.160156-17.113282.875-.101562 1.691407-.195312 2.445313-.292968 66.421875-4.757813 165.492187-5.464844 169.046875-5.492188 3.554688.023438 102.589844.734375 168.421875 5.492188.808594.101562 1.691406.203125 2.640625.3125 9.425781 1.074218 23.671875 2.699218 36.746094 16.644531l.121094.128906c8.125 8.464844 13.152343 30.058594 14.429687 41.75.226563 2.558594 3.636719 42.171875 3.636719 80.71875zm0 0"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+            <div class="main-container tw-container tw-flex tw-flex-col tw-mt-10  tw-w-10/12 tw-mx-auto  ">
+                    <h1 class="tw-text-center dark:tw-text-gray-300">Terms Of Service</h1>
+
+    <div class="tw-prose dark:tw-prose-invert">
+        <p>Last Updated: January 2025</p><p>Presearch.com ("Presearch") offers an internet search engine. This search engine enables you to run searches, to advertise to others who run searches, or to run node software that powers the search engine. You will need a Presearch account to participate in some of these activities, and you may also be eligible to receive rewards for some of these activities.</p><p>By using Presearch, you agree to the terms of service (the "Terms") outlined below, as well as any future revisions to the Terms.</p><p><strong>Use of Services</strong></p><p>Presearch, its subsidiaries, and related organizations offer services to you provided that you are of legal age to form a binding contract and are not a person barred from receiving services under the laws of Canada or other applicable jurisdiction. In order to access certain services, you may be required to provide current, accurate contact or other information as part of the registration process and/or continued use of Presearch services. You are responsible for maintaining the confidentiality of your account password, and are responsible for all activities that occur under your account. You agree to immediately notify Presearch of any unauthorized use of your password or account or any other breach of security. Presearch cannot and will not be liable for any loss or damage arising from your failure to provide us with accurate information or to keep your password secure.</p><p><strong>Conduct</strong></p><p>You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content") are the sole responsibility of the person from which such Content originated. Presearch reserves the right, but shall have no obligation, to pre-screen, flag, filter, refuse, modify or move any Content available via Presearch services. You understand that by using Presearch services you may be exposed to Content that is offensive, indecent, or objectionable, and that you use Presearch services at your own risk.</p><p>You agree that you are responsible for your own conduct and any Content that you create, transmit, or display while using Presearch services and for any consequences thereof. You agree to use Presearch services only for purposes that are legal, proper, and in accordance with the Terms and any applicable policies or guidelines. You agree that you will not engage in any activity that interferes with or disrupts Presearch services or servers or networks connected to Presearch services.</p><p><strong>Fraud and Abuse</strong></p><p>Presearch may offer Members rewards for using the service, namely, Presearch Tokens ("PRE"), in exchange for beneficial activity such as searching, referring new users, engaging with content, long-term engagement on the platform, providing server capacity, or choosing specific paid search resources, among other possible reasons. As such, these incentive mechanisms are potentially subject to attempted fraud and abuse, and therefore, to protect the project and its Members, fraud or abuse of any sort will absolutely not be tolerated.</p><p>In the event that Presearch detects fraud or abuse on your part, we reserve the right to terminate your account and/or cancel any rewards provided. Additionally, we may take steps to further prevent you from using the service, and we also reserve the right to prosecute you for fraudulent activity.</p><p>Fraud is defined as intentionally attempting to earn additional rewards that you would not earn under regular use, or to obtain or withdraw tokens to which you have not legitimately purchased or earned. Abuse includes submission of advertisements which violate published Presearch advertising policies, modification, exploitation, or reverse engineering of Presearch software or traffic, using bots or programmatic means of accessing Presearch's website or services (except when exposed intentionally through an API as opposed to a web page), or performing any action which interferes with the normal operation and stability of the Presearch platform.</p><p>Some examples of fraud and abuse include, running automated programs or bots designed to earn rewards, doing searches more frequently than you would under normal circumstances or entering bogus or duplicate queries in an attempt to earn rewards beyond those which would typically be provided for normal search behavior, creating accounts with invalid emails or contact info, creating fake accounts or fake referrals, or creating multiple accounts to bypass account limits and restrictions. Note that the use of traffic anonymization services (shared VPNs, TOR, cloud servers, etc.) may also flag your account as fraudulent if other Members are also using those networks to fraudulently earn rewards. There is an automated anti-abuse system in place that analyzes your search behavior and platform usage on an ongoing basis to determine whether you are abusing the reward system.</p><p>In the event you are determined to have violated any these Terms, any rewards you have earned may be forfeited. Any decision by Presearch to revoke your rewards for a Terms of Service violation will be in the sole and complete discretion of Presearch.</p><p><strong>Token Types</strong></p><p>The Presearch Token (PRE) is the fundamental unit of value within the Presearch platform. PRE are pre-paid advertising credits for use on the platform. Members can both purchase PRE and earn PRE through their contributions on the platform, as well as transfer PRE credits to and from supported public blockchains.</p><p>PRE tokens in a Member's account can be found in the following locations:</p><p><strong>PRE Wallet</strong>: The tokens in the PRE Wallet belong to the Member and are held on the Presearch platform for safekeeping. All deposits, purchases, transfers, claimed rewards, and removed token stakes go into this wallet. When tokens are staked, the balance of this wallet is reduced.</p><p><strong>Staking</strong>: These tokens have been pledged to a particular purpose, and belong to the Member so long as they fulfill that purpose without violating the Terms of Service. Staking is a mechanism enabling Members to have something at stake (“skin in the game”), since they are liable to forfeit their stake if they participate in any behavior that violates the Presearch Terms of Service. By having something staked, this enables Presearch to have higher levels of trust in a Member, and therefore to often provide higher levels of rewards or other benefits to the Member.</p><p>If a Member violates the Terms of Service, however, then tokens staked by that Member can be revoked. As an example, if a Member stakes PRE on a keyword advertisement and submits a malicious ad, their staked PRE may be forfeited and not recoverable. If a node operator stakes PRE on a node, and then modifies the node software, tries to capture network data, or otherwise intentionally causes network disruptions, their staked PRE may be forfeited and not recoverable. If a Member stakes PRE toward search staking and then is determined by our fraud detection system to have generated invalid search or referral activity, then their staked tokens may be forfeited and not recoverable.</p><p><strong>Rewards</strong>: These tokens do not belong to the Member until the Member has claimed them on the platform and transferred them to their PRE Wallet. Some rewards tokens (such as Usage Rewards) require obtaining a minimum rewards balance before the tokens can be claimed. Other rewards tokens (like Node Rewards) may have no minimum balance requirement.</p><p><strong>Token Time Locks</strong></p><p>In order to prevent abuse and arbitrage opportunities across the Presearch network, a 24 hour lock is placed on withdrawals of any tokens that are:</p><p><strong>Unstaked</strong>: This timelock prevents a Member from staking tokens, performing a malicious act on the network, and then immediately unstaking and withdrawing their tokens before the abuse or exploit is caught.</p><p><strong>Purchases</strong>: This timelock prevents Members from using the Presearch platform for market arbitrage opportunities versus external markets.</p><p><strong>Reward Claims</strong>: This timelock allows fraud detection systems time to detect abuse or inappropriately-earned rewards associated with a rewards claim.</p><p>Time locks only affect withdrawals from your PRE Wallet - they do not affect your token balances or ability to immediately stake your tokens on the platform. To withdraw tokens, though, you must always hold your unstaked, claimed, or purchased in your PRE Wallet for at least 24 hours before attempting to withdrawal them.</p><p>NOTE: There is no time lock on deposits into your PRE Wallet.</p><p><strong>Rewards and Withdrawals</strong></p><p>Before a Presearch Member can use their Presearch Reward Tokens or withdraw them to the blockchain, they must first earn enough tokens to claim them and transfer them to their PRE Wallet. Claiming of PRE Rewards tokens is subject to the following limitations:</p><p>For Usage Rewards:</p><ul><li>1,000 PRE must be earned in order to claim Usage Rewards</li><li>A maximum of 1,000 PRE may be claimed every 90 days</li><li>Presearch reserves the right to increase or decrease these thresholds at any time</li></ul><p>For Node Rewards:</p><ul><li>Any amount of PRE rewards may be claimed at any time</li></ul><p>Once a user has claimed their rewards tokens, they own those tokens within their PRE Wallet, at which point the member may hold them, stake them, or request a withdrawal.</p><p>Once a withdrawal request is initiated, one of two things will occur:</p><ol><li>It will be automatically approved for an immediate withdrawal by the Member to their digital wallet (i.e. an Ethereum wallet that supports ERC-20 tokens).</li><li>It will be put in a queue to be approved by a Presearch administrator. This scenario may occur if the withdrawal amount is high enough to trigger a manual review, if a significant number of withdrawals across the platform have triggered a temporary manual review of all transactions, for an occasional randomized review, if there is a potential anomaly (fraud, abuse, security issue, etc.) with the Member's account that warrants further review prior to completing the withdrawal transaction. If a request has been issued or otherwise allowed involving a system error or malicious activity, Presearch reserves the right to block a request at the approval stage and/or rescind any staked or previously rewarded tokens. If your request is initially denied for any reason, you will be notified by a message on the site and will be directed to contact <a href="mailto:support@presearch.io"><span style="text-decoration: underline;">support@presearch.io</span></a>.</li></ol><p>You may be limited to a certain number of withdrawals in a certain period of time, or a certain number of tokens at a single time or in a period of time. This number may change based upon your account activity, or based on the needs of the project.</p><p>If your account is left dormant for more than one year, meaning that you do not login and record a search for 365 days, Presearch will consider your account abandoned and will rescind any unclaimed Rewards tokens in your account. This does not apply to any tokens that have been purchased from Presearch, previously claimed, staked by the Member, or transferred onto the platform from the blockchain.</p><p><strong>Privacy Policy</strong></p><p>Presearch takes your privacy very seriously.</p><p>By using Presearch services, you agree to the terms of the Presearch Privacy Policy, found at <a href="https://presearch.com/privacy"><span style="text-decoration: underline;">https://presearch.com/privacy</span></a>.</p><p>You understand that the technical processing and transmission of Presearch services, including your Content, may involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks, devices or services. You also understand and agree that administrators may have access to your account and its content, and may suspend or terminate your account access and your ability to modify your account.</p><p>Additional details of the Presearch privacy policy, including GDPR compliance, can be found at <a href="https://presearch.com/privacy"><span style="text-decoration: underline;">https://presearch.com/privacy</span></a>.</p><p><strong>Copyright and Trademarks</strong></p><p>Presearch is building an open source platform that is controlled by the community, for the community. That said, Presearch services may contain proprietary and confidential information that is protected by applicable intellectual property and other laws and treaties. You further acknowledge and agree that Content contained in sponsor advertisements or presented to you through Presearch services may be protected by copyrights, trademarks, service marks, patents, or other proprietary rights and laws.</p><p><strong>Data Storage and Use</strong></p><p>You agree that Presearch has no responsibility or liability for the deletion or failure to store any Content and other communications maintained or transmitted by Presearch services. You acknowledge that Presearch may have set no fixed upper limit on the number of transmissions you may send or receive through Presearch services or the amount of storage space used; however, we retain the right, at our sole discretion, to create limits at any time with or without notice. You recognize that third-party services that you access through Presearch may collect information beyond that which Presearch collects, and that any information you provide, directly or indirectly, to those parties is subject to the terms and conditions of those services, and which are outside the control or responsibility of Presearch.</p><p>Upon the termination of your use of Presearch services, including upon receipt of a certificate or other legal document confirming your death, Presearch will close your account, and you will no longer be able to retrieve content contained in that account.</p><p><strong>Modifications to Service</strong></p><p>Presearch reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, Presearch services (or any part thereof) with or without notice. You agree that Presearch shall not be liable to you or to any third party for any modification, suspension, or discontinuance of Presearch services.</p><p><strong>Sponsorship and Advertising</strong></p><p>Some Presearch services are supported by sponsorship revenue and may display sponsored promotions on the service. Such sponsorships may be targeted to the content of information stored on the Presearch services, queries made through Presearch services or other information. The manner, mode and extent of sponsorships by Presearch on its services are subject to change. As consideration for your use of Presearch services, you agree that Presearch may place such sponsorships and that Presearch shall not be responsible or liable for any loss or damage of any sort incurred by you as a result of the presence of such sponsors on Presearch services or your subsequent dealings with sponsors. All sponsored content shall be clearly indicated as such.</p><p><strong>External Resources</strong></p><p>Presearch services may provide, or third parties may provide, links or redirects to other internet sites or resources. Presearch may have no control over such sites and resources and you acknowledge and agree that Presearch is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that Presearch shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Content, goods or services available on or through any such site or resource.</p><p>Notwithstanding anything to the contrary in any external terms of service or agreements, by accessing, proxying, crawling, incorporating, redistributing, or caching any information from Presearch's public website, you thereby grant Presearch, as well as all entities running a node powering the Presearch search engine, a world-wide, irrevocable, permanent, and royalty-free license to access, proxy, crawl, incorporate, redistribute, or cache any information from your public website. You further agree not to take any action, either directly or indirectly (such as through third parties), to interfere with Presearch exercising this license.</p><p><strong>Indemnity</strong></p><p>You agree to hold harmless and indemnify Presearch, and its subsidiaries, affiliates, directors, advisors, officers, agents, employees, advertisers, licensors, suppliers, or partners, (collectively "Presearch and Partners") from and against any third party claim arising from or in any way related to your use of Presearch services, violation of the Terms or any other actions connected with use of Presearch services, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs and attorney fees, of every kind and nature.</p><p><strong>Disclaimer of Warranty</strong></p><p>You expressly understand and agree that:</p><p>Your use of Presearch services is at your sole risk. Presearch services are provided on an "As is" and "As available" basis. To the maximum extent permitted by law, Presearch and partners expressly disclaim all warranties and conditions of any kind, whether express or implied, including, but not limited to the implied warranties and conditions of merchantability, fitness for a particular purpose and non-infringement.</p><p>Presearch and partners do not warrant that (i) Presearch services will meet your requirements, (ii) Presearch services will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of Presearch services will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through Presearch services will meet your expectations, and (v) any errors in the software will be corrected.</p><p>Any material downloaded or otherwise obtained through the use of Presearch services is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or other device or loss of data that results from the download of any such material.</p><p>No advice or information, whether oral or written, obtained by you from Presearch or through or from Presearch services shall create any warranty not expressly stated in the terms.</p><p><strong>Limitation of Liability</strong></p><p>You expressly understand and agree that Presearch and partners shall not be liable to you for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if Presearch or partners have been advised of the possibility of such damages) resulting from: (i) the use or the inability to use Presearch services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from Presearch services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on Presearch services; or (v) any other matter relating to Presearch services.</p><p><strong>Exclusions and Limitations</strong></p><p>Nothing in this agreement is intended to exclude or limit any condition, warranty, right or liability which may not be lawfully excluded or limited. Some jurisdictions do not allow the exclusion of certain warranties or conditions or the limitation or exclusion of liability for loss or damage caused by negligence, breach of contract or breach of implied terms, or incidental or consequential damages. Accordingly, only the limitations in the Limitation of Liability above are lawful in your jurisdiction will apply to you and our liability will be limited to the maximum extent permitted by law.</p><p><strong>Notice</strong></p><p>You agree that Presearch may provide you with notices, including those regarding changes to the Terms, by email, Telegram or postings on Presearch services. The official communication channel for Presearch is via the <a href="mailto:support@presearch.io"><span style="text-decoration: underline;">support@presearch.io</span></a> email address.</p><p><strong>General Information</strong></p><p>Entire Agreement. The Terms (including any policies, guidelines or amendments that may be presented to you from time to time, such as Program Policies and Legal Notices) constitute the entire agreement between you and Presearch and govern your use of Presearch services, superseding any prior agreements between you and Presearch for the use of Presearch services. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other Presearch services, affiliate services, third-party content or third-party software.</p><p>Choice of Law and Forum. The Terms and the relationship between you and Presearch shall be governed by the laws of the Province of Ontario without regard to its conflict of law provisions. You and Presearch agree to submit to the personal and exclusive jurisdiction of the courts located within Simcoe County, Ontario.</p><p>Waiver and Severability of Terms. The failure of Presearch to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect.</p><p>Statute of Limitations. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of Presearch services or the Terms must be filed within two (2) years after such claim or cause of action arose or be forever barred.</p><p><strong>Termination</strong></p><p>You may discontinue your use of Presearch services at any time. You agree that Presearch may at any time and for any reason, including a period of account inactivity, terminate your access to Presearch services, terminate the Terms, or suspend or terminate your account. In the event of termination, your account will be disabled and you may not be granted access to Presearch services, your account or any files or other content contained in your account. This agreement shall survive the expiration or termination of your account.</p><h2 id="pregpt">PreGPT</h2><p><strong>TERMS AND CONDITIONS OF USE, PreGPT I (Standard) &amp; PreGPT II (Pro)</strong></p><p>Whether using PreGPT I or II, regardless of the selected model, our AI chatbot is designed to provide uncensored/unbiased information and assist with a wide range of topics.&nbsp; By signing up and using our AI chatbot, you acknowledge that you are <strong>at least 18 years old</strong> and agree to be bound by these Terms and Conditions.</p><p><strong>1.</strong>&nbsp; &nbsp; &nbsp; You acknowledge that publishing or sharing any content generated by our AI chatbot is equivalent to publishing or sharing your own content. You are solely responsible for the content you publish or share, and you cannot blame our AI chatbot or its developers for any consequences that may arise from such publication or sharing.</p><p><strong>2.</strong>&nbsp; &nbsp; &nbsp; You acknowledge that you are responsible for any actions taken or decisions made based on the information provided by our AI chatbot. You understand that our AI chatbot is a tool, and like any other tool, it can be used for good or ill. You agree to use our AI chatbot in a responsible and lawful manner.</p><p><strong>3.</strong>&nbsp; &nbsp; &nbsp; <strong>Prohibited Content:</strong></p><p>You acknowledge that our AI chatbot may provide historical references or artistic content related to sensitive topics, but you agree not to use the platform to promote, glorify, endorse or condone any of the following prohibited subjects:</p><p>a)&nbsp; &nbsp; &nbsp; Slavery</p><p>b)&nbsp; &nbsp; &nbsp; Racism or discrimination</p><p>c)&nbsp; &nbsp; &nbsp; Underage sexual exploitation</p><p>d)&nbsp; &nbsp; &nbsp; Rape</p><p>e)&nbsp; &nbsp; &nbsp; Human trafficking</p><p>f)&nbsp; &nbsp; &nbsp; &nbsp; Development of destructive materials or weapons</p><p>g)&nbsp; &nbsp; &nbsp; &nbsp;Glorification of violent acts to oneself or others</p><p>h)&nbsp; &nbsp; &nbsp; Medical advice</p><p>i)&nbsp; &nbsp; &nbsp; &nbsp; Black-hat hacking or malware injections for harm or profits</p><p><strong>4.</strong>&nbsp; &nbsp; &nbsp; <strong>Harmful Use:</strong><br>You may not repurpose or distribute output from our services in a way that is intended to harm others, including but not limited to:&nbsp;</p><p>a)&nbsp; &nbsp; &nbsp; Sharing output to defraud, scam, bully, harass, defame, or promote violence or sexual crimes against anyone</p><p>b)&nbsp; &nbsp; &nbsp; Promoting suicide or self-harm</p><p>c)&nbsp; &nbsp; &nbsp; Developing or using weapons</p><p>d)&nbsp; &nbsp; &nbsp; Injuring others or destroying property</p><p>e)&nbsp; &nbsp; &nbsp; Engaging in unauthorized activities that violate the security of any service or system</p><p><strong>5.</strong>&nbsp; &nbsp; &nbsp; <strong>Privacy and Rights:<br></strong>You may not use our services to compromise the privacy of others, or for any harmful or abusive activity, or in a way that violates anyone's natural rights. You agree to respect the rights and dignity of all individuals, and to use our services in a way that is respectful and lawful.</p><p><strong>6.</strong>&nbsp; &nbsp; &nbsp; You agree to indemnify and hold harmless our AI chatbot, its developers, and its affiliates from any claims, damages, or expenses arising from your use of our AI chatbot or any content generated by it.</p><p><strong>7.</strong>&nbsp; &nbsp; &nbsp; You acknowledge that our AI chatbot is provided "as is" and "as available" without any warranties, express or implied. You use our AI chatbot at your own risk, and we disclaim any liability for any damages or losses that may arise from your use of our AI chatbot.</p><p><strong>8.</strong>&nbsp; &nbsp; &nbsp; These Terms and Conditions may be updated or modified at any time without prior notice. Your continued use of our AI chatbot after any changes to these Terms and Conditions will be deemed acceptance of the new terms.</p><p><strong>9.</strong>&nbsp; &nbsp; &nbsp; By using our AI chatbot, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.</p><p>By signing up and using our AI chatbot, you acknowledge that you have read and agree to these Terms and Conditions.</p><p>&nbsp;</p><p><strong>Contact Information</strong></p><p>Presearch.com, Inc.<br>&nbsp;2140 South Dupont Highway<br>&nbsp;Camden, Delaware&nbsp; 19934 USA<br>&nbsp;www.presearch.com<br>&nbsp;info@presearch.com</p>
+    </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <script type="text/javascript" src="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/js/keywords.js?id=4d0ccdb1b251f49d8063e0af0caca820"></script>
+<script type="text/javascript" src="https://assets.presearch.com/fe544f88-a11f-4fd2-b0cc-26b8a594864e/js/login.js?id=d05a8daf8b02570f414a44f18f55df68"></script>
+
+            </div>
+</div>
+    </body>
+
+</html>
