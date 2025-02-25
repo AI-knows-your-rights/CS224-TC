@@ -27,10 +27,21 @@ The Review_xx files are the downloaded documents that are less likely to be a T&
 
 # Usage
 
+Data downloader:
+
+Go to data_downloader folder and run:
 ```bash
-conda activate tc_ranker
-python src/lergal-bert.py
+npm install
+npm run download
 ```
+Verify the data is downloaded in the data_trial_<timestamp> folder.
+
+When the data is clean and tidy, run the following command to download all the data:
+```
+npm run download -- --all
+```
+
+Fine-tune the model:
 
 # Setup
 
@@ -39,25 +50,45 @@ conda create -n tc_ranker python=3.10
 conda activate tc_ranker
 conda install jupyter
 pip install torch transformers datasets
+python src/lergal-bert.py
 ```
 
-# Data
 
-EURLEX57K is a classification dataset.
-
-<!-- - data/
-  - train.csv
-  - test.csv
-  - validation.csv
-  - train.csv
-  - test.csv -->
 # References
 
-LEGAL-BERT: The Muppets straight out of Law School
+
+# Cheerio
+
+https://cheerio.js.org/
+
+A library for parsing HTML.
+
+# facebook/bart
+
+https://huggingface.co/facebook/bart-large-mnli
+
+This is a fine-tuned model for zero-shot classification. We use it to classify the downloaded documents as a T&C or not.
+
+# Legal-bert
+LEGAL-BERT: The Muppets straight out of Law School(https://aclanthology.org/2020.findings-emnlp.261/)
+
 https://arxiv.org/pdf/2010.02559
 
-Legal Bert Model on Hugging Face:
+
+There are different choices of legal-bert models on huggingface.
+
 https://huggingface.co/nlpaueb/legal-bert-base-uncased
+model_name = "nlpaueb/legal-bert-base-uncased"
+
+https://huggingface.co/nlpaueb/legal-bert-large-uncased
+model_name = "nlpaueb/legal-bert-large-uncased"
+
+finetuned for EURLEX
+https://huggingface.co/nlpaueb/bert-base-uncased-eurlex
+
+
+https://huggingface.co/nlpaueb/bert-base-uncased-contracts
+
 
 A introduction to Legal Bert training:
 https://www.youtube.com/watch?v=-Ix2zWbq878

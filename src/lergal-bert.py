@@ -28,6 +28,7 @@ dataset = load_dataset("eurlex57k")
 print(dataset["train"][0])
 
 
+
 def preprocess(examples):
     return tokenizer(examples['text'], truncation=True, padding='max_length', max_length=512)
 
@@ -37,6 +38,7 @@ encoded_dataset = dataset.map(preprocess, batched=True)
 # finetuning
 
 from transformers import TrainingArguments, Trainer
+
 
 training_args = TrainingArguments(
     output_dir="./results",
