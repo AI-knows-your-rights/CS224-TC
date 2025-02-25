@@ -1,12 +1,29 @@
 
 # Folder Structure
 
+- data_downloader/
+  - download-data.js
+  
 - src/
   - lergal-bert.py
 
-  - shell_commands.md
 - data/
 
+The naming convention is data_all_<timestamp>. use the latest data_all_xxxxxxxx folder.
+
+For each company, there is a folder with the company name.
+
+It contains a details.json with the website scoring.
+
+Also it contains a service.html with the clause by clause rating. The servicve.html is converted to service.txt with the text content for easier reading.
+
+There is also a documents folder with the downloaded documents.
+
+The original documents are in html format. Each document has a text version for easier reading. And then the text version is classified as a T&C or not by the facebook/bart model.
+
+The TC_xx files are cleaned up data from the downloaded documents and went through the facebook/bart classification as a T&C.
+
+The Review_xx files are the downloaded documents that are less likely to be a T&C.
 
 # Usage
 
