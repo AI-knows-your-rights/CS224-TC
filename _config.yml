@@ -1,0 +1,76 @@
+# Site Settings
+title: "AI-Powered User Rights Detection"
+description: "Using AI to detect and analyze terms and conditions related to user rights."
+url: "https://your-domain.com"  # Update this with your website's URL
+baseurl: ""  # Leave empty unless the site is in a subdirectory
+lang: "en"
+author:
+  name: "Ray Hu"
+  email: "rayhu@stanford.edu"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    directory: content
+    
+# Social Links (optional)
+social:
+  twitter: "your-twitter-handle"
+  linkedin: "your-linkedin-handle"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+theme: minima  # You can choose another Jekyll theme if needed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# AI Integration Settings
+ai:
+  service: "TC Ranker"
+  model: "tc-ranker"  # Update to the model you're using
+  purpose: "Detecting and analyzing terms and conditions for user rights."
+  disclaimer: "This tool uses AI to provide insights on terms and conditions. It is not a substitute for legal advice."
+
+# Navigation
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "How It Works"
+    url: "/how-it-works"
+  - title: "Terms and Conditions"
+    url: "/terms"
+  - title: "Privacy Policy"
+    url: "/privacy-policy"
+  - title: "Contact"
+    url: "/contact"
+
+# SEO Settings
+seo:
+  title: "AI-Powered User Rights Detection"
+  description: "Automatically detect and analyze terms and conditions for user rights using AI."
+  keywords: ["AI", "User Rights", "Terms and Conditions", "Privacy Policy", "Legal Analysis"]
+  author: "Ray Hu"
+
+# Pagination
+paginate: 5  # Number of posts per page
+paginate_path: "/page/:num/"
+
+# Custom Variables (optional)
+custom:
+  feature_flag:
+    enable_user_feedback: true
+    enable_notifications: false
+
+# Exclusions (files/directories not to include in the build)
+exclude:
+  - "README.md"
+  - "node_modules/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "data*"
+  - "src"
