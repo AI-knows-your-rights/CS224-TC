@@ -21,7 +21,7 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
-    "download": "node ./download-data.js"
+    "download": "node ./downloadData.js"
   },
   "dependencies": {
     "@huggingface/inference": "^3.3.6",

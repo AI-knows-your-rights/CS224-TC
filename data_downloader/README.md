@@ -18,5 +18,6 @@ Run this to download all services:
 ```
 npm run download -- --all
 ```
+```
 
-
+node processFolders.js --folder /path/to/your/target/folder```

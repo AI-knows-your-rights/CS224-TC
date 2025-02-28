@@ -1,6 +1,7 @@
 // Import necessary modules
 require("dotenv").config();
 
+const extractClause = require("extractClause")
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
