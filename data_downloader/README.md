@@ -1,27 +1,33 @@
-# Instructions:
+# 📌 Instructions
 
+### 🔹 Install Dependencies
 
-Run this to install dependencies:
+Run the following command to install the required dependencies:
 
-```
+```bash
 npm install
 ```
 
-Run this to test:
+### 🔹 Run Tests
 
-```
-npm run download 
+To test the setup, execute:
+
+```bash
+npm run download
 ```
 
-Run this to download all services:
+### 🔹 Download All Services
 
-```
+To download all services, run:
+
+```bash
 npm run download -- --all
 ```
 
-The command to clean up the clauses in the ../data folder. Replace it with other folders to clean up the others.
+### 🔹 Clean Up Clauses
 
-```
+To clean up the clauses in the `../data/` folder, use the command below. Replace `../data/` with the desired folder path if needed.
+
+```bash
 node ./cleanClause.js --folder ../data
 ```
-
