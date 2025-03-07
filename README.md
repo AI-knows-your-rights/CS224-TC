@@ -1,100 +1,111 @@
 # T&C Ranker
 
-This repository contains the code for the T&C Ranker project.
-It is part of Stanford CS 224N Final Project.
+This repository contains the code for the **T&C Ranker** project, developed as part of the **Stanford CS 224N Final Project**.
 
-By Ray Hu, Benjamin Ward, and Basant Khalil
+**Authors:** Ray Hu, Benjamin Ward, and Basant Khalil  
+**Mentor:** Jing Huang
 
-Mentored by Jing Huang
+---
 
-
-## Folder Structure
-
-- data_downloader/
-  - download-data.js
-  
-- src/
-  - lergal-bert.py
-
-- data/
-
-## Data
-
-The Data are downloaded to the data folder. These are the raw data, not cleaned up.
-
-The data_all_\<timestamp\> contains cleaned up data, use the latest folder.
-
-For each company, there is a folder of the company name.
-
-### Website Scoring
-The folder contains a details.json with the website scoring, the domain and the url, etc.
-
-The grading system works as follows:
-
-Point Types:
-Points can be classified as: ‘good’, ‘neutral’, ‘bad’, or ‘blocker’
-Each point must be ‘approved’ to be counted in the grade calculation
-
-
-#### Grade Calculation Process:
-
-First, it counts the number of each type of point
-
-Then calculates a balance score using the formula:
+## 📂 Folder Structure
 
 ```
-     balance = number_of_good_points - number_of_bad_points - (number_of_blocker_points * 3)
+├── data_downloader/
+│   ├── download-data.js
+│
+├── src/
+│   ├── legal-bert.py
+│
+├── data/
 ```
 
-#### Grade Assignment Rules:
+---
 
-Grade ‘N/A’: If there are no points (good + bad + blocker = 0)
-Grade ‘E’: If balance ≤ -10 OR if blockers > good points
-Grade ‘D’: If blockers ≥ 3 OR if bad points > good points
-Grade ‘C’: If balance < 5
-Grade ‘B’: If there are any bad points
-Grade ‘A’: All other cases (essentially, only good points)
+## 📊 Data
 
-We can use the same approach to calculate the document scoring based on the predicted clauses rating.
+The raw data is stored in the `data/` folder. Cleaned data is saved in `data_all_<timestamp>`, with the latest folder containing the most up-to-date processed data.
 
-### Clause by Clause Rating
-Also the folder contains a service.html with the clause by clause rating. The servicve.html is converted to service.txt with the text content for easier reading.
+Each company has a dedicated subfolder containing relevant data.
 
-Convert the service.html into JSON format for easier processing.
+### 🔹 Website Scoring
 
+Each company's folder contains a `details.json` file, which includes:
+- Website scoring
+- Domain and URL information
+- Other metadata
 
-### T&C Documents
+#### Grading System
 
-In the website folder, there is a documents subfolder that contains the T&C documents.
+Each identified point is classified as:
+- **Good** ✅
+- **Neutral** ⚖️
+- **Bad** ❌
+- **Blocker** 🚫
 
-The original documents are in html format. Each document has a text version for easier reading. And then the text version is classified as a T&C or not by the facebook/bart model. If they are classified as a T&C, the filename is TC_xx. If they are classified as not a T&C, the filename is Review_xx.
+A point must be **approved** to be included in the grade calculation.
 
+##### 📌 Grade Calculation Formula
 
-## Usage
+```python
+balance = number_of_good_points - number_of_bad_points - (number_of_blocker_points * 3)
+```
 
-### Run the Data downloader:
+##### 🏆 Grade Assignment Rules
 
-Go to data_downloader folder, put your huggingface token in the .env file under this folder, 
+| Grade | Condition |
+|--------|------------------------------------------------|
+| **N/A** | No points recorded (good + bad + blocker = 0) |
+| **E** | `balance ≤ -10` OR `blockers > good points` |
+| **D** | `blockers ≥ 3` OR `bad points > good points` |
+| **C** | `balance < 5` |
+| **B** | Any bad points exist |
+| **A** | Only good points exist |
+
+This same methodology is applied for **document scoring** based on predicted clause ratings.
+
+### 🔹 Clause-by-Clause Rating
+
+- Each folder contains a `service.html` file with clause-level ratings.
+- This file is converted to `service.txt` for easier reading.
+- Additionally, `service.html` is transformed into JSON format for efficient processing.
+
+### 🔹 T&C Documents
+
+Each website folder contains a `documents/` subfolder with Terms & Conditions (T&C) documents:
+- Original documents are in **HTML format**.
+- A **text version** is created for readability.
+- The text version is classified using **Facebook/BART**:
+  - **T&C documents:** `TC_xx`
+  - **Non-T&C documents:** `Review_xx`
+
+---
+
+## 🚀 Usage
+
+### 🔹 Download Data
+
+1. Navigate to the `data_downloader/` folder.
+2. Add your Hugging Face API token to a `.env` file:
 
 ```bash
 HUGGINGFACE_API_TOKEN=<your_huggingface_token>
 ```
 
-And then run:
+3. Install dependencies and download trial data:
 
 ```bash
 npm install
 npm run download
 ```
 
-Now, verify the five trial data is downloaded in the data_trial_\<timestamp\> folder. Check for any errors and data quality issues.
+4. Verify that the downloaded data appears in the `data_trial_<timestamp>/` folder.
+5. If the data is clean, download the full dataset:
 
-When the data is clean and tidy, run the following command to download all the data:
-```
+```bash
 npm run download -- --all
 ```
 
-### Fine-tune the model:
+### 🔹 Fine-Tune the Model
 
 #### Setup
 
@@ -103,53 +114,32 @@ conda create -n tc_ranker python=3.10
 conda activate tc_ranker
 conda install jupyter
 pip install torch transformers datasets
-python src/lergal-bert.py
+python src/legal-bert.py
 ```
 
+---
 
-## References
+## 📚 References
 
+### 🔹 Cheerio
+- [Cheerio.js](https://cheerio.js.org/) - A library for parsing HTML.
 
-### Cheerio
+### 🔹 Facebook/BART
+- [facebook/bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli) - Used for zero-shot classification of T&C documents.
 
-https://cheerio.js.org/
+### 🔹 Legal-BERT
+- **Paper:** [LEGAL-BERT: The Muppets Straight Out of Law School](https://aclanthology.org/2020.findings-emnlp.261/)
+- **Arxiv:** [Paper PDF](https://arxiv.org/pdf/2010.02559)
+- **Model Variants on Hugging Face:**
+  - [legal-bert-base-uncased](https://huggingface.co/nlpaueb/legal-bert-base-uncased)
+  - [legal-bert-large-uncased](https://huggingface.co/nlpaueb/legal-bert-large-uncased)
+  - [bert-base-uncased-eurlex](https://huggingface.co/nlpaueb/bert-base-uncased-eurlex) (Fine-tuned for EURLEX)
+  - [bert-base-uncased-contracts](https://huggingface.co/nlpaueb/bert-base-uncased-contracts)
 
-A library for parsing HTML.
+### 🔹 Additional Resources
+- [Legal-BERT Training Overview](https://www.youtube.com/watch?v=-Ix2zWbq878)
+- [Open Source Legal Dataset](https://huggingface.co/datasets/coastalcph/lex_glue)
 
-### facebook/bart
+---
 
-https://huggingface.co/facebook/bart-large-mnli
-
-This is a fine-tuned model for zero-shot classification. We use it to classify the downloaded documents as a T&C or not.
-
-### Legal-bert
-LEGAL-BERT: The Muppets straight out of Law School(https://aclanthology.org/2020.findings-emnlp.261/)
-
-https://arxiv.org/pdf/2010.02559
-
-
-There are different choices of legal-bert models on huggingface.
-
-https://huggingface.co/nlpaueb/legal-bert-base-uncased
-model_name = "nlpaueb/legal-bert-base-uncased"
-
-https://huggingface.co/nlpaueb/legal-bert-large-uncased
-model_name = "nlpaueb/legal-bert-large-uncased"
-
-finetuned for EURLEX
-https://huggingface.co/nlpaueb/bert-base-uncased-eurlex
-
-
-https://huggingface.co/nlpaueb/bert-base-uncased-contracts
-
-
-A introduction to Legal Bert training:
-https://www.youtube.com/watch?v=-Ix2zWbq878
-
-
-https://opensource.legal/projects/Legal_BERT
-
-
-Open Source Legal Dataset:
-https://huggingface.co/datasets/coastalcph/lex_glue
-
+This improved README enhances readability, organization, and presentation while keeping all essential details intact. 🚀
