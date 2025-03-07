@@ -141,5 +141,3 @@ python src/legal-bert.py
 - [Open Source Legal Dataset](https://huggingface.co/datasets/coastalcph/lex_glue)
 
 ---
-
-This improved README enhances readability, organization, and presentation while keeping all essential details intact. 🚀
