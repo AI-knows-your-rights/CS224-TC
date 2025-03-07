@@ -1,1 +1,35 @@
-{}
+{
+    "meta_data": {
+        "title": "DeepL - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 10:02:49",
+            "edit_link": "https://edit.tosdr.org/points/13373",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service will warn users about website maintenance",
+            "rating": "good",
+            "description": "Users will be notified before their experience is impacted due to website maintenance.",
+            "last_updated": "2023-07-11 10:02:49",
+            "edit_link": "https://edit.tosdr.org/points/13363",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2020-12-15 05:42:03",
+            "edit_link": "https://edit.tosdr.org/points/8802",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

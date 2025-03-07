@@ -1,1 +1,187 @@
-{}
+{
+    "meta_data": {
+        "title": "Cloudflare - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:19:45",
+            "edit_link": "https://edit.tosdr.org/points/23284",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:08:42",
+            "edit_link": "https://edit.tosdr.org/points/12638",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:03:02",
+            "edit_link": "https://edit.tosdr.org/points/7101",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:03:08",
+            "edit_link": "https://edit.tosdr.org/points/7090",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:03:09",
+            "edit_link": "https://edit.tosdr.org/points/7091",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:06:29",
+            "edit_link": "https://edit.tosdr.org/points/12637",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:34:31",
+            "edit_link": "https://edit.tosdr.org/points/7097",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:08:44",
+            "edit_link": "https://edit.tosdr.org/points/12652",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:19:45",
+            "edit_link": "https://edit.tosdr.org/points/23283",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:03:04",
+            "edit_link": "https://edit.tosdr.org/points/7107",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:15:16",
+            "edit_link": "https://edit.tosdr.org/points/19229",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:06:22",
+            "edit_link": "https://edit.tosdr.org/points/12650",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:08:42",
+            "edit_link": "https://edit.tosdr.org/points/12642",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:08:41",
+            "edit_link": "https://edit.tosdr.org/points/12633",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:04:14",
+            "edit_link": "https://edit.tosdr.org/points/12626",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:13",
+            "edit_link": "https://edit.tosdr.org/points/7085",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:34:26",
+            "edit_link": "https://edit.tosdr.org/points/7093",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:03:14",
+            "edit_link": "https://edit.tosdr.org/points/7106",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:03:01",
+            "edit_link": "https://edit.tosdr.org/points/7099",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:43",
+            "edit_link": "https://edit.tosdr.org/points/12641",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:08:43",
+            "edit_link": "https://edit.tosdr.org/points/12647",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:45",
+            "edit_link": "https://edit.tosdr.org/points/12635",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

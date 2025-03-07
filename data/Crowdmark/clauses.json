@@ -1,1 +1,187 @@
-{}
+{
+    "meta_data": {
+        "title": "Crowdmark - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "unknown",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 10:08:08",
+            "edit_link": "https://edit.tosdr.org/points/6809",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You waive your moral rights, that you, as author, have or may in your Content",
+            "rating": "unknown",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 10:07:57",
+            "edit_link": "https://edit.tosdr.org/points/6804",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Terms of Service may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:36:02",
+            "edit_link": "https://edit.tosdr.org/points/6799",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:36:01",
+            "edit_link": "https://edit.tosdr.org/points/6815",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:57",
+            "edit_link": "https://edit.tosdr.org/points/6808",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-07-11 10:02:57",
+            "edit_link": "https://edit.tosdr.org/points/6819",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:36:02",
+            "edit_link": "https://edit.tosdr.org/points/6810",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:36:02",
+            "edit_link": "https://edit.tosdr.org/points/6814",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:08:05",
+            "edit_link": "https://edit.tosdr.org/points/6803",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 06:36:03",
+            "edit_link": "https://edit.tosdr.org/points/6802",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:02:52",
+            "edit_link": "https://edit.tosdr.org/points/6806",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service may use third-party cookies and web beacons for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:08:05",
+            "edit_link": "https://edit.tosdr.org/points/6797",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:36:01",
+            "edit_link": "https://edit.tosdr.org/points/6800",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:36:06",
+            "edit_link": "https://edit.tosdr.org/points/6818",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:07:57",
+            "edit_link": "https://edit.tosdr.org/points/6805",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:36:15",
+            "edit_link": "https://edit.tosdr.org/points/6816",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:36:00",
+            "edit_link": "https://edit.tosdr.org/points/6796",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service employs a broad copyright license over user content including the right to distribute through any media",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:36:01",
+            "edit_link": "https://edit.tosdr.org/points/6801",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users should revisit the privacy policy periodically, although in case of material changes, the service will put a notice on the site",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:36:02",
+            "edit_link": "https://edit.tosdr.org/points/6798",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:36:04",
+            "edit_link": "https://edit.tosdr.org/points/6812",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is transparent regarding government requests or inquiries that may involve user data.",
+            "rating": "neutral",
+            "description": "Weight was 30.",
+            "last_updated": "2023-07-11 10:08:09",
+            "edit_link": "https://edit.tosdr.org/points/6813",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The court of law governing the terms is in the Province of Ontario and the applicable laws of Canada",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:36:04",
+            "edit_link": "https://edit.tosdr.org/points/6817",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

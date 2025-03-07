@@ -1,1 +1,171 @@
-{}
+{
+    "meta_data": {
+        "title": "Metager - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-09-16 17:06:27",
+            "edit_link": "https://edit.tosdr.org/points/18347",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Service can block or censor user communications",
+            "rating": "bad",
+            "description": "The service reserves the right, for any or no reason, to refuse to post or reject user communications.",
+            "last_updated": "2023-07-11 06:34:23",
+            "edit_link": "https://edit.tosdr.org/points/18339",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:04:56",
+            "edit_link": "https://edit.tosdr.org/points/18341",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:14:19",
+            "edit_link": "https://edit.tosdr.org/points/18344",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:14:19",
+            "edit_link": "https://edit.tosdr.org/points/18343",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:23:35",
+            "edit_link": "https://edit.tosdr.org/points/26413",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:14:19",
+            "edit_link": "https://edit.tosdr.org/points/18345",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data will not be used for an automated decision-making",
+            "rating": "good",
+            "description": "The service promises not to use your personal data for automated decision-making, including profiling.",
+            "last_updated": "2023-07-11 10:14:44",
+            "edit_link": "https://edit.tosdr.org/points/18818",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:47:56",
+            "edit_link": "https://edit.tosdr.org/points/18817",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service provides an onion site accessible over Tor",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2021-02-22 13:51:53",
+            "edit_link": "https://edit.tosdr.org/points/16742",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:14:20",
+            "edit_link": "https://edit.tosdr.org/points/18346",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The website is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 04:47:55",
+            "edit_link": "https://edit.tosdr.org/points/18337",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",
+            "rating": "good",
+            "description": "If a service expresses a worldview antithetical to the user’s, that is a good signal that they should not use the service. Or conversely, if the service expresses an uncommonly-held belief that the user agrees with and thinks is relevant to the service-user relationship and/or important, they may wish to use that to choose between otherwise comparable services.",
+            "last_updated": "2023-07-11 10:14:44",
+            "edit_link": "https://edit.tosdr.org/points/18820",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service does not collect, use, or share location data",
+            "rating": "good",
+            "description": "No location-based information is tracked by the service, so that it cannot be used or shared with third parties.",
+            "last_updated": "2023-07-11 10:15:40",
+            "edit_link": "https://edit.tosdr.org/points/18814",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:15:39",
+            "edit_link": "https://edit.tosdr.org/points/18816",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:14:20",
+            "edit_link": "https://edit.tosdr.org/points/18348",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 04:47:56",
+            "edit_link": "https://edit.tosdr.org/points/18815",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:08:59",
+            "edit_link": "https://edit.tosdr.org/points/18819",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:48",
+            "edit_link": "https://edit.tosdr.org/points/18338",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:19",
+            "edit_link": "https://edit.tosdr.org/points/18340",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

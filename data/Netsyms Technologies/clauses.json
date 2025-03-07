@@ -1,1 +1,131 @@
-{}
+{
+    "meta_data": {
+        "title": "Netsyms Technologies - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "User logs are deleted after 30 days",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:08:23",
+            "edit_link": "https://edit.tosdr.org/points/5021",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 06:33:14",
+            "edit_link": "https://edit.tosdr.org/points/5014",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:35",
+            "edit_link": "https://edit.tosdr.org/points/5008",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:34:17",
+            "edit_link": "https://edit.tosdr.org/points/5020",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:02:55",
+            "edit_link": "https://edit.tosdr.org/points/5017",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2019-06-18 03:45:23",
+            "edit_link": "https://edit.tosdr.org/points/5011",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service provides a way for you to export your data",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2019-06-25 04:06:04",
+            "edit_link": "https://edit.tosdr.org/points/5012",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:33:21",
+            "edit_link": "https://edit.tosdr.org/points/5016",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:34:16",
+            "edit_link": "https://edit.tosdr.org/points/5006",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2019-06-26 01:05:58",
+            "edit_link": "https://edit.tosdr.org/points/5009",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:33:15",
+            "edit_link": "https://edit.tosdr.org/points/5018",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This services gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 10:04:35",
+            "edit_link": "https://edit.tosdr.org/points/5015",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2019-06-09 22:53:06",
+            "edit_link": "https://edit.tosdr.org/points/5010",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:34:18",
+            "edit_link": "https://edit.tosdr.org/points/5013",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users agree not to submit illegal content",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:34:17",
+            "edit_link": "https://edit.tosdr.org/points/5007",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

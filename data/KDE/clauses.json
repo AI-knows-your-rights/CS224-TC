@@ -1,1 +1,59 @@
-{}
+{
+    "meta_data": {
+        "title": "KDE - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:48:20",
+            "edit_link": "https://edit.tosdr.org/points/20728",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "IP addresses are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 04:48:20",
+            "edit_link": "https://edit.tosdr.org/points/20730",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:19:51",
+            "edit_link": "https://edit.tosdr.org/points/23349",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:24:56",
+            "edit_link": "https://edit.tosdr.org/points/27812",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 04:48:20",
+            "edit_link": "https://edit.tosdr.org/points/20726",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:48:16",
+            "edit_link": "https://edit.tosdr.org/points/20727",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

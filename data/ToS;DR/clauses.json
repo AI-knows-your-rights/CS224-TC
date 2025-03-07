@@ -1,1 +1,67 @@
-{}
+{
+    "meta_data": {
+        "title": "ToS;DR - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-25 06:59:55",
+            "edit_link": "https://edit.tosdr.org/points/34371",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "ToS;DR Provides an Onion Service",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2021-04-30 18:24:23",
+            "edit_link": "https://edit.tosdr.org/points/19397",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about its attitude towards ethical, social or political problems or controversies",
+            "rating": "good",
+            "description": "If a service expresses a worldview antithetical to the user’s, that is a good signal that they should not use the service. Or conversely, if the service expresses an uncommonly-held belief that the user agrees with and thinks is relevant to the service-user relationship and/or important, they may wish to use that to choose between otherwise comparable services.",
+            "last_updated": "2020-11-23 21:13:05",
+            "edit_link": "https://edit.tosdr.org/points/11601",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "ToS;DR provides information on its password security mechanism",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2020-12-30 05:38:54",
+            "edit_link": "https://edit.tosdr.org/points/4520",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms for ToS;DR are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2018-08-27 08:20:58",
+            "edit_link": "https://edit.tosdr.org/points/4523",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2020-11-27 19:48:36",
+            "edit_link": "https://edit.tosdr.org/points/11602",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "ToS;DR gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2018-08-27 08:21:45",
+            "edit_link": "https://edit.tosdr.org/points/4524",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

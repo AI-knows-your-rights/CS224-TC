@@ -1,1 +1,107 @@
-{}
+{
+    "meta_data": {
+        "title": "Deveroonie.xyz - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:28:06",
+            "edit_link": "https://edit.tosdr.org/points/30288",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:28:07",
+            "edit_link": "https://edit.tosdr.org/points/30305",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:28:07",
+            "edit_link": "https://edit.tosdr.org/points/30289",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:28:06",
+            "edit_link": "https://edit.tosdr.org/points/30307",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:28:05",
+            "edit_link": "https://edit.tosdr.org/points/30303",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-08-28 11:48:52",
+            "edit_link": "https://edit.tosdr.org/points/34506",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:28:19",
+            "edit_link": "https://edit.tosdr.org/points/30414",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:28:07",
+            "edit_link": "https://edit.tosdr.org/points/30308",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-06-30 18:31:07",
+            "edit_link": "https://edit.tosdr.org/points/34235",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:06",
+            "edit_link": "https://edit.tosdr.org/points/30302",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:32:45",
+            "edit_link": "https://edit.tosdr.org/points/34070",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:28:06",
+            "edit_link": "https://edit.tosdr.org/points/30304",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

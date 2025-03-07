@@ -1,1 +1,83 @@
-{}
+{
+    "meta_data": {
+        "title": "Fandom - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:33:01",
+            "edit_link": "https://edit.tosdr.org/points/9740",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:33:51",
+            "edit_link": "https://edit.tosdr.org/points/9839",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:34:02",
+            "edit_link": "https://edit.tosdr.org/points/9737",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:34:03",
+            "edit_link": "https://edit.tosdr.org/points/9843",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:34:02",
+            "edit_link": "https://edit.tosdr.org/points/9736",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:33:56",
+            "edit_link": "https://edit.tosdr.org/points/9735",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:33:53",
+            "edit_link": "https://edit.tosdr.org/points/9842",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:33:52",
+            "edit_link": "https://edit.tosdr.org/points/9840",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:34:02",
+            "edit_link": "https://edit.tosdr.org/points/9738",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

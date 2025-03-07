@@ -1,1 +1,35 @@
-{}
+{
+    "meta_data": {
+        "title": "Tor Browser - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 04:48:28",
+            "edit_link": "https://edit.tosdr.org/points/20801",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 04:48:28",
+            "edit_link": "https://edit.tosdr.org/points/20799",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "An anonymous payment method is offered",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 04:48:28",
+            "edit_link": "https://edit.tosdr.org/points/20800",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

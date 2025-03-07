@@ -34,6 +34,8 @@ Each company's folder contains a `details.json` file, which includes:
 - Domain and URL information
 - Other metadata
 
+We need to do a DE-DUP that with n-gram duplication detection. So the test dataset doesn't have 10-gram dup with the training dataset.
+
 #### Grading System
 
 Each identified point is classified as:

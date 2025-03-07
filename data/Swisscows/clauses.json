@@ -1,1 +1,99 @@
-{}
+{
+    "meta_data": {
+        "title": "Swisscows - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20786",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20798",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20796",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service will resist legal requests for your information where reasonably possible",
+            "rating": "good",
+            "description": "The service will attempt to protect user information to a great extent, even so far as stating that they will only follow legal requirements to disclose user information in circumstances where this cannot be reasonably resisted.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20792",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20795",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your data is processed and stored in a country that is friendlier to user privacy protection (Switzerland)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for strong data regulations and user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20788",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20794",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20797",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20791",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20790",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties (Bing) are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:27",
+            "edit_link": "https://edit.tosdr.org/points/20789",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

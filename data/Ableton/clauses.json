@@ -1,1 +1,211 @@
-{}
+{
+    "meta_data": {
+        "title": "Ableton - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28414",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:25:34",
+            "edit_link": "https://edit.tosdr.org/points/28403",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:25:36",
+            "edit_link": "https://edit.tosdr.org/points/28408",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 06:25:36",
+            "edit_link": "https://edit.tosdr.org/points/28415",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 06:32:49",
+            "edit_link": "https://edit.tosdr.org/points/28401",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third party privacy-focused cookies are employed, but with opt out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:36",
+            "edit_link": "https://edit.tosdr.org/points/28412",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:26:32",
+            "edit_link": "https://edit.tosdr.org/points/28409",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:25:37",
+            "edit_link": "https://edit.tosdr.org/points/28417",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Tracking cookies refused will not limit your ability to use the service",
+            "rating": "good",
+            "description": "Blocking tracking technologies will not negatively impact your use of the service.",
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28393",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data will not be used for an automated decision-making",
+            "rating": "good",
+            "description": "The service promises not to use your personal data for automated decision-making, including profiling.",
+            "last_updated": "2023-07-11 06:25:36",
+            "edit_link": "https://edit.tosdr.org/points/28416",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "A list of all cookies set by the website is provided",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28411",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:25:36",
+            "edit_link": "https://edit.tosdr.org/points/28413",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28406",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:25:34",
+            "edit_link": "https://edit.tosdr.org/points/28405",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:26:39",
+            "edit_link": "https://edit.tosdr.org/points/28398",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Outside of Europe, this service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:25:34",
+            "edit_link": "https://edit.tosdr.org/points/28397",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:27:12",
+            "edit_link": "https://edit.tosdr.org/points/28410",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:34",
+            "edit_link": "https://edit.tosdr.org/points/28399",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:26:39",
+            "edit_link": "https://edit.tosdr.org/points/28395",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:26:39",
+            "edit_link": "https://edit.tosdr.org/points/28394",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service informs you that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 06:27:24",
+            "edit_link": "https://edit.tosdr.org/points/28400",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:25:34",
+            "edit_link": "https://edit.tosdr.org/points/28396",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28404",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The court of law governing the terms is in Germany for European users/New York for non-European users",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28402",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:35",
+            "edit_link": "https://edit.tosdr.org/points/28407",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

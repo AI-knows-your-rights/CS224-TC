@@ -1,1 +1,35 @@
-{}
+{
+    "meta_data": {
+        "title": "PussTheCat - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-06-10 21:29:07",
+            "edit_link": "https://edit.tosdr.org/points/34094",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:27:23",
+            "edit_link": "https://edit.tosdr.org/points/29884",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:27:23",
+            "edit_link": "https://edit.tosdr.org/points/29885",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

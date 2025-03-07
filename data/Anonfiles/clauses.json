@@ -1,1 +1,83 @@
-{}
+{
+    "meta_data": {
+        "title": "Anonfiles - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "unknown",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:12:20",
+            "edit_link": "https://edit.tosdr.org/points/15375",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:12:20",
+            "edit_link": "https://edit.tosdr.org/points/15377",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 10:12:19",
+            "edit_link": "https://edit.tosdr.org/points/15374",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2020-12-15 11:10:42",
+            "edit_link": "https://edit.tosdr.org/points/9112",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Conditions may change, but your continued acceptance is not inferred from an earlier acceptance",
+            "rating": "neutral",
+            "description": "When you're not logged in to a service, but use it repeatedly, it may still feel weird that their terms and conditions can change between one use and the next. However, this does not violate the rule-of-thumb that each new version should be accepted from scratch, without inferring your acceptance from the acceptance of an earlier version. Since no acceptance is inferred from continued use, but only from current use, we rate this as neutral instead of bad.",
+            "last_updated": "2023-08-31 13:22:08",
+            "edit_link": "https://edit.tosdr.org/points/15376",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:12:20",
+            "edit_link": "https://edit.tosdr.org/points/15373",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:12:18",
+            "edit_link": "https://edit.tosdr.org/points/15378",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:12:20",
+            "edit_link": "https://edit.tosdr.org/points/15379",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users agree not to submit illegal content",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:19",
+            "edit_link": "https://edit.tosdr.org/points/15380",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

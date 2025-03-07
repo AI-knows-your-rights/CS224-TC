@@ -1,1 +1,51 @@
-{}
+{
+    "meta_data": {
+        "title": "ToSBack - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2021-02-08 09:29:09",
+            "edit_link": "https://edit.tosdr.org/points/16031",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2021-02-08 09:28:10",
+            "edit_link": "https://edit.tosdr.org/points/16030",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2021-02-09 10:25:12",
+            "edit_link": "https://edit.tosdr.org/points/16033",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "ToSBack provides an onion site accessible over Tor",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2021-04-30 18:24:16",
+            "edit_link": "https://edit.tosdr.org/points/19399",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service only uses temporary session cookies",
+            "rating": "good",
+            "description": "Temporary session cookies are cookies that are deleted when you close your browser instead of remaining there until they are manually deleted (or expire). These cookies are only used for the purposes of the service and therefore disappear when it's no longer used.",
+            "last_updated": "2021-04-03 10:47:34",
+            "edit_link": "https://edit.tosdr.org/points/16032",
+            "approval_status": "APPROVED"
+        }
+    ]
+}
