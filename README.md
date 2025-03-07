@@ -29,12 +29,39 @@ For each company, there is a folder of the company name.
 ### Website Scoring
 The folder contains a details.json with the website scoring, the domain and the url, etc.
 
+The grading system works as follows:
+
+Point Types:
+Points can be classified as: ‘good’, ‘neutral’, ‘bad’, or ‘blocker’
+Each point must be ‘approved’ to be counted in the grade calculation
+
+
+#### Grade Calculation Process:
+
+First, it counts the number of each type of point
+
+Then calculates a balance score using the formula:
+
+```
+     balance = number_of_good_points - number_of_bad_points - (number_of_blocker_points * 3)
+```
+
+#### Grade Assignment Rules:
+
+Grade ‘N/A’: If there are no points (good + bad + blocker = 0)
+Grade ‘E’: If balance ≤ -10 OR if blockers > good points
+Grade ‘D’: If blockers ≥ 3 OR if bad points > good points
+Grade ‘C’: If balance < 5
+Grade ‘B’: If there are any bad points
+Grade ‘A’: All other cases (essentially, only good points)
+
+We can use the same approach to calculate the document scoring based on the predicted clauses rating.
+
 ### Clause by Clause Rating
 Also the folder contains a service.html with the clause by clause rating. The servicve.html is converted to service.txt with the text content for easier reading.
 
-#### TODO: convert the service.html into JSON format for easier processing.
+Convert the service.html into JSON format for easier processing.
 
-#### TODO: Re-organize the data by rating and detect the clauses distribution. Similar T&C clauses shall receive similar rating, but maybe there are overlapping in the manually rated clauses.
 
 ### T&C Documents
 
