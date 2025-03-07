@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const extractClauses = require('./extractClauses');
+const extractClauses = require('./extractClause');
 const { parseArgs } = require('node:util');
 
 // Define command-line options

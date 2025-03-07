@@ -1,0 +1,88 @@
+{
+    "meta_data": {
+        "title": "Codeberg - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:48:22",
+            "edit_link": "https://edit.tosdr.org/points/20734"
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 04:48:28",
+            "edit_link": "https://edit.tosdr.org/points/20787"
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:25:15",
+            "edit_link": "https://edit.tosdr.org/points/28128"
+        },
+        {
+            "title": "Logs are deleted after seven days.",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 04:48:21",
+            "edit_link": "https://edit.tosdr.org/points/20732"
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 04:48:22",
+            "edit_link": "https://edit.tosdr.org/points/20735"
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 04:48:21",
+            "edit_link": "https://edit.tosdr.org/points/20738"
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:48:22",
+            "edit_link": "https://edit.tosdr.org/points/20736"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2021-05-17 18:40:18",
+            "edit_link": "https://edit.tosdr.org/points/20739"
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:26",
+            "edit_link": "https://edit.tosdr.org/points/20737"
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:27:09",
+            "edit_link": "https://edit.tosdr.org/points/28127"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:21",
+            "edit_link": "https://edit.tosdr.org/points/20733"
+        }
+    ]
+}

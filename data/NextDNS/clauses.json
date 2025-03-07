@@ -1,0 +1,46 @@
+{
+    "meta_data": {
+        "title": "NextDNS - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:04:40",
+            "edit_link": "https://edit.tosdr.org/points/8270"
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:11:26",
+            "edit_link": "https://edit.tosdr.org/points/14200"
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 10:04:40",
+            "edit_link": "https://edit.tosdr.org/points/8271"
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22510"
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:03:33",
+            "edit_link": "https://edit.tosdr.org/points/13295"
+        }
+    ]
+}

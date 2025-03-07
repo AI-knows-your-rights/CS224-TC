@@ -1,0 +1,277 @@
+{
+    "meta_data": {
+        "title": "Forbes - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "unknown",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:31:51",
+            "edit_link": "https://edit.tosdr.org/points/31654"
+        },
+        {
+            "title": "Sensitive data is collected and shared to target advertising",
+            "rating": "unknown",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31674"
+        },
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 04:48:39",
+            "edit_link": "https://edit.tosdr.org/points/20974"
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31668"
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:29:50",
+            "edit_link": "https://edit.tosdr.org/points/31672"
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31669"
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:31:51",
+            "edit_link": "https://edit.tosdr.org/points/31666"
+        },
+        {
+            "title": "Your Personal data may be sold unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 06:29:50",
+            "edit_link": "https://edit.tosdr.org/points/31671"
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:15:32",
+            "edit_link": "https://edit.tosdr.org/points/19535"
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:15:33",
+            "edit_link": "https://edit.tosdr.org/points/19533"
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:48:39",
+            "edit_link": "https://edit.tosdr.org/points/20973"
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (State of New York; USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:48:40",
+            "edit_link": "https://edit.tosdr.org/points/20970"
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:15:33",
+            "edit_link": "https://edit.tosdr.org/points/19536"
+        },
+        {
+            "title": "You have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31662"
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:29:50",
+            "edit_link": "https://edit.tosdr.org/points/31661"
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31673"
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:29:50",
+            "edit_link": "https://edit.tosdr.org/points/31670"
+        },
+        {
+            "title": "Web beacons are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:15:33",
+            "edit_link": "https://edit.tosdr.org/points/19534"
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31664"
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31656"
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31665"
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31663"
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:48:39",
+            "edit_link": "https://edit.tosdr.org/points/20971"
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:48:39",
+            "edit_link": "https://edit.tosdr.org/points/20972"
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:31:51",
+            "edit_link": "https://edit.tosdr.org/points/31657"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:24:17",
+            "edit_link": "https://edit.tosdr.org/points/27202"
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31655"
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:29:49",
+            "edit_link": "https://edit.tosdr.org/points/31660"
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:48:39",
+            "edit_link": "https://edit.tosdr.org/points/20968"
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31659"
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31651"
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:39",
+            "edit_link": "https://edit.tosdr.org/points/20969"
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31653"
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31658"
+        },
+        {
+            "title": "Forbes informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:15:33",
+            "edit_link": "https://edit.tosdr.org/points/19532"
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:31:51",
+            "edit_link": "https://edit.tosdr.org/points/31650"
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:29:48",
+            "edit_link": "https://edit.tosdr.org/points/31652"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:50",
+            "edit_link": "https://edit.tosdr.org/points/31667"
+        }
+    ]
+}
