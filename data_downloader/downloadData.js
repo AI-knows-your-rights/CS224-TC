@@ -43,23 +43,40 @@ function createDirectory(dirPath) {
 // Function to download a file with error handling
 async function downloadFile(url, filePath) {
   try {
-    // Add headers to mimic a browser request
+    // Add headers to mimic a modern browser request
     const headers = {
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-      'Accept-Language': 'en-US,en;q=0.5',
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Accept-Encoding': 'gzip, deflate, br',
       'Connection': 'keep-alive',
-      'Upgrade-Insecure-Requests': '1'
+      'Cache-Control': 'max-age=0',
+      'Sec-Ch-Ua': '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+      'Sec-Ch-Ua-Mobile': '?0',
+      'Sec-Ch-Ua-Platform': '"macOS"',
+      'Sec-Fetch-Dest': 'document',
+      'Sec-Fetch-Mode': 'navigate',
+      'Sec-Fetch-Site': 'none',
+      'Sec-Fetch-User': '?1',
+      'Upgrade-Insecure-Requests': '1',
+      'Referer': 'https://www.google.com/',
+      'DNT': '1'
     };
 
     const response = await axios.get(url, { 
       responseType: "stream",
       headers: headers,
-      timeout: 10000, // 10 second timeout
+      timeout: 30000, // 30 second timeout
       maxRedirects: 5,
+      validateStatus: function (status) {
+        return status >= 200 && status < 500; // Accept all status codes less than 500
+      },
       httpsAgent: new (require('https').Agent)({  
-        rejectUnauthorized: false
-      })
+        rejectUnauthorized: false,
+        keepAlive: true
+      }),
+      decompress: true, // Handle gzip responses
+      withCredentials: true // Send cookies if any
     });
 
     // Ensure the directory exists before writing
@@ -98,13 +115,17 @@ async function downloadFile(url, filePath) {
         case 403:
           console.error(`Access forbidden (403) for ${url}. The server is rejecting the request.`);
           console.error(JSON.stringify(error.response.data, null, 2));
-          break;
+          // Retry with a delay for 403 errors
+          await new Promise(resolve => setTimeout(resolve, 5000)); // Wait 5 seconds
+          return downloadFile(url, filePath); // Retry the download
         case 404:
           console.error(`Resource not found (404) at ${url}`);
           break;
         case 429:
           console.error(`Too many requests (429) for ${url}. Please wait before trying again.`);
-          break;
+          // Wait for a longer time before retrying
+          await new Promise(resolve => setTimeout(resolve, 10000)); // Wait 10 seconds
+          return downloadFile(url, filePath); // Retry the download
         default:
           console.error(`HTTP error ${error.response.status} for ${url}:`, error.message);
       }
@@ -122,19 +143,48 @@ function extractTextFromHTML(htmlContent) {
   const $ = cheerio.load(htmlContent);
 
   // Remove scripts, styles, and irrelevant elements
-  $("script, style, noscript, iframe, link, meta, svg").remove();
+  $("script, style, noscript, iframe, link, meta, svg, header, footer, nav").remove();
 
-  const mainContent = $(
-    'body'
-  );
-  // Extract the text from relevant sections
-  const text = mainContent
-    .text()
-    .replace(/\s+/g, " ") // Normalize spaces
-    .replace(/\n\s*\n/g, '\n\n') // 去除多余空行
-    .trim(); // 去除首尾空格
+  // Get the main content
+  const mainContent = $('body');
 
-  return text;
+  // Process each element
+  let processedText = '';
+  
+  // Process paragraphs and other block elements
+  mainContent.find('p, div, section, article, h1, h2, h3, h4, h5, h6').each((_, element) => {
+    const $element = $(element);
+    const text = $element.text().trim();
+    
+    if (text) {
+      // Add proper spacing between words
+      const formattedText = text
+        .replace(/\s+/g, ' ')  // Replace multiple spaces with single space
+        .replace(/([.!?])\s*/g, '$1\n')  // Add newline after sentence endings
+        .replace(/\n\s*\n/g, '\n\n')  // Remove extra newlines
+        .trim();
+      
+      processedText += formattedText + '\n\n';
+    }
+  });
+
+  // Process lists
+  mainContent.find('ul, ol').each((_, element) => {
+    const $element = $(element);
+    $element.find('li').each((_, li) => {
+      const text = $(li).text().trim();
+      if (text) {
+        processedText += `• ${text}\n`;
+      }
+    });
+    processedText += '\n';
+  });
+
+  // Final cleanup
+  return processedText
+    .replace(/\n{3,}/g, '\n\n')  // Remove excessive newlines
+    .replace(/\s+/g, ' ')  // Normalize spaces
+    .trim();
 }
 
 
@@ -176,9 +226,6 @@ async function checkForTermsAndConditions(text) {
     }
   } catch (error) {
     console.error("Error during classification:", error.message);
-    if (error.response) {
-      console.error("Response data:", error.response.data);
-    }
     return {
       status: "Error",
       message: "Classification failed",
