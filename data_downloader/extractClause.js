@@ -99,6 +99,8 @@ const extractClauses = async (htmlContent) => {
         // Extract Rating
         if (point.hasClass('point-good')) {
             clause.rating = 'good';
+        } else if (point.hasClass('point-blocker')) {
+            clause.rating = 'blocker';
         } else if (point.hasClass('point-bad')) {
             clause.rating = 'bad';
         } else if (point.hasClass('point-neutral')) {
