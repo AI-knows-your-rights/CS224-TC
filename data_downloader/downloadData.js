@@ -56,7 +56,10 @@ async function downloadFile(url, filePath) {
       responseType: "stream",
       headers: headers,
       timeout: 10000, // 10 second timeout
-      maxRedirects: 5
+      maxRedirects: 5,
+      httpsAgent: new (require('https').Agent)({  
+        rejectUnauthorized: false
+      })
     });
 
     // Ensure the directory exists before writing
@@ -84,8 +87,17 @@ async function downloadFile(url, filePath) {
   } catch (error) {
     if (error.response) {
       switch (error.response.status) {
+        case 400:
+          console.error(`Bad request (400) for ${url}. The server is rejecting the request.`);
+          console.error(JSON.stringify(error.response.data, null, 2));
+          break; 
+        case 401:
+          console.error(`Unauthorized (401) for ${url}. The server is rejecting the request.`);
+          console.error(JSON.stringify(error.response.data, null, 2));
+          break;
         case 403:
           console.error(`Access forbidden (403) for ${url}. The server is rejecting the request.`);
+          console.error(JSON.stringify(error.response.data, null, 2));
           break;
         case 404:
           console.error(`Resource not found (404) at ${url}`);
@@ -192,7 +204,7 @@ async function saveDocument(documentText, fileName, serviceName, containsTC, doc
     // Set the directory for saving files
     const originalDir = documentsDir;
     // Determine the prefix and filename
-    const prefix = containsTC ? 'TC' : 'Review';
+    const prefix = containsTC.status === "Acceptable" ? 'TC' : 'Review';
     const newFileName = getNextFileName(originalDir, prefix);
 
     // Save the document
@@ -293,13 +305,17 @@ async function downloadData(all = false) {
 
         // Check if the document text contains T&C
         const containsTC = await checkForTermsAndConditions(documentText);
-        if (containsTC) {
+        if (containsTC.status === "Acceptable") {
+          console.log(
+            `The document ${fileName} for service ${service.name} contains T&C.`
+          );
+        } else if (containsTC.status === "Warning") {
           console.log(
             `The document ${fileName} for service ${service.name} contains T&C.`
           );
         } else {
           console.log(
-            `The document ${fileName} for service ${service.name} does not contain T&C.`
+            `The document ${fileName} for service ${service.name} failed to classify.`
           );
         }
 
