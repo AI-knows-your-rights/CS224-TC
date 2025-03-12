@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "Gandi - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:20:22",
+            "point_link": "https://edit.tosdr.org/points/23552",
+            "approval_status": "APPROVED",
+            "clause_text": "As a user, when you browse the Websites and/or use the services offered on the Websites, Gandi may collect the following personal data about you:</p>\n<p>- Identification data: name, ID card and/or passport number and/or any other identification number or document, nationality, residence permit, place and date of birth, IP address and its location, user ID;</p>\n<p>- Contact data: postal and email address, telephone number;</p>\n<p>- Data related to the interactions between the customer and Gandi: cookies, hidden pixels, customer experience, payment methods used, e-mail exchanges, ;</p>\n<p>- Data relative to user accounts on social networks;</p>\n<p>- Data relative to the processing of emails and communications sent to you, such as timestamp and date.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24122",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>- To carry out statistical analysis for profiling and segmentation purposes for targeted marketing, audience measurement and performance measurement;</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24123",
+            "approval_status": "APPROVED",
+            "clause_text": "Third parties, in particular in the context of the contractual relationship with our customers or resellers, or in the context of incoming transfers of domain names from other registrars;</li>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24125",
+            "approval_status": "APPROVED",
+            "clause_text": "Data transfers may also take place within the framework of the aforementioned purposes in connection with service providers (for example: recruitment, fight against fraud, statistical analyses, data aggregation, etc.).</p>\n<p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24124",
+            "approval_status": "APPROVED",
+            "clause_text": "Gandi may transfer your personal data outside the European Union, to countries that do not ensure an adequate level of protection of personal data.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24129",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>AT Internet cookie</p>\n<p>\n</p>\n<p>Visitor ID for client-side cookie websites</p>13 months<p>\n</p>\n<p>Allows you to track the number of unique visitors (only used to get this number, not used to track user behaviour between browsing sessions",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24131",
+            "approval_status": "APPROVED",
+            "clause_text": "The pixel is a tracking method integrated into the newsletter for tracking the opening of emails.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24127",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the following rights with regards to the processing of your personal data:</p>\n<p>- to request access to your personal data ;</p>\n<p>- to obtain the rectification of inaccurate data;</p>\n<p>- in certain specific cases, obtain the deletion of some of your data;</p>\n<p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Tracking cookies refused will not limit your ability to use the service",
+            "rating": "good",
+            "description": "Blocking tracking technologies will not negatively impact your use of the service.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24130",
+            "approval_status": "APPROVED",
+            "clause_text": "Concerning audience measurement cookies (Matomo and AT Internet): these are configured according to the recommendations of the CNIL so as not to require the user's consent.</p>\n<p>Nevertheless, you have the option of refusing the deposit of the AT Internet audience measurement cookies by clicking on the button below:</p>To opt-out, switch the button Opt out of AT Internet analytics completely",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Tracking cookies refused will not limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/385"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24126",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data are kept in accordance with legal and tax provisions for a period that does not exceed that which is necessary for the purposes for which data were collected and processed.</p>\n<p>For each processing and purpose, Gandi has defined a maximum retention period for the data, proportionate to the purpose and objective pursued.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "A list of all cookies set by the website is provided",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24128",
+            "approval_status": "APPROVED",
+            "clause_text": "The name of each cookie and its purposes are detailed.",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "Your personal data will not be used for an automated decision-making",
+            "rating": "good",
+            "description": "The service promises not to use your personal data for automated decision-making, including profiling.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24121",
+            "approval_status": "APPROVED",
+            "clause_text": "Does it only apply to fraud detection or in general?",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Your personal data will not be used for an automated decision-making",
+                "href": "https://edit.tosdr.org/cases/480"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:20:22",
+            "point_link": "https://edit.tosdr.org/points/23551",
+            "approval_status": "APPROVED",
+            "clause_text": "WHAT DATA IS COLLECTED?",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "You will be notified if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24132",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event of a data breach, Gandi has adopted mitigation and recovery procedures, as well as alerting the persons concerned and the authorities (notably the CNIL) if necessary.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:18:35",
+            "point_link": "https://edit.tosdr.org/points/23553",
+            "approval_status": "APPROVED",
+            "clause_text": "WHAT USE IS MADE OF THE DATA COLLECTED?<p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23550",
+            "approval_status": "APPROVED",
+            "clause_text": "Gandi has updated its Privacy Policy in accordance with applicable regulations, especially the Regulation (EU) 2016/679 of 27 April 2016 (GDPR) and the French Data Protection Act n°78-17 of 6 January 1978 as amended pertaining to data protection.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2021-07-09 09:34:25",
+            "point_link": "https://edit.tosdr.org/points/24134",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://contract.gandi.net/v5/contracts/42806/MSA_SAS_2020.1_en.pdf",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2021-07-09 09:35:24",
+            "point_link": "https://edit.tosdr.org/points/24135",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://contract.gandi.net/v5/contracts/42806/MSA_SAS_2020.1_en.pdf",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24133",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>Gandi's Websites may contain links to third party websites such as Facebook, Twitter, LinkedIn, as well as to the websites of certain registries.</p>\n<p>Gandi informs users that it has no control over the content of third-party websites or over the practices of these third parties in terms of protection of personal data that they may collect.</p>\n<p>Consequently, Gandi declines all responsibility concerning the processing of your personal data by these third parties.</p>",
+            "point_source": "https://www.gandi.net/en/contracts/privacy-policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in France",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2021-07-09 09:35:08",
+            "point_link": "https://edit.tosdr.org/points/24136",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://contract.gandi.net/v5/contracts/42806/MSA_SAS_2020.1_en.pdf",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

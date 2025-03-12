@@ -1,0 +1,543 @@
+{
+    "meta_data": {
+        "title": "Forbes - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:31:51",
+            "point_link": "https://edit.tosdr.org/points/31654",
+            "approval_status": "APPROVED",
+            "clause_text": "Forbes reserves the right to delete, move, or edit any Post (as defined below) at any time, for any reason, but Forbes has no obligation to review or remove any such content.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Sensitive data is collected and shared to target advertising",
+            "rating": "blocker",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31674",
+            "approval_status": "APPROVED",
+            "clause_text": "Characteristics of protected classifications under California or federal law</p>\n<p>Age, race, national origin, citizenship, marital or familial status, sex, gender, and other similar information</p>\n<p>To provide you with products and services.\nmarketing and promotions.\nfor internal reporting.\nto serve you content recommendations and targeted advertising",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Sensitive data is collected and shared to target advertising",
+                "href": "https://edit.tosdr.org/cases/487"
+            }
+        },
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 04:48:39",
+            "point_link": "https://edit.tosdr.org/points/20974",
+            "approval_status": "APPROVED",
+            "clause_text": "Log Files <p>The Site’s web and ad servers log information about a user's IP address, browser type and the current URL the user is requesting.\nThis information is always provided by a user's browser and automatically logged by most websites.\nThese log files are stored in a secure location and used for our business purpose of internal analysis of traffic patterns within our Site.",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31668",
+            "approval_status": "APPROVED",
+            "clause_text": "Geolocation data</p>\n<p>Location tracking information</p>\n<p>To communicate with you.\nto provide you with products and services.\nfor internal reporting.\nto serve you content recommendations and targeted advertising.\nsecurity and fraud prevention</p>",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:29:50",
+            "point_link": "https://edit.tosdr.org/points/31672",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Forbes affiliates.\nservice providers.\nevent sponsors.\nbusiness and advertising partners</p>\n<p>Commercial information</p>\n<p>Records of products or services purchased, purchasing or consuming histories or tendencies.</p>",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31669",
+            "approval_status": "APPROVED",
+            "clause_text": "Advertising Cookies</u>.\nTo help support the Properties and further tailor your experience, Forbes and its advertising partners (and/or their third-party analytics providers) may also use cookies on the Properties (including in emails) to personalize the content and advertisements you may be shown.",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:31:51",
+            "point_link": "https://edit.tosdr.org/points/31666",
+            "approval_status": "APPROVED",
+            "clause_text": "The following are categories and types of personal information that we may collect from or about you, depending on how you interact with the Properties:</p>\n<ul>\n<li>\n<p>Identifiers, such as your name and email address;</p>\n</li>\n<li>\n<p>Contact information, such as your mailing address and telephone number;</p>\n</li>\n<li>\n<p>Payment information, such as credit or debit card information;</p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Transaction information, such as your subscriptions and purchases with us;</p>\n</li>\n<li>\n<p>Profile information, such as photos, videos, or other information about you and your interests posted or included in connection with a user profile;</p>\n</li>\n<li>\n<p>Job and employment information, such as the name of your company, industry, and job title;</p>\n</li>\n<li>\n<p>Education information, such as school attended and degree obtained;</p>\n</li>\n<li>\n<p>Preferences, such as marketing preferences and choice of subscription;</p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Device and online identifiers and related information, including internet protocol (IP) address, mobile ad identifiers, data collected from cookies, beacons, and pixel tags, and similar unique identifiers;</p>\n</li>\n<li>\n<p>Internet or other electronic network activity information, including, but not limited to browsing history, search history, and information regarding your interaction with an internet website, application, email, mobile app, or advertisement;</p>\n</li>\n<li>\n<p>Geolocation or other information that permits us to determine your location;</p>\n</li>\n<li>\n<p>Demographic information, such as your age or the gender you identify as;</p>\n</li>\n<li>\n<p>Inferences we may create about you;</p>\n</li>\n</ul>\n<ul>\n<li>\n<p>Any other personal information that you or somebody on your behalf voluntarily provide us.</p>",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your Personal data may be sold unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 06:29:50",
+            "point_link": "https://edit.tosdr.org/points/31671",
+            "approval_status": "APPROVED",
+            "clause_text": "In the past 12 months, we have sold or shared the following categories of Personal Information with third parties:</p>",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:15:32",
+            "point_link": "https://edit.tosdr.org/points/19535",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Forbes and its partners (including advertisers, ad servers, and affiliate link e-commerce providers) may also use web beacons to collect various data provided by your browser while you are on our Site and elsewhere (i.e., outside of the Site) where we may be acting as a third party.",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:15:33",
+            "point_link": "https://edit.tosdr.org/points/19533",
+            "approval_status": "APPROVED",
+            "clause_text": "Functional cookies include social media cookies, which collect information about your social media usage and other data you may have provided in connection with such usage (if you access the Site through a social media website or mobile application, you may have social media cookies).",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:48:39",
+            "point_link": "https://edit.tosdr.org/points/20973",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>From time to time, we may collect personal information about you from third party sources (including data append services such as public or social graph data, or social media websites if you have chosen to log in or connect your social media with our Site) which we will use for our business purposes (for example, in order to better serve you with content or promotions).",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (State of New York; USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:48:40",
+            "point_link": "https://edit.tosdr.org/points/20970",
+            "approval_status": "APPROVED",
+            "clause_text": "<dd>These Terms and Conditions have been made in and shall be construed and enforced in accordance with the laws of the State of New York.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:15:33",
+            "point_link": "https://edit.tosdr.org/points/19536",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our Site for our business purposes of recognizing users, assessing traffic patterns, identifying preferred content and measuring site engagement.",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "You have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31662",
+            "approval_status": "APPROVED",
+            "clause_text": "Any cause of action or claim you may have with respect to the Website, Forbes Channels, or arising out of or related to these Terms must be commenced within one (1) year after the claim or cause of action arises.\notherwise, such claim or cause of action is considered waived and is permanently barred",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:29:50",
+            "point_link": "https://edit.tosdr.org/points/31661",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AGREE THAT BY ENTERING INTO THESE TERMS, IN PARTICULAR THE AGREEMENT TO ARBITRATE, YOU ARE WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION AND THAT YOU MAY BRING CLAIMS AGAINST FORBES ONLY IN YOUR INDIVIDUAL CAPACITY,",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31673",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Forbes affiliates.\nservice providers.\nevent sponsors.\nbusiness and advertising partners</p>\n<p>Commercial information</p>\n<p>Records of products or services purchased, purchasing or consuming histories or tendencies.",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:29:50",
+            "point_link": "https://edit.tosdr.org/points/31670",
+            "approval_status": "APPROVED",
+            "clause_text": "We may work with third-party vendors who use the technologies described in this section to conduct website analytics to help us track and understand how visitors use our Properties.\nOne such provider is Google Analytics, a web analytics service provided by Google LLC (\"Google\").",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Web beacons are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:15:33",
+            "point_link": "https://edit.tosdr.org/points/19534",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also include web beacons in our email communications, including newsletters, in order to measure engagement with our communications (e.g., to count how many, and when, email communications have been opened, or which links in such communications have been clicked on).</p>",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31664",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-04 07:09:12 UTC, zubairkhatri (31500)  Suspended wrote:\n          you can always buy cheap foods on any supermarket these days because food production is mechanized already,.   Novo Place",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31656",
+            "approval_status": "APPROVED",
+            "clause_text": "If you respond to a survey or provide feedback, you do so voluntarily, and you agree to abide by these Terms and acknowledge that Forbes will process the information you provide in accordance with its Privacy Statement.\nForbes, in its sole discretion, will be free to use (or not use) any feedback or suggestion provided, and you will not be entitled to any compensation, nor will Forbes have any obligation towards you.</p>\n</dd>\n</dl>",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31665",
+            "approval_status": "APPROVED",
+            "clause_text": "</b>\n<b>How We Use Your Personal Information",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31663",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect from You",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:48:39",
+            "point_link": "https://edit.tosdr.org/points/20971",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Notice to EU/UK individuals: this Privacy Statement is intended to comply with Regulation (EU) 2016/679 of the European Parliament and of the Council of the European Union 27 April 2016 (the “General Data Protection Regulation” or “GDPR”), and the UK equivalent (the \"UK GDPR\"), and provide appropriate protection and care with respect to the treatment of your user information in accordance with the GDPR.",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:48:39",
+            "point_link": "https://edit.tosdr.org/points/20972",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Notice to California residents: this Privacy Statement is intended to comply with the California Consumer Privacy Act (\"CCPA\") and other applicable California law.</p>\n<p>Notice to Nevada consumers: this Privacy Statement is intended to comply with Nevada Senate Bill 220.",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:31:51",
+            "point_link": "https://edit.tosdr.org/points/31657",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>By Posting content to the Website or Forbes Channels, or by otherwise playing a Forbes game, you grant Forbes and its affiliates and related entities a perpetual, irrevocable, worldwide, royalty-free, sub-licensable, transferable, non-exclusive right and license to (and permit others to) use, copy, modify, relocate, display, archive, store, distribute, reproduce, and create derivative works from and otherwise exploit all content you Post to the Website or Forbes Channels, or otherwise make available in a Forbes game, including your name and other biographical information contained in the content you Post, in any form, media, software, or technology of any kind, whether now existing or developed in the future.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:24:17",
+            "point_link": "https://edit.tosdr.org/points/27202",
+            "approval_status": "APPROVED",
+            "clause_text": "<i>Revised and posted as of: November 5, 2015</i>",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31655",
+            "approval_status": "APPROVED",
+            "clause_text": "Forbes does not endorse any information or user view communicated in such public areas by the users of the Website or Forbes Channels.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:29:49",
+            "point_link": "https://edit.tosdr.org/points/31660",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Spams an individual or entity by repeatedly responding to their Posts or sending them repeated messages.\nor duplicates a prior Post under multiple threads or subjects.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:48:39",
+            "point_link": "https://edit.tosdr.org/points/20968",
+            "approval_status": "APPROVED",
+            "clause_text": "You may use the Content online and solely for your personal, non-commercial use, and you may download or print a single copy of any portion of the Content for your personal, non-commercial use, provided you do not remove any trademark, copyright or other notice contained in such Content.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31659",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Is defamatory, libelous, deceptive, fraudulent,",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31651",
+            "approval_status": "APPROVED",
+            "clause_text": "Use any data mining, robot, spider, cancelbot, Trojan horse, or any data gathering, scraping, indexing, or extraction method on any part of the Website or Forbes Channels.\n</li>\n<li>",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:39",
+            "point_link": "https://edit.tosdr.org/points/20969",
+            "approval_status": "APPROVED",
+            "clause_text": "ALL MATERIALS AND SERVICES ON THE WEBSITE, OTHER CHANNELS, AND ANY THIRD-PARTY SITES TO WHICH THE FOREGOING LINKS ARE PROVIDED \"AS IS\" OR \"AS AVAILABLE\" WITHOUT WARRANTY OF ANY KIND.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31653",
+            "approval_status": "APPROVED",
+            "clause_text": "Forbes reserves the right to terminate your account and/or deny access to the Website or Forbes Channels to any person Forbes suspects has violated or is violating these Terms.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31658",
+            "approval_status": "APPROVED",
+            "clause_text": "you shall not Post content to the Website or Forbes Channels that:</p>\n<ul>\n<li>Contains unlawful, vulgar, profane, obscene, pornographic",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Forbes informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:15:33",
+            "point_link": "https://edit.tosdr.org/points/19532",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This Privacy Statement does not apply to the activities of Forbes’ third party sponsors, advertisers, and other partners (e.g.\nour affiliate network operators) that may collect your user information while you access or use such third party’s services in connection with your use of our Site (e.g.\nsocial media and sharing services).",
+            "point_source": "https://www.forbes.com/privacy/english/#5629dfb53061",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:31:51",
+            "point_link": "https://edit.tosdr.org/points/31650",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that your work has been copied in a way that constitutes copyright infringement or are aware of any infringing material placed by any third party on the Website, please contact our designated copyright agent, in writing, either by email at copyrightagent@forbes.com or by regular mail at Forbes Media LLC, 499 Washington Blvd., Jersey City, NJ 07310, USA, Attn: Legal Department, Copyright Agent, DMCA Complaints, and provide the designated copyright agent with the following information consistent with the form required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C.\nSection 512(c)(3):</p>\n<ol>",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:29:48",
+            "point_link": "https://edit.tosdr.org/points/31652",
+            "approval_status": "APPROVED",
+            "clause_text": "If you create an account with the Website or Forbes Channels, you agree to accept responsibility for all activities that occur under your account or password and agree that you will not sell, transfer, or assign your account or any account rights.\nEach registration or account is for a single user only.\nYou are responsible for maintaining the confidentiality of your password and for restricting access to your computer so that others may not access the Website or Forbes Channels using your credentials.",
+            "point_source": "https://www.forbes.com/terms-and-conditions/#5b0b91f9193f",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:50",
+            "point_link": "https://edit.tosdr.org/points/31667",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<p>Device and online identifiers and related information, including internet protocol (IP) address",
+            "point_source": "https://www.forbes.com/privacy/english/#6bcdc8b23061",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Upcloud - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/5736",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If UpCloud is involved in a merger, acquisition or asset sale, we may transfer personal data to the third party involved.",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:35:19",
+            "point_link": "https://edit.tosdr.org/points/5747",
+            "approval_status": "APPROVED",
+            "clause_text": "We store the Users’ personal data primarily within the European Economic Area.\nHowever, we have service providers in several geographical locations.\nAs such, we and our service providers may transfer personal data to, or access it in, jurisdictions outside the European Economic Area or the User’s domicile.",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2019-02-12 19:55:10",
+            "point_link": "https://edit.tosdr.org/points/5754",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:06:20",
+            "point_link": "https://edit.tosdr.org/points/5746",
+            "approval_status": "APPROVED",
+            "clause_text": "Right to access\n<p>UpCloud offers access for the Users to the personal data processed by UpCloud.\nThis means that Users may contact us and we will inform what personal data we have collected and processed regarding the said User and the purposes such data are used for.</p>\nRight to withdraw consent.\n<p>In case the processing is based on a consent granted by User, User may withdraw the consent at any time.\nWithdrawing a consent may lead to fewer possibilities to use our Services.</p>\nRight to correct.\n<p>Users have the right to have incorrect, imprecise, incomplete, outdated, or unnecessary personal data we have stored about the User corrected or completed.</p>\nRight to deletion.\n<p>Users may also ask us to delete the User’s personal data from our systems.\nWe will comply with such request unless we have a legitimate ground to not delete the data.\nWe may not immediately be able to delete all residual copies from our servers and backup systems after the active data have been deleted.\nSuch copies shall be deleted as soon as reasonably possible.</p>",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/5749",
+            "approval_status": "APPROVED",
+            "clause_text": "When possible, we will inform Users about such transfer and processing.</p>",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:06:13",
+            "point_link": "https://edit.tosdr.org/points/5740",
+            "approval_status": "APPROVED",
+            "clause_text": "Upcloud's Terms of service state that \"the Agreement will be governed by the substantive laws of Finland.\" Finland has an implementation of the GDPR as well as their own data protections acts.",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:06:12",
+            "point_link": "https://edit.tosdr.org/points/5732",
+            "approval_status": "APPROVED",
+            "clause_text": "Aside from the rights specifically granted herein, Customer retains ownership of all rights, including intellectual property rights, in the Customer Data.</p>\n<p>\n<small>\n<strong>tl;dr</strong> Any data uploaded to or generated on your cloud servers are yours and yours only",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:35:21",
+            "point_link": "https://edit.tosdr.org/points/5742",
+            "approval_status": "APPROVED",
+            "clause_text": "UpCloud does not store personal data longer than is legally permitted and necessary for the purposes of providing the Services or the relevant parts thereof.",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/5734",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2019-02-11 00:54:44 UTC by  (1555)  Suspended\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2019-02-11 00:54:44 UTC by  (1555)  Suspended\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2019-02-11 00:54:44 UTC by  (1555)  Suspended\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: This service allows you to retrieve an archive of your data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: This service allows you to retrieve an archive of your data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: This service allows you to retrieve an archive of your data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: This service allows you to retrieve an archive of your data\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Users are provided compensation according to Upcloud's service level agreement for any unscheduled interruptions",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:16",
+            "point_link": "https://edit.tosdr.org/points/5753",
+            "approval_status": "APPROVED",
+            "clause_text": "The Terms of service state in the Service Level Agreement that \"for all unscheduled interruptions in the provision of the Services, which are due to hardware or telecommunications failures that last longer than 5 minutes, UpCloud shall offer compensation to the Customer.\" Note that there are are situations that will be exempt from UpCloud’s service guarantee.",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/5733",
+            "approval_status": "APPROVED",
+            "clause_text": "The Customer may terminate the Agreement for any reason by issuing 5 days written notice to UpCloud.",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service gives 30 days of notice before closing your account",
+            "rating": "good",
+            "description": "The Terms explain they will notify users at least 30 days before closing their accounts, which allows users to limit the losses and damages caused by this termination.",
+            "last_updated": "2023-07-11 10:06:13",
+            "point_link": "https://edit.tosdr.org/points/5738",
+            "approval_status": "APPROVED",
+            "clause_text": "UpCloud may terminate the Agreement for any reason by issuing 30 days written notice to the Customer.",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "30 days of notice are given before closing your account",
+                "href": "https://edit.tosdr.org/cases/206"
+            }
+        },
+        {
+            "title": "The service guarantees 100% virtual server and network availability to the Customer",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:16",
+            "point_link": "https://edit.tosdr.org/points/5743",
+            "approval_status": "APPROVED",
+            "clause_text": "In the Terms of service, Upcloud's Service Level Agreement states that \"UpCloud will guarantee 100% virtual server and network availability to the Customer. The network will be deemed available if UpCloud’s routers and switches are available and responding properly.\"",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "Accessibility to this service is guaranteed at 99% or more",
+                "href": "https://edit.tosdr.org/cases/158"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:35:21",
+            "point_link": "https://edit.tosdr.org/points/5756",
+            "approval_status": "APPROVED",
+            "clause_text": "All amendments to the Agreement must be made in writing.\nUpCloud may modify this Agreement by notifying the Customer in writing, such as by e-mail or by posting a revised document version on UpCloud’s website.\nIf UpCloud considers that a revision will have a material effect on the Agreement, UpCloud will notify the Customer at least 30 days before the revision will be effected and reserve the Customer a possibility to terminate the Agreement",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/5731",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Please note that some parts of our Services may not function properly if use of cookies is refused.</p>",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:06:13",
+            "point_link": "https://edit.tosdr.org/points/5751",
+            "approval_status": "APPROVED",
+            "clause_text": "The parties expressly note that the Service is not designed to be error-free or uninterrupted and therefore they are neither intended nor fit for purposes that require fail-safe performance.",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:05:59",
+            "point_link": "https://edit.tosdr.org/points/5752",
+            "approval_status": "APPROVED",
+            "clause_text": "In all other respects the Service is provided on “as-is” and “as-available” basis",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:06:13",
+            "point_link": "https://edit.tosdr.org/points/5745",
+            "approval_status": "APPROVED",
+            "clause_text": "The Customer is not entitled to use the Services for purposes which UpCloud deems to be illegal or offensive",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:06:16",
+            "point_link": "https://edit.tosdr.org/points/5748",
+            "approval_status": "APPROVED",
+            "clause_text": "We may process information regarding the use of the Services to improve the quality of our Services e.g.\nby analysing any trends in the use of our Services.\nWhen possible, we will do this using only aggregated, non- personally identifiable data.</p>",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/5750",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share personal data to authorized service providers who perform services for us (including data storage, sales, marketing and customer support services).",
+            "point_source": "https://upcloud.com/privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Finland.",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:06:13",
+            "point_link": "https://edit.tosdr.org/points/5739",
+            "approval_status": "APPROVED",
+            "clause_text": "The court of law governing the terms is in Finland.",
+            "point_source": "https://upcloud.com/terms-of-service/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

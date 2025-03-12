@@ -1,0 +1,739 @@
+{
+    "meta_data": {
+        "title": "Meredith - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Your identity is used in ads that are shown to other users",
+            "rating": "blocker",
+            "description": "Ads shown to other users may include a reference to you as an implied endorsement.\nMight give away information about your own personal lifestyle to strangers.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20297",
+            "approval_status": "APPROVED",
+            "clause_text": "Preceding this quote, the user grants a license allowing the service to use the content \"for any purpose\", including commercial purposes and therefore advertising. The combination of these quotes leads to the right of using the identity of a user for advertising.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Your identity is used in ads that are shown to other users",
+                "href": "https://edit.tosdr.org/cases/327"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20291",
+            "approval_status": "APPROVED",
+            "clause_text": "Without limiting the foregoing, Meredith reserves the right in its sole discretion to pre-screen, refuse, or remove any content.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service still tracks you even if you opted out from tracking",
+            "rating": "blocker",
+            "description": "Users can’t fully opt out of tracking technologies used for non essential purposes such as advertising, marketing or analytics. The user may be asked for consent for installing some tracking technologies on the device, and even if all are rejected the service will still track its visitors and ignore the choice.This case doesn’t apply to functional cookies that are necessary to provide the services.",
+            "last_updated": "2023-07-11 04:47:50",
+            "point_link": "https://edit.tosdr.org/points/20344",
+            "approval_status": "APPROVED",
+            "clause_text": "Please be aware that certain browsers cannot block or delete so-called Flash cookies, which use a feature of the Adobe Flash video player to store information on your computer.\nFor information about how to delete Flash cookies, please visit the Adobe website.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "This service still tracks you even if you opted out from tracking",
+                "href": "https://edit.tosdr.org/cases/478"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 04:48:40",
+            "point_link": "https://edit.tosdr.org/points/20324",
+            "approval_status": "APPROVED",
+            "clause_text": "Contact Information</strong> (such as name, phone number, postal address, or e-mail address)</li>\n<li>\n<strong>Account/Registration Information</strong> (such as username and password, reminder questions and answers, and communications preferences, e.g.\nsigning up for a newsletter or sweepstakes, registering for an offer or an experience, or making a purchase)</li>\n<li>\n<strong>Payment Information</strong> (such as name, billing address, and credit card information, e.g.\nwhen making a purchase)</li>\n<li>\n<strong>Demographic Information</strong> (such as age, gender, race, income, occupation, marital status, and information about your household/family status, including your household size and the length of time at your residence)</li>\n<li>\n<strong>Online Identifiers",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 04:47:48",
+            "point_link": "https://edit.tosdr.org/points/20336",
+            "approval_status": "APPROVED",
+            "clause_text": "We engage service providers to provide services such as credit-card and billing processing, shipping, marketing, advertising optimization and interest-based targeting, e-mail and text message distribution, data processing, mobile and website analytics, user authentication, security, and promotions management.\nWe may share any personal information we collect about you with these service providers and authorize them to collect personal information from you directly to support the services they provide to us.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 04:47:45",
+            "point_link": "https://edit.tosdr.org/points/20284",
+            "approval_status": "APPROVED",
+            "clause_text": "Subject to Section 15.9 of this Agreement, Meredith reserves the right to modify this Agreement or its policies relating to the Services at any time, effective upon posting of an updated version of this Agreement or any applicable Supplemental Terms on the applicable Services.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:08:31",
+            "point_link": "https://edit.tosdr.org/points/939",
+            "approval_status": "APPROVED",
+            "clause_text": "They can change the terms of service any time they see fit, even without notification to the user. Your use of the service supposedly constitutes acceptance of the changes in the terms.",
+            "point_source": "http://www.meredith.com/legal/privacy",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20305",
+            "approval_status": "APPROVED",
+            "clause_text": "or may modify, suspend or terminate your access to the Services, for any reason, with or without notice to you and without liability to you or any third party.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your Personal data may be sold unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 04:47:50",
+            "point_link": "https://edit.tosdr.org/points/20341",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>E-mail</strong>.\nYou can opt out from any Meredith e-mail newsletter or other e-mail list by using the unsubscribe link at the bottom of each message or by visiting E-mail Preferences (offered by some of our Brands) on our Services and updating your preferences.\nIf you no longer want to receive third-party e-mail offers that you requested through our Services, simply follow the advertiser’s unsubscribe link or opt-out instructions that should be included in every commercial message you receive.</li>\n</ul>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:35:47",
+            "point_link": "https://edit.tosdr.org/points/6687",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>IF YOU AGREE TO ARBITRATION WITH MEREDITH, YOU ARE AGREEING IN ADVANCE THAT YOU WILL NOT PARTICIPATE IN OR SEEK TO RECOVER MONETARY OR OTHER RELIEF IN ANY LAWSUIT FILED AGAINST MEREDITH ALLEGING CLASS, COLLECTIVE, AND/OR REPRESENTATIVE CLAIMS ON YOUR BEHALF.\nINSTEAD, BY AGREEING TO ARBITRATION, YOU MAY BRING COVERED CLAIMS AGAINST MEREDITH ONLY IN AN INDIVIDUAL ARBITRATION PROCEEDING.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 04:47:48",
+            "point_link": "https://edit.tosdr.org/points/20335",
+            "approval_status": "APPROVED",
+            "clause_text": "Recognize you across our Services so that we may deliver relevant interest-based content and advertising to you.</li>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20331",
+            "approval_status": "APPROVED",
+            "clause_text": "We work with third-party data partners who share personal information with us, including your demographic information, internet activity information, purchasing information, and interests, preferences, and other behavioral data, which help us understand you better and ensure the content and services we offer are relevant and compelling.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20334",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>We may use your personal information to market the Brands to you, as well as the products and services of the other businesses owned by the Meredith Corporation, when we have the appropriate agreements in place.</li>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20340",
+            "approval_status": "APPROVED",
+            "clause_text": "We disclose personal information about users of our Services when we believe the law requires it.\nFor example, to respond to compulsory process or law enforcement requests, to enforce our terms of service for relevant brands, or to protect the rights, property, or safety of users, the public, Meredith Companies, service providers, social media platforms, advertisers, data partners, or third parties.\nOver time, we may reorganize or transfer various assets and lines of business.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20339",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to disclose or transfer any personal information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation, or any other type of acquisition, disposal, transfer, conveyance, or financing of all or any portion of Meredith companies.</li>\n</ul>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes with some exceptions",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 04:48:09",
+            "point_link": "https://edit.tosdr.org/points/20307",
+            "approval_status": "APPROVED",
+            "clause_text": "Exceptions: \"except that (1) you may assert claims in small claims court if your claims qualify, so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis. and (2) you or Meredith may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents). \"",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "A license is kept on user-generated content even after you close your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20295",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Subject to any applicable Account settings that you select, you grant Meredith, and anyone authorized by Meredith, an irrevocable, nonexclusive, perpetual, worldwide, royalty-free right and license to use, copy, display, publicly perform, transmit, modify, publish, distribute, make derivative works of, sublicense, and otherwise commercially and non-commercially exploit and use Your Content (in whole or in part) in any manner or medium now existing or hereafter developed (including print and electronic storage) and for any purpose.\"",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Iowa, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:47:48",
+            "point_link": "https://edit.tosdr.org/points/20312",
+            "approval_status": "APPROVED",
+            "clause_text": "THIS AGREEMENT AND ANY ACTION RELATED THERETO WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF THE STATE OFIOWA",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20337",
+            "approval_status": "APPROVED",
+            "clause_text": "To make your experience with our Services more enjoyable, we may offer features made available by social media platforms (such as likes or social sharing).",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20329",
+            "approval_status": "APPROVED",
+            "clause_text": "They also use tracking pixels and web beacons.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20327",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<strong>Location Information</strong> (information about your precise location that we collect from your device (collected in limited circumstances)",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20338",
+            "approval_status": "APPROVED",
+            "clause_text": "Advertisers</strong>.\nWe are able to provide most of our Services and other content to you for free with the help of the advertisers who promote their products and services on our Services.\nBrands with ad-supported Services share aggregate visitor information with advertisers, including information about your demographics, internet activity information, interests, and preferences.\nIn some cases, we share contact information (such as your name, age, and/or e-mail address) or online identifiers with these advertisers.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20333",
+            "approval_status": "APPROVED",
+            "clause_text": "We only allow our service providers to use your personal information in connection with the services they provide us.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20330",
+            "approval_status": "APPROVED",
+            "clause_text": "In some cases, the advertisers that serve ads on our Services will share your e-mail or online identifiers with us so that we can make sure their advertisements or offers reach you",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Usernames can be rejected or changed for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 04:47:45",
+            "point_link": "https://edit.tosdr.org/points/20287",
+            "approval_status": "APPROVED",
+            "clause_text": "Meredith reserves the right to remove or reclaim any usernames at any time and for any reason.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user or $100",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20303",
+            "approval_status": "APPROVED",
+            "clause_text": "UNDER NO CIRCUMSTANCES WILL THE TOTAL AGGREGATE AMOUNT THAT THE MEREDITH PARTIES ARE LIABLE TO YOU EXCEED THE GREATER OF (A) THE TOTAL AMOUNT ACTUALLY PAID TO MEREDITH BY YOU DURING THE TWELVE-MONTH PERIOD PRIOR TO THE ACT, OMISSION OR OCCURRENCE GIVING RISE TO SUCH LIABILITY, (B) THE REMEDY OR PENALTY IMPOSED BY THE STATUTE OR REGULATION UNDER WHICH SUCH CLAIM ARISES, OR (C) ONE HUNDRED DOLLARS ($100).",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20293",
+            "approval_status": "APPROVED",
+            "clause_text": "Meredith does not claim ownership of any User Content you make available on the Services (\"<strong>Your Content</strong>\").",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 04:47:47",
+            "point_link": "https://edit.tosdr.org/points/20300",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that your submission of any ideas, suggestions, documents, and/or proposals to Meredith (\"<strong>Feedback</strong>\") is at your own risk and that Meredith has no obligations with respect to such Feedback.\nYou represent and warrant that you have all rights necessary to submit the Feedback.\nYou hereby grant to Meredith the right to use any Feedback in any way at any time without any additional approval or compensation.<br>\n<br>",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:48:09",
+            "point_link": "https://edit.tosdr.org/points/20342",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Right to Request Deletion</strong>: You have the right to ask us to delete the personal information we collect or maintain about you.</li>\n<li>\n<strong>Right to Be Free from Discriminatio</strong>n: You have the right to not be discriminated against for exercising these rights.</li>\n<li>\n<strong>Right to Access or Correct Your Personal Information</strong>: You have the right to request access to and to edit certain personal information that you have provided to us through our Services.</li>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:47:47",
+            "point_link": "https://edit.tosdr.org/points/20323",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>What Personal Information Do Our Brands Collect?</strong>\n</p>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20328",
+            "approval_status": "APPROVED",
+            "clause_text": "Do Our Brands Use Personal Information?</strong>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 04:48:07",
+            "point_link": "https://edit.tosdr.org/points/20345",
+            "approval_status": "APPROVED",
+            "clause_text": "We follow the Digital Advertising Alliance’s (“<strong>DAA</strong>”) Self-Regulatory Principles (“Principles”) for Online Behavioral advertising.</p>\n<ul>\n<li>To opt out of our use of your website viewing data to serve interest-based advertising on the websites of other companies&nbsp;and e-mail newsletters, visit the DAA’s Consumer Choice Page.</li>\n<li>You can also click on the Ad Choices located in the footers of our webpages and navigate to the consumer opt-out form.</li>",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:48:07",
+            "point_link": "https://edit.tosdr.org/points/20346",
+            "approval_status": "APPROVED",
+            "clause_text": "Rights for Our California Residents\n<p>This section contains information on the personal information we collect about residents of California (our “California Consumers”), including the sources of that personal information, how that personal information is used, with whom it is shared, and the rights that California Consumers have under California law.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 04:48:09",
+            "point_link": "https://edit.tosdr.org/points/20294",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Subject to any applicable Account settings that you select, you grant Meredith, and anyone authorized by Meredith, an irrevocable, nonexclusive, perpetual, worldwide, royalty-free right and license to use, copy, display, publicly perform, transmit, modify, publish, distribute, make derivative works of, sublicense, and otherwise commercially and non-commercially exploit and use Your Content (in whole or in part) in any manner or medium now existing or hereafter developed (including print and electronic storage) and for any purpose.\"",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:47:50",
+            "point_link": "https://edit.tosdr.org/points/20343",
+            "approval_status": "APPROVED",
+            "clause_text": "To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt out of receiving marketing offers for other Meredith magazines and products by mail, please use the opt-out form available here or send your request to us in a letter addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309.\nNote that if you choose to opt out of Meredith’s promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:36:08",
+            "point_link": "https://edit.tosdr.org/points/7587",
+            "approval_status": "APPROVED",
+            "clause_text": "Terms of Service AgreementEffective Date: March 16, 2017<p>",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20290",
+            "approval_status": "APPROVED",
+            "clause_text": "Except as set forth in Section 2.3 or in any separate refund policy posted on the Services, all fees are non-refundable.<br>\n<br>",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20289",
+            "approval_status": "APPROVED",
+            "clause_text": "If your order is subject to automatic renewal, you will be notified during the order process.\nThe automatic renewal and cancellation terms provided during the order process are hereby incorporated into this Agreement.<br>",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 04:47:47",
+            "point_link": "https://edit.tosdr.org/points/20292",
+            "approval_status": "APPROVED",
+            "clause_text": "Meredith shall have the right to remove any content that violates this Agreement or is otherwise objectionable.<br>",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20302",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE FULLEST EXTENT PERMITTED BYAPPLICABLE LAW, THE MEREDITH PARTIES SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS OR REVENUE OR FOR INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES OR COSTS DUE TO LOSS OF DATA, PRODUCTION, OR USE, BUSINESS INTERRUPTION OR PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, WHETHER OR NOT MEREDITH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.<br>",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Your content can be distributed through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:47",
+            "point_link": "https://edit.tosdr.org/points/20296",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Subject to any applicable Account settings that you select, you grant Meredith, and anyone authorized by Meredith, an irrevocable, nonexclusive, perpetual, worldwide, royalty-free right and license to use, copy, display, publicly perform, transmit, modify, publish, distribute, make derivative works of, sublicense, and otherwise commercially and non-commercially exploit and use Your Content (in whole or in part) in any manner or medium now existing or hereafter developed (including print and electronic storage) and for any purpose.\"",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 04:47:46",
+            "point_link": "https://edit.tosdr.org/points/20306",
+            "approval_status": "APPROVED",
+            "clause_text": "At its sole discretion, Meredith may modify or discontinue the Services",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "Service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 06:36:00",
+            "point_link": "https://edit.tosdr.org/points/7434",
+            "approval_status": "APPROVED",
+            "clause_text": "You further agree that you will not maintain more than one Account for the same Meredith service at any given time.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "Spidering or crawling is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:32",
+            "point_link": "https://edit.tosdr.org/points/7436",
+            "approval_status": "APPROVED",
+            "clause_text": "(e) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to \"scrape\" or download data from the Services (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Website for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials).",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "Users who have been permanently banned from this service are not allowed to re-register under a new account",
+            "rating": "neutral",
+            "description": "Once users have been permanently banned from this service, they are not allowed to create a new account to keep using the service.",
+            "last_updated": "2023-07-11 10:03:31",
+            "point_link": "https://edit.tosdr.org/points/7435",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to create an Account using a false identity or alias or if you previously have been banned from using any of the Services.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Users who have been permanently banned from this service are not allowed to re-register under a new account",
+                "href": "https://edit.tosdr.org/cases/319"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:47:45",
+            "point_link": "https://edit.tosdr.org/points/20301",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF THE SERVICES AND ANY PRODUCTS OFFERED THROUGH THE SERVICES IS AT YOUR SOLE RISK, AND THE SERVICES AND ANY PRODUCTS ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, WITH ALL FAULTS.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:47:45",
+            "point_link": "https://edit.tosdr.org/points/20285",
+            "approval_status": "APPROVED",
+            "clause_text": "You further agree to notify Meredith immediately of any unauthorized use of your password or any other breach of the security of your Account and to exit from your Account at the end of each session.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 04:47:47",
+            "point_link": "https://edit.tosdr.org/points/20304",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe content posted on the Services infringes your copyright rights, please provide our Copyright Agent with the following information:",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:03:59",
+            "point_link": "https://edit.tosdr.org/points/7588",
+            "approval_status": "APPROVED",
+            "clause_text": "Do Not Track</b>\n</p>\n<p>We do not currently respond to browser\ndo-not-track signals",
+            "point_source": "http://www.meredith.com/legal/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in the Sate of Iowa, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 04:47:48",
+            "point_link": "https://edit.tosdr.org/points/20311",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent the parties are permitted under this Agreement to initiate litigation in a court, both you and Meredith agree that all claims and disputes arising out of or relating to this Agreement will be litigated exclusively in the state courts in Polk County, Iowa or federal courts located in the Southern District of Iowa.",
+            "point_source": "http://www.meredith.com/legal/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20332",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Service Providers</strong>.\nWe work with service providers that collect personal information on our behalf in order to provide services to us, such as hosting our websites, processing our credit card transactions, fulfilling your subscriptions and orders, verifying your identity, and other activities needed to help us provide our content and services to you",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:49",
+            "point_link": "https://edit.tosdr.org/points/20325",
+            "approval_status": "APPROVED",
+            "clause_text": "or information about your general location derived from your IP address",
+            "point_source": "https://www.meredith.com/nmg/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

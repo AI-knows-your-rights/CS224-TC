@@ -1,0 +1,277 @@
+{
+    "meta_data": {
+        "title": "RiseUp.net - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:33:47",
+            "point_link": "https://edit.tosdr.org/points/1241",
+            "approval_status": "APPROVED",
+            "clause_text": "The service enforces censorship that is defined in a broad and open to interpretation manner.\n    \n      \n        \n          \n              Version 2: 2018-05-08 14:35:16 UTC by chris (7) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2018-05-08 14:35:16 UTC by chris (7) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2018-05-08 14:35:16 UTC by chris (7) \n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:09:19",
+            "point_link": "https://edit.tosdr.org/points/17341",
+            "approval_status": "APPROVED",
+            "clause_text": "Your web browser communicates uniquely identifying information to all web servers it visits by allowing the site to know details about your operating system, browser information, plugins installed, fonts installed, screen resolution, and much more.\nWe do not retain any of this information.</p>",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "The service will resist legal requests for user information where reasonably possible",
+            "rating": "good",
+            "description": "The service will attempt to protect user information to a great extent, even so far as stating that they will only follow legal requirements to disclose user information in circumstances where this cannot be reasonably resisted.",
+            "last_updated": "2023-07-11 10:07:41",
+            "point_link": "https://edit.tosdr.org/points/13421",
+            "approval_status": "APPROVED",
+            "clause_text": "We would rather pull the plug than submit to repressive surveillance by our government, or any government.",
+            "point_source": "https://riseup.net/en/about-us/policy/government-faq",
+            "case": {
+                "text": "The service will resist legal requests for your information where reasonably possible",
+                "href": "https://edit.tosdr.org/cases/305"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:13:10",
+            "point_link": "https://edit.tosdr.org/points/17343",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We retain only the bare minimum of information about each user that is required to make the service work.",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "User-generated content is encrypted, and this service cannot decrypt it",
+            "rating": "good",
+            "description": "Content generated by the users is end-to-end encrypted, in a way that it can't be accessed by anyone unauthorised, and even the service has no technical means to decrypt it.",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/17342",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>All of your data is stored in an encrypted format, and only Riseup has the keys to decrypt the data.\nAdditionally, as of March 2017, the storage for all new accounts is personally encrypted.\nRiseup is unable to read any of the stored content for these accounts.",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "User-generated content is encrypted, and this service cannot decrypt it",
+                "href": "https://edit.tosdr.org/cases/372"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:05:49",
+            "point_link": "https://edit.tosdr.org/points/9011",
+            "approval_status": "APPROVED",
+            "clause_text": "We would like to clearly state that Riseup has never given any user information to any third party.",
+            "point_source": "https://riseup.net/en/about-us/policy/government-faq",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 10:07:36",
+            "point_link": "https://edit.tosdr.org/points/13422",
+            "approval_status": "APPROVED",
+            "clause_text": "we do not keep IP identifying logs",
+            "point_source": "https://riseup.net/en/about-us/policy/government-faq",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "This service provides an onion site accessible over Tor",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2021-02-22 14:10:39",
+            "point_link": "https://edit.tosdr.org/points/16746",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion",
+            "case": {
+                "text": "An onion site accessible over Tor is provided",
+                "href": "https://edit.tosdr.org/cases/406"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:06:30",
+            "point_link": "https://edit.tosdr.org/points/9271",
+            "approval_status": "APPROVED",
+            "clause_text": "none of the information we do collect is ever shared.</p",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 10:13:28",
+            "point_link": "https://edit.tosdr.org/points/17340",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not use any third party cookies or tracking of any kind.</p>",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/17345",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You may choose to delete your riseup.net account at any time.",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:04:53",
+            "point_link": "https://edit.tosdr.org/points/17339",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right to change this policy.\nIf we make major changes, we will notify our users in a clear and prominent manner.",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:07:00",
+            "point_link": "https://edit.tosdr.org/points/13423",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not liable for any damages related to the use of this service.</li>",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:09:18",
+            "point_link": "https://edit.tosdr.org/points/17338",
+            "approval_status": "APPROVED",
+            "clause_text": "We make no warranty as to the reliability, accessibility, or quality of our services.",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:09:34",
+            "point_link": "https://edit.tosdr.org/points/13425",
+            "approval_status": "APPROVED",
+            "clause_text": "You understand and agree that riseup provides online services “as is” and without any warranty, express, implied, or statutory.",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:09:35",
+            "point_link": "https://edit.tosdr.org/points/13424",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You may not engage in the following activities through the services provided by riseup.net:</p>\n<ul>\n<li>Harassing or abusing others by engaging in threats, stalking or sending spam.",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:13:28",
+            "point_link": "https://edit.tosdr.org/points/17344",
+            "approval_status": "APPROVED",
+            "clause_text": "Anonymous, aggregated information that cannot be linked back to an individual user may be made available to experienced researchers for the sole purpose of developing better systems for anonymous and secure communication.\nFor example, we may aggregate information on how many messages a typical user sends and receives, and with what frequency.",
+            "point_source": "https://riseup.net/en/about-us/policy/privacy-policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/17337",
+            "approval_status": "APPROVED",
+            "clause_text": "We specifically disclaim any implied warrannties of title, merchantability, fitness for a particularly purpose and non-infringement.",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 10:13:28",
+            "point_link": "https://edit.tosdr.org/points/17346",
+            "approval_status": "APPROVED",
+            "clause_text": "中文 Español English Português Pyccĸий Deutsch Français Italiano Polski Ελληνικά Català Hindi",
+            "point_source": "https://riseup.net/en/about-us/policy/tos",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        }
+    ]
+}

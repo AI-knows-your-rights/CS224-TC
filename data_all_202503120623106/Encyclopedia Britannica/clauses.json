@@ -1,0 +1,571 @@
+{
+    "meta_data": {
+        "title": "Encyclopedia Britannica - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18529",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Britannica does not have any obligation to monitor, edit or delete UGC, but may do so in its sole discretion.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:14:32",
+            "point_link": "https://edit.tosdr.org/points/18549",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track visitor movements, and gather broad demographic information that assists us in identifying visitor preferences.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:14:36",
+            "point_link": "https://edit.tosdr.org/points/18558",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Company reserves the right to amend this privacy notice at our discretion and at any time.\nWhen we make changes to this privacy notice, we will post the updated notice on our website at https://corporate.britannica.com/privacy-policy/ and update the notice’s effective date.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18539",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Salesforce Marketing Cloud, a third-party service provider, to deliver our newsletters to you.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:14:32",
+            "point_link": "https://edit.tosdr.org/points/18548",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>As described below, on our free, ad-supported Services, we use these technologies for legitimate business purposes to provide standard advertising controls, determine user response to advertisements and promotions, and deliver targeted advertisements that we or our partners believe will be of most interest to you.</p>",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18531",
+            "approval_status": "APPROVED",
+            "clause_text": "Please do not submit any unsolicited Ideas in any form to Britannica.&nbsp;If, despite our request that you not send us Ideas, you still submit an Idea, then regardless of what you say in your submission, the following terms shall apply:&nbsp;&nbsp.\nYou agree that:</p>\n<ul>\n<li>Your Idea and its contents will automatically become the property of Britannica without any compensation of any kind owed to me by Britannica or any of its affiliates.\nBritannica may redistribute your Idea and its contents for any purpose and in any way.</li>",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/18544",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may disclose your information: In response to a subpoena or as otherwise required by law.\nWhen we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.\nto protect and defend the rights, property or safety of Britannica, our Users, our employees, or others.\nto comply with applicable law or cooperate with law enforcement.\nor to enforce our Service Terms and Conditions or other agreements or policies.</p>\n<strong>",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:14:28",
+            "point_link": "https://edit.tosdr.org/points/18524",
+            "approval_status": "APPROVED",
+            "clause_text": "By sending UGC, you automatically grant to Britannica, a royalty-free, perpetual, irrevocable, non-exclusive license",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:14:28",
+            "point_link": "https://edit.tosdr.org/points/18526",
+            "approval_status": "APPROVED",
+            "clause_text": "and to sublicense such rights through multiple tiers of sublicensees.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18543",
+            "approval_status": "APPROVED",
+            "clause_text": "We may send promotional emails and other outbound communications to Britannica site subscribers regarding products and services from Britannica.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18534",
+            "approval_status": "APPROVED",
+            "clause_text": "You are giving up the right to litigate (or participate in as a party or class member) all disputes in court before a judge or jury.\nInstead, all disputes will be resolved before a neutral arbitrator, whose decision will be final and binding.\nAny court with jurisdiction over the parties may enforce the arbitrator’s award.<br>",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18541",
+            "approval_status": "APPROVED",
+            "clause_text": "Whenever you play our Quizzes, we collect data about your interactions with each Quiz.\nThis information may be associated with your user name, IP address or device ID for the purpose of providing our Services and improving them.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18538",
+            "approval_status": "APPROVED",
+            "clause_text": "For certain promotions and to access certain features available throughout our Services, including our free, ad-supported services, we collect information voluntarily submitted by you to us to deliver the requested feature that may include (but not be limited to) your name, email address, city, state and age.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18536",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent permitted by law, any claim or dispute must be filed within one year.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18535",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Class action waiver</em>.\nAny proceedings to resolve or litigate any dispute in any forum will be conducted solely on an individual basis.\nNeither you nor Britannica will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which either party acts or proposes to act in a representative capacity.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18552",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>\n<em>For our legitimate business interests we process and disclose your personal information collected automatically through our free, ad-supported Services for advertising, including interest-based advertising, as described in this section.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18542",
+            "approval_status": "APPROVED",
+            "clause_text": "For legitimate business interests, we may share your personal information with service providers that perform certain services on our behalf, such as processing credit card payments, performing business and sales analysis, and supporting our Services’ functionality.</p>\n<p>",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18547",
+            "approval_status": "APPROVED",
+            "clause_text": "Britannica and its authorized partners use cookies, beacons, and other similar technologies on our Services for legitimate business interests that enable us to allow you to navigate our websites, use our Services, and access secure areas of our Services.&nbsp.\nWe also use these technologies for statistical purposes and to analyze and improve the use of our Services and prepare aggregated usage reports.</p>",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18546",
+            "approval_status": "APPROVED",
+            "clause_text": "Web beacons, tags, and scripts may be used on our Services or in email or other electronic communications we send to you.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Users can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18537",
+            "approval_status": "APPROVED",
+            "clause_text": "You can enjoy many of our Services and their special features without giving us your personal information.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:14:32",
+            "point_link": "https://edit.tosdr.org/points/18551",
+            "approval_status": "APPROVED",
+            "clause_text": "This Google Analytics data is not tied to personal information, so this information cannot be used to identify who you are.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18555",
+            "approval_status": "APPROVED",
+            "clause_text": "To correct, update, or remove personally identifiable information, please email us at dpo@eb.com.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18527",
+            "approval_status": "APPROVED",
+            "clause_text": "Please be aware that once you post UGC, there is the potential for the general public to read your words, even years from now.\nBritannica suggests that you exercise caution when posting UGC on the Services and that you not disclose personal identifiable information like your location, medical record number, financial information, etc.</p>",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18557",
+            "approval_status": "APPROVED",
+            "clause_text": "We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Notice as we undertake new personal data practices or adopt new privacy policies.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18553",
+            "approval_status": "APPROVED",
+            "clause_text": "These third parties may in turn link further demographic or interest-based information to your browser.\nYou have the choice to opt-out of the use of your data by third-party service providers for this purpose at any time.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18556",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions or concerns, please send an email to&nbsp;privacy@eb.com or at dpo@eb.com.</p>",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18523",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain the right to reuse your UGC as submitted to Britannica.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/18540",
+            "approval_status": "APPROVED",
+            "clause_text": "You may manage your Britannica newsletter subscriptions by subscribing or unsubscribing at any time using the link included in the related email.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:14:30",
+            "point_link": "https://edit.tosdr.org/points/18533",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT SHALL BRITANNICA, ITS DIRECTORS, OFFICERS, SHAREHOLDERS, PARENTS, SUBSIDIARIES, AFFILIATES, AGENTS AND LICENSORS, OR CONTENT PROVIDERS BE LIABLE: (i) FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THE USE, INABILITY TO USE, PERFORMANCE OR NONPERFORMANCE OF THE SERVICES, EVEN IF BRITANNICA WAS PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER SUCH DAMAGES ARISE IN CONTRACT, TORT, UNDER STATUTE, IN EQUITY, AT LAW, OR OTHERWISE.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18519",
+            "approval_status": "APPROVED",
+            "clause_text": "Effective as of December 12, 2017</p>\n<p>",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:52",
+            "point_link": "https://edit.tosdr.org/points/18525",
+            "approval_status": "APPROVED",
+            "clause_text": "to use, reproduce, modify, publish, edit, translate, distribute, perform, and display it alone or as part of other works in any form, media, or technology whether now known or hereafter developed,",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "You are allowed to quote their content with attribution",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18521",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are a teacher, scholar or student, you may copy reasonable portions of the content for lesson plans, interactive whiteboards, reports, dissertations, presentations, school newspapers and for similar nonprofit educational purposes to the extent permitted by applicable law.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "You are allowed to quote their content with attribution",
+                "href": "https://edit.tosdr.org/cases/388"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18550",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.\nHowever, if you do not accept cookies, you may not be able to use some portions of our Services.",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18528",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-04-30 10:05:09 UTC, vobase (34120)  wrote:\n          Everything has its value. Thanks for sharing this informative information with us. GOOD works! FB88",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:14:28",
+            "point_link": "https://edit.tosdr.org/points/18520",
+            "approval_status": "APPROVED",
+            "clause_text": "You may display, reproduce, print or download content on the Services only for your personal, non-commercial use.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:28",
+            "point_link": "https://edit.tosdr.org/points/18522",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not use data mining, robots, screen scraping, or similar data gathering and extraction tools on the Services, except with our express written permission.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:14:52",
+            "point_link": "https://edit.tosdr.org/points/18532",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES AND ALL INFORMATION, PRODUCTS, AND OTHER CONTENT INCLUDED IN OR ACCESSIBLE FROM THE SERVICES ARE PROVIDED \"AS IS\"",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:14:53",
+            "point_link": "https://edit.tosdr.org/points/18554",
+            "approval_status": "APPROVED",
+            "clause_text": "Some internet browsers or other tools include “Do Not Track” (DNT) features that, when turned on, send a signal to websites you visit indicating you do not wish to be tracked across websites over time.\nHowever, since no technology standard for DNT signals has been developed or adopted to date, our Services do not currently respond to DNT signals.</p>\n<strong>",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "This service employs separate policies for different parts of the service",
+            "rating": "neutral",
+            "description": "The user may need to read additional product-specific agreements depending on the way the service is used.",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18530",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of our Services include additional, Service-specific terms that govern your use of the Service in question.\nPlease click here to view our Service-specific terms.",
+            "point_source": "https://corporate.britannica.com/termsofuse.html",
+            "case": {
+                "text": "Separate policies are employed for different parts of the service",
+                "href": "https://edit.tosdr.org/cases/200"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:31",
+            "point_link": "https://edit.tosdr.org/points/18545",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-04 10:23:02 UTC, vexer85285 (35608)  wrote:\n          Can I merely say such a relief to discover somebody who really knows what theyre dealing with on the net. You actually have learned to bring a worry to light and make it important. The diet should check out this and fully grasp this side with the story. I cant believe youre less well-known simply because you undoubtedly develop the gift. Phy 補習班",
+            "point_source": "https://corporate.britannica.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

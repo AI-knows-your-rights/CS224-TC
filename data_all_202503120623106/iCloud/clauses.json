@@ -1,0 +1,445 @@
+{
+    "meta_data": {
+        "title": "iCloud - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They can delete any of your data (files, music, messages, etc.) at any time and without notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:34:39",
+            "point_link": "https://edit.tosdr.org/points/851",
+            "approval_status": "APPROVED",
+            "clause_text": "All the data that you have on iCloud can be removed or modified by Apple if they think it is inappropriate or “objectionable” to them. It can be done automatically with pre-screen, and without prior notice to you. Section: “Removal of Content” (content means all your data on iCloud, from files to software and messages): <em>“Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time, without prior notice and in its sole discretion, if such Content is found to be in violation of this Agreement or is otherwise objectionable.”</em>",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:06:31",
+            "point_link": "https://edit.tosdr.org/points/8056",
+            "approval_status": "APPROVED",
+            "clause_text": "Apple and its partners and licensors must collect, use, transmit, process and maintain your location data, including but not limited to the geographic location of your device and information related to your iCloud account (“Account”) and any devices registered thereunder, including but not limited to your Apple ID, device ID and name, and device type",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:34:15",
+            "point_link": "https://edit.tosdr.org/points/8029",
+            "approval_status": "APPROVED",
+            "clause_text": "we may collect a variety of information",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:07:24",
+            "point_link": "https://edit.tosdr.org/points/11928",
+            "approval_status": "APPROVED",
+            "clause_text": "Apple Receives from Other Sources <p>Apple may receive personal data about you from other <strong>individuals</strong>, from businesses or third parties acting <strong>at your direction</strong>, from our <strong>partners</strong> who work with us to provide our products and services and assist us in security and fraud prevention, and from other<strong>\n</strong>lawful sources.</p>\n<ul>",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:21:14",
+            "point_link": "https://edit.tosdr.org/points/24332",
+            "approval_status": "APPROVED",
+            "clause_text": "You acknowledge and agree that Apple may, without liability to you, access, use, preserve and/or disclose your Account information and Content to law enforcement authorities, government officials, and/or a third party, as Apple believes is reasonably necessary or appropriate",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:07:24",
+            "point_link": "https://edit.tosdr.org/points/11930",
+            "approval_status": "APPROVED",
+            "clause_text": "p>Apple’s websites, online services, interactive applications, email messages, and advertisements may use “cookies” and other technologies such as pixel tags and web beacons",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service receives your location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:03:33",
+            "point_link": "https://edit.tosdr.org/points/12883",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-11 22:13:02 UTC, bangpiano0101 (33629)  wrote:\n          CF68 is a reputable mobile game portal with many attractive genres. The reward mechanism is based on real money instead of virtual money like some other names on the market. - please click here cf68",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:09:14",
+            "point_link": "https://edit.tosdr.org/points/12881",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Apple may share personal data with <strong>service providers</strong> who act on our behalf, our <strong>partners</strong>, or others <strong>at your direction</strong>.",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:35:24",
+            "point_link": "https://edit.tosdr.org/points/12882",
+            "approval_status": "APPROVED",
+            "clause_text": "To make that possible,<strong> your personal data may be transferred to or accessed by entities around the world.</strong>",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:35:23",
+            "point_link": "https://edit.tosdr.org/points/12880",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Pixel tags enable us to send email messages in a format that you can read, and they tell us whether mail has been opened.",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 10:04:26",
+            "point_link": "https://edit.tosdr.org/points/8061",
+            "approval_status": "APPROVED",
+            "clause_text": "Apple will delete information and data stored in or as a part of your account(s)",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:08:01",
+            "point_link": "https://edit.tosdr.org/points/8021",
+            "approval_status": "APPROVED",
+            "clause_text": "Except for material we may license to you, Apple does not claim ownership of the materials and/or Content you submit or make available on the Service.",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, users are notified a month or more in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 06:35:01",
+            "point_link": "https://edit.tosdr.org/points/5537",
+            "approval_status": "APPROVED",
+            "clause_text": "Apple reserves the right at any time to modify this Agreement and to impose new or additional terms or conditions on your use of the Service, provided that Apple will give you 30 days’ advance notice of any material adverse change to the Service or applicable terms of service, unless it would not be reasonable to do so due to circumstances arising from legal, regulatory, or governmental action.",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 10:06:31",
+            "point_link": "https://edit.tosdr.org/points/5044",
+            "approval_status": "APPROVED",
+            "clause_text": "J.\nTwo-Factor Authentication and Autodialed Calls/Texts.&nbsp;</b>If you choose to enable Two-Factor Authentication for your Apple ID, you consent to (a) provide Apple at least one telephone number.\nand (b) receive autodialed or prerecorded calls and text messages from Apple at any of the telephone numbers provided.&nbsp;We may place such calls or texts to (i) help keep your Account secure when signing in.\n(ii) help you access your Account when you’ve forgotten your password.\nor (iii) as otherwise necessary to service your Account or enforce this Agreement, our policies, applicable law, or any other agreement we may have with you.</p",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:08:11",
+            "point_link": "https://edit.tosdr.org/points/11931",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple ID out of receiving such ads regardless of what device you are using.",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service gives 30 days of notice before closing your account",
+            "rating": "good",
+            "description": "The Terms explain they will notify users at least 30 days before closing their accounts, which allows users to limit the losses and damages caused by this termination.",
+            "last_updated": "2023-07-11 06:34:59",
+            "point_link": "https://edit.tosdr.org/points/5541",
+            "approval_status": "APPROVED",
+            "clause_text": "Apple will be permitted to terminate only after giving you 30 days’ notice and only if you have not cured the breach within such 30-day period.",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "30 days of notice are given before closing your account",
+                "href": "https://edit.tosdr.org/cases/206"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:08:11",
+            "point_link": "https://edit.tosdr.org/points/8060",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You may delete your Apple ID and/or stop using the Service at any time.",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:34:36",
+            "point_link": "https://edit.tosdr.org/points/8058",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, indemnify and hold Apple, its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and licensors harmless from any claim or demand, including reasonable attorneys’ fees, made by a third party, relating to or arising from: (a) any Content you submit, post, transmit, or otherwise make available through the Service.\n(b) your use of the Service.\n(c) any violation by you of this Agreement.\n(d) any action taken by Apple as part of its investigation of a suspected violation of this Agreement or as a result of its finding or decision that a violation of this Agreement has occurred.\nor (e) your violation of any rights of another.",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:22:44",
+            "point_link": "https://edit.tosdr.org/points/25615",
+            "approval_status": "APPROVED",
+            "clause_text": "Last revised: September 19, 2019",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:22:41",
+            "point_link": "https://edit.tosdr.org/points/25616",
+            "approval_status": "APPROVED",
+            "clause_text": "Apple Privacy Policy Updated December 14, 2020",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:22:41",
+            "point_link": "https://edit.tosdr.org/points/25614",
+            "approval_status": "APPROVED",
+            "clause_text": "Published Date:&nbsp;April 09, 2020",
+            "point_source": "https://support.apple.com/en-us/HT202303",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:22:39",
+            "point_link": "https://edit.tosdr.org/points/25605",
+            "approval_status": "APPROVED",
+            "clause_text": "Last revised: September 19, 2019",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:14:19",
+            "point_link": "https://edit.tosdr.org/points/25618",
+            "approval_status": "APPROVED",
+            "clause_text": "Last revised: September 19, 2019",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/11926",
+            "approval_status": "APPROVED",
+            "clause_text": "Certain Content, components or features of the Service may include materials from third parties and/or hyperlinks to other web sites, resources or Content.\nBecause Apple may have no control over such third party sites and/or materials, you acknowledge and agree that Apple is not responsible for the availability of such sites or resources, and does not endorse or warrant the accuracy of any such sites or resources, and shall in no way be liable or responsible for any Content, advertising, products or materials on or available from such sites or resources",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:04:38",
+            "point_link": "https://edit.tosdr.org/points/11932",
+            "approval_status": "APPROVED",
+            "clause_text": "Certain features of the Apple website may not be available if all cookies are disabled.</p>\n<p>",
+            "point_source": "https://www.apple.com/legal/privacy/en-ww/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:15",
+            "point_link": "https://edit.tosdr.org/points/24330",
+            "approval_status": "APPROVED",
+            "clause_text": "You acknowledge and agree that Apple may, without liability to you, access, use, preserve and/or disclose your Account information and Content to law enforcement authorities, government officials, and/or a third party, as Apple believes is reasonably necessary or appropriate",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:15:24",
+            "point_link": "https://edit.tosdr.org/points/19376",
+            "approval_status": "APPROVED",
+            "clause_text": "B.\nDevices and Accounts.&nbsp;</b>Use of the Service may require compatible devices, Internet access, and certain software (fees may apply).\nmay require periodic updates.\nand may be affected by the performance of these factors.\nApple reserves the right to limit the number of Accounts that may be created from a device and the number of devices associated with an Account.\nThe latest version of required software may be required for certain transactions or features.\nYou agree that meeting these requirements is your responsibility.&nbsp;</p>",
+            "point_source": "https://www.apple.com/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:04:27",
+            "point_link": "https://edit.tosdr.org/points/8059",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service is only available to individuals aged 13 years or older",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:08:09",
+            "point_link": "https://edit.tosdr.org/points/11927",
+            "approval_status": "APPROVED",
+            "clause_text": "The failure of Apple to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:08",
+            "point_link": "https://edit.tosdr.org/points/11925",
+            "approval_status": "APPROVED",
+            "clause_text": "In some cases, your iCloud data may be stored using third-party partners’ servers—such as Amazon Web Services or&nbsp;Google Cloud Platform—",
+            "point_source": "https://support.apple.com/en-us/HT202303",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:04:24",
+            "point_link": "https://edit.tosdr.org/points/8022",
+            "approval_status": "APPROVED",
+            "clause_text": "this Agreement and the relationship between you and Apple shall be governed by the laws of the State of California",
+            "point_source": "https://www.apple.com/uk/legal/internet-services/icloud/en/terms.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

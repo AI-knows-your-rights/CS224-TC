@@ -1,0 +1,193 @@
+{
+    "meta_data": {
+        "title": "Hacking with Swift - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:07:11",
+            "point_link": "https://edit.tosdr.org/points/9730",
+            "approval_status": "APPROVED",
+            "clause_text": "Our CDN is Cloudflare, and they may include cookies with our pages to provide a better service",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:07:21",
+            "point_link": "https://edit.tosdr.org/points/9726",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not track you on this site or any others, and we do not pass your data to any third party.",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:07:21",
+            "point_link": "https://edit.tosdr.org/points/9723",
+            "approval_status": "APPROVED",
+            "clause_text": "You maintain full ownership of your data",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:22",
+            "point_link": "https://edit.tosdr.org/points/9719",
+            "approval_status": "APPROVED",
+            "clause_text": "We will never comply with any voluntary surveillance program",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 06:34:01",
+            "point_link": "https://edit.tosdr.org/points/9720",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>In the unlikely event we're ever contacted by a government agency with a legal request for your data, we may be required to hand over information such as your forum posting history.\nUnless we are prohibited by law or by court order from doing so, we will notify you of the request and provide you with a copy of the subpoena, court order, or warrant so that you can challenge the legal process if you wish.",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:07:22",
+            "point_link": "https://edit.tosdr.org/points/9727",
+            "approval_status": "APPROVED",
+            "clause_text": "We serve you with a cookie that tracks your session on the site.\nThis is used only for users who have logged into the site, so we can track who is posting forum messages and allow you to edit or delete your posts later on.\nIf you visit our Swift coding tests you will be served an extra cookie that tracks the answer you write for each question so that we can show the test result at the end.</li>",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "This service respects your browser's Do Not Track (DNT) headers",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 10:07:22",
+            "point_link": "https://edit.tosdr.org/points/9725",
+            "approval_status": "APPROVED",
+            "clause_text": "We aim to embed using the highest privacy settings to protect your privacy, which means we embed using \"dnt on\" for Twitter, \"No Cookie\" for YouTube, and <code>dnt=1</code> for Vimeo",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "User suspension from the service will be fair and proportionate.",
+            "rating": "good",
+            "description": "The Service promises to fairly terminate users accounts, only with a reason, and may give them an opportunity to explain and defend themselves.",
+            "last_updated": "2023-07-11 10:07:21",
+            "point_link": "https://edit.tosdr.org/points/9722",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be notified and we'll provide clear reasoning, and we hope to work with you to resolve the problem so your account can be reactivated.</li>",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "User suspension from the service will be fair and proportionate.",
+                "href": "https://edit.tosdr.org/cases/204"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, users are notified a week or more in advance.",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 10:07:22",
+            "point_link": "https://edit.tosdr.org/points/9718",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-21 13:59:16 UTC, gibifeb9562 (35966)  wrote:\n          Hello, I just hopped over to your web page via StumbleUpon. Not somthing I would usually browse, but I appreciated your thoughts none the less. Thanks for making some thing well worth browsing.Pink fryd",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:07:22",
+            "point_link": "https://edit.tosdr.org/points/9728",
+            "approval_status": "APPROVED",
+            "clause_text": "Existing customers and those who have subscribed for updates will receive emails containing product updates, discount links on books, news, and more.\nYou can unsubscribe from these at any time using the link at the end of any email.</li>\n<li>",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:07:21",
+            "point_link": "https://edit.tosdr.org/points/9717",
+            "approval_status": "APPROVED",
+            "clause_text": "Our privacy policy was last updated June 27th 2020",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:16",
+            "point_link": "https://edit.tosdr.org/points/9721",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>If you break our code of conduct we reserve the right to suspend your account.",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The service refers users to external documents for more information",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:07:22",
+            "point_link": "https://edit.tosdr.org/points/9729",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are still unsure, you can read more about their privacy policies here: Twitter, YouTube, and Vimeo",
+            "point_source": "https://www.hackingwithswift.com/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        }
+    ]
+}

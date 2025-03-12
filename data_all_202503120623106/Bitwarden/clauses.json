@@ -1,0 +1,431 @@
+{
+    "meta_data": {
+        "title": "Bitwarden - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Some personal data may be kept for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-06-10 21:32:07",
+            "point_link": "https://edit.tosdr.org/points/34116",
+            "approval_status": "APPROVED",
+            "clause_text": "We retain Administrative Data for as long as you are a customer of Bitwarden and as required by law.\nIf you terminate your relationship with Bitwarden, we will delete your Personal Information in accordance with our data retention policies.</p>",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service can suspend or terminate your access to all or any part of the Website and refuse service to anyone for any reason at any time",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/6688",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"Bitwarden has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. Bitwarden reserves the right to refuse service to anyone for any reason at any time.\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/6693",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"Bitwarden does not warrant that ... any defects or errors will be corrected\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:23:55",
+            "point_link": "https://edit.tosdr.org/points/26866",
+            "approval_status": "APPROVED",
+            "clause_text": "Information gathered via cookies, pixel tags, logs, or other similar technologies.",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Extra data may be collected about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 06:23:55",
+            "point_link": "https://edit.tosdr.org/points/26864",
+            "approval_status": "APPROVED",
+            "clause_text": "If you interact with the Bitwarden Community or training, or registered for an exam or event, we may collect biographical information and the content that you share.</li>",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:10:14",
+            "point_link": "https://edit.tosdr.org/points/16734",
+            "approval_status": "APPROVED",
+            "clause_text": "Bitwarden may share Personal Information with third-party service providers that need your information to provide the following operational or other support services to Bitwarden, the Site or Service",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 10:06:30",
+            "point_link": "https://edit.tosdr.org/points/9277",
+            "approval_status": "APPROVED",
+            "clause_text": "If we determine your bandwidth usage to be significantly excessive in relation to other Bitwarden customers, we reserve the right to suspend your account or throttle your file hosting until you can reduce your bandwidth consumption",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:24:21",
+            "point_link": "https://edit.tosdr.org/points/26865",
+            "approval_status": "APPROVED",
+            "clause_text": "We use data for analytics and measurement to understand how our the Site and Bitwarden Service are used.\nFor example, we analyze data about your visits to our Site to do things like optimize product design.\nWe use a variety of tools to do this, including Google Analytics.",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license (AGPL) v3.0",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-09-30 19:35:50",
+            "point_link": "https://edit.tosdr.org/points/35001",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://github.com/bitwarden/server/blob/master/LICENSE.txt",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-06-10 21:32:15",
+            "point_link": "https://edit.tosdr.org/points/34119",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use the Site or communicate with us (e.g.\nvia email) you will provide, and Bitwarden will collect certain Personal Information",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-09-30 19:35:44",
+            "point_link": "https://edit.tosdr.org/points/35000",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also provide your Personal Information to a third party in connection with a merger or acquisition of Bitwarden\n               , either in part or in whole, or the assignment or other transfer of the Site or Service.\nIn such event, such third party will either:</p>\n<ul>\n<li>Continue to honor the privacy practices described in this Privacy Policy.\nor</li>\n<li>If the third party proposes to materially change the privacy practices described in this Privacy Policy involving your Personal Information collected before such merger, acquisition, assignment or other transfer: <ul>\n<li>inform you and get your express affirmative consent to opt-in to the new practices.\nand/or</li>\n<li>inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.",
+            "point_source": null,
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-06-10 21:32:21",
+            "point_link": "https://edit.tosdr.org/points/34118",
+            "approval_status": "APPROVED",
+            "clause_text": ">Bitwarden has a legitimate interest to further process your Administrative Data as follows:</p>\n<ul>\n<li>To administer your Bitwarden Service user accounts.</li>\n<li>To enable your access and use of the Bitwarden Service, and to enable you to communicate, collaborate, and share information with those you designate.</li>\n<li>To enable us to verify the license(s) you've contracted with us to use the Service.</li>\n<li>To provide product enablement and licensing, customer service and support.</li>\n<li>To monitor your user experience on the Service.</li>\n<li>To enable us to proactively help customers maintain the performance and functionality of deployments of the Bitwarden Service.</li>",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-06-10 21:32:12",
+            "point_link": "https://edit.tosdr.org/points/34120",
+            "approval_status": "APPROVED",
+            "clause_text": "Name</li>\n<li>Business name and address</li>\n<li>Business telephone number</li>\n<li>Email address</li>\n<li>IP-address and other online identifiers</li>\n<li>Any customer testimonial you have given us consent to share.</li>\n<li>Information you provide to the Site's Interactive Areas, such as fillable forms or text boxes, training, webinars or event registration.</li>\n<li>Information about the device you are using, comprising the hardware model, operating system and version, unique device identifiers, network information, IP address, and/or Bitwarden Service information when interacting with the Site.</li>",
+            "point_source": "https://bitwarden.com/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-09-30 19:35:39",
+            "point_link": "https://edit.tosdr.org/points/35003",
+            "approval_status": "APPROVED",
+            "clause_text": "We offer a 30 day refund policy on all paid Services.\nIf you would like a refund, please contact us and we will be more than happy to assist.",
+            "point_source": null,
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 06:35:52",
+            "point_link": "https://edit.tosdr.org/points/6697",
+            "approval_status": "APPROVED",
+            "clause_text": "We offer tools such as two-factor authentication to help you maintain your account's security",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:33:08",
+            "point_link": "https://edit.tosdr.org/points/6689",
+            "approval_status": "APPROVED",
+            "clause_text": "It is your responsibility to properly cancel your account with Bitwarden.\nYou can delete your account at any time by going into your web vault Settings.\nThe Settings screen provides a simple, no questions asked delete option.",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-09-30 19:35:48",
+            "point_link": "https://edit.tosdr.org/points/35002",
+            "approval_status": "APPROVED",
+            "clause_text": "For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms",
+            "point_source": null,
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:57",
+            "point_link": "https://edit.tosdr.org/points/8494",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys' fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Bitwarden (1) promptly gives you written notice of the claim, demand, suit or proceeding.\n(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Bitwarden of all liability).\nand (3) provides to you all reasonable assistance, at your expense.",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/6695",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/6699",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments.\nWe will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website.\nFor non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-09-30 19:35:36",
+            "point_link": "https://edit.tosdr.org/points/35004",
+            "approval_status": "APPROVED",
+            "clause_text": "By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for Bitwarden.",
+            "point_source": null,
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/6700",
+            "approval_status": "APPROVED",
+            "clause_text": "The Terms of Service state, \"We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:35:51",
+            "point_link": "https://edit.tosdr.org/points/6691",
+            "approval_status": "APPROVED",
+            "clause_text": "From the Terms of Service, \"Bitwarden does not warrant that the Service ... will be uninterrupted, timely, secure, or error-free\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:07:26",
+            "point_link": "https://edit.tosdr.org/points/11978",
+            "approval_status": "APPROVED",
+            "clause_text": "to access Bitwarden's Service in ways that exceed your authorization",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:06:07",
+            "point_link": "https://edit.tosdr.org/points/6690",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"Bitwarden provides the Website and the Service \"as is\" and \"as available,\" without warranty of any kind.\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users of age 13 and up",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:06:07",
+            "point_link": "https://edit.tosdr.org/points/6698",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will terminate that User's account immediately. If you are a resident of a country outside the United States, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws.\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:35:51",
+            "point_link": "https://edit.tosdr.org/points/6692",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"Bitwarden does not warrant ... that the information provided through the Service is accurate, reliable or correct\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:02:49",
+            "point_link": "https://edit.tosdr.org/points/6696",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).\n</li>\n<li> You are responsible for maintaining the security of your account and password.",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in California, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:10:15",
+            "point_link": "https://edit.tosdr.org/points/16735",
+            "approval_status": "APPROVED",
+            "clause_text": "this Agreement between you and Bitwarden and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/6694",
+            "approval_status": "APPROVED",
+            "clause_text": "From Terms of Service, \"Bitwarden does not warrant that the Service will meet your requirements.\"",
+            "point_source": "https://bitwarden.com/terms/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

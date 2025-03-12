@@ -1,0 +1,823 @@
+{
+    "meta_data": {
+        "title": "Authy (Twilio) - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16859",
+            "approval_status": "APPROVED",
+            "clause_text": "Twilio sometimes uses cookies placed by its third party service providers to track the performance of our advertisements.\nFor example, these cookies remember which browsers have visited the Twilio Site.\nThis data given to the third party service providers does not include information that identifies you specifically, but this data may be re-associated with information that identifies you specifically after Twilio receives it.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2021-02-24 14:20:00",
+            "point_link": "https://edit.tosdr.org/points/16869",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2021-02-24 14:25:48",
+            "point_link": "https://edit.tosdr.org/points/16874",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-07-11 10:13:38",
+            "point_link": "https://edit.tosdr.org/points/16837",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-01-01 11:25:10 UTC, Opurnerly (33910)  Suspended wrote:\n          Visagovindia simplifies the visa application journey. INDIAN VISA FOR COOK ISLANDERS CITIZENS",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:33:52",
+            "point_link": "https://edit.tosdr.org/points/16850",
+            "approval_status": "APPROVED",
+            "clause_text": "We Both Agree to Arbitrate.\nIf a dispute cannot be resolved through our Customer Support Team, you or any of your affiliates on one hand and Twilio and any of Twilio’s affiliates on the other hand, all agree to resolve any dispute relating to these Terms or in relation to the Services by binding arbitration in San Francisco, California.</p>\n<p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:33:52",
+            "point_link": "https://edit.tosdr.org/points/16851",
+            "approval_status": "APPROVED",
+            "clause_text": "Class Action Waiver.\nBoth you and your affiliates, on one hand, and Twilio and its affiliates on the other hand, agree that any claims or controversies between us must be brought against each other on an individual basis only.\nThat means neither you and your affiliates on one hand nor Twilio and its affiliates on the other hand can bring a claim as a plaintiff or class member in a class action, consolidated action, or representative action.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:13:38",
+            "point_link": "https://edit.tosdr.org/points/16824",
+            "approval_status": "APPROVED",
+            "clause_text": "If you keep using our Services after you receive notice from us that the terms have changed, then that means you have accepted those changes and they will be binding on you.</em>\n</p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2021-02-24 14:22:50",
+            "point_link": "https://edit.tosdr.org/points/16871",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:28",
+            "point_link": "https://edit.tosdr.org/points/16829",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not be liable for any loss or damage arising from unauthorized use of your customer account(s).",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:04:21",
+            "point_link": "https://edit.tosdr.org/points/16832",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We can suspend our services for several reasons, in addition to your failure to pay your fees when they are due, if: [...] 3. your use negatively impacts the operation of our services.\"",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:04:04",
+            "point_link": "https://edit.tosdr.org/points/16828",
+            "approval_status": "APPROVED",
+            "clause_text": "To create an account in Twilio, users need to provide their full name.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16846",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT WILL THE AGGREGATE LIABILITY OF EACH PARTY ARISING OUT OF OR RELATED TO THESE TERMS EXCEED THE AMOUNTS PAID OR PAYABLE BY CUSTOMER HEREUNDER FOR THE SERVICES GIVING RISE TO THE LIABILITY DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16857",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also have third party service providers help us track and analyze usage and volume statistical information from individuals who visit our Site.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:11:47",
+            "point_link": "https://edit.tosdr.org/points/16860",
+            "approval_status": "APPROVED",
+            "clause_text": "We use web beacons along with cookies to gather data about use of the Twilio Site and account portal and interaction with emails from Twilio.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2021-02-24 14:43:39",
+            "point_link": "https://edit.tosdr.org/points/16876",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy/authy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 06:27:47",
+            "point_link": "https://edit.tosdr.org/points/30088",
+            "approval_status": "APPROVED",
+            "clause_text": "Where Twilio’s BCRs do not apply, we will rely instead on other safeguards to transfer personal information outside the European Economic Area (EEA) and Switzerland, such as European Union Model Clauses, also known as Standard Contractual Clauses",
+            "point_source": "https://www.twilio.com/legal/privacy/authy",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "Users can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16855",
+            "approval_status": "APPROVED",
+            "clause_text": "So, unless you identify yourself specifically to Twilio, like signing into the account portal, we don’t know who you are just because you visited the Twilio Site.</p>",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2021-02-24 14:19:14",
+            "point_link": "https://edit.tosdr.org/points/16868",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16854",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>By themselves, cookies do not identify you specifically.\nRather, they recognize your web browser.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:11:29",
+            "point_link": "https://edit.tosdr.org/points/16836",
+            "approval_status": "APPROVED",
+            "clause_text": "Ownership and Confidentiality <p>\n<em>What’s ours is ours, and what’s yours is yours.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "This service provides archives of their Terms of Service so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2021-02-24 14:15:15",
+            "point_link": "https://edit.tosdr.org/points/16865",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "Tracking cookies refused will not limit your ability to use the service",
+            "rating": "good",
+            "description": "Blocking tracking technologies will not negatively impact your use of the service.",
+            "last_updated": "2023-07-11 06:33:56",
+            "point_link": "https://edit.tosdr.org/points/16863",
+            "approval_status": "APPROVED",
+            "clause_text": "To learn more about how to opt out of targeting and advertising cookies, you can go to the Your Online Choices page, the Network Advertising Initiative page, and the Digital Advertising Alliance’s Consumer Choice page.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Tracking cookies refused will not limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/385"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16844",
+            "approval_status": "APPROVED",
+            "clause_text": "If you significantly breach these terms, and don’t fix the breach within five (5) days of us telling you about the breach, then we may terminate these terms and close your Twilio account(s).",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16852",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms will not be governed by the United Nations Convention on Contracts for the International Sale of Goods.\nExcept as provided in Section 18 (Agreement to Arbitration), any legal suit, action or proceeding arising out of or related to these Terms or the Services shall be instituted in either the state or federal courts of San Francisco, California, and we each consent to the personal jurisdiction of these courts.</p>\n<p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 10:13:38",
+            "point_link": "https://edit.tosdr.org/points/16838",
+            "approval_status": "APPROVED",
+            "clause_text": "Twilio may disclose your Confidential Information if so required pursuant to a regulation, law or court order.\nWe will give you notice of the compelled disclosure (to the extent legally permitted).",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16858",
+            "approval_status": "APPROVED",
+            "clause_text": "Third party service providers that currently place performance cookies include:Crazy Egg - Used to help analyze website page performance.To opt-out of Crazy Egg tracking technologies, click here.KissInsights - This tracking technology is placed by Qualaroo, a service provider we use for customer surveys and analytics about our website.For information about Qualaroo’s privacy policy, click here.Google Analytics - We use Google Analytics to help analyze which pages on the Twilio Site visitors to the site viewed.For information on how to opt-out of tracking technologies from Google Analytics, click here.Heap Analytics - We use Heap Analytics to help analyze visitor behavior on our Twilio Site and account portal.For information on Heap Analytics’ privacy policy, click here.Hubspot – we use Hubspot to manage contact forms and the web store for our subsidiary, Electric Imp.For more information about how to opt-out of tracking technologies from Hubspot, click here.LinkedIn Insights - We use LinkedIn Analytics to help analyze how visitors from LinkedIn interact with our website.For information on LinkedIn’s privacy policy, click here.Sift Science – We use Sift Science to help prevent fraud.For information on Sift Science’s privacy policy, click here.Twitter Analytics – We use Twitter Analytics to help analyze which pages on the site visitors from Twitter to the site viewed.For information on how to opt-out of tracking technologies from Twitter Analytics, click here.Adobe Typekit – We use Typekit to enhance our Twilio Site typography.\nAdobe uses cookies to track usage statistics.For information on Adobe Typekit’s privacy policy, click here.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, users are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 10:03:46",
+            "point_link": "https://edit.tosdr.org/points/16823",
+            "approval_status": "APPROVED",
+            "clause_text": "Prior notice of changes: Twilio may update these Terms of Service from time to time by providing you with prior written notice of material updates at least thirty (30) days in advance of the effective date.\nNotice will be given in your account portal or via an email to the email address owner of your account.\nThis notice will highlight the intended updates.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2021-02-24 14:17:02",
+            "point_link": "https://edit.tosdr.org/points/16867",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2021-02-24 14:16:11",
+            "point_link": "https://edit.tosdr.org/points/16866",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:27:47",
+            "point_link": "https://edit.tosdr.org/points/30090",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>If you have questions about our data practices or information we store about you, you can email us at privacy@twilio.com",
+            "point_source": "https://www.twilio.com/legal/privacy/authy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2021-02-24 14:21:39",
+            "point_link": "https://edit.tosdr.org/points/16870",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service provides two factor authentication for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2021-02-24 14:27:27",
+            "point_link": "https://edit.tosdr.org/points/16875",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2021-02-24 14:24:42",
+            "point_link": "https://edit.tosdr.org/points/16873",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service may give prior notice before closing your account",
+            "rating": "good",
+            "description": "The Terms explain they will notify users at least 30 days before closing their accounts, which allows users to limit the losses and damages caused by this termination.",
+            "last_updated": "2023-07-11 10:04:19",
+            "point_link": "https://edit.tosdr.org/points/16833",
+            "approval_status": "APPROVED",
+            "clause_text": "Twilio may notify users before closing their accounts, but it isn't guaranteed.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "30 days of notice are given before closing your account",
+                "href": "https://edit.tosdr.org/cases/206"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:13:39",
+            "point_link": "https://edit.tosdr.org/points/16843",
+            "approval_status": "APPROVED",
+            "clause_text": "Either we or you may terminate these terms and close your Twilio account(s) for any reason 30 days after one of us tells the other in writing.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 06:33:51",
+            "point_link": "https://edit.tosdr.org/points/16848",
+            "approval_status": "APPROVED",
+            "clause_text": "19.\nFun <p>\n<em>Let your imagination run wild with Twilio!</em>\n</p>\n<p>You understand and acknowledge that developing applications should be fun and easy, and by using the Services, you agree to let your imagination run wild.</p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2021-02-24 14:44:28",
+            "point_link": "https://edit.tosdr.org/points/16877",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy/authy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:35:48",
+            "point_link": "https://edit.tosdr.org/points/16822",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>\n<em>If you have any questions, you can reach Twilio at&nbsp;</em>\n<em>twilio.com/help/contact</em>\n<em>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You agree to defend and indemnify the service in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:39",
+            "point_link": "https://edit.tosdr.org/points/16839",
+            "approval_status": "APPROVED",
+            "clause_text": "You will defend Twilio, its officers, directors, employees,&nbsp.\nand affiliates (<em>“</em>\n<strong>\n<em>Twilio Indemnified Parties</em>\n</strong>\n<em>”</em>)&nbsp.\nfrom and against any claim, demand, suit or proceeding made or brought against a Twilio Indemnified Party by a&nbsp.\nthird party alleging or arising out of (a) your or any of your End Users’ breach of these Terms or your obligations under Section 5 (Customer Responsibilities, Restrictions and Requirements), or breach of your representations or warranties under Section 12 of these Terms.\n(b) your or any of your End Users’ use of the Services or any activities under these Terms.\nor (c) your Customer Application, including, without limitation, any intellectual property claims for infringement or misappropriation relating to each Customer Application (collectively, “Customer Indemnifiable Claims”) and will indemnify Twilio from any damages, attorney fees, and costs finally awarded against Twilio Indemnified Parties as a result of, or for amounts paid by Twilio Indemnified Parties to settle a Customer Indemnifiable Claim under a settlement under Section 13.5 (Conditions of Indemnification) for which you have&nbsp.\ngiven your written approval.&nbsp;&nbsp;</p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/16853",
+            "approval_status": "APPROVED",
+            "clause_text": "these Terms of Service will be effective October 1, 2020.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:04:22",
+            "point_link": "https://edit.tosdr.org/points/16834",
+            "approval_status": "APPROVED",
+            "clause_text": "If you elect to pay via credit card, then you are responsible for either (a) enabling auto-recharge on your customer account(s)",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16856",
+            "approval_status": "APPROVED",
+            "clause_text": "You can use your browser settings to opt out of functionality cookies.\nFor more information on how to do that, click here.\nNote that opting out may affect the functionality of our Site or account portal for you.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/16835",
+            "approval_status": "APPROVED",
+            "clause_text": "Payment obligations can’t be canceled, and fees paid are non-refundable.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16842",
+            "approval_status": "APPROVED",
+            "clause_text": "NEITHER TWILIO NOR ITS REPRESENTATIVES WILL BE LIABLE UNDER ANY LEGAL OR EQUITABLE THEORY FOR ANY CLAIM, DAMAGE, OR LOSS (AND CUSTOMER WILL HOLD TWILIO HARMLESS AGAINST ANY AND ALL SUCH CLAIMS) ARISING FROM OR RELATING TO THE INABILITY TO USE THE SERVICES TO CONTACT EMERGENCY SERVICES, AS DEFINED IN SECTION 5.2(b), ABOVE.&nbsp.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Defend, indemnify; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16845",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon termination of these Terms, your payment obligations, the terms of this Section 16, and the terms of the following Sections will survive (i.e.\nstill apply): Section 4 (Customer Data), Section 10 (Fees, Payment Terms, Taxes), Section 11 (Ownership and Confidentiality), Section 13 (Mutual Indemnification), Section 14 (Limitation of Liability.\nEmergency Services), Section 17 (General), and Section 18 (Agreement to Arbitrate).</p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:11:21",
+            "point_link": "https://edit.tosdr.org/points/16825",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>If you want to use our Services, you need to create a customer account.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:13:40",
+            "point_link": "https://edit.tosdr.org/points/16840",
+            "approval_status": "APPROVED",
+            "clause_text": "Except for any of our explicit warranties in this Section 12 and our obligations described in these Terms, we are offering our Services “as is.”</em>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:05",
+            "point_link": "https://edit.tosdr.org/points/16831",
+            "approval_status": "APPROVED",
+            "clause_text": "We can suspend our services for several reasons, in addition to your failure to pay your fees when they are due,",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:34:26",
+            "point_link": "https://edit.tosdr.org/points/16864",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision or portion of this Agreement is held to be invalid or unenforceable under applicable law, then it will be interpreted to accomplish the objectives of such provision to the greatest extent possible, and all remaining provisions will continue in full force and effect",
+            "point_source": "https://www.twilio.com/legal/pay-terms",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "This service is a subsidiary of Twilio",
+            "rating": "neutral",
+            "description": "The service is a subsidiary of a certain company (called X in the title, to be replaced by the parent Company in each point's title). Company X’s Terms of Service may apply to the service.",
+            "last_updated": "2023-07-11 04:49:49",
+            "point_link": "https://edit.tosdr.org/points/21773",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For purposes of this notice, the words “our,” “us,” “we,” “Authy,” and “Twilio” refer to Twilio Inc.\nand our affiliates (which includes any person or entity that controls us, is controlled by us, or is under common control with us, such as our subsidiary, parent company, or our employees).",
+            "point_source": "https://www.twilio.com/legal/privacy/authy",
+            "case": {
+                "text": "This service is a subsidiary of Company X",
+                "href": "https://edit.tosdr.org/cases/493"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:04:12",
+            "point_link": "https://edit.tosdr.org/points/16830",
+            "approval_status": "APPROVED",
+            "clause_text": "Don’t use our services to break the laws, regulations, rules, etc., to violate these terms, to violate our Acceptable Use Policy, or to violate someone else’s rights;</em>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:33:47",
+            "point_link": "https://edit.tosdr.org/points/16847",
+            "approval_status": "APPROVED",
+            "clause_text": "Our failure to enforce at any time any provision of these Terms, our Acceptable Use Policy, or any other of your obligations does not waive our right to do so later.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:04:00",
+            "point_link": "https://edit.tosdr.org/points/16827",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>You are responsible for anything that happens under each of your accounts, including anything the users of your application do while using your application,&nbsp;and that means even if someone fraudulently uses your account, you are responsible for those fees.</em>\n</p>",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:13:39",
+            "point_link": "https://edit.tosdr.org/points/16841",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES ARE PROVIDED “AS IS,” AND TWILIO MAKES NO WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND TWILIO&nbsp.\nSPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, TO THE FULLEST&nbsp.\nEXTENT PERMITTED BY LAW.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16861",
+            "approval_status": "APPROVED",
+            "clause_text": "When you visit the Twilio Site, account portal, or use our products and services, like our APIs, we collect your IP addresses to track and analyze information about the devices that are connecting to our systems and about where those devices are located.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2021-02-24 14:23:43",
+            "point_link": "https://edit.tosdr.org/points/16872",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.twilio.com/legal/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16862",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Treat Do Not Track Signals/California Do Not Track Disclosure<p>Various browsers allow a “do not track” (DNT) setting that relies on a technology known as a DNT header, which sends a signal to websites visited by the individual about the individual’s browser DNT setting.\nAt this time, there is no general agreement on how companies like Twilio should interpret Do Not Track signals.\nTherefore, Twilio does not currently commit to respond to DNT signals, whether that signal is received on a computer or on a mobile device.",
+            "point_source": "https://www.twilio.com/legal/privacy/cookies",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location California, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/16849",
+            "approval_status": "APPROVED",
+            "clause_text": "Apart from Section 18, these Terms will be governed by and interpreted according to the laws of the State of California without regard to conflicts of laws and principles that would cause laws of another jurisdiction to apply.",
+            "point_source": "https://www.twilio.com/legal/tos",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

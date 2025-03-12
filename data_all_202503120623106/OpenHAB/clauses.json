@@ -1,0 +1,151 @@
+{
+    "meta_data": {
+        "title": "OpenHAB - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 04:48:46",
+            "point_link": "https://edit.tosdr.org/points/21068",
+            "approval_status": "APPROVED",
+            "clause_text": "Functions of the Twitter service have been integrated into our website and app.",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:48:46",
+            "point_link": "https://edit.tosdr.org/points/21067",
+            "approval_status": "APPROVED",
+            "clause_text": "This website uses Google Analytics, a web analytics service.",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 04:48:53",
+            "point_link": "https://edit.tosdr.org/points/21066",
+            "approval_status": "APPROVED",
+            "clause_text": "The input data will only be used for the purpose of using the respective site or service\nfor which you have registered.",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:48:46",
+            "point_link": "https://edit.tosdr.org/points/21063",
+            "approval_status": "APPROVED",
+            "clause_text": "As permitted by law, you have the right to be provided at any time with information free\nof charge about any of your personal data that is stored as well as its origin, the\nrecipient and the purpose for which it has been processed.\nYou also have the right to\nhave this data corrected, blocked or deleted.",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 04:48:49",
+            "point_link": "https://edit.tosdr.org/points/21069",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We have activated the IP anonymization feature on this website.",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 04:48:45",
+            "point_link": "https://edit.tosdr.org/points/21060",
+            "approval_status": "APPROVED",
+            "clause_text": "How do we collect your data?",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:48:45",
+            "point_link": "https://edit.tosdr.org/points/21061",
+            "approval_status": "APPROVED",
+            "clause_text": "What do we use your data for?",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:48:45",
+            "point_link": "https://edit.tosdr.org/points/21065",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We will process the data provided during registration only based on your consent per\nArt.\n6 (1)(a) GDPR.",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 04:48:46",
+            "point_link": "https://edit.tosdr.org/points/21062",
+            "approval_status": "APPROVED",
+            "clause_text": "This site uses SSL or TLS encryption for security reasons and for the protection of the\ntransmission of confidential content, such as the inquiries you send to us as the site\noperator.\nYou can recognize an encrypted connection in your browser's address line when\nit changes from \"http://\" to \"https://\" and the lock icon is displayed in your browser's\naddress bar.</p>\n<p>If SSL or TLS encryption is activated, the data you transfer to us cannot be read by\nthird parties.</p>",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:48:46",
+            "point_link": "https://edit.tosdr.org/points/21064",
+            "approval_status": "APPROVED",
+            "clause_text": "Disabling cookies may limit the functionality of this website.</p>",
+            "point_source": "https://www.openhab.org/privacy.html",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        }
+    ]
+}

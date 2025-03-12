@@ -1,0 +1,739 @@
+{
+    "meta_data": {
+        "title": "Tumblr - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Copies of your content may remain indefinitely on Tumblr's systems",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 06:35:34",
+            "point_link": "https://edit.tosdr.org/points/1347",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:48:17",
+            "point_link": "https://edit.tosdr.org/points/20053",
+            "approval_status": "APPROVED",
+            "clause_text": "Tumblr may terminate or suspend your access to or ability to use any and all Services immediately, without prior notice or liability, for any reason or no reason, including but not limited to if you breach any of the terms or conditions of this Agreement.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (New York, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:47:27",
+            "point_link": "https://edit.tosdr.org/points/20040",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 2: 2021-05-07 22:05:22 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2021-05-07 22:05:22 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2021-05-07 22:05:22 UTC by AgnesDeLion (20760)  Staff\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: The court of law governing the terms is in location X\n            Updated Title: The court of law governing the terms is in the USA\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n    \n        \n          \n            Previous Title: The court of law governing the terms is in location X\n            Updated Title: The court of law governing the terms is in the USA\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n          \n            Previous Title: The court of law governing the terms is in location X\n            Updated Title: The court of law governing the terms is in the USA\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n            Previous Title: The court of law governing the terms is in location X\n            Updated Title: The court of law governing the terms is in the USA\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 04:47:27",
+            "point_link": "https://edit.tosdr.org/points/20069",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Information Disclosed Pursuant to Business Transfers:</b> In some cases, we may choose to buy or sell business assets.\nIn these transactions, user information is typically one of the transferred business assets.\nMoreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "You have a reduced time period (1 year) to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20052",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that any claim you may have arising out of or related to this Agreement or your relationship with Tumblr must be filed within one year after such claim arose.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20065",
+            "approval_status": "APPROVED",
+            "clause_text": "We automatically receive and record information from your web browser when you interact with the Services, such as your browser type and version, what sort of device you are using, your operating system and version, your language preference, the website or service that referred you to the Services",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20059",
+            "approval_status": "APPROVED",
+            "clause_text": "In some cases, we partner with Third Party Services that may provide information about you.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20067",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to provide you with all of this Tumblr content for free, Tumblr selectively runs advertisements.\nWe, and our parent company, Automattic, work with online advertising companies to provide you with advertising that is as relevant and useful as possible.\nTo make our ads more relevant and useful, we make educated guesses about your interests based on your activity on our sites and services.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:48:17",
+            "point_link": "https://edit.tosdr.org/points/20062",
+            "approval_status": "APPROVED",
+            "clause_text": "We will sometimes collect financial information, such as information related to your payment method (valid credit card number, type, expiration date or other financial information).\nThis happens when you decide to purchase a paid Service.\nWe do not, however, store that financial information.\nsuch information is stored by our payment processor (the \"<b>Payment Processor</b>\"), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy (the Payment Processor may also have other terms, and you are responsible for locating and familiarizing yourself with those terms, as applicable).",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20060",
+            "approval_status": "APPROVED",
+            "clause_text": "We use information about native actions to improve the Services, develop new Services, and, particularly, to personalize your Tumblr experience.\nPersonalization using this information may include presenting you with new posts relevant to what you’ve liked, providing you with better search results, and showing you advertising more relevant to your interests.\n</p>",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20063",
+            "approval_status": "APPROVED",
+            "clause_text": "We use internal tools and third party applications and services (like Google Analytics or comScore) to collect and analyze this information.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20066",
+            "approval_status": "APPROVED",
+            "clause_text": "We also run limited-time studies using web tags, sometimes with third parties, to, for example, measure the effectiveness of our advertising or email.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 04:47:27",
+            "point_link": "https://edit.tosdr.org/points/20070",
+            "approval_status": "APPROVED",
+            "clause_text": "You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "Tumblr provides access to previous TOS and privacy policy",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:33:30",
+            "point_link": "https://edit.tosdr.org/points/1048",
+            "approval_status": "APPROVED",
+            "clause_text": "They provide transparency on how the current policies differ from earlier versions, and when they changed.",
+            "point_source": "https://groups.google.com/forum#!topic/tosdr/-R5tO7eajsY",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-10-26 09:14:47",
+            "point_link": "https://edit.tosdr.org/points/35048",
+            "approval_status": "APPROVED",
+            "clause_text": "If you ask us to release information that we have about your Account, we will do so if reasonable and not unduly burdensome.",
+            "point_source": null,
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You aren’t forced into binding arbitration in case of disputes",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 04:47:27",
+            "point_link": "https://edit.tosdr.org/points/20074",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that any claim or dispute you may have against Tumblr must be resolved exclusively by a state or federal court located in New York County, New York, except as otherwise agreed by the parties.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-10-26 09:12:01",
+            "point_link": "https://edit.tosdr.org/points/35050",
+            "approval_status": "APPROVED",
+            "clause_text": "you’re free to delete your account at any time and for any reason.\nThe deletion will be effective immediately, for the most part, but it might take a little while to scrub everything from our archives and backups.",
+            "point_source": null,
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 06:33:57",
+            "point_link": "https://edit.tosdr.org/points/1254",
+            "approval_status": "APPROVED",
+            "clause_text": "Web-browser information that's stored by Tumblr's cookies isn't used to identify you personally.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "You maintain ownership of your Tumblr content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:32:54",
+            "point_link": "https://edit.tosdr.org/points/876",
+            "approval_status": "APPROVED",
+            "clause_text": "Users maintain ownership of any content on their Tumblr. This is important because of the reblogging nature of Tumblr. Your content can be shared across numerous pages, but you will always own it.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20054",
+            "approval_status": "APPROVED",
+            "clause_text": "In particular, Tumblr may immediately terminate or suspend Accounts that have been flagged for repeat copyright infringement.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 04:47:27",
+            "point_link": "https://edit.tosdr.org/points/20072",
+            "approval_status": "APPROVED",
+            "clause_text": "Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20046",
+            "approval_status": "APPROVED",
+            "clause_text": "One thing you should consider before posting: When you make something publicly available on the Internet, it becomes practically impossible to take down all copies of it.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:47:24",
+            "point_link": "https://edit.tosdr.org/points/20055",
+            "approval_status": "APPROVED",
+            "clause_text": "What We Collect",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 04:48:17",
+            "point_link": "https://edit.tosdr.org/points/20071",
+            "approval_status": "APPROVED",
+            "clause_text": "That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20068",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not prefer personalized advertising experiences, you may opt-out.\nNote that if you opt-out you will continue to see advertisements on Tumblr, though they will be less relevant and useful to you.\n</p>\n<p> When using web-based versions of Tumblr, you may opt-out of interest-based or personalized advertising by using the following industry opt-out pages: </p>\n<ul>\n<li>(EU) European Interactive Digital Advertising Alliance (EDAA) - www.youronlinechoices.com</li>\n<li>(US) Network Advertising Initiative (NAI) - www.networkadvertising.org</li>\n<li>(US) Digital Advertising Alliance (DAA) - www.aboutads.info</li>\n<li>(Japan) Data Driven Advertising Initiative (DDAI) - www.ddai.info</li>\n</ul>",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Third parties used by Tumblr are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:08:57",
+            "point_link": "https://edit.tosdr.org/points/965",
+            "approval_status": "APPROVED",
+            "clause_text": "Third parties that assist Tumblr are generally bound by confidentiality obligations that forbid them to use your personal information for other purposes.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20056",
+            "approval_status": "APPROVED",
+            "clause_text": "You can keep yourself fairly anonymous on Tumblr, but remember that your posts, blogs, pages, and username are all visible to the public by default.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:47:27",
+            "point_link": "https://edit.tosdr.org/points/20073",
+            "approval_status": "APPROVED",
+            "clause_text": "If you’re a California resident, the CCPA provides you with rights regarding your personal information.\n</p>",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 04:47:26",
+            "point_link": "https://edit.tosdr.org/points/20061",
+            "approval_status": "APPROVED",
+            "clause_text": "Despite being long, the agreements define well the legalese and employ an understandable language.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:48:17",
+            "point_link": "https://edit.tosdr.org/points/20047",
+            "approval_status": "APPROVED",
+            "clause_text": "You can delete your account at any time here.\n</p>",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20042",
+            "approval_status": "APPROVED",
+            "clause_text": "The rights you grant in this license are for the limited purposes of allowing Tumblr to operate the Services in accordance with their functionality, improve and promote the Services, and develop new Services.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:47:56",
+            "point_link": "https://edit.tosdr.org/points/20058",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may send you other kinds of emails, which you can opt-out of either from your Account Settings page or by using the “Opt-Out” link in the emails themselves.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20043",
+            "approval_status": "APPROVED",
+            "clause_text": "When you provide Subscriber Content to Tumblr through the Services, you grant Tumblr a non-exclusive, worldwide, royalty-free, sublicensable, transferable right and license",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-10-26 09:14:26",
+            "point_link": "https://edit.tosdr.org/points/35047",
+            "approval_status": "APPROVED",
+            "clause_text": "We never share information we receive from you unless: (a) we have your permission to share that information.\n(b) we have given you prior notice that the information will be shared, and with whom (such as in this Privacy Policy).\nor (c) that information is aggregate information or other information that does not identify you.",
+            "point_source": null,
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You can choose with whom you share content",
+            "rating": "good",
+            "description": "Users can decide whether or not they want their content to be shared and they can control how and with whom it is shared.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20057",
+            "approval_status": "APPROVED",
+            "clause_text": "People that know your email address can also find your blogs.\nIf you’d rather be unlisted, head over to your Account Settings.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "You can choose with whom you share content",
+                "href": "https://edit.tosdr.org/cases/225"
+            }
+        },
+        {
+            "title": "Your content can be distributed through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:56",
+            "point_link": "https://edit.tosdr.org/points/20044",
+            "approval_status": "APPROVED",
+            "clause_text": "to use, host, store, cache, reproduce, publish, display (publicly or otherwise), perform (publicly or otherwise), distribute, transmit, modify, adapt (including, without limitation, in order to conform it to the requirements of any networks, devices, services, or media through which the Services are available)",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:47:24",
+            "point_link": "https://edit.tosdr.org/points/20039",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Modified: 2019-09-25",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20048",
+            "approval_status": "APPROVED",
+            "clause_text": "Purchases of Paid Services are final and non-refundable (particularly those Paid Services that may be used immediately, such as Promotions, as defined below), except at Tumblr's sole discretion and in accordance with the rules governing each Paid Service.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "Tumblr can limit, restrict, suspend Services at any time without prior notice",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:08:57",
+            "point_link": "https://edit.tosdr.org/points/1329",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20051",
+            "approval_status": "APPROVED",
+            "clause_text": "Tumblr makes no representations or warranties of any kind with respect to the Services, including any representation or warranty that the use of the Services will (a) be timely, uninterrupted or error-free or operate in combination with any other hardware, software, system, or data,",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-10-26 09:15:58",
+            "point_link": "https://edit.tosdr.org/points/35051",
+            "approval_status": "APPROVED",
+            "clause_text": "What won’t get scrubbed are Reblogs of your posts.\nThose will remain on whatever blog reblogged them.",
+            "point_source": null,
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:16:02",
+            "point_link": "https://edit.tosdr.org/points/20049",
+            "approval_status": "APPROVED",
+            "clause_text": "Services Available on an \"AS IS\" Basis <p> Your access to and use of the Services or any Content is at your own risk.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The copyright license you grant never expires, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20045",
+            "approval_status": "APPROVED",
+            "clause_text": "Note also that this license to your Subscriber Content continues even if you stop using the Services, primarily because of the social nature of Content shared through Tumblr’s Services - when you post something publicly, others may choose to comment on it, making your Content part of a social conversation that can’t later be erased without retroactively censoring the speech of others.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:24:01",
+            "point_link": "https://edit.tosdr.org/points/26948",
+            "approval_status": "APPROVED",
+            "clause_text": "3.\nUse of the Services<p>\n<strong>Eligibility:</strong>\n</p>\n<p> You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age.\nThe Minimum Age is (i) thirteen (13), or (ii) for users in the European Union, sixteen (16) (or the lower age that your country has provided for you to consent to the processing of your personal data) .\nYou may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.\n</p>\n<p> You have to be the Minimum Age to use Tumblr.\nWe're serious: it's a hard rule.\n“But I’m, like, almost old enough!” you plead.\nNope, sorry.\nIf you're not old enough, don't use Tumblr.\nAsk your parents for a Playstation 4, or try books.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Only aggregate data is given to third parties",
+            "rating": "neutral",
+            "description": "The Service only shares your information in an aggregated form, which means an anonymized form\nthat can't be linked to a unique identity.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26944",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share or disclose non-private information, Aggregate Information, or other non-personally identifying information with people and entities that we do business with.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Only aggregate data is given to third parties",
+                "href": "https://edit.tosdr.org/cases/191"
+            }
+        },
+        {
+            "title": "This service is a subsidiary of Automattic",
+            "rating": "neutral",
+            "description": "The service is a subsidiary of a certain company (called X in the title, to be replaced by the parent Company in each point's title). Company X’s Terms of Service may apply to the service.",
+            "last_updated": "2023-07-11 06:24:01",
+            "point_link": "https://edit.tosdr.org/points/26943",
+            "approval_status": "APPROVED",
+            "clause_text": "Tumblr is a subsidiary of Automattic, a technology company that empowers people to build beautiful websites, tell their stories, and find and grow their audience.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "This service is a subsidiary of Company X",
+                "href": "https://edit.tosdr.org/cases/493"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20041",
+            "approval_status": "APPROVED",
+            "clause_text": "you will notify Tumblr immediately of any actual or suspected loss, theft, or unauthorized use of your Account or Account password.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/20064",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of this information may also be associated with the Internet Protocol Address (“<b>IP Address</b>”) used to access the Services.",
+            "point_source": "https://www.tumblr.com/privacy/en",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Terms may be changed at any time, but you will be notified.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:08:57",
+            "point_link": "https://edit.tosdr.org/points/681",
+            "approval_status": "APPROVED",
+            "clause_text": "They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms.\n    \n          On 2024-10-16 10:44:38 UTC, Feroz_Limited (38421)  wrote:\n          As of 2024, the <a href=\"https://www.ferozepower.com/1000w-solar-panel-price-in-pakistan/\"> price of solar panels in Pakistan </a> typically ranges from PKR 20,000 to PKR 40,000 per panel, depending on the brand, efficiency, and wattage. The cost of installation and additional components, like inverters and batteries, can significantly increase the overall investment. Despite the upfront costs, many households and businesses opt for solar energy to reduce electricity bills and reliance on the national grid, especially in areas with frequent power shortages. Government incentives and a growing market for renewable energy are further promoting the adoption of solar technology across the country.",
+            "point_source": "https://groups.google.com/d/topic/tosdr/m4IRrxn4SOo/discussion",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:16:03",
+            "point_link": "https://edit.tosdr.org/points/20050",
+            "approval_status": "APPROVED",
+            "clause_text": "WITHOUT LIMITING THE FOREGOING, TO THE FULL EXTENT PERMITTED BY LAW, TUMBLR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Tumblr has provisions for users outside the US",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:33:29",
+            "point_link": "https://edit.tosdr.org/points/1015",
+            "approval_status": "APPROVED",
+            "clause_text": "Your data is stored in the US, and people from a country embargoed by the United States cannot use premium themes.",
+            "point_source": "https://groups.google.com/forum#!topic/tosdr/05XCfURjPsg",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in the United States of America",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:23:59",
+            "point_link": "https://edit.tosdr.org/points/26946",
+            "approval_status": "APPROVED",
+            "clause_text": "Tumblr is a U.S.\ncompany and subject to U.S.\nlaws and jurisdiction.",
+            "point_source": "https://www.tumblr.com/policy/en/terms-of-service",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

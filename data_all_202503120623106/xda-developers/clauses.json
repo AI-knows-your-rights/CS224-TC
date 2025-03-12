@@ -1,0 +1,753 @@
+{
+    "meta_data": {
+        "title": "xda-developers - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 10:09:05",
+            "point_link": "https://edit.tosdr.org/points/16609",
+            "approval_status": "APPROVED",
+            "clause_text": "Information may persist in copies made for backup and business continuity purposes for additional time.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16587",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We and our service providers may automatically collect location information, including general information (e.g., IP address, zip code) from your computer or mobile device.\nIf you access the Services through a mobile device, we may also ask you to share your specific geo-location information with us.\nThe Services use this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16588",
+            "approval_status": "APPROVED",
+            "clause_text": "Targeting cookies.</strong>&nbsp;These cookies record your visit to our website, the pages you have visited and the links you have followed.\nWe will use this information to make our website and the advertising displayed on it more relevant to your interests.\nWe may also share this information with third parties for this purpose.</li>\n</ul>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16590",
+            "approval_status": "APPROVED",
+            "clause_text": "xda-developers may share personal data (\"generally\" not including name or email addresses) with third party advertising partners.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:13:22",
+            "point_link": "https://edit.tosdr.org/points/16563",
+            "approval_status": "APPROVED",
+            "clause_text": "KC Online Media, LLC may revise these terms of service for its website at any time without notice.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16573",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You automatically grant and assign to us, and you represent and warrant that you have the right to grant and assign to us, a perpetual, irrevocable, unlimited, fully paid, fully sub-licensable (through multiple tiers), worldwide license to [...] use any content that you post.\"",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:09:02",
+            "point_link": "https://edit.tosdr.org/points/16584",
+            "approval_status": "APPROVED",
+            "clause_text": "\"As described further below, we may collect and analyze information such as [...](b) information related to the ways in which you interact with the Services, such as: referring and exit web pages and URLs\"",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16592",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In addition, our Services may include cookies and tracking mechanisms from social media platforms (e.g., Facebook) through which the social media platform may collect information about you, such as mobile advertising identifier, cookie data, and IP address, as well as non-personal information (e.g.\nscreen size), for purposes that include targeting advertisements.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16591",
+            "approval_status": "APPROVED",
+            "clause_text": "If you access the Services through a third-party connection or log-in (e.g., through a social network), you may allow us to have access to and store certain information in your social network profile.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16583",
+            "approval_status": "APPROVED",
+            "clause_text": "\"As described further below, we may collect and analyze information such as (a) IP addresses, geolocation information, unique device identifiers\"",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:08:58",
+            "point_link": "https://edit.tosdr.org/points/16579",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form, use our search functionality, make a purchase, enter a contest, complete a survey,",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:33:21",
+            "point_link": "https://edit.tosdr.org/points/16564",
+            "approval_status": "APPROVED",
+            "clause_text": "By using this website you are agreeing to be bound by the then current version of these terms of service.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service receives your percise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16582",
+            "approval_status": "APPROVED",
+            "clause_text": "\"As described further below, we may collect and analyze information such as (a) IP addresses, geolocation information\"",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16594",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share information amongst members of our corporate group, which means our subsidiaries, our ultimate holding company and its subsidiaries.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16586",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use this profile or fingerprint to understand and analyze how you interact with the Services, to customize content or advertising to you through the Services, to monitor against fraud or misuse of the Services, or in other ways consistent with this Privacy Policy.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:08:58",
+            "point_link": "https://edit.tosdr.org/points/16585",
+            "approval_status": "APPROVED",
+            "clause_text": "As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16607",
+            "approval_status": "APPROVED",
+            "clause_text": "Where you are accessing Services from an EEA member state, we will take all steps reasonably necessary to ensure that your information is treated securely in accordance with this privacy policy always and at least to the standards required by Applicable Law in the jurisdiction of access.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/16580",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Individuals in the European Economic Area (“EEA”) and many other jurisdictions have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them, and to obtain its correction, update, amendment, or deletion in appropriate circumstances.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Tracking cookies refused will not limit your ability to use the service",
+            "rating": "good",
+            "description": "Blocking tracking technologies will not negatively impact your use of the service.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16598",
+            "approval_status": "APPROVED",
+            "clause_text": "Those parties that use these technologies, including DigiTrust, may offer you a way to opt out of ad targeting as described below.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Tracking cookies refused will not limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/385"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16608",
+            "approval_status": "APPROVED",
+            "clause_text": "We will keep your information only for as long as is reasonably necessary for the purpose that it has been processed, taking into account any legal requirements under Applicable Law.\nFor the avoidance of doubt, we will retain your information to continue offering the Services to you.\nIf you terminate your account, any association between your account and information we store will no longer be accessible through your account.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16565",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In our sole discretion, we may disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16601",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have provided contact information through the Services and decide that you do not want us to use that information for marketing purposes in accordance with this Policy, you can opt out of future use at any time by: (a) going to the link provided at the bottom of any email you receive and opting out of receiving future information.\nor (b) contacting us via the email address at the bottom of this page.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16578",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>What information do we collect?",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16603",
+            "approval_status": "APPROVED",
+            "clause_text": "By using the Services, you acknowledge, consent and agree that we may access, preserve and disclose your information, including, but not limited to, any user content, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process.\n(b) enforce our&nbsp;Terms of Service, this Policy, or other contracts with you, including investigation of potential violations thereof.\n(c) respond to claims that any content violates the rights of third parties.\n(d) respond to your requests for customer service.\nand/or (e) protect the rights, property or personal safety of XDA Devlopers, its agents and affiliates, its users and/or the public.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/16606",
+            "approval_status": "APPROVED",
+            "clause_text": "While we strongly encourage you to first raise any questions or concerns about your personal data with us, you also have a right to contact the relevant supervisory authority.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:08:58",
+            "point_link": "https://edit.tosdr.org/points/16593",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>\n<strong>What do we use your information for?</strong>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/16599",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.\nIn that case, the ads will just not be tailored.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16604",
+            "approval_status": "APPROVED",
+            "clause_text": "All information you provide to us is stored on secure servers.\nAny payment transactions will be encrypted using Secure Sockets Layer (SSL) technology.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16596",
+            "approval_status": "APPROVED",
+            "clause_text": "If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.\nNote: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:13:22",
+            "point_link": "https://edit.tosdr.org/points/16605",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>\n<p>KC&nbsp;Online Media, LLC (xda-developers.com)<br>\ninfo@xda-developers.com</p>\n<p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "Prohibits the publishing of personally identifiable information without the owner’s consent",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 10:13:22",
+            "point_link": "https://edit.tosdr.org/points/16569",
+            "approval_status": "APPROVED",
+            "clause_text": "(4) content that discloses another’s personal, confidential or proprietary information.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:33:19",
+            "point_link": "https://edit.tosdr.org/points/16560",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Further, KC Online Media, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Services or otherwise relating to such materials or on any sites linked to from the Services.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16575",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated: February 28th, 2020</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16589",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:33:21",
+            "point_link": "https://edit.tosdr.org/points/16561",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>In no event shall KC Online Media, LLC or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the Services, even if KC Online Media, LLC or a KC Online Media, LLC authorized representative has been notified orally or in writing of the possibility of such damage.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:08:51",
+            "point_link": "https://edit.tosdr.org/points/16562",
+            "approval_status": "APPROVED",
+            "clause_text": "The materials appearing on the Services could include technical, typographical, or photographic errors.\nKC Online Media, LLC does not warrant that any of the materials on its website are accurate, complete or current.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/16556",
+            "approval_status": "APPROVED",
+            "clause_text": "Use License</p>\n<p>Permission is granted to temporarily download one copy of the materials (information or software) available from the Services for personal, non-commercial transitory viewing only.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:13:22",
+            "point_link": "https://edit.tosdr.org/points/16571",
+            "approval_status": "APPROVED",
+            "clause_text": "(7) content that offers, promotes, advertises, or provides links to posting or auto-posting products or services, account creation or auto-creation products or services, flagging or auto-flagging products or services, bulk telephone numbers, or any other product or service that if utilized with respect to our sites and services would violate these TOU or our other legal rights.\nand (8) content that offers, promotes, advertises or provides links to unsolicited products or services.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16568",
+            "approval_status": "APPROVED",
+            "clause_text": "(3) offensive content (including, without limitation, court ordered defamatory statements, threatening, hateful or pornographic content).",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16572",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You automatically grant and assign to us, and you represent and warrant that you have the right to grant and assign to us, a perpetual, irrevocable, unlimited, fully paid, fully sub-licensable (through multiple tiers), worldwide license to [...] use any content that you post.\"",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:08:53",
+            "point_link": "https://edit.tosdr.org/points/16570",
+            "approval_status": "APPROVED",
+            "clause_text": "(6) malicious content (including, without limitation, malware or spyware).",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:13:22",
+            "point_link": "https://edit.tosdr.org/points/16557",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The materials on the Services are provided on an ‘as is’ basis.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:33:21",
+            "point_link": "https://edit.tosdr.org/points/16559",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Further, KC Online Media, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Services",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16567",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Content prohibited from our sites and services includes but is not limited to: (1) illegal content.",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16576",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that this Privacy Policy applies only to information collected through the Services and not to information you may provide to any third-party sites to which XDA Developers may link, except as expressly provided herein.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16597",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use de-identified and/or aggregated data for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, sponsors, event promoters, and/or others.</p>\n<p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16566",
+            "approval_status": "APPROVED",
+            "clause_text": "You are also responsible for any content that you post or transmit and, if you create an account, you are responsible for all content posted or transmitted through or by use of your account.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:13:22",
+            "point_link": "https://edit.tosdr.org/points/16558",
+            "approval_status": "APPROVED",
+            "clause_text": "KC Online Media, LLC makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:24",
+            "point_link": "https://edit.tosdr.org/points/16581",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may automatically collect certain information about the computer or devices (including mobile devices or tablets) you use to access the Services.\nAs described further below, we may collect and analyze information such as (a) IP addresses,",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Pennsylvania, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:08:54",
+            "point_link": "https://edit.tosdr.org/points/16574",
+            "approval_status": "APPROVED",
+            "clause_text": "These terms and conditions are governed by and construed in accordance with the laws of Pennsylvania and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.</p>",
+            "point_source": "https://www.xda-developers.com/xda-tos/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/16600",
+            "approval_status": "APPROVED",
+            "clause_text": "However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:25",
+            "point_link": "https://edit.tosdr.org/points/16602",
+            "approval_status": "APPROVED",
+            "clause_text": "We may provide access to or share your information with select third parties who perform services on our behalf and for any other legitimate business purpose.",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:13:23",
+            "point_link": "https://edit.tosdr.org/points/16577",
+            "approval_status": "APPROVED",
+            "clause_text": "Some online services offered by or affiliated with us may be governed by a separate privacy policy.\nIn those instances, the product-specific privacy policy shall apply to that online service.</p>",
+            "point_source": "https://www.xda-developers.com/xda-developers-privacy-policy/",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        }
+    ]
+}

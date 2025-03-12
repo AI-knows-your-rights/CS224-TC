@@ -1,0 +1,375 @@
+{
+    "meta_data": {
+        "title": "L'Equipe - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19165",
+            "approval_status": "APPROVED",
+            "clause_text": "Certaines données sont transmises volontairement par l'Utilisateur des Supports Numériques, le caractère facultatif ou obligatoire des données est indiqué à l'Utilisateur lors de leur collecte par une astérisque.\nIl s'agit notamment, sans que cette liste ne soit limitative, du nom, prénom, pseudo, adresse email, codes d'accès, adresse et code postal, les données bancaires, les réclamations, l'âge, le sexe, les Contributions postées…",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19152",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Des régies publicitaires, agences marketing, agences réseaux sociaux et numériques afin de l’aider à réaliser des campagnes publicitaires, marketing et commerciales, à analyser l’efficacité de ces dernières et à gérer les prises de contact et questions des Utilisateurs .\n</li>",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19160",
+            "approval_status": "APPROVED",
+            "clause_text": "Cookies de Publicité Ciblée :</u>\n</p>\n<p>Lorsque vous visualisez ou cliquez sur des bandeaux publicitaires lors de votre visite du Site, des cookies déposés par nos partenaires publicitaires peuvent être utilisés afin de vous proposer de la publicité ciblée en fonction de vos centres d'intérêts.",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19169",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Des tiers dont elles ont besoin pour fournir et livrer un produit ou service, par exemple pour des services postaux/de portage .\n</li>\n<li>Des tiers qui l’assistent et l’aident à fournir des services informatiques, tels que des fournisseurs de plateformes, des services d’hébergement, des services de maintenance et de support technique pour ses bases de données ainsi que pour ses logiciels et applications qui peuvent contenir des données à caractère personnel .\n</li>\n<li>Des prestataires de services de paiement ;</li>\n<li>Des tiers qui les aident pour le service à la clientèle&nbsp;;</li>\n<li>Des instituts de sondages, d’études de marché.</li>\n</ul>\n<br>",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "This service may force users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19162",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Le Client a la possibilité de recourir, en cas de contestation, à une procédure de médiation conventionnelle ou à tout autre mode de règlement des différends.</p>",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Conditions-generales-de-vente/1047232",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:14:43",
+            "point_link": "https://edit.tosdr.org/points/18792",
+            "approval_status": "APPROVED",
+            "clause_text": "1.\nCookies des Réseaux Sociaux et Vidéos :</u>\n</p>\n<p>Ces cookies qui proviennent d'applications tierces vous permettent de partager du contenu de notre site avec vos amis sur les réseaux sociaux ou de les informer de votre consultation ou opinion sur celui-ci, lorsque vous cliquez sur les boutons « Partager », « Aimer » de Facebook et de Twitter.",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19166",
+            "approval_status": "APPROVED",
+            "clause_text": "Les Sociétés recueillent et traitent des données concernant l'Utilisateur provenant de ses partenaires commerciaux",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:15:56",
+            "point_link": "https://edit.tosdr.org/points/19167",
+            "approval_status": "APPROVED",
+            "clause_text": "Les Sociétés recueillent et traitent des données concernant l'Utilisateur provenant de ses partenaires commerciaux, notamment sur l'Utilisation des Services offerts à partir des Supports Numériques, elles recueillent et traitent également les données concernant les Utilisateurs collectées par les Sociétés du Groupe AMAURY (AMAURY MEDIA, JOURNAL DU GOLF, AMAURY SPORT ORGANISATION …) auquel elles appartiennent",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19151",
+            "approval_status": "APPROVED",
+            "clause_text": "Elles peuvent, par exemple, demander de fournir des services qui nécessitent le traitement des données à caractère personnel des Utilisateurs à : <br>\n</p>\n<ul>\n<li>Des tiers qui l’assistent et l’aident à fournir des services numériques et de commerce électronique, tels que la gestion de la relation client (CRM), le web analytics (analyse de l’audience) et les moteurs de recherche, les outils de création de contenu généré par les utilisateurs .",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:15:23",
+            "point_link": "https://edit.tosdr.org/points/19148",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Ces données collectées dans le cadre de l’utilisation des Supports Numériques, si nécessaire croisées avec celles de partenaires sélectionnés, font l’objet de traitements poursuivant les finalités suivantes : [...] ciblage publicitaire et profilage\"",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19159",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-03 09:07:09 UTC, cart_filler (37168)  wrote:\n          China leading wholesale custom silicone kitchen utensils manufacturer, we offer over 5,000 kitchen utensils & tools with customize color, logo and packaging service.",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:42",
+            "point_link": "https://edit.tosdr.org/points/18786",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-31 10:31:04 UTC, gibifeb9562 (35966)  wrote:\n          This  internet site  is my  breathing in, really   good   layout and perfect content .Torch Disposable Vapes",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:42",
+            "point_link": "https://edit.tosdr.org/points/18787",
+            "approval_status": "APPROVED",
+            "clause_text": "1.\nPar le biais de notre plateforme de préférence (recommandé) </u>\n</p>\n<p>Notre Site vous permet de paramétrer les cookies déposés sur le Site via l'interface accessible directement dans le bandeau Cookie lors de la première connexion en cliquant ici.\nVous pouvez à tout moment revenir sur vos choix et les paramétrer à nouveau en accédant à notre plateforme de gestion des cookies.</p>\n<",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:15:56",
+            "point_link": "https://edit.tosdr.org/points/19154",
+            "approval_status": "APPROVED",
+            "clause_text": "La plupart des données (par exemple informations du compte client et historique de commandes sont conservées tant que l’Utilisateur est un client « actif » et pendant une durée de trois (3) ans à compter de sa dernière activité (par exemple abonnement, connexion à son compte ou échéance d'un contrat ou d'une garantie).\nLes données sont ensuite archivées avec un accès restreint pour une durée supplémentaire pour des raisons limitées et autorisées par la loi (paiement, garantie, litiges ...).\nPassé ce délai, elles sont supprimées.\n<br>",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19156",
+            "approval_status": "APPROVED",
+            "clause_text": "Conformément à la règlementation sur la protection des données personnelles, l’Utilisateur peut exercer ses droits d’accès, rectification, opposition, suppression, effacement (droit à l’oubli)",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19158",
+            "approval_status": "APPROVED",
+            "clause_text": "L’Utilisateur dispose, par ailleurs, du droit d'introduire une réclamation auprès de l’autorité de contrôle compétente chargée de la protection des données ou former un recours juridictionnel.\n</p>",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19150",
+            "approval_status": "APPROVED",
+            "clause_text": "Les Sociétés mettent tout en œuvre pour s’assurer que tous ces tiers, avec lesquels elles travaillent, préservent la confidentialité et la sécurité des données à caractère personnel des Utilisateurs.",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, users are notified 30 days in advance",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19161",
+            "approval_status": "APPROVED",
+            "clause_text": "L'EQUIPE SAS se réserve la faculté de modifier le Contrat moyennant le respect d'un préavis de trente (30) jours, sauf urgence.",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Conditions-generales-de-vente/1047232",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19157",
+            "approval_status": "APPROVED",
+            "clause_text": "L'Utilisateur peut également lorsqu'il s'est inscrit aux newsletters L'Equipe ou lorsqu'il reçoit des offres commerciales, promotionnelles, exercer son droit d'opposition en cliquant sur le lien de désinscription situé sur l'email.",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:14:43",
+            "point_link": "https://edit.tosdr.org/points/18790",
+            "approval_status": "APPROVED",
+            "clause_text": "Sans eux, vous ne seriez pas en mesure de naviguer sur le Site ou ne pourriez pas utiliser certaines de ses fonctions.\nCes cookies étant indispensables, ils ne peuvent pas être désactivés.\nCes cookies ne gardent aucune donnée à caractère personnel.\nC'est la raison pour laquelle leur état apparaît comme « Toujours actif ».</p>\n<p>Ces cookies de fonctionnement contiennent par exemples des cookies d'authentification",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:15:09",
+            "point_link": "https://edit.tosdr.org/points/19164",
+            "approval_status": "APPROVED",
+            "clause_text": "Les Abonnements souscrits sont dédiés à une utilisation exclusivement personnelle, non professionnelle et non marchande.</p>",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Conditions-generales-de-vente/1047232",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:14:42",
+            "point_link": "https://edit.tosdr.org/points/18793",
+            "approval_status": "APPROVED",
+            "clause_text": "Données personnelles des mineurs </p>\n<p> Les services de L’EQUIPE ne sont pas destinés aux mineurs.\nEn conséquence, les Sociétés ne traitent pas des données concernant spécifiquement les mineurs.&nbsp.\n<br> Il appartient aux parents et à toute personne exerçant l'autorité parentale de décider si leur enfant mineur est autorisé à utiliser les Supports Numériques.",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:14:39",
+            "point_link": "https://edit.tosdr.org/points/18789",
+            "approval_status": "APPROVED",
+            "clause_text": "1.\n<u>Cookies Essentiels :</u>\n</p>\n<p>Ces cookies sont indispensables au bon fonctionnement et à votre navigation dans le Site.",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:56",
+            "point_link": "https://edit.tosdr.org/points/19168",
+            "approval_status": "APPROVED",
+            "clause_text": "D'autres données sont collectées et traitées automatiquement du fait de l'utilisation par l'Utilisateur des Supports Numériques.\nIl s'agit entre autres de l'adresse IP",
+            "point_source": "https://www6.lequipe.fr/Fonctions/politique-confidentialite.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:14:43",
+            "point_link": "https://edit.tosdr.org/points/18788",
+            "approval_status": "APPROVED",
+            "clause_text": "De la même manière, L'Équipe SAS et L'Équipe 24/24 vous préviennent que le paramètre <b>DoNotTrack</b> offert par certaines versions des navigateurs n'est pas toujours interprété par tous les acteurs comme une opposition au traçage par les régies publicitaires et n'est donc pas suffisante pour refléter votre choix.</p>",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Politique-des-cookies-sur-lequipe-fr/1026073",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in France",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:15:08",
+            "point_link": "https://edit.tosdr.org/points/19163",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Le Contrat est soumis au droit français.",
+            "point_source": "https://www.lequipe.fr/Tous-sports/Actualites/Conditions-generales-de-vente/1047232",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

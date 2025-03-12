@@ -1,0 +1,123 @@
+{
+    "meta_data": {
+        "title": "EthanMcBloxxer - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:09:09",
+            "point_link": "https://edit.tosdr.org/points/17186",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Amplitude Analytics.",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:20",
+            "point_link": "https://edit.tosdr.org/points/17190",
+            "approval_status": "APPROVED",
+            "clause_text": "deleting your data prior to the 90-day expiration is only possible with your Amplitude ID or aDevice ID.\nIf you have it, then you can email <code>ethanmcbloxxer@protonmail.com</code> with the topic “Delete my Amplitude data” and the message containing your Amplitude ID or aDevice ID.\nPlease also specify whether the message contains your Amplitude ID or aDevice ID.\nIf you don’t have it, you can retrieve your aDevice ID by opening the site’s cookies and looking at the part of the cookie beginning with <code>amp</code> before a period.</p>",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 10:09:17",
+            "point_link": "https://edit.tosdr.org/points/17194",
+            "approval_status": "APPROVED",
+            "clause_text": "we don’t log your IP address",
+            "point_source": "https://ethanmcbloxxer.github.io/terms.html",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:09:18",
+            "point_link": "https://edit.tosdr.org/points/17185",
+            "approval_status": "APPROVED",
+            "clause_text": "It collects your country (such as The US), language (such as English), and OS platform/carrier (such as Windows or iPhone/Verizon) anonymously.",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "The service deletes tracking data after a period of time and allows you to opt out",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/17187",
+            "approval_status": "APPROVED",
+            "clause_text": "This data is only kept on Amplitude’s servers for 90 days, then removed.",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "The service deletes tracking data after a period of time and allows you to opt out",
+                "href": "https://edit.tosdr.org/cases/221"
+            }
+        },
+        {
+            "title": "This service respects your browser's Do Not Track (DNT) headers",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 10:09:09",
+            "point_link": "https://edit.tosdr.org/points/17188",
+            "approval_status": "APPROVED",
+            "clause_text": "You can use Do Not Track and Global Privacy Control to opt-out, as we only load the analytics with both of these disabled.",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:09:10",
+            "point_link": "https://edit.tosdr.org/points/17191",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>Last revised on 19th January, 2021",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/17193",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For revision notifications, you can use this RSS feed.</p>",
+            "point_source": "https://ethanmcbloxxer.github.io/privacy.html",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

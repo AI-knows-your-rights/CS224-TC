@@ -1,0 +1,585 @@
+{
+    "meta_data": {
+        "title": "YNAB. (You Need a Budget) - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25731",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Remove or refuse to post any User Contributions for any or no reason in our sole discretion.</li>\n<li>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25745",
+            "approval_status": "APPROVED",
+            "clause_text": "Third parties may also place cookies on your browser for targeted advertising purposes.",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:08:38",
+            "point_link": "https://edit.tosdr.org/points/9144",
+            "approval_status": "APPROVED",
+            "clause_text": "You may withdraw consent for processing in the situations described above.\nOther data processing we conduct is necessary for the fulfillment of our Terms of Service and/or our legitimate interest and/or legal reasons, and deletion of your account and data is required to cease processing.</p>",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25732",
+            "approval_status": "APPROVED",
+            "clause_text": "Terminate or suspend your access to all or part of the Website for any or no reason, including without limitation, any violation of these Terms of Service.</li>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:22:49",
+            "point_link": "https://edit.tosdr.org/points/25748",
+            "approval_status": "APPROVED",
+            "clause_text": "To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.</li>",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:17",
+            "point_link": "https://edit.tosdr.org/points/9140",
+            "approval_status": "APPROVED",
+            "clause_text": "One way to limit cookies is by opting out of third party cookies/advertising networks, like Google Analytics and the Digital Advertising Alliance.\nIf you are in Canada or the EU you can use the DAAC’s youradchoices.ca, or EDAA’s youronlinechoices.eu respectively.\nSome people use what are called “Ad Blockers” to limit advertising/tracking.\nWe don’t endorse any <em>particular</em> Ad Blocker, but want you to know that it’s an option since you’re reading this and are likely quite privacy-minded.",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:22:49",
+            "point_link": "https://edit.tosdr.org/points/25750",
+            "approval_status": "APPROVED",
+            "clause_text": "log files retained for up to eighteen (18) months",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25747",
+            "approval_status": "APPROVED",
+            "clause_text": "We share data to fulfill the purposes for which you provide it",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:06:17",
+            "point_link": "https://edit.tosdr.org/points/9143",
+            "approval_status": "APPROVED",
+            "clause_text": "We retain account data for a period of time after an account expires, whether through trial expiration or subscription expiration, unless you delete your account as described below.</p>",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Tracking cookies refused will not limit your ability to use the service",
+            "rating": "good",
+            "description": "Blocking tracking technologies will not negatively impact your use of the service.",
+            "last_updated": "2023-07-11 10:06:17",
+            "point_link": "https://edit.tosdr.org/points/9139",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Opting out of cookies using the above methods likely won’t cause problems with our services per se, but it makes it harder for us to spend our advertising budget effectively because we won’t know how you discovered YNAB and sometimes won’t even know if you’re already a customer of ours.\nAmong other things, that means we might embarrass ourselves by showing you the same advertisement even if you are already a fan.\nDepending on the services you block, it might also make it harder for us to know how you’re using our apps, or know if you’re running into problems.",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Tracking cookies refused will not limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/385"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:22:53",
+            "point_link": "https://edit.tosdr.org/points/25722",
+            "approval_status": "APPROVED",
+            "clause_text": "We retain account data for a period of time after an account expires, whether through trial expiration or subscription expiration, unless you delete your account as described above.</p>\n<p>Once an account has become inactive beyond the period of time described below, we will delete its budget data – if you don’t need YNAB, we don’t need your account data, and you probably don’t want us to have it.\n(Keep in mind that if you cancel your account, it remains active until the end of your subscription.\nThe timeline below doesn’t start until that subscription expires.)</p>\n<p>We will delete accounts and their data:</p>\n<ul>\n<li>For an expired trial, a minimum of one hundred-twenty (120) days after the expiration of the trial;</li>\n<li>For an expired subscription, a minimum of three years after the expiration of the subscription.</li>\n</ul>",
+            "point_source": "https://www.youneedabudget.com/security/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25749",
+            "approval_status": "APPROVED",
+            "clause_text": "You may delete your account by visiting your account settings.\nThis will delete all personal data with the exception of email correspondence.\nNote that the process to delete all data associated with your account will take up to thirty (30) days",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:36:16",
+            "point_link": "https://edit.tosdr.org/points/9142",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not sell users’ data.\n(And we never have!)",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:22:53",
+            "point_link": "https://edit.tosdr.org/points/25752",
+            "approval_status": "APPROVED",
+            "clause_text": "EU Visitors and Clients’ Rights\n<p>Rights to access, deletion, portability, and restriction are described above.\nIn addition, if you habitually reside in the EU and wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority.</p>",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:22:49",
+            "point_link": "https://edit.tosdr.org/points/25751",
+            "approval_status": "APPROVED",
+            "clause_text": "California privacy rights\n<p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.</p>\n<p>YNAB has not and does not transfer information to third parties for direct marketing purposes.\nIn the event we decided to do so in the future, we would provide affirmative consent and opt-out procedures.</p>\n<p>The CCPA provides consumers who reside in California with rights regarding their personal data, which you can read in full detail.</p>",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:22:46",
+            "point_link": "https://edit.tosdr.org/points/25721",
+            "approval_status": "APPROVED",
+            "clause_text": "Your YNAB account password is one-way salted and hashed using multiple iterations of a key derivation function for passwords.",
+            "point_source": "https://www.youneedabudget.com/security/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:17",
+            "point_link": "https://edit.tosdr.org/points/9141",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, indemnify and hold harmless the Company, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms of Service or your use of the Website, including, but not limited to, your User Contributions, any use of the Website’s content, services and products other than as expressly authorized in these Terms of Service or your use of any information obtained from the Website.</p>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Harming minors in any ways is prohibited",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25726",
+            "approval_status": "APPROVED",
+            "clause_text": "For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.</li>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:22:49",
+            "point_link": "https://edit.tosdr.org/points/25736",
+            "approval_status": "APPROVED",
+            "clause_text": "If you decide to access any of the third-party websites linked to this Website, you do so entirely at your own risk and subject to the terms and conditions of use for such websites",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25735",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.</p>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25738",
+            "approval_status": "APPROVED",
+            "clause_text": "WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE LINKED TO IT.</p>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25743",
+            "approval_status": "APPROVED",
+            "clause_text": "It is strongly recommended to check this page often, referring to the date of the last modification listed at the top.",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Harming minors in any ways is prohibited",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25728",
+            "approval_status": "APPROVED",
+            "clause_text": "For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:22:53",
+            "point_link": "https://edit.tosdr.org/points/25739",
+            "approval_status": "APPROVED",
+            "clause_text": "N NO EVENT WILL THE COMPANY, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25723",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period.</p>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25725",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms of Service permit you to use the Website for your personal, non-commercial use only.",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25729",
+            "approval_status": "APPROVED",
+            "clause_text": "To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter” or “spam” or any other similar solicitation.</li>\n<li>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25734",
+            "approval_status": "APPROVED",
+            "clause_text": "violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25737",
+            "approval_status": "APPROVED",
+            "clause_text": "THE WEBSITE, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25730",
+            "approval_status": "APPROVED",
+            "clause_text": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on the Website.</li>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:22:49",
+            "point_link": "https://edit.tosdr.org/points/25733",
+            "approval_status": "APPROVED",
+            "clause_text": "sexually explicit or pornographic material,",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:04:06",
+            "point_link": "https://edit.tosdr.org/points/7843",
+            "approval_status": "APPROVED",
+            "clause_text": "This Website is offered and available to users who are 13 years of age or older (16 years of age and older in the European Union).",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25741",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If any provision of these Terms of Service is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Service will continue in full force and effect.</p>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25724",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to notify us immediately of any unauthorized access to or use of your username or password or any other breach of security.",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25740",
+            "approval_status": "APPROVED",
+            "clause_text": "any failure of the Company to assert a right or provision under these Terms of Service shall not constitute a waiver of such right or provision",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:22:52",
+            "point_link": "https://edit.tosdr.org/points/25727",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to use the Website:</p>\n<ul>\n<li>In any way that violates any applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries).</li>\n<li>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:21:56",
+            "point_link": "https://edit.tosdr.org/points/25720",
+            "approval_status": "APPROVED",
+            "clause_text": "We do analyze anonymous, aggregate data for internal business purposes.",
+            "point_source": "https://www.youneedabudget.com/security/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:22:48",
+            "point_link": "https://edit.tosdr.org/points/25746",
+            "approval_status": "APPROVED",
+            "clause_text": "IP address, geographic location of the device,",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:22:53",
+            "point_link": "https://edit.tosdr.org/points/25742",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to make changes to this privacy policy at any time by giving notice on this page and/or within this Application and/or sending a notice to you via any contact information available to us.",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:22:47",
+            "point_link": "https://edit.tosdr.org/points/25744",
+            "approval_status": "APPROVED",
+            "clause_text": "Your IP address when you interact with our website and apps",
+            "point_source": "https://www.youneedabudget.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:06:17",
+            "point_link": "https://edit.tosdr.org/points/9145",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>All matters relating to the Website and these Terms of Service and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of Utah without giving effect to any choice or conflict of law provision or rule.</p>",
+            "point_source": "https://www.youneedabudget.com/terms/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

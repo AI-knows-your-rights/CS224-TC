@@ -1,0 +1,837 @@
+{
+    "meta_data": {
+        "title": "Crain's Chicago Business - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 10:06:27",
+            "point_link": "https://edit.tosdr.org/points/16803",
+            "approval_status": "APPROVED",
+            "clause_text": "We also receive your email address from other users when they provide it in order to forward you an article or to invite you to the Products.&nbsp.\nSimilarly, your employer may provide your contact information when they designate you as a recipient of the Products.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "Your identity is used in ads that are shown to other users",
+            "rating": "blocker",
+            "description": "Ads shown to other users may include a reference to you as an implied endorsement.\nMight give away information about your own personal lifestyle to strangers.",
+            "last_updated": "2023-07-11 10:04:11",
+            "point_link": "https://edit.tosdr.org/points/16775",
+            "approval_status": "APPROVED",
+            "clause_text": "and right to publicly display, distribute, reproduce, modify, translate, edit, create derivative works and use the User Content throughout the world in any media solely as part of the features of the Service (including as an incidental part of advertising or marketing).\nThis grant of rights and license applies to use of your name, photo, likeness, voice, and other personal information, if included in the User Content.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Your identity is used in ads that are shown to other users",
+                "href": "https://edit.tosdr.org/cases/327"
+            }
+        },
+        {
+            "title": "This service reserves the right to edit any content you post",
+            "rating": "blocker",
+            "description": "This service can edit any content on the service for whatever the reason and at their sole discretion.",
+            "last_updated": "2023-07-11 10:12:58",
+            "point_link": "https://edit.tosdr.org/points/16776",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-26 14:36:52 UTC, fedada (30172)  Suspended wrote:\n          I think this internet site holds very excellent indited subject material articles . togel online",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Content you post may be edited by the service for any reason",
+                "href": "https://edit.tosdr.org/cases/407"
+            }
+        },
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 10:07:29",
+            "point_link": "https://edit.tosdr.org/points/16799",
+            "approval_status": "APPROVED",
+            "clause_text": "We may log Internet Protocol (IP) addresses, or the location of your computer on the Internet required for systems administration and troubleshooting purposes.</p>\n<p>\n<em>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16813",
+            "approval_status": "APPROVED",
+            "clause_text": "We&nbsp;retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Products.&nbsp.\nWe also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Products.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:07:03",
+            "point_link": "https://edit.tosdr.org/points/16798",
+            "approval_status": "APPROVED",
+            "clause_text": "Targeting Cookies or Advertising Cookies.</strong>&nbsp.\nThese cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.\nThey remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.</li>\n<li>\n<strong>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:05:37",
+            "point_link": "https://edit.tosdr.org/points/16794",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, and device identifiers\"",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:05:34",
+            "point_link": "https://edit.tosdr.org/points/16792",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, you provide content to us when you provide comments or feedback or when you participate in any interactive features, surveys, contests, promotions, sweepstakes, activities or events.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:06:28",
+            "point_link": "https://edit.tosdr.org/points/16804",
+            "approval_status": "APPROVED",
+            "clause_text": "Where you&nbsp;use multiple Products, we combine information about you and your activities to provide an integrated experience, such as to allow you to find information from one Product while searching from another&nbsp;or to present relevant product information as you travel across our websites.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:08:26",
+            "point_link": "https://edit.tosdr.org/points/16800",
+            "approval_status": "APPROVED",
+            "clause_text": "Social media cookies.</strong>These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:34:50",
+            "point_link": "https://edit.tosdr.org/points/16808",
+            "approval_status": "APPROVED",
+            "clause_text": "Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and&nbsp;disclosures in connection with the acquisition, merger or sale of a business.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:12:11",
+            "point_link": "https://edit.tosdr.org/points/16802",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Information we receive from other sources</strong>\n</p>\n<p>We receive information about you from other users, from third-party services, from our related companies, and from our business and channel partners.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/16806",
+            "approval_status": "APPROVED",
+            "clause_text": "We use your contact information and information about how you use the Products to send promotional communications that may be of specific interest to you, including by email and by displaying Crain Product ads on other companies' websites and applications, as well as on other companies’ platforms and websites.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:33:26",
+            "point_link": "https://edit.tosdr.org/points/16765",
+            "approval_status": "APPROVED",
+            "clause_text": "By using the Service after any change in the Agreement is posted, you agree to be bound by all of the changes as well.</p>",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:04:03",
+            "point_link": "https://edit.tosdr.org/points/16774",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You further grant us a non-exclusive, royalty-free, perpetual, irrevocable license and right to [...] use the User Content\"",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:04:14",
+            "point_link": "https://edit.tosdr.org/points/16777",
+            "approval_status": "APPROVED",
+            "clause_text": "We further reserve the right to disclose any information about you, including registration data, in order to comply with any applicable laws and/or requests under legal process, to operate our systems properly, to protect our property or rights, and to safeguard the interests of others.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16795",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, and device identifiers\"",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16811",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We share information with third parties that help us&nbsp;operate, provide, improve, integrate, customize, support and market our Products.</p>\n<p>\n<strong>\n<em>Service Providers</em>\n</strong>: We&nbsp;work with third-party service providers&nbsp;to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for us, which may require them to&nbsp;access or use information about you.&nbsp.\nIf a service provider needs to&nbsp;access information about you to perform services on our behalf, they do so under close instruction from us, including policies and procedures designed to protect your information.</p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16817",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We collect information globally and primarily store that information in the United States, the UK and Denmark.\nWe transfer, process and store&nbsp;your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Products.&nbsp.\nWhenever we transfer your information, we take steps to protect it.&nbsp;&nbsp;</p>\n<p>\n<strong>\n<em>International transfers within the Crain Companies</em>\n</strong>:&nbsp;To facilitate our global operations, we transfer EU data information to the United States and allow access to that information from countries in which the Crain owned or operated companies have operations for the purposes described in this policy.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16780",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You agree to not post material that: [...] unfairly interferes with the uninterrupted use and enjoyment of the Service\"",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:33",
+            "point_link": "https://edit.tosdr.org/points/16770",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AGREE THAT THE LIABILITY OF CRAIN, ITS AGENTS AND LICENSORS, IF ANY, ARISING OUT OF ANY KIND OF LEGAL CLAIM (WHETHER IN CONTRACT, TORT OR OTHERWISE) IN ANY WAY CONNECTED WITH THE SERVICE OR THE INFORMATION IN THE SERVICE SHALL NOT EXCEED THE AMOUNT, IF ANY,THAT YOU PAID TO CRAIN FOR USE OF THE SERVICE.</p>",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:05:41",
+            "point_link": "https://edit.tosdr.org/points/16797",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We use cookies, web beacons and other technologies; to [...] determine whether an email has been opened and acted upon.\"",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 10:13:37",
+            "point_link": "https://edit.tosdr.org/points/16818",
+            "approval_status": "APPROVED",
+            "clause_text": "These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based.\nWhen we share information about you&nbsp;within and among&nbsp;Crain corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission.</p>\n<p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 10:04:49",
+            "point_link": "https://edit.tosdr.org/points/16786",
+            "approval_status": "APPROVED",
+            "clause_text": "any action to enforce this Agreement or in any manner related to the Service shall be brought exclusively in the federal or state courts located in Chicago, Illinois, and you agree to submit to the jurisdiction of such courts.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/16771",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-01-13 13:19:12 UTC, jfif2 (38406)  wrote:\n          Really good resource and fun to discuss level devil.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:05:32",
+            "point_link": "https://edit.tosdr.org/points/16791",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect information about you when you provide it to us, when you use our Products, and when other sources provide it to us, as further described below.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:35:46",
+            "point_link": "https://edit.tosdr.org/points/16809",
+            "approval_status": "APPROVED",
+            "clause_text": "Where we are using your information because we or a third-party (e.g.\nyour employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean you no longer will have access to the Product.</p>\n<p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:11:02",
+            "point_link": "https://edit.tosdr.org/points/16815",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You have the right [...] to request the deletion or restriction of your information\"",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service allows you to opt out of providing personal information to third parties",
+            "rating": "good",
+            "description": "The Service provides opt-out instructions to the share of (some) personal information with third parties.",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16819",
+            "approval_status": "APPROVED",
+            "clause_text": "You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to&nbsp;or call&nbsp;(312) 649-5200.<strong>&nbsp;&nbsp;</strong>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You can opt out of providing personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/337"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:33:34",
+            "point_link": "https://edit.tosdr.org/points/16772",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain all rights and responsibility for the User Content you post.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16814",
+            "approval_status": "APPROVED",
+            "clause_text": ">Your Choices</strong>:&nbsp;</p>\n<p>You have the right to request a copy of your information",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16810",
+            "approval_status": "APPROVED",
+            "clause_text": "Our websites may offer&nbsp;publicly accessible comment areas and blogs.&nbsp;You should be aware that any information you provide on these websites - including profile information associated with the account you use to post the information - may be read, collected, and used by any member of the public who accesses these websites.&nbsp.\nYour posts and certain profile information may remain even after you terminate your account.&nbsp;We urge you to consider the sensitivity of any information you input into these Products.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:13:37",
+            "point_link": "https://edit.tosdr.org/points/16821",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Your information&nbsp;is controlled by Crain Communications Inc.\n&nbsp;If you have questions or concerns about how your information&nbsp;is handled, please direct your inquiry to Crain Communications Inc, which we have appointed to be responsible for facilitating such inquiries or, if you are a resident of the European Economic Area, please contact our EU Representativex.</p>\n<p>General Counsel<br>\nc/o Crain Communications Inc<br>\n1155 Gratiot Avenue<br>\nDetroit, MI&nbsp;&nbsp;48207<br>\nE-Mail:&nbsp;privacyhelp@crain.com</p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:04:55",
+            "point_link": "https://edit.tosdr.org/points/16790",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use information we collect",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16789",
+            "approval_status": "APPROVED",
+            "clause_text": "What information we collect about you",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:11:04",
+            "point_link": "https://edit.tosdr.org/points/16807",
+            "approval_status": "APPROVED",
+            "clause_text": "We also communicate with you about new product offers, promotions and contests.&nbsp.\nYou can control whether you receive these communications as described below under \"Opt-out of communications.\"</p>\n<p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:10:46",
+            "point_link": "https://edit.tosdr.org/points/16773",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You further grant us a non-exclusive, royalty-free, perpetual, irrevocable license and right to [...] use the User Content\"",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/16788",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated:&nbsp.\nDecember 31, 2019</p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:33:26",
+            "point_link": "https://edit.tosdr.org/points/16769",
+            "approval_status": "APPROVED",
+            "clause_text": "NEITHER CRAIN, NOR ANY OF ITS AGENTS OR LICENSORS SHALL BE LIABLE TO YOU OR ANYONE ELSE FOR ANY LOSS OR INJURY CAUSED IN WHOLE OR PART BY ITS NEGLIGENCE OR CONTINGENCIES BEYOND ITS CONTROL IN PROCURING, COMPILING, INTERPRETING, REPORTING OR DELIVERING THE SERVICE AND ANY NEWS AND INFORMATION THROUGH THE SERVICE.</p>",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16782",
+            "approval_status": "APPROVED",
+            "clause_text": "MISCELLANEOUS</p>\n<p>Through your use of the Service, you may be provided with hyperlinks to other Internet sites or resources, including hyperlinks provided by third-party advertisers and sponsors to the Service.\nCrain has no control over those sites and resources, or over the advertising material presented by third-party advertisers and sponsors through the Service.\nYou agree that Crain will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such information, goods or services available on or through any such site or resource.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:08:26",
+            "point_link": "https://edit.tosdr.org/points/16801",
+            "approval_status": "APPROVED",
+            "clause_text": "To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit.\nIf you do not accept cookies, however, you may not be able to use all aspects of our Products.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:33:25",
+            "point_link": "https://edit.tosdr.org/points/16763",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Crain may change the terms in this Agreement at any time.\nWhen material portions of the terms are changed, Crain will notify you by posting a notice on the Service, and the changes will appear in this document.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16783",
+            "approval_status": "APPROVED",
+            "clause_text": "Crain may discontinue or change the Service, or its availability to you, at any time without notice.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:04:30",
+            "point_link": "https://edit.tosdr.org/points/16781",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You agree to not post material that: [...] contains or transmits viruses or other harmful, disruptive or destructive files.\"",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 10:04:20",
+            "point_link": "https://edit.tosdr.org/points/16778",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You agree to not post material that:&nbsp;</p>\n<ul>\n<li>contains vulgar, profane, abusive or hateful language, inflammatory attacks of a personal, racial or religious nature, or expressions of bigotry, racism, discrimination or hate;",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16779",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You agree to not post material that: [...] is defamatory, threatening, false, misleading, fraudulent, unfair, contains gross exaggeration or unsubstantiated claims, or violates the privacy rights of any third party;\"",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:10:41",
+            "point_link": "https://edit.tosdr.org/points/16766",
+            "approval_status": "APPROVED",
+            "clause_text": "ALL MATERIALS, INFORMATION, SOFTWARE, PRODUCTS AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SERVICE ARE PROVIDED \"AS IS\".",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over 16 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:13:37",
+            "point_link": "https://edit.tosdr.org/points/16820",
+            "approval_status": "APPROVED",
+            "clause_text": "The Products are not directed to individuals under 16.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:04:31",
+            "point_link": "https://edit.tosdr.org/points/16784",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of this Agreement is invalid under applicable law, the remaining provisions will continue in full force and effect.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:13:16",
+            "point_link": "https://edit.tosdr.org/points/16764",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have been issued a login ID and password in order to access our Restricted Content, you may not share your login ID and password with others.\nWhen you use your login ID and password to access our Restricted Content, you warrant that you are the authorized user and that you provided accurate information about yourself and your company when you signed up for the Restricted Content.</p>",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:13:27",
+            "point_link": "https://edit.tosdr.org/points/16767",
+            "approval_status": "APPROVED",
+            "clause_text": "CRAIN AND ITS AGENTS AND LICENSORS DO NOT WARRANT THE ACCURACY, COMPLETENESS, CURRENTNESS, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE NEWS AND INFORMATION AVAILABLE THROUGH THE SERVICE.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16787",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that your work has been copied and is accessible through the Service in a way that constitutes copyright infringement, or that the Service contains a link or other reference to another online location that contains materials or activity that infringes on your copyright rights, you may notify Crain Communications Inc.\nby providing the information required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C.\n§ 512 to the following address:</p>",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:13:35",
+            "point_link": "https://edit.tosdr.org/points/16796",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We use cookies, web beacons and other technologies&nbsp;to improve and customize our Products and your experience.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16812",
+            "approval_status": "APPROVED",
+            "clause_text": "The Products may include links that direct you to other websites or services whose privacy practices may differ from ours.\nIf you submit information to any of those third-party sites, your information is governed by their privacy policies, not this one.\nWe encourage you to carefully read the privacy policy of any website you visit.</p>",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/16805",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>For research and development</em>\n</strong>:&nbsp.\nWe are always looking for ways to make our Products more useful, relevant, faster, and secure to you.&nbsp.\nWe use collective learnings about how people use our Products and feedback provided directly to us&nbsp;to troubleshoot and to identify trends, usage, activity patterns and areas for integration and improvement of the Products.&nbsp;&nbsp.\nWe automatically analyze and aggregate frequently viewed articles to improve relevance of suggested topics that auto-populate when you use the search feature.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:33:05",
+            "point_link": "https://edit.tosdr.org/points/16768",
+            "approval_status": "APPROVED",
+            "clause_text": "CRAIN AND ITS AGENTS AND LICENSORS DO NOT WARRANT THE ACCURACY, COMPLETENESS, CURRENTNESS, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE NEWS AND INFORMATION AVAILABLE THROUGH THE SERVICE.",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:13:37",
+            "point_link": "https://edit.tosdr.org/points/16816",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Send \"Do Not Track\" Signals</em>\n</strong>: Some browsers have incorporated \"Do Not Track\" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked.\nBecause there is not yet a common understanding of how to interpret the DNT signal, our Products do not currently respond to browser DNT signals.",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:38",
+            "point_link": "https://edit.tosdr.org/points/16793",
+            "approval_status": "APPROVED",
+            "clause_text": "We also collect information through your device about your operating system, browser type, IP address",
+            "point_source": "https://www.chicagobusiness.com/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Illinois, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:13:36",
+            "point_link": "https://edit.tosdr.org/points/16785",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This Agreement, all intellectual property issues, and your rights and obligations shall be governed by the laws of the United States of America and the State of Illinois governing contracts wholly entered into and wholly performed within Illinois",
+            "point_source": "https://www.chicagobusiness.com/terms-of-use",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

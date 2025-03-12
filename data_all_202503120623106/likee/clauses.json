@@ -1,0 +1,711 @@
+{
+    "meta_data": {
+        "title": "likee - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12380",
+            "approval_status": "APPROVED",
+            "clause_text": "Your data (including private messages) may be shared with legal agencies if we in our good faith believe that you have engaged in child abuse, or if we are requested to do so by relevant legal agencies.</p>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:08:06",
+            "point_link": "https://edit.tosdr.org/points/12350",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We have the right to:</p>\n<ul>\n<li>remove any UGC you provide or contribute to Likee Services for any or no reason in our sole discretion;</li>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 10:08:07",
+            "point_link": "https://edit.tosdr.org/points/12376",
+            "approval_status": "APPROVED",
+            "clause_text": "We use the following criteria to determine the period for which we will keep your information:</p>\n<ul>\n<li>our contractual obligations and rights in relation to the information involved;</li>\n<li>obligation(s) under the applicable laws and regulations to retain data for a certain period of time;</li>\n<li>statute of limitations under the applicable laws;</li>\n<li>our reasonable business purposes.\nand</li>\n<li>disputes or potential disputes.</li>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:08:07",
+            "point_link": "https://edit.tosdr.org/points/12385",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Unless expressly stated otherwise, our website does not provide your information to these third parties, however they may collect information, including personal information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system on the devices you use to access our website.\nThey may use this information to provide you with interest-based advertising or other targeted content.</p>\n<p>",
+            "point_source": "https://likee.video/cookie_policy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:08:09",
+            "point_link": "https://edit.tosdr.org/points/12368",
+            "approval_status": "APPROVED",
+            "clause_text": "and</li>\n<li>Cookies, small pieces of data to enable us to provide certain features, which are collected by us or our business partners to measure and understand the web pages you click on and how you use Likee Services, enhance your experience using Likee Services, and provide you with targeted advertising on Likee Services and elsewhere across your different devices.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:08:06",
+            "point_link": "https://edit.tosdr.org/points/12346",
+            "approval_status": "APPROVED",
+            "clause_text": "We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these terms of use.</p>\n<p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:08:04",
+            "point_link": "https://edit.tosdr.org/points/12351",
+            "approval_status": "APPROVED",
+            "clause_text": "Without limiting the foregoing, we have the right to fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone providing any UGC on or through Likee Services.</p>\n<p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:35:37",
+            "point_link": "https://edit.tosdr.org/points/12367",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Information about you from third-party service providers, such as advertising partners and data analytics providers;</li>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:08:02",
+            "point_link": "https://edit.tosdr.org/points/12340",
+            "approval_status": "APPROVED",
+            "clause_text": "you grant to Bigo and its sub-licensees the permission, free, permanent, irrevocable, non-exclusive and fully sub-licensable rights and license, without any territorial or time limitations and without requiring any approvals and/or compensations,",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:08:09",
+            "point_link": "https://edit.tosdr.org/points/12381",
+            "approval_status": "APPROVED",
+            "clause_text": "The aforesaid technologies include cookies, pixels, web beacons, and gifs, collectively as “cookies.”",
+            "point_source": "https://likee.video/cookie_policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:08:10",
+            "point_link": "https://edit.tosdr.org/points/12370",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>to use information that you provided us, such as pictures and video contents that you choose to upload or broadcast on Likee Services, as part of our advertising and marketing campaigns to promote Likee Services;</li>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:08:10",
+            "point_link": "https://edit.tosdr.org/points/12371",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>to enable us and our advertising partners to provide ads that may be more relevant to your interests;</li>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:08:07",
+            "point_link": "https://edit.tosdr.org/points/12373",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>to our business partners so that we can improve Likee Services;</li>\n<li>to third-party advertising partners so that they can deliver ads they believe are relevant to you in other third party apps (for a list of our current advertising partners please visit Advertising Partners);</li>\n<li>to cloud storage providers to store the information you provide;</li>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 06:35:43",
+            "point_link": "https://edit.tosdr.org/points/12365",
+            "approval_status": "APPROVED",
+            "clause_text": "Facial data, such as when you use some features provided by us to create special effects or emojis for your streaming section or pictures that you uploaded on Likee Services, but such data will only be processed offline to fulfill the special effects or emojis and we will not use it for other purposes unless we have obtained your explicit consent or turn this into deidentified data.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "This service retains rights to your content even after you stop using your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account, since you granted them a perpetual or (in some cases) an unlimited license over that content.",
+            "last_updated": "2023-07-11 10:08:06",
+            "point_link": "https://edit.tosdr.org/points/12342",
+            "approval_status": "APPROVED",
+            "clause_text": "With respect to pictures and streaming live and pre-recorded audio-visual works, the rights granted by you terminate once you delete such UGC from Likee Services, or generally by deregistering your account, except (a) we used it for promotional purposes.\nand (b) for the reasonable time it takes to remove from backup and other systems.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "This service retains rights to your content even after you stop using your account",
+                "href": "https://edit.tosdr.org/cases/173"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:08:06",
+            "point_link": "https://edit.tosdr.org/points/12375",
+            "approval_status": "APPROVED",
+            "clause_text": "We maintain servers around the world and your information collected by us are firstly stored and processed in servers nearest to your region, but in several cases your information may be stored and processed in any other country where we maintain data collection facilities.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 06:27:25",
+            "point_link": "https://edit.tosdr.org/points/12338",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not accept payments or do business with individuals or entities in Cuba, Iran, North Korea, Sudan, Syria, and the Crimean region.\nIf you are from such regions, you may be prohibited from using the Services.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12382",
+            "approval_status": "APPROVED",
+            "clause_text": "The information generated by Google Analytics about your use of the website (including your IP address) may be transmitted to and stored by Google.",
+            "point_source": "https://likee.video/cookie_policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:33",
+            "point_link": "https://edit.tosdr.org/points/12383",
+            "approval_status": "APPROVED",
+            "clause_text": "Targeting or Advertising Cookies</p>\n<p>These cookies are used by us and relevant service providers to deliver ads or commercials that we believe are relevant to you and your interests, in order to enable us to make Likee Services more relevant to your interests.\nThese cookies remember what you have looked at during your use of Likee Services and we may share such information with relevant third parties, such as advertisers.</p>\n<p>Targeting and advertising cookies may include:</p> Cookie Name Further information Appsflyer https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage Google Ads https://policies.google.com/technologies/ads <p>Functionality Cookies</p>\n<p>These cookies are not essential, but help us to personalize and enhance your online experience on our website.",
+            "point_source": "https://likee.video/cookie_policy",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:08:09",
+            "point_link": "https://edit.tosdr.org/points/12384",
+            "approval_status": "APPROVED",
+            "clause_text": "Web Beacons</p>\n<p>Pages of our website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.</p>",
+            "point_source": "https://likee.video/cookie_policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:08:04",
+            "point_link": "https://edit.tosdr.org/points/12347",
+            "approval_status": "APPROVED",
+            "clause_text": "Likee respects the intellectual property of others and follows the requirements set forth in the relevant applicable laws.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:04:33",
+            "point_link": "https://edit.tosdr.org/points/12374",
+            "approval_status": "APPROVED",
+            "clause_text": "you may have some or all of the following rights:</p>\n<ul>\n<li>access and update certain personal information that you have provided with us by logging into your Likee account and using the features and functionalities available there;</li>\n<li>You can change the mobile advertising identifiers in your mobile device or limit advertising tracking through your mobile device’s privacy settings.\nand</li>\n<li>rectify and delete your personal data retained on Likee Services.</li>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-09-12 13:22:14",
+            "point_link": "https://edit.tosdr.org/points/12344",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>By submitting ideas, suggestions, documents, and/or proposals (“Submissions”) to Bigo or Likee Services or its employees, you acknowledge and agree that Bigo or Likee Services shall be entitled to use or disclose such Submissions for any purpose in any way without providing compensation or credit to you.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12357",
+            "approval_status": "APPROVED",
+            "clause_text": "Should a dispute arise between the parties in connection with these terms of use, the parties shall attempt to resolve such dispute through friendly consultations between themselves.\nIf, however, the dispute cannot be resolved within thirty (30) days after commencement of such friendly consultations, then the parties agree irrevocably that such dispute shall be submitted to the exclusive jurisdiction of competent court of the Republic of Singapore.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:04:14",
+            "point_link": "https://edit.tosdr.org/points/13049",
+            "approval_status": "APPROVED",
+            "clause_text": "we WILL NOT SELL your Personal Information to any third party.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12378",
+            "approval_status": "APPROVED",
+            "clause_text": "We take appropriate administrative, technical and physical security measures to safeguard your personal information from unauthorized access and disclosure.\nFor example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions.\nIn addition, we use encryption in the transmission of certain your personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:08:07",
+            "point_link": "https://edit.tosdr.org/points/12377",
+            "approval_status": "APPROVED",
+            "clause_text": "You may also delete your account.\nTo delete your account, you may use the “Delete Account” function available at Setting or email us indicating in English that you would like to delete your account, after which you will receive instructions from us.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:35:43",
+            "point_link": "https://edit.tosdr.org/points/12363",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any feedback, comments, requests for technical support relating to the Likee Services, please send to likeeaffairs@bigo.sg.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:28",
+            "point_link": "https://edit.tosdr.org/points/12353",
+            "approval_status": "APPROVED",
+            "clause_text": "To the fullest extent permitted by applicable law, you agree to defend, indemnify and hold harmless Likee Services, their site operator, their parent corporation, their respective affiliates, licensors, service providers, officers, directors, employees, agents, successors and assigns from and against any and all claims, damages, judgments, awards, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from:</p>\n<p>(i)your use of and access to Likee Services;</p>\n<p>(ii)your violation of any term of these terms of use;</p>\n<p>(iii)your violation of any third party right, including without limitation any copyright, property, or privacy right.\nor</p>\n<p>(iv)any claim that your UGC caused damage to a third party.</p>\n<p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:05:12",
+            "point_link": "https://edit.tosdr.org/points/12339",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>PAYMENTS ARE NONREFUNDABLE AND THERE ARE NO REFUNDS OR CREDITS FOR PARTIALLY USE.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12379",
+            "approval_status": "APPROVED",
+            "clause_text": "If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.</p>",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12355",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be solely responsible for any damage to your computer system or loss of data that results from your use of Likee Services.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12341",
+            "approval_status": "APPROVED",
+            "clause_text": "to use, copy, modify, adapt, publish, translate, edit, dispose, create derivate works of, distribute, perform and publicly display such UGC (in whole or in part), and/or incorporate such UGC into existing or future forms of work, media or technology.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:07:44",
+            "point_link": "https://edit.tosdr.org/points/12185",
+            "approval_status": "APPROVED",
+            "clause_text": "Last updated: February 2020</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:08:06",
+            "point_link": "https://edit.tosdr.org/points/12362",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate these terms of use for any or no reason at any time by notifying you through a notice on Likee Services, by email, or by any other method of communication.\nAny such termination will be without prejudice to our rights, remedies, claims, or defenses hereunder.\nUpon termination of the terms of use, you will no longer have a right to access your account or your UGC.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:07",
+            "point_link": "https://edit.tosdr.org/points/12361",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon termination of these terms of use, any provision which, by its nature or express terms should survive, will survive such termination or expiration.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12336",
+            "approval_status": "APPROVED",
+            "clause_text": "You use Likee Services at your sole risk.\nWe provide Likee Services \"as is\" and \"as available\".",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:08:04",
+            "point_link": "https://edit.tosdr.org/points/12352",
+            "approval_status": "APPROVED",
+            "clause_text": "Without limitation, we may do so to address UGC that comes to our attention that we believe is offensive, obscene, violent, harassing, threatening, abusive, illegal or otherwise objectionable or inappropriate, or to enforce the rights of third parties or these terms of use or any applicable additional terms.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:08:03",
+            "point_link": "https://edit.tosdr.org/points/12337",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AFFIRM THAT YOU ARE AT LEAST 16 YEARS OF AGE,",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:08:06",
+            "point_link": "https://edit.tosdr.org/points/12360",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If any provision of these terms of use is held to be unlawful, void, or for any reason unenforceable, then that provision will be limited or eliminated from these terms of use to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:35:37",
+            "point_link": "https://edit.tosdr.org/points/12359",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If we fail to exercise or enforce any right or provision of these terms of use, it will not constitute a waiver of such right or provision.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:07:59",
+            "point_link": "https://edit.tosdr.org/points/12343",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not responsible, or liable to any third party, for the content or accuracy of any UGC made available by you or any other user of Likee Services.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12345",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You are solely responsible for maintaining the confidentiality of your account and password, for restricting access to your mobile phone, and for all activities that occur under your account or password.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12348",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are a copyright owner or agent thereof and believe that content posted on Likee Services infringes upon your copyright, please submit a notice to us.</p>",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12369",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also collect, use and share your information to produce and share aggregated insights that do not identify you.\nAggregated data may be derived from your Personal Information but is not considered Personal Information as this data does not directly or indirectly reveal your identity.",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:08:04",
+            "point_link": "https://edit.tosdr.org/points/12349",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that you will only use Likee Services for the lawful purposes expressly permitted and contemplated by these terms of use.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12358",
+            "approval_status": "APPROVED",
+            "clause_text": "Modification <p>Bigo may amend any of the terms of these terms of use by posting the terms.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Singapore",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12356",
+            "approval_status": "APPROVED",
+            "clause_text": "These terms of use shall be governed by and construed in accordance with the laws of the Republic of Singapore, without regard to choice of law principles.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:08:05",
+            "point_link": "https://edit.tosdr.org/points/12354",
+            "approval_status": "APPROVED",
+            "clause_text": "To the fullest extent permitted by law, Likee Services, their site operator and their respective officers, directors, employees, and agents expressly disclaim all warranties of any kind related to Likee Services and goods or services purchased and obtained through Likee Services, whether express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.",
+            "point_source": "https://likee.video/agreement",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:08",
+            "point_link": "https://edit.tosdr.org/points/12372",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share your information with certain authorized third parties to assist in the improvement and optimization of Likee Services,",
+            "point_source": "https://likee.video/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

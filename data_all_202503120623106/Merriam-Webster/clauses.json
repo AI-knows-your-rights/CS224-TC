@@ -1,0 +1,977 @@
+{
+    "meta_data": {
+        "title": "Merriam-Webster - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14868",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Merriam-Webster does not have any obligation to monitor, edit or delete UGC, but may do so in its sole discretion. UGC including, but not limited to, the following may be deleted or edited by Merriam-Webster:\"",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14908",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may use your IP address to help diagnose problems with our servers and to administer our Services, analyze trends, track user movements and gather broad demographic information that assists us in identifying user preferences.</p>\n</li>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14916",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We store your personal data on our servers located in the United States.\nWe retain your information for the duration of your business relationship with us and as long as necessary to permit us to use it for the legitimate business purposes that we have communicated to you and comply with applicable law or regulations.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14920",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time.\nPlease take a look at the Effective Date at the top of this page to see when this Privacy Policy was last revised.\nAmended terms that materially impact or modify your privacy rights take effect 30 days after they are initially posted on the site.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14895",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-31 10:19:05 UTC, fedada (30172)  Suspended wrote:\n          Your blog has the same post as another author but i like your better.*’”,:3SA Estate",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14904",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We work with DigiTrust to set a cookie (DigiTrust Cookie) in your browser to enable us to collect web-viewing data that includes visits to a Merriam-Webster service and other non-affiliated websites over time.</p>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/14854",
+            "approval_status": "APPROVED",
+            "clause_text": "Please check this page periodically for any modifications.\nYour use of any of the Services following the posting of changes constitutes your acceptance of the changes.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/14865",
+            "approval_status": "APPROVED",
+            "clause_text": "\"By sending UGC, you automatically grant to Merriam-Webster a [...] license to [...] and to sublicense such rights through multiple tiers of sublicensees.\"",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/14918",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>As we continue to develop our business, we might sell or buy subsidiaries, or business units.\nIn such transactions, customer information generally is one of the transferred business asset",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14863",
+            "approval_status": "APPROVED",
+            "clause_text": "By sending UGC, you automatically grant to Merriam-Webster a royalty-free, perpetual, irrevocable, non-exclusive license",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14914",
+            "approval_status": "APPROVED",
+            "clause_text": "Facebook Ads conversion tracking (Facebook, Inc.) <p>Facebook Ads conversion tracking (Facebook pixel) is an analytics service provided by Facebook, Inc.\nthat connects data from the Facebook advertising network with actions performed in connection with Puku.\nThe Facebook pixel tracks conversions that can be attributed to ads on Facebook, Instagram, and Audience Network.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14896",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For specific promotions, sweepstakes and contests sponsored or co-sponsored by us, and to access certain features, such as the ‘save your words' feature, we collect information voluntarily submitted by you to us to deliver the requested feature that may include (but not be limited to) your name, email address, city, state, and age.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14900",
+            "approval_status": "APPROVED",
+            "clause_text": "If you choose to provide us with your email address or other personal information, you also may receive the following types of emails from us:</p>\n<ul>\n<li>Emails related to subscription-maintenance activities;</li>\n<li>Emails highlighting new features, content, and usage tips for the Services.\nand</li>\n<li>Special offers and other marketing messages <ul>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14902",
+            "approval_status": "APPROVED",
+            "clause_text": "Also, we may disclose your personal information in special legal circumstances.\nFor instance, such information may be used where it is necessary to protect our copyright or intellectual property rights, or if the law requires us to do so.</p>\n<p>To carry out these activities, Merriam-Webster may rely on many legal bases to process your personal data, including where:</p>\n<ul>\n<li>necessary to perform the contractual obligations in our Terms of Service and to provide the requested Services to you;</li>\n<li>necessary for a third party's, or our, legitimate interests;</li>\n<li>necessary to comply with a legal obligation or to defend legal claims;</li>\n<li>necessary to protect the public interest or vital interest of others;</li>\n<li>you have expressly made information public.\nor</li>\n<li>you have consented to the processing, which may be revoked at any time.</li>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14894",
+            "approval_status": "APPROVED",
+            "clause_text": "When we refer to cookies, this includes other similar technologies such as pixel tags, or web beacons.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14880",
+            "approval_status": "APPROVED",
+            "clause_text": "Claims or disputes must be filed within one year</em>.\nTo the extent permitted by law, any claim or dispute must be filed within one year.&nbsp;&nbsp.\nThe one-year period begins when the arbitration notice first could be filed.\nIf such a claim or dispute is not filed within one year, it shall be permanently barred.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14879",
+            "approval_status": "APPROVED",
+            "clause_text": "Any proceedings to resolve or litigate any dispute in any forum will be conducted solely on an individual basis.\nNeither you nor Merriam-Webster will seek to have any dispute heard as a class action, private attorney general action, or in any other proceeding in which either party acts or proposes to act in a representative capacity.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14878",
+            "approval_status": "APPROVED",
+            "clause_text": "Any dispute will be conducted exclusively by binding arbitration governed by the U.S.\nFederal Arbitration Act.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:05:20",
+            "point_link": "https://edit.tosdr.org/points/14906",
+            "approval_status": "APPROVED",
+            "clause_text": "The information received by us through these automated methods may include (but is not limited to) information about your activities across unrelated websites and mobile applications, information about the possible relationships between different browsers and devices, information that we receive from our third-party service providers, demographic data, information from social media providers, and information about your interests.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14905",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We also work with third-party analytics providers, ad networks, and advertisers in order to track your online activities over time and across third party websites, apps and devices, by obtaining information through the automated means (including cookies) mentioned above.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14901",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>As explained above, Merriam-Webster processes your data to provide you with the products and services you have requested or purchased from us, including special features, subscriptions, newsletters, and other content.\nSometimes we use third-party providers or work with co-sponsors to facilitate the delivery of the services or special features described above, and these third-party providers may be supplied with or have access to your personal information for the sole purpose of providing services to you on our behalf, such as Word of the Day or delivering the special feature.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14909",
+            "approval_status": "APPROVED",
+            "clause_text": "On the basis of legitimate interests, we use this information (or combined information) to help us design our Services to better suit our users' needs, to provide and improve our Services, for identification verification, to provide support, for statistical and market research purposes to tailor content to usage patterns, for analytic purposes through tools such as Google Analytics, and to personalize your experience by presenting content, products, and offers tailored to you.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14917",
+            "approval_status": "APPROVED",
+            "clause_text": "Information we collect from you will be processed in the United States and may be stored, transferred to, and processed in any country where we have facilities or in which we engage service providers.\nThese countries may be outside your country of residence, including the United States, and may have different data protection laws than your country.</p>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to $ 1,000",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14875",
+            "approval_status": "APPROVED",
+            "clause_text": "AND (ii) FOR ANY DAMAGES, LOSSES AND/OR CAUSES OF ACTION EXCEEDING ONE THOUSAND U.S.\nDOLLARS (US $1,000) IN THE AGGREGATE.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14907",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Google Analytics Demographics and Interest reporting, which is a Google Analytics Advertiser feature that collects and stores standard internet log and user information on our behalf and gathers information about what pages you visit, how long you are on our sites, how you got here, and what you click on during your visit.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14898",
+            "approval_status": "APPROVED",
+            "clause_text": "When you open an email that contains a newsletter, we gather certain statistics, such as number of emails opened and clicks within a newsletter, using industry-standard technologies, including clear gifs, helping us monitor and improve our newsletters.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Prohibits public posting of private messages",
+            "rating": "good",
+            "description": "The service does not allow users to publicly post private messages they have received from other users.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14869",
+            "approval_status": "APPROVED",
+            "clause_text": "UGC including, but not limited to, the following may be deleted or edited by Merriam-Webster:</p>\n<ul>\n<li>Abusive or hurtful UGC about a commentor or another participant;</li>\n<li>Off-topic and redundant UGC (this includes promotion of events, groups, pages, Web sites, organizations and programs not related to or affiliated with Merriam-Webster);</li>\n<li>UGC that uses foul or hateful language;</li>\n<li>Personal attacks or defamatory statements or comments;</li>\n<li>UGC that violate the privacy of our users;</li>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You aren’t allowed to publicly post private messages",
+                "href": "https://edit.tosdr.org/cases/317"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:24",
+            "point_link": "https://edit.tosdr.org/points/14921",
+            "approval_status": "APPROVED",
+            "clause_text": "To correct, update, or remove personally identifiable information, please email us at dpo@m-w.com.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14919",
+            "approval_status": "APPROVED",
+            "clause_text": "\"In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy\"",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14866",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Please be aware that once you post UGC, there is the potential for the general public to read your words, even years from now.\nMerriam-Webster suggests that you exercise caution when posting UGC on the Services and that you not disclose personal identifiable information like your location, medical record number, financial information, etc.</p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/14923",
+            "approval_status": "APPROVED",
+            "clause_text": "Use Your Personal Information",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14891",
+            "approval_status": "APPROVED",
+            "clause_text": "We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Policy as we undertake new personal data practices or adopt new privacy policies.</p>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14922",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions or concerns, please send an email to privacy@m-w.com or at dpo@m-w.com",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14910",
+            "approval_status": "APPROVED",
+            "clause_text": "These third parties may in turn link further demographic or interest-based information to your browser.\nYou have the choice to opt-out of the use of your data by third-party service providers for this purpose at any time.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14893",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not sell personal information to anyone and only share it with third parties who are facilitating the delivery of our Services as provided in this Privacy Policy.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14915",
+            "approval_status": "APPROVED",
+            "clause_text": "Security of Your Information <p>Any personally identifiable information collected through this site is stored on limited-access servers.\nWe maintain safeguards to protect these servers and the information they store.\nAlso, to help protect the privacy of data and personally identifiable information you transmit through the use of our Services, we maintain physical, technical and administrative safeguards.\nWe update and test our security technology on an ongoing basis.\nWe strive to restrict access to your personal data to those employees who need to know that information to provide benefits or services to you.\nIn addition, we strive to educate all of our employees about the importance of confidentiality and maintaining the privacy and security of your information.</p>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/14862",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain the right to reuse your UGC as submitted to Merriam-Webster.</p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:05:20",
+            "point_link": "https://edit.tosdr.org/points/14899",
+            "approval_status": "APPROVED",
+            "clause_text": "You may manage your Merriam-Webster newsletter subscriptions by subscribing or unsubscribing at any time using the link included in the related email.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/14855",
+            "approval_status": "APPROVED",
+            "clause_text": "The Services may contain links to third-party websites that are not owned or controlled by us.\nWe have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/14888",
+            "approval_status": "APPROVED",
+            "clause_text": "June 2020</em>\n<br>\n<em>Effective: June 2020",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/14874",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT SHALL MERRIAM-WEBSTER, ITS DIRECTORS, OFFICERS, SHAREHOLDERS, PARENTS, SUBSIDIARIES, AFFILIATES, AGENTS AND LICENSORS, OR CONTENT PROVIDERS BE LIABLE: (i) FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THE USE, INABILITY TO USE, PERFORMANCE OR NONPERFORMANCE OF THE SERVICES, EVEN IF MERRIAM-WEBSTER WAS PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER SUCH DAMAGES ARISE IN CONTRACT, TORT, UNDER STATUTE, IN EQUITY, AT LAW, OR OTHERWISE.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14864",
+            "approval_status": "APPROVED",
+            "clause_text": "\"By sending UGC, you automatically grant to Merriam-Webster a [...] license to use [...] and display it alone or as part of other works in any form, media, or technology, whether now known or hereafter developed\"",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14871",
+            "approval_status": "APPROVED",
+            "clause_text": "Prices for our mobile applications may change at any time, and the Services do not provide price protection or refunds in the event of a price reduction or promotional offering.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:11:37",
+            "point_link": "https://edit.tosdr.org/points/14912",
+            "approval_status": "APPROVED",
+            "clause_text": "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.\nHowever, if you do not accept cookies, you may not be able to use some portions of our Services.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/14876",
+            "approval_status": "APPROVED",
+            "clause_text": "To the fullest extent permitted by law, you agree to indemnify and hold Merriam-Webster, its directors, officers, shareholders, parents, subsidiaries, affiliates, agents, and licensors harmless from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, arising out of (i) the information or material you submit, including, but not limited to, liability for violations of copyrights, trademark rights, trade secret rights, or any other intellectual property rights, or the privacy or publicity rights of others, or liability for information or material you provide that is obscene, defamatory, threatening, harassing, abusive, hateful or embarrassing to any other person or entity, or is fraudulent or deceptive, (ii) your use or unauthorized copying of the Services or any of their content, or (iii) your violation of these Terms of Use or any applicable laws or regulations.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14867",
+            "approval_status": "APPROVED",
+            "clause_text": "The opinions and/or views expressed in UGC represent the thoughts of individuals, and not those necessarily of Merriam-Webster or any of its affiliated companies or any of their respective directors, officers, attorneys, employees, or members of their board of directors.\nAccordingly, notwithstanding anything else in these Terms of Use, Merriam-Webster should not be seen as endorsing any UGC in any way.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14882",
+            "approval_status": "APPROVED",
+            "clause_text": "The provisions of these Terms of Use which by their nature should survive the termination of these Terms of Use shall survive such termination.</p>\n<p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/14856",
+            "approval_status": "APPROVED",
+            "clause_text": "You may display, reproduce, print or download content on the Services only for your personal, non-commercial use.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/14857",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not use data mining, robots, screen scraping, or similar data gathering and extraction tools on the Services, except with our express written permission.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/14858",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You must not do the following things: [...] send or post UGC that is obscene, defamatory, threatening, harassing, abusive, hateful or embarrassing to any other person or entity.\"",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14872",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES AND ALL INFORMATION, PRODUCTS, AND OTHER CONTENT INCLUDED IN OR ACCESSIBLE FROM THE SERVICES ARE PROVIDED \"AS IS\"",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over 16 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14885",
+            "approval_status": "APPROVED",
+            "clause_text": "By granting your child permission to use the Subscription Services, you agree to these Terms of Use on behalf of your child.\nYou are responsible for monitoring and supervising your child's use of the Subscription Service in question.\nIf your child is using the Subscription Service and is either under 16 or does not have your permission, please contact us immediately so that we can disable his or her access.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:11:39",
+            "point_link": "https://edit.tosdr.org/points/14870",
+            "approval_status": "APPROVED",
+            "clause_text": "UGC including, but not limited to, the following may be deleted or edited by Merriam-Webster:</p>\n<ul>\n<li>Abusive or hurtful UGC about a commentor or another participant;</li>\n<li>Off-topic and redundant UGC (this includes promotion of events, groups, pages, Web sites, organizations and programs not related to or affiliated with Merriam-Webster);</li>\n<li>UGC that uses foul or hateful language;</li>\n<li>Personal attacks or defamatory statements or comments;</li>\n<li>UGC that violate the privacy of our users;</li>\n<li>UGC that is obscene, threatening, harassing, deceptive or fraudulent;</li>\n<li>UGC directed at children under the age of 13;</li>\n<li>UGC that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any party or individual.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14887",
+            "approval_status": "APPROVED",
+            "clause_text": "Merriam-Webster has a policy of terminating in appropriate circumstances the subscriptions of users who are infringers of copyrights held by others.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:11:09",
+            "point_link": "https://edit.tosdr.org/points/14860",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You must not do the following things: [...] send or post a sexually-explicit image.\"",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14890",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy covers Merriam-Webster products and services only.\nWhile you may encounter links on the Services to other websites and apps, such as those belonging to our third-party sponsors, advertisers, and other partners, please note that these third-party websites and apps are not covered by this Privacy Policy (unless otherwise noted on the linked website or app, which may be the case if, for example, the website or app is also owned and operated by Merriam-Webster).",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/14911",
+            "approval_status": "APPROVED",
+            "clause_text": "We may provide anonymous aggregated data may to other companies we do business with for statistical purposes.</p>\n</li>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14892",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Services use cookies, which are small data files that are placed on the hard drive of your computer, tablet, smartphone, or other devices when you visit a website and other tracking tools on our website and digital platforms.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14881",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of these Terms of Use shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Use and shall not affect the validity and enforceability of any remaining provisions.</p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:11:34",
+            "point_link": "https://edit.tosdr.org/points/14883",
+            "approval_status": "APPROVED",
+            "clause_text": "No waiver of any provision of these Terms of Use shall be deemed a further or continuing waiver of such provision or any other provision, and your or our failure to assert any right or provision under these Terms of Use shall not constitute a waiver of such right or provision.</p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14884",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for protecting the confidentiality of your credentials for access to the Subscription Services (e.g., your username and password) and for complying with any guidelines prescribed by Merriam-Webster from time to time to prevent unauthorized access to the Subscription Services.\nYou agree to immediately notify Merriam-Webster of any unauthorized use of your password or any other breach of security.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14886",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you believe that any copyright infringement exists on any of the Services, please use the following process to notify Merriam-Webster.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:11:08",
+            "point_link": "https://edit.tosdr.org/points/14859",
+            "approval_status": "APPROVED",
+            "clause_text": "Nor may you use language or engage in any activity that is threatening, abusive, vulgar, discourteous, disruptive, or unlawful.</p>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14903",
+            "approval_status": "APPROVED",
+            "clause_text": "This information may include (but is not limited to) internet protocol (IP) addresses",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Delaware, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/14877",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that all matters relating to your access to or use of the Services and these Terms of Use, including all disputes, will be governed by the laws of the United States and the State of Delaware, without giving effect to any principles of conflicts of laws, including the United Nations Convention on Contracts for the International Sale of Goods.</strong>",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/14897",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>To register for or subscribe to receive a Merriam-Webster newsletter, you must provide us with your email address.\nWe use Salesforce Marketing Cloud, a third-party service provider, to deliver requested newsletters, such as Word of the Day, to you on our behalf.",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/14913",
+            "approval_status": "APPROVED",
+            "clause_text": "Some internet browsers or other tools include “Do Not Track” (DNT) features that, when turned on, send a signal to websites you visit indicating you do not wish to be tracked across websites over time.\nHowever, since no technology standard for DNT signals has been developed or adopted to date, Merriam-Webster does not currently respond to DNT signals.</p>",
+            "point_source": "https://www.merriam-webster.com/privacy-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:11:31",
+            "point_link": "https://edit.tosdr.org/points/14853",
+            "approval_status": "APPROVED",
+            "clause_text": "Merriam-Webster reserves the right to change, modify, add, or remove portions of these Terms of Use at any time.\nMerriam-Webster will notify you of any changes by posting them on the Services or through other reasonable means of notice.",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:11:33",
+            "point_link": "https://edit.tosdr.org/points/14873",
+            "approval_status": "APPROVED",
+            "clause_text": "WITHOUT WARRANTIES OF ANY KIND (EXPRESS, IMPLIED, AND STATUTORY, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE),",
+            "point_source": "https://www.merriam-webster.com/terms-of-use",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

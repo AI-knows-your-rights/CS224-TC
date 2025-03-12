@@ -1,0 +1,67 @@
+{
+    "meta_data": {
+        "title": "OpenTracks - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:47:42",
+            "point_link": "https://edit.tosdr.org/points/19542",
+            "approval_status": "APPROVED",
+            "clause_text": "Privacy <p>OpenTracks and OSM Dashboard:</p>\n<ul>\n<li>\n<em>do not contain any in-app analytics</em>\n</li>\n<li>\n<em>do not use Google Play Services</em>",
+            "point_source": "https://opentracksapp.com/#privacy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 10:07:39",
+            "point_link": "https://edit.tosdr.org/points/19543",
+            "approval_status": "APPROVED",
+            "clause_text": "The app is available in F-Droid, a repository exclusively for open source apps.",
+            "point_source": "https://opentracksapp.com/#privacy",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:15:34",
+            "point_link": "https://edit.tosdr.org/points/19544",
+            "approval_status": "APPROVED",
+            "clause_text": "An offline version of the app is provided, so that data is ensured to be only used for the purposes of the service and doesn't share anything outside the device.",
+            "point_source": "https://opentracksapp.com/#privacy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "You can choose with whom you share content",
+            "rating": "good",
+            "description": "Users can decide whether or not they want their content to be shared and they can control how and with whom it is shared.",
+            "last_updated": "2023-07-11 04:47:44",
+            "point_link": "https://edit.tosdr.org/points/19541",
+            "approval_status": "APPROVED",
+            "clause_text": "you decide if, when, with whom, and how to share your data.\n<em>",
+            "point_source": "https://opentracksapp.com/#privacy",
+            "case": {
+                "text": "You can choose with whom you share content",
+                "href": "https://edit.tosdr.org/cases/225"
+            }
+        }
+    ]
+}

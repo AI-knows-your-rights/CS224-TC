@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Houseparty - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:05:48",
+            "point_link": "https://edit.tosdr.org/points/13181",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect location information.</strong> For example, we may collect your zip code and state.\nBased on your IP address, we also derive location information.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:05:49",
+            "point_link": "https://edit.tosdr.org/points/13216",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share information with trusted third parties, including companies who serve as our vendors and help us deliver our services and social media partners if you elect to use social media integration features.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:05:52",
+            "point_link": "https://edit.tosdr.org/points/13219",
+            "approval_status": "APPROVED",
+            "clause_text": "We use some information for marketing purposes.</strong> We use your information to share updates about new products and special offers, including promotions, surveys, and contests, through email, on our app, or on social media platforms.\nWe might also use this information to tell you about products and offers, new features, or updates.\nThese might be our own offers or products or select third-party offers or products we think you might find interesting.</p>",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:07:39",
+            "point_link": "https://edit.tosdr.org/points/13182",
+            "approval_status": "APPROVED",
+            "clause_text": "We may look at what site you came from, or what site you visit when you leave us.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:08:29",
+            "point_link": "https://edit.tosdr.org/points/9027",
+            "approval_status": "APPROVED",
+            "clause_text": "UNLESS YOU OPT OUT OF ARBITRATION WITHIN 30 DAYS OF THE DATE YOU FIRST AGREE TO THESE TERMS BY FOLLOWING THE OPT-OUT PROCEDURE SPECIFIED IN SECTION 12 (“DISPUTE RESOLUTION”), AND EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN SECTION 12, YOU AGREE THAT DISPUTES BETWEEN YOU AND LIFE ON AIR WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:05:52",
+            "point_link": "https://edit.tosdr.org/points/13218",
+            "approval_status": "APPROVED",
+            "clause_text": "Social media platforms and third-party apps may give us information about you.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:07:41",
+            "point_link": "https://edit.tosdr.org/points/13217",
+            "approval_status": "APPROVED",
+            "clause_text": "We use tracking tools to collect information from you passively.\nThese tools include things like browser cookies and web beacons.\nWe use these on our sites and in emails that we send to you.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:34:28",
+            "point_link": "https://edit.tosdr.org/points/9039",
+            "approval_status": "APPROVED",
+            "clause_text": "If all or part of our business is sold, we’re part of a merger or acquisition, or there is a financing or bankruptcy, we may share information as part of that transaction.</p>",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:05:52",
+            "point_link": "https://edit.tosdr.org/points/13220",
+            "approval_status": "APPROVED",
+            "clause_text": "We will share information if we think we have to in order to comply with the law or to protect ourselves.</strong> For example, we will share information to respond to a court order or subpoena or if a U.S.\nor non-U.S.\nlaw enforcement agency, government agency, or investigatory body requests it.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:08:29",
+            "point_link": "https://edit.tosdr.org/points/12506",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU ARE WAIVING YOUR RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING.",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:07:43",
+            "point_link": "https://edit.tosdr.org/points/12505",
+            "approval_status": "APPROVED",
+            "clause_text": "We might also use this information to tell you about products and offers, new features, or updates.\nThese might be our own offers or products or select third-party offers or products we think you might find interesting.</p>",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:34:30",
+            "point_link": "https://edit.tosdr.org/points/9031",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are an EEA, Swiss, or UK resident, you may have the right to access your information, the right to correct your information, the right to request deletion of your personal information,",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:34:28",
+            "point_link": "https://edit.tosdr.org/points/9030",
+            "approval_status": "APPROVED",
+            "clause_text": "You may end your legal agreement with Life On Air at any time for any reason by deactivating your account and discontinuing your use of the Services.\nIn order to deactivate your account, please contact us hello@houseparty.com.</p>",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:08:29",
+            "point_link": "https://edit.tosdr.org/points/9032",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LIFE ON AIR ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES.\n(ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES.\n(iii) ANY CONTENT OBTAINED FROM THE SERVICES.\nOR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT.",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service can use your content for all their existing and future services",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:50",
+            "point_link": "https://edit.tosdr.org/points/9040",
+            "approval_status": "APPROVED",
+            "clause_text": "By submitting, posting or displaying User Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed).",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "This service can use your content for all their existing and future services",
+                "href": "https://edit.tosdr.org/cases/180"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:05:09",
+            "point_link": "https://edit.tosdr.org/points/9026",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Last Updated: June 11, 2018</p>",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:05:51",
+            "point_link": "https://edit.tosdr.org/points/9038",
+            "approval_status": "APPROVED",
+            "clause_text": "If the revision, in our sole discretion, is material we will notify you via email to the email associated with your account or through the Services.",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Users cannot scrape the website of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:17",
+            "point_link": "https://edit.tosdr.org/points/9041",
+            "approval_status": "APPROVED",
+            "clause_text": "access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Life On Air (and only pursuant to those terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Life On Air (NOTE: scraping the Services without the prior consent of Life On Air is expressly prohibited);",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 10:06:02",
+            "point_link": "https://edit.tosdr.org/points/13186",
+            "approval_status": "APPROVED",
+            "clause_text": "English</li>\n<li>Deutsch</li>\n<li>Español (Spain)</li>\n<li>Español (LA)</li>\n<li>Français</li>\n<li>Italiano</li>\n<li>Português (Brasil)</li>",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:29",
+            "point_link": "https://edit.tosdr.org/points/9034",
+            "approval_status": "APPROVED",
+            "clause_text": "We share information with our vendors.</strong> We may share information with trusted third parties, including companies who serve as our vendors and help us deliver our services and social media partners if you elect to use social media integration features.",
+            "point_source": "https://www.houseparty.com/privacy/#houseparty-terms-of-service",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:34:27",
+            "point_link": "https://edit.tosdr.org/points/9036",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Our Do Not Track Policy:</strong> You may change your browser settings or take other steps to block, manage, or delete cookies.\nNot all of our websites and online services currently respond to browser “do not track” signals,",
+            "point_source": "https://www.houseparty.com/privacy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        }
+    ]
+}

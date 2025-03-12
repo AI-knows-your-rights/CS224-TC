@@ -1,0 +1,403 @@
+{
+    "meta_data": {
+        "title": "Instabridge - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 04:49:36",
+            "point_link": "https://edit.tosdr.org/points/21644",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use the Service and when the Service is running in the background, certain information will be collected from your online interactions, including but not limited to information about your use of the Service, your IP address, location data, device ID, time, BSSID and SSID (Wi-Fi network name), SIM card identifiers (IMEI), MAC address of access point, signal level, device location, captive portal login steps and other technology on the devices you use to access the Service.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21650",
+            "approval_status": "APPROVED",
+            "clause_text": "Advertising Cookies: Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.</li>",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 04:49:46",
+            "point_link": "https://edit.tosdr.org/points/21655",
+            "approval_status": "APPROVED",
+            "clause_text": "We will share information with third party service providers to facilitate our provision of the Service or in order for such third party service provider to provide certain services on our behalf.\nThis will include:</p>\n<ul>\n<li>IT infrastructure companies that facilitate our provision of the Services to you.\nand</li>\n<li>other third party service providers, such as hosting providers or other IT service providers for the purpose of providing the Service or tracking your use of the Service and advertising and survey service providers to help us in our communication with you and to better understand your use of the Service.</li>\n</ul>",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21658",
+            "approval_status": "APPROVED",
+            "clause_text": "This Service collects many different types of personal and non personal data, including: email address, location data, age range, language, device-based advertising identifiers, type of device, operating system version and type, device settings, time zone, carrier and IP address, MAC address of the mobile device, the name of the mobile carrier and speed test information about the performance of your mobile network.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21651",
+            "approval_status": "APPROVED",
+            "clause_text": "To provide you with marketing of our and our related parties’ products and services</p>",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21645",
+            "approval_status": "APPROVED",
+            "clause_text": "Also: \"We also collect information such as the type of mobile device you use, your mobile device unique ID\"",
+            "point_source": "https://instabridge.com/cookie-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 04:49:39",
+            "point_link": "https://edit.tosdr.org/points/21660",
+            "approval_status": "APPROVED",
+            "clause_text": "Compliance with laws and legal proceedings<p>When we respond to court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.\nWhen we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21659",
+            "approval_status": "APPROVED",
+            "clause_text": "This use could make sense given the nature of the service, but this tracking happens even if the app isn't used.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21657",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our third-party partners also collect information about Users and their mobile devices and networks, including for purposes such as interest-based advertising.\nWhen you install our App, and as you use our App, upon your explicit consent, we collect certain personal information in hashed or obfuscated form such as (a) your email address, (b) your Google, Facebook, or other social networking profile",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21654",
+            "approval_status": "APPROVED",
+            "clause_text": "We will share information with third party service providers to facilitate our provision of the Service or in order for such third party service provider to provide certain services on our behalf.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:36",
+            "point_link": "https://edit.tosdr.org/points/21635",
+            "approval_status": "APPROVED",
+            "clause_text": "We take all possible precautions to ensure secure use of the Service and Wi-Fi.\nHowever, We are in no way liable for someone being able to use, intrude, hack, destroy, or any unauthorized access to a Wi-Fi network.",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 04:49:39",
+            "point_link": "https://edit.tosdr.org/points/21652",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>it is in our legitimate interests to target advertisements so that users see relevant advertisements in furtherance of our Service and our business operations.</li>\n</ul>\n</li>\n</ul>&nbsp;&nbsp;<p>11.&nbsp.\nTo provide or show advertising based on the Personal Data you provide or that we collect through the Service.</p>\n<p>Consent</p>\n<p>When you have given us your consent, we will provide personalized advertising.</p>",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:49:37",
+            "point_link": "https://edit.tosdr.org/points/21649",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics cookies: We use analytics cookies to analyze how the Website is accessed, used or is performing.\nWe use the information to maintain, operate and improve the Website.</li>\n<li>Third party cookies: We may allow our partners to use cookies on the Website for the same purposes identified above.",
+            "point_source": "https://instabridge.com/cookie-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You aren’t forced into binding arbitration in case of disputes",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 04:49:37",
+            "point_link": "https://edit.tosdr.org/points/21643",
+            "approval_status": "APPROVED",
+            "clause_text": "any disputes that arise thereof shall be settled exclusively by Swedish courts",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 04:49:39",
+            "point_link": "https://edit.tosdr.org/points/21661",
+            "approval_status": "APPROVED",
+            "clause_text": "When we need to transfer information about you if we are acquired by or merged with another company.\nIf we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified afterwards via e-mail and/or a prominent notice on our Service of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (Sweden)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21642",
+            "approval_status": "APPROVED",
+            "clause_text": "The full agreement with the User as per the Terms shall be governed by the laws of Sweden, without regard to its conflict of law rules",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21656",
+            "approval_status": "APPROVED",
+            "clause_text": "These companies are authorised to use your personal data only as necessary to provide these services to us",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:49:36",
+            "point_link": "https://edit.tosdr.org/points/21638",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to at any time and without prior notice terminate your user account.</p>",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, you are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 04:49:45",
+            "point_link": "https://edit.tosdr.org/points/21637",
+            "approval_status": "APPROVED",
+            "clause_text": "We have the right to make changes to these Terms of Service.\nWe will inform you of any such changes at the latest thirty (30) days before a change starts to apply.\nWe will give you such information by clear notice on the Website or by email to the email address provided by you.</p>\n<p>",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 04:49:46",
+            "point_link": "https://edit.tosdr.org/points/21636",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent permitted under mandatory law, we shall not be liable to you or any third party for any direct damages, indirect damages or any other damages of any kind including but not limited to loss of profit, loss of income, loss of revenue, business interruption or goodwill losses arising out of or in connection with these terms or the use or inability to use or access the Services or the Website.",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21648",
+            "approval_status": "APPROVED",
+            "clause_text": "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.\nHowever, if you do not accept cookies, you may not be able to use some portions of our Service.</p>",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 04:49:36",
+            "point_link": "https://edit.tosdr.org/points/21639",
+            "approval_status": "APPROVED",
+            "clause_text": "Furthermore, we reserve the right at any time to modify, discontinue, temporarily or permanently cease providing the Service without prior notice at any time on our own discretion, or if required by law or decision by an authority.",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:49:36",
+            "point_link": "https://edit.tosdr.org/points/21633",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to employ the Service for personal or non-commercial use.",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:49:15",
+            "point_link": "https://edit.tosdr.org/points/21641",
+            "approval_status": "APPROVED",
+            "clause_text": "The Website and the Service are provided ‘as is’ without warranty of any kind",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:36",
+            "point_link": "https://edit.tosdr.org/points/21640",
+            "approval_status": "APPROVED",
+            "clause_text": "We have the right to suspend your access to the Service with immediate effect if we have reason to believe that you are violating these Terms of Service.",
+            "point_source": "https://instabridge.com/terms-of-service/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users over 13 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21647",
+            "approval_status": "APPROVED",
+            "clause_text": "BY INSTALLING OR USING OUR APP, YOU REPRESENT AND WARRANT TO US THAT YOU ARE 13 YEARS OF AGE OR OLDER.",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:38",
+            "point_link": "https://edit.tosdr.org/points/21653",
+            "approval_status": "APPROVED",
+            "clause_text": "Third party service providers<p>",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:39",
+            "point_link": "https://edit.tosdr.org/points/21646",
+            "approval_status": "APPROVED",
+            "clause_text": "We also collect information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device",
+            "point_source": "https://instabridge.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

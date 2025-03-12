@@ -1,0 +1,109 @@
+{
+    "meta_data": {
+        "title": "JulMan - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2021-07-17 19:39:00",
+            "point_link": "https://edit.tosdr.org/points/24439",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:21:11",
+            "point_link": "https://edit.tosdr.org/points/24290",
+            "approval_status": "APPROVED",
+            "clause_text": "Avec les informations de votre appareil, nous pouvons adapter la page en fonction de votre appareil, de votre navigateur et du thème de votre navigateur.",
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "Your personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 06:21:11",
+            "point_link": "https://edit.tosdr.org/points/24292",
+            "approval_status": "APPROVED",
+            "clause_text": "Les informations que vous nous fournissez ne sont absolument pas partagés.",
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "Only necessary logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:21:12",
+            "point_link": "https://edit.tosdr.org/points/24288",
+            "approval_status": "APPROVED",
+            "clause_text": "Pour fournir les produits JulMan, nous recueillons des donnés que nous pouvons stocker et réutiliser.\n</p> Informations sur votre connexion et votre ordinateur <p> Nous récupérons ces informations sur votre appareil : </p>\n<ul>\n<li> Si vous être sur téléphone ou sur ordinateur .\n</li>\n<li> Le navigateur vous utilisez .\n</li>\n<li> Le thème de votre navigateur </li>\n</ul> Votre adresse IP est aussi temporairement collectée et stockée dans les fichiers journaux de nos serveurs.\n<p>",
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:21:11",
+            "point_link": "https://edit.tosdr.org/points/24294",
+            "approval_status": "APPROVED",
+            "clause_text": "Que pouvons-nous faire avec ces informations ?",
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:21:11",
+            "point_link": "https://edit.tosdr.org/points/24293",
+            "approval_status": "APPROVED",
+            "clause_text": "Quels informations recueillons-nous ?",
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:12",
+            "point_link": "https://edit.tosdr.org/points/24291",
+            "approval_status": "APPROVED",
+            "clause_text": "<br> Avec votre adresse IP, nous pouvons : </p>\n<ul>\n<li> Localiser votre quartier .\n</li>\n<li> Récupérer votre fournisseur d'accès à Internet.",
+            "point_source": "https://julman.fr/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

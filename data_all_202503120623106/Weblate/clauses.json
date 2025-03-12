@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "Weblate - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:18:35",
+            "point_link": "https://edit.tosdr.org/points/22393",
+            "approval_status": "APPROVED",
+            "clause_text": "Third parties which can gain access to the Personal Data when necessary are:</p>\n<ul>\n<li>Persons which are contracted for technical assurance of the service.</li>\n<li>Payment processors.</li>\n</ul>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 04:47:52",
+            "point_link": "https://edit.tosdr.org/points/20349",
+            "approval_status": "APPROVED",
+            "clause_text": "This program is free software: you can redistribute it and/or modify it under\nthe terms of the GNU General Public License as published by the Free Software\nFoundation, either version 3 of the License, or (at your option) any later\nversion.</p>",
+            "point_source": "https://docs.weblate.org/en/latest/contributing/license.html",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:18:49",
+            "point_link": "https://edit.tosdr.org/points/22392",
+            "approval_status": "APPROVED",
+            "clause_text": "Your Personal Data will be used for the purposes of the Service:</p>\n<ul>\n<li>for providing our services on the Service, to contact you in matters regarding our services (also by means of e-mails and messaging) and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations (Article 6 (1) b.\nGDPR)</li>\n<li>to analyze your use of our services and improve our services",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:18:34",
+            "point_link": "https://edit.tosdr.org/points/22395",
+            "approval_status": "APPROVED",
+            "clause_text": "The Personal Data is stored in the Service until the User deletes their account on the service.</p>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You aren’t forced into binding arbitration in case of disputes",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 06:18:58",
+            "point_link": "https://edit.tosdr.org/points/22717",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Any disputes arising on the basis of the Agreement and/or these Terms of Service shall be resolved by the court of the Czech republic having substantive and local jurisdiction.</p>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:18:49",
+            "point_link": "https://edit.tosdr.org/points/22396",
+            "approval_status": "APPROVED",
+            "clause_text": "Under certain conditions, you may:</p>\n<ul>\n<li>Gain access to all your Personal Data that Weblate uses or processes, and even get a copy of all of it (Article 15 GDPR)</li>\n<li>Correct the Personal Data that Weblate processes if you think that there are mistakes</li>\n<li>Order us to delete your Personal Data",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22397",
+            "approval_status": "APPROVED",
+            "clause_text": "Receive your Personal Data in a commonly used and machine-readable format or to transmit this Personal Data to a different provider.</li>\n</ul>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22398",
+            "approval_status": "APPROVED",
+            "clause_text": "Weblate source code</li>",
+            "point_source": "https://docs.weblate.org/en/latest/contributing/license.html",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:25",
+            "point_link": "https://edit.tosdr.org/points/21242",
+            "approval_status": "APPROVED",
+            "clause_text": "We comply with the Regulation No.\n679/2016, the General Data Protection Regulation, also known as GDPR.",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:18:35",
+            "point_link": "https://edit.tosdr.org/points/22391",
+            "approval_status": "APPROVED",
+            "clause_text": "Password in hashed form</dt>\n<dd>Used to authenticate the User, if configured</dd>\n<dd>Passwords are stored hashed using Argon2.</dd>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:18:16",
+            "point_link": "https://edit.tosdr.org/points/22154",
+            "approval_status": "APPROVED",
+            "clause_text": "If the User directly and effectively informs the Provider of no longer wishing to receive business information from the Provider, the Provider shall refrain from sending further unsolicited business communications.</p>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:18:59",
+            "point_link": "https://edit.tosdr.org/points/22718",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms of Service shall come into force and effect on 1st September 2017.</p>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:18:35",
+            "point_link": "https://edit.tosdr.org/points/22388",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The User hereby renders it undisputed that the Provider shall not be liable for any damage caused to the User resulting from the use of the Service.",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:18:17",
+            "point_link": "https://edit.tosdr.org/points/22153",
+            "approval_status": "APPROVED",
+            "clause_text": "The Provider shall have the right to shut down, adjust, modify or make the Service unavailable on the web address at any time.</p>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22389",
+            "approval_status": "APPROVED",
+            "clause_text": "the Service uses Cookies",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:34",
+            "point_link": "https://edit.tosdr.org/points/22394",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Los terceros que pueden tener acceso a los datos personales cuando sea necesario son:</p>\n<ul>\n<li>Personas que son contratadas para el aseguramiento técnico del servicio.</li>\n<li>Procesadores de pagos.</li>\n</ul>",
+            "point_source": "https://weblate.org/es/terms/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:35",
+            "point_link": "https://edit.tosdr.org/points/22390",
+            "approval_status": "APPROVED",
+            "clause_text": "Weblate procesa únicamente los datos personales que el usuario proporciona al utilizarlo:\n</p>\n<dl>\n<dt>Nombre y dirección de correo</dt>\n<dd>Estos se utilizan para identificarle en las consignas de VCS</dd>\n<dd>Además, el correo electrónico se utiliza para la notificación de sucesos monitorizados</dd>\n<dt>Contraseña en forma de resumen criptográfico</dt>\n<dd>Se utiliza para autenticar al usuario si está configurado</dd>\n<dd>Las contraseñas se almacenan transformadas con la función Argon2.</dd>\n<dt>Dirección IP",
+            "point_source": "https://weblate.org/es/terms/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 04:49:04",
+            "point_link": "https://edit.tosdr.org/points/21243",
+            "approval_status": "APPROVED",
+            "clause_text": "English <ul>\n<li>العربية</li>\n<li>Azərbaycan</li>\n<li>Беларуская</li>\n<li>Biełaruskaja</li>\n<li>Български</li>\n<li>Brezhoneg</li>\n<li>Català</li>\n<li>Čeština</li>\n<li>Dansk</li>\n<li>Deutsch</li>\n<li>English</li>\n<li>Ελληνικά</li>\n<li>English (United Kingdom)</li>\n<li>Español</li>\n<li>Suomi</li>\n</ul>\n<ul>\n<li>Français</li>\n<li>Furlan</li>\n<li>Galego</li>\n<li>עברית</li>\n<li>Magyar</li>\n<li>Hrvatski</li>\n<li>Indonesia</li>\n<li>Íslenska</li>\n<li>Italiano</li>\n<li>日本語</li>\n<li>Taqbaylit</li>\n<li>Қазақ тілі</li>\n<li>한국어</li>\n<li>Norsk bokmål</li>\n<li>Nederlands</li>\n</ul>\n<ul>\n<li>Polski</li>\n<li>Português</li>\n<li>Português brasileiro</li>\n<li>Română</li>\n<li>Русский</li>\n<li>Slovenčina</li>\n<li>Slovenščina</li>\n<li>Shqip</li>\n<li>Српски</li>\n<li>Srpski</li>\n<li>Svenska</li>\n<li>Türkçe</li>\n<li>Українська</li>\n<li>简体字</li>\n<li>正體字",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:18:15",
+            "point_link": "https://edit.tosdr.org/points/22151",
+            "approval_status": "APPROVED",
+            "clause_text": "without even the implied warranty of MERCHANTABILITY or FITNESS FOR A\nPARTICULAR PURPOSE.",
+            "point_source": "https://docs.weblate.org/en/latest/contributing/license.html",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Czech Republic",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 04:49:59",
+            "point_link": "https://edit.tosdr.org/points/22155",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>These Terms of Service shall be governed by the laws of the Czech Republic with exclusion of conflict rules.</p>",
+            "point_source": "https://weblate.org/en/terms/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

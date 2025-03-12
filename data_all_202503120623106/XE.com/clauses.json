@@ -1,0 +1,473 @@
+{
+    "meta_data": {
+        "title": "XE.com - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:03:39",
+            "point_link": "https://edit.tosdr.org/points/17836",
+            "approval_status": "APPROVED",
+            "clause_text": "We may collect and process the following personal data:</p>",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17842",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may share personal data we collect with third party service providers to manage, enable or facilitate certain aspects of the Services we provide and if we do so, we will have safeguards in place with such third party service providers requiring them to protect the personal data.</p>\n<p>We use advertising services suppliers on our Website and App, such as Exponential Interactive, Inc.\n(“Exponential”) and MoPub, a division of Twitter, Inc.\nand Twitter International Company (“MoPub”), who, along with their advertising partners, may collect and use personal data when you interact with our Website or App.",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17827",
+            "approval_status": "APPROVED",
+            "clause_text": "By uploading, posting, transmitting, sharing, or otherwise making available to the Services any information or content, or submitting any materials for use on the\nServices, you grant (or warrant that the owner of such rights has expressly granted) XE or its designee a perpetual, royalty-free, irrevocable, fully-paid",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17844",
+            "approval_status": "APPROVED",
+            "clause_text": "We make use of Facebook Ads to allow us to better serve relevant advertising to our customers on the Facebook social media platform.\nThrough the use of cookies, we can identify aspects of your usage of the Website / App which can allow Facebook to identify which XE ads could be more relevant to you.</p>\n<p>You can review the Facebook privacy policy and modify your Facebook Ad Preferences for ads shown to you by Facebook.</p>\n<",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:13:45",
+            "point_link": "https://edit.tosdr.org/points/17807",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to review these Terms of Use from time to time and agree that any subsequent use by you of the Services following the New Effective Date shall constitute\nyour acceptance of all such Changes.",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/17838",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>If you have provided your consent for us to collect such information and not withdrawn such consent, non-identifiable GPS-based location details whilst using the Website or App (“Location Data”).</li>",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17843",
+            "approval_status": "APPROVED",
+            "clause_text": "Advertisements that appear on the Website or App or otherwise in the Services are generally delivered (or \"served\") directly to you by third party advertisers.\nThese third party advertisers have no access to the information you have provided directly to XE.</p>\n<p>If you have provided your consent by accepting “Targeting Cookies” through the Website cookie consent manager or enabled “Targeting” and “Location” on the App, the advertisements that are served may be personalised to you.</p>",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service uses your personal information for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 10:05:48",
+            "point_link": "https://edit.tosdr.org/points/17841",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use personal data",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:05:47",
+            "point_link": "https://edit.tosdr.org/points/17840",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data collected through our Website or App is typically stored and processed in Canada.\nhowever, in some instances, it may be transferred, stored, and/or processed outside of Canada (see section 5 for further details).</",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:13:50",
+            "point_link": "https://edit.tosdr.org/points/17806",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics cookies\n<p>If you have accepted these cookies through our cookie consent manager, analytics cookies help us offer you a better user experience, allow us to count visits and determine where users are coming from.",
+            "point_source": "https://www.xe.com/cookiepolicy.php",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17804",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition to the cookie consent manager on our Website and App, you can control and/or delete cookies through your browser – for details, see aboutcookies.org.\nGenerally, you may delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed.\nIf you do this, however, you may have to manually adjust some preferences every time you visit our Website or App and some services and functionalities may not work.</p>\n<p",
+            "point_source": "https://www.xe.com/cookiepolicy.php",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:05:51",
+            "point_link": "https://edit.tosdr.org/points/17805",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies do not remember where you’ve been on the internet or use or store any personally identifiable information.</",
+            "point_source": "https://www.xe.com/cookiepolicy.php",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:13:50",
+            "point_link": "https://edit.tosdr.org/points/17835",
+            "approval_status": "APPROVED",
+            "clause_text": "AND HOW DO WE COLLECT IT",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:06:01",
+            "point_link": "https://edit.tosdr.org/points/17802",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The cookies placed and read out on the Website and App are categorised below",
+            "point_source": "https://www.xe.com/cookiepolicy.php",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17846",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have any questions or concerns about this Privacy Notice or our data practices, please contact us in writing by email at dataprotection@xe.com or by post to XE Privacy Office, 1145 Nicholson Rd, Suite 200, Newmarket, ON, L3Y 9C3 Canada.",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:03:39",
+            "point_link": "https://edit.tosdr.org/points/17834",
+            "approval_status": "APPROVED",
+            "clause_text": "WHAT PERSONAL DATA DO WE COLLECT",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:13:50",
+            "point_link": "https://edit.tosdr.org/points/17839",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE USE YOUR PERSONAL DATA",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, users are notified 30 days in advance.",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17808",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be notified of any Changes through a posting on the Web Site, a notification in the Services, or via e-mail.\nAny Changes shall be effective THIRTY (30)\ndays following the posting of such Changes (the \"New <strong>Effective Date</strong>\").",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:03:30",
+            "point_link": "https://edit.tosdr.org/points/17828",
+            "approval_status": "APPROVED",
+            "clause_text": "non-exclusive,\nworldwide right and license to use,",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:13:50",
+            "point_link": "https://edit.tosdr.org/points/17845",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>All marketing e-mails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time or alternatively you can unsubscribe from marketing at any time by contacting us in writing by email at dataprotection@xe.com or by post to XE Privacy Office, 1145 Nicholson Rd, Suite 200, Newmarket ON, L3Y 9C3 Canada.",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:50",
+            "point_link": "https://edit.tosdr.org/points/17832",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify, defend, and hold XE and XE's affiliates, business partners, officers, directors, employees, and agents harmless from any loss, liability,\nclaim, action, suit, demand, damage, or expense (including reasonable legal fees, costs of investigation and court costs) asserted by any third party relating\nin any way to, or in respect of, your use of the Services, any third party applications, software, information, content, and/or materials you post or share on or\nthrough the Services, or breach of these Terms of Use.",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:13:50",
+            "point_link": "https://edit.tosdr.org/points/17831",
+            "approval_status": "APPROVED",
+            "clause_text": "ANY THIRD PARTY WEB SITES OR THIRD PARTY APPLICATIONS SOFTWARE AND CONTENT, DIRECTLY OR INDIRECTLY, ACCESSED THROUGH HYPERTEXT LINKS IN THE SERVICES,",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "This service can use your content for all their existing and future services",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:30",
+            "point_link": "https://edit.tosdr.org/points/17829",
+            "approval_status": "APPROVED",
+            "clause_text": "reproduce, modify, adapt, publish, sublicense, translate, reformat, create derivative work(s) or adaptation(s) from, and distribute\nsuch information, content, and/or materials.</p>",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "This service can use your content for all their existing and future services",
+                "href": "https://edit.tosdr.org/cases/180"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17801",
+            "approval_status": "APPROVED",
+            "clause_text": "However, as described in “XE’S USE OF COOKIES” below, you should understand that if you choose not to accept cookies, some services that may be offered through a website may not function properly or optimally, you will not be permitted to access certain secured areas or there may be other effects on your browsing experience.</",
+            "point_source": "https://www.xe.com/cookiepolicy.php",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17811",
+            "approval_status": "APPROVED",
+            "clause_text": "You further agree that XE shall not be responsible or liable, directly or indirectly, in any\nway for any loss or damage of any kind incurred as a result of, or in connection with your use of, or reliance on, any of the Information And Content",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17809",
+            "approval_status": "APPROVED",
+            "clause_text": "The Services and all\nInformation And Content is provided to you solely for your own personal, non-commercial use and not for purposes of resale, distribution, public display or performance,\nor any other uses by you in any form or manner whatsoever.</",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:03:27",
+            "point_link": "https://edit.tosdr.org/points/17825",
+            "approval_status": "APPROVED",
+            "clause_text": "upload, post, transmit, share, or otherwise make available any unsolicited or unauthorized advertising, solicitations, promotional materials, \"junk mail\", \"spam\", \"chain letters\", \"pyramid schemes\", or any other form of solicitation,",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:05:58",
+            "point_link": "https://edit.tosdr.org/points/17830",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES AND ALL INFORMATION AND CONTENT ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17826",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>use any automatic or manual process to collect, harvest, gather, or extract information about other visitors to or users of the Services, or otherwise systematically extract data or data fields, including without limitation any financial and/or currency data or e-mail addresses;",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17810",
+            "approval_status": "APPROVED",
+            "clause_text": "XE does not guarantee the accuracy, authenticity, timeliness, reliability, appropriateness, correct sequencing, or completeness of any of the Information And\nContent, including without limitation any information posted on XE Community forums.",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:05:58",
+            "point_link": "https://edit.tosdr.org/points/17803",
+            "approval_status": "APPROVED",
+            "clause_text": "As “strictly necessary” cookies are required for the operation of the Website and App they are automatically enabled on the Website and App.",
+            "point_source": "https://www.xe.com/cookiepolicy.php",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in the Province of Ontario, Canada",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:03:39",
+            "point_link": "https://edit.tosdr.org/points/17833",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms of Use shall be governed by and construed in accordance with the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to conflict of laws provisions thereto.",
+            "point_source": "https://www.xe.com/legal/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17837",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal details, such as data which may identify you.\nThis may include your name, title, residential and/or business address, email, telephone and other contact data, signature, IP address and travel details (such as destination country or trip details) (“Identity Personal Data”).</",
+            "point_source": "https://www.xe.com/privacy.php",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

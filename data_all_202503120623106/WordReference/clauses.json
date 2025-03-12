@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "WordReference - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service reserves the right to edit any content you post",
+            "rating": "blocker",
+            "description": "This service can edit any content on the service for whatever the reason and at their sole discretion.",
+            "last_updated": "2023-07-11 10:16:04",
+            "point_link": "https://edit.tosdr.org/points/19305",
+            "approval_status": "APPROVED",
+            "clause_text": ">We reserve all rights (but not the obligation) to remove and/or edit such content.",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "Content you post may be edited by the service for any reason",
+                "href": "https://edit.tosdr.org/cases/407"
+            }
+        },
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 10:05:17",
+            "point_link": "https://edit.tosdr.org/points/16409",
+            "approval_status": "APPROVED",
+            "clause_text": "User logs are \"generally\" deleted after 30 days, so there could be as much exceptions as \"generally\" can imply.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:15:19",
+            "point_link": "https://edit.tosdr.org/points/19309",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Third Party Cookies</strong>\n<br>\nIn the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique \"cookie\" on your browser.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:15:19",
+            "point_link": "https://edit.tosdr.org/points/19310",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve all rights to terminate accounts, edit or remove content and cancel orders in our sole discretion.</p>\n<p>",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:15:19",
+            "point_link": "https://edit.tosdr.org/points/19304",
+            "approval_status": "APPROVED",
+            "clause_text": "Any dispute related in any way to your visit to this website or to products you purchase from us shall be arbitrated by the state or federal courts of Delaware and the United States and you consent to exclusive jurisdiction and venue of such courts.</p>",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:05:14",
+            "point_link": "https://edit.tosdr.org/points/16397",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Other third-party cookies for things like Facebook or Twitter sharing.\nThese cookies will generally be set by the third-party independently, so this site will have no ability to access them.</li>\n</ul>",
+            "point_source": "https://forum.wordreference.com/help/cookies/",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:14",
+            "point_link": "https://edit.tosdr.org/points/16404",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that any personal information you have entered will be stored in a database.\nThe administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised.",
+            "point_source": "https://forum.wordreference.com/help/terms/",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:05:16",
+            "point_link": "https://edit.tosdr.org/points/16408",
+            "approval_status": "APPROVED",
+            "clause_text": "we use analytics software such as Google Analytics to count our visitors.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Users can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 10:05:14",
+            "point_link": "https://edit.tosdr.org/points/16405",
+            "approval_status": "APPROVED",
+            "clause_text": "WordReference.com does not collect any personally identifiable information about you such as name, address, phone number.&nbsp.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:05:19",
+            "point_link": "https://edit.tosdr.org/points/16398",
+            "approval_status": "APPROVED",
+            "clause_text": "They provide a list of all first-party cookies.",
+            "point_source": "https://forum.wordreference.com/help/cookies/",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:16:04",
+            "point_link": "https://edit.tosdr.org/points/20034",
+            "approval_status": "APPROVED",
+            "clause_text": "The information collected by WordReference.com is used for the purpose of",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 04:47:24",
+            "point_link": "https://edit.tosdr.org/points/20037",
+            "approval_status": "APPROVED",
+            "clause_text": "We use a number of third-party advertising companies to serve ads when you visit our Web site.\nThese companies may use information about your visits to this and other Web sites in order to provide advertisements\non this site and other sites about goods and services that may be of interest to you.\nIf you would like more information about this practice and to\nknow your choices about not having this information used by these companies, please go to www.networkadvertising.org/choices.\nIf you live in the EU, please see www.youronlinechoices.com.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/19306",
+            "approval_status": "APPROVED",
+            "clause_text": "When you post your content, you grant wordreference.com non-exclusive, royalty-free and irrevocable right",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "Prohibits the publishing of personally identifiable information without the owner’s consent",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 10:13:03",
+            "point_link": "https://edit.tosdr.org/points/16403",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Don’t post personal information.</b>\n<br> Do not post personal data such as email addresses, phone numbers, etc.\nWhere appropriate, you can put some of this in your personal profile.\n<br> Excerpts of email or private messages are not allowed.\n<br>",
+            "point_source": "https://forum.wordreference.com/help/terms/",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You are allowed to quote their content with attribution",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:14",
+            "point_link": "https://edit.tosdr.org/points/16401",
+            "approval_status": "APPROVED",
+            "clause_text": "You are free to quote short passages or definitions from threads in the Forums outside the forums.\nWe appreciate a citation to WordReference, if appropriate, when you do so.",
+            "point_source": "https://forum.wordreference.com/help/terms/",
+            "case": {
+                "text": "You are allowed to quote their content with attribution",
+                "href": "https://edit.tosdr.org/cases/388"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/19307",
+            "approval_status": "APPROVED",
+            "clause_text": "When you post your content, you grant wordreference.com non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media.</p>",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "This service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 06:33:28",
+            "point_link": "https://edit.tosdr.org/points/16402",
+            "approval_status": "APPROVED",
+            "clause_text": "You may register with one user name only.",
+            "point_source": "https://forum.wordreference.com/help/terms/",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-07-11 06:33:28",
+            "point_link": "https://edit.tosdr.org/points/16400",
+            "approval_status": "APPROVED",
+            "clause_text": "When a message is placed in WordReference or its forums, you are granting an irrevocable license to the site to use it in perpetuity.<br>",
+            "point_source": "https://forum.wordreference.com/help/terms/",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:16:04",
+            "point_link": "https://edit.tosdr.org/points/20036",
+            "approval_status": "APPROVED",
+            "clause_text": "WordReference uses \"cookies\" to enhance the user experience, such as remembering your favorite dictionary, counting visitors through tracking and tracking by online advertisers.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:15:19",
+            "point_link": "https://edit.tosdr.org/points/19308",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you are an owner of an account on this website, you are solely responsible for maintaining the confidentiality of your private user details (username and password).\nYou are responsible for all activities that occur under your account or password.",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:15",
+            "point_link": "https://edit.tosdr.org/points/16406",
+            "approval_status": "APPROVED",
+            "clause_text": "However,\nWordReference.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example) and your IP address.",
+            "point_source": "https://www.wordreference.com/english/Privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Delaware, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:15:19",
+            "point_link": "https://edit.tosdr.org/points/19303",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>By visiting this website, you agree that the laws of the Delaware, United States, without regard to principles of conflict laws, will govern these terms of service,",
+            "point_source": "https://www.wordreference.com/english/TermsOfService.aspx?dict=enes",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "meta_data": {
+        "title": "Cryptomator - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:30:20",
+            "point_link": "https://edit.tosdr.org/points/32090",
+            "approval_status": "APPROVED",
+            "clause_text": "The following data is collected:</p>\n<ul>\n<li>browser name and version</li>\n<li>the user’s operating system</li>\n<li>referrer URL</li>",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:30:20",
+            "point_link": "https://edit.tosdr.org/points/32092",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Our website only uses technically necessary cookies.\nCookies are text files that are stored in the internet browser or by the internet browser on the user’s computer system.\nIf a user visits a website, a cookie may be stored on the user’s operating system.\nThis cookie contains a characteristic string of characters that enables the browser to be uniquely identified when the website is reopened.",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:30:21",
+            "point_link": "https://edit.tosdr.org/points/32094",
+            "approval_status": "APPROVED",
+            "clause_text": "As a matter of principle, we collect and process personal data of our users only to the extent necessary to provide a functional website and our contents and services.",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:30:21",
+            "point_link": "https://edit.tosdr.org/points/32089",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The personal data of the data subject will be deleted or blocked as soon as the purpose of the storage no longer applies.",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:30:20",
+            "point_link": "https://edit.tosdr.org/points/32088",
+            "approval_status": "APPROVED",
+            "clause_text": "General Data Protection Regulation (GDPR)",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "An anonymous payment method is offered",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 06:30:21",
+            "point_link": "https://edit.tosdr.org/points/32093",
+            "approval_status": "APPROVED",
+            "clause_text": "CoinPayments (CoinPayments Inc., Hodltech OÜ, Tornimäe 5, 10145 Tallinn, Estland).",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "An anonymous payment method is offered",
+                "href": "https://edit.tosdr.org/cases/405"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:30:18",
+            "point_link": "https://edit.tosdr.org/points/32086",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Effective date: March 2022</em>",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:30:21",
+            "point_link": "https://edit.tosdr.org/points/32091",
+            "approval_status": "APPROVED",
+            "clause_text": "The following data is collected:</p>\n<ul>\n<li>browser name and version</li>\n<li>the user’s operating system</li>\n<li>referrer URL</li>\n<li>access date and time</li>\n<li>IP address</li>",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:30:20",
+            "point_link": "https://edit.tosdr.org/points/32087",
+            "approval_status": "APPROVED",
+            "clause_text": "However, for some processes, especially in connection with payment transactions, we depend on the services of third parties",
+            "point_source": "https://cryptomator.org/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "meta_data": {
+        "title": "Deveroonie.xyz - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:28:06",
+            "point_link": "https://edit.tosdr.org/points/30288",
+            "approval_status": "APPROVED",
+            "clause_text": "Storage of Personal Information <p>We store personal information obtained from our visitors indefinitely",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:28:07",
+            "point_link": "https://edit.tosdr.org/points/30305",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of our website after any changes to this Privacy Policy constitutes your acceptance of the revised policy",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:28:07",
+            "point_link": "https://edit.tosdr.org/points/30289",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 2: 2023-03-25 21:50:04 UTC by AgnesDeLion (20760)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2023-03-25 21:50:04 UTC by AgnesDeLion (20760)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2023-03-25 21:50:04 UTC by AgnesDeLion (20760)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:28:06",
+            "point_link": "https://edit.tosdr.org/points/30307",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to request access to the personal information we have collected about you, and to request that we correct, update, or delete it",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:28:05",
+            "point_link": "https://edit.tosdr.org/points/30303",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not sell, rent, or disclose personal information to any third party",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-08-28 11:48:52",
+            "point_link": "https://edit.tosdr.org/points/34506",
+            "approval_status": "APPROVED",
+            "clause_text": "These service providers are bound by confidentiality agreements and are not authorized to use the personal information for any purpose other than to provide services to us",
+            "point_source": null,
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:28:19",
+            "point_link": "https://edit.tosdr.org/points/30414",
+            "approval_status": "APPROVED",
+            "clause_text": "Privacy Policy last updated: 1/4/23 (Saturday, 1st April 2023)</p>\n<br>",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:28:07",
+            "point_link": "https://edit.tosdr.org/points/30308",
+            "approval_status": "APPROVED",
+            "clause_text": "e use cookies to identify your preferences and to personalize your experience on our website.</p>",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-06-30 18:31:07",
+            "point_link": "https://edit.tosdr.org/points/34235",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>Analyze trends and usage patterns.",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:06",
+            "point_link": "https://edit.tosdr.org/points/30302",
+            "approval_status": "APPROVED",
+            "clause_text": "When you visit our website, we may automatically collect certain information about your visit, such as your IP address,",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:32:45",
+            "point_link": "https://edit.tosdr.org/points/34070",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not respond to \"Do Not Track\" (DNT) signals or headers sent by your browser.",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:28:06",
+            "point_link": "https://edit.tosdr.org/points/30304",
+            "approval_status": "APPROVED",
+            "clause_text": "We will post any changes to this Privacy Policy on our website",
+            "point_source": "https://deveroonie.xyz/privacy",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

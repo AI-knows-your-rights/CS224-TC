@@ -1,0 +1,347 @@
+{
+    "meta_data": {
+        "title": "CollegeBoard - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19396",
+            "approval_status": "APPROVED",
+            "clause_text": "zip code, gender, date of birth, high school, email address, mailing address, and mobile phone number.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:27:34",
+            "point_link": "https://edit.tosdr.org/points/19404",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies may be set through our site by our advertising partners.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:15:28",
+            "point_link": "https://edit.tosdr.org/points/19387",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to change or amend this Agreement without notice.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19391",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate this Agreement, in whole or with respect to a Service, with or without cause, at any time immediately upon our disabling your password and ID",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:27:35",
+            "point_link": "https://edit.tosdr.org/points/19405",
+            "approval_status": "APPROVED",
+            "clause_text": "They may be used by those companies to build a profile of your interests and show you relevant advertising from College Board on other sites.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:27:35",
+            "point_link": "https://edit.tosdr.org/points/19403",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks.\nThey are capable of tracking your browser across other sites and building up a profile of your interests.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:26:10",
+            "point_link": "https://edit.tosdr.org/points/28962",
+            "approval_status": "APPROVED",
+            "clause_text": "referring/exit pages",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19406",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>College Board, its website, and its website servers are located and operated in the United States, requiring your information to be transferred from your location to the United States, which may not provide the same level of protection for your personally identifiable information as your home country.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19407",
+            "approval_status": "APPROVED",
+            "clause_text": "The information may be available to the United States government or its agencies under a lawful order in the United States.\nWhen you give information to College Board through this website for any reason, including for any of the services we offer, you acknowledge a cross-border transfer of that information to the United States.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-03-12 16:09:23",
+            "point_link": "https://edit.tosdr.org/points/29208",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://privacy.collegeboard.org/student-legal-terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19395",
+            "approval_status": "APPROVED",
+            "clause_text": "first name, middle initial, last name,",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19398",
+            "approval_status": "APPROVED",
+            "clause_text": "We may collect analytics data, or use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the sites and understand more about the demographics of our users.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19402",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless we’re required by law to retain your information or have a legitimate interest in retaining it, we’ll delete it within 30 days of your request.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19401",
+            "approval_status": "APPROVED",
+            "clause_text": "If we do, we’ll give you a copy (subject to the rights of others).\nIf your information is incorrect or incomplete, you have the right to ask us to update it.</li>\n<li>You have the right to object to our processing of your personally identifiable information.</li>\n</ul>\n<p>You may also ask us to delete or restrict your personally identifiable information, including a copy of your information related to your right to data portability.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service notice you before closing your account",
+            "rating": "good",
+            "description": "The Terms explain they will notify users at least 30 days before closing their accounts, which allows users to limit the losses and damages caused by this termination.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19392",
+            "approval_status": "APPROVED",
+            "clause_text": "We may notify you of termination of the Agreement via e-mail or other written notice to the address you provide to us in the registration process.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "30 days of notice are given before closing your account",
+                "href": "https://edit.tosdr.org/cases/206"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:26:10",
+            "point_link": "https://edit.tosdr.org/points/28960",
+            "approval_status": "APPROVED",
+            "clause_text": "You have to opt in to get email and texts, and you can change your preferences at any time.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Conditions may change, but your continued acceptance is not inferred from an earlier acceptance",
+            "rating": "neutral",
+            "description": "When you're not logged in to a service, but use it repeatedly, it may still feel weird that their terms and conditions can change between one use and the next. However, this does not violate the rule-of-thumb that each new version should be accepted from scratch, without inferring your acceptance from the acceptance of an earlier version. Since no acceptance is inferred from continued use, but only from current use, we rate this as neutral instead of bad.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19394",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the Services indicates your acceptance of the new terms and conditions and continued agreement to be bound by this Agreement, as changed from time to time.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "Conditions may change, but your continued acceptance is not inferred from an earlier acceptance",
+                "href": "https://edit.tosdr.org/cases/277"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:24",
+            "point_link": "https://edit.tosdr.org/points/19390",
+            "approval_status": "APPROVED",
+            "clause_text": "Because the College Board has no control over such sites and resources, you acknowledge and agree that the College Board is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such websites or resources.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:27:35",
+            "point_link": "https://edit.tosdr.org/points/29999",
+            "approval_status": "APPROVED",
+            "clause_text": "THE COLLEGE BOARD WEBSITE(S) AND SERVICES ARE PROVIDED ON AN \"AS IS,\" \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:15:25",
+            "point_link": "https://edit.tosdr.org/points/19388",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for maintaining the confidentiality of the ID and password, and are fully responsible for all activities that occur under your ID or password.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:27:35",
+            "point_link": "https://edit.tosdr.org/points/29998",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to&nbsp;<strong>immediately notify the College Board of any unauthorized use of your ID </strong>or password or any other breach of security.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:15:23",
+            "point_link": "https://edit.tosdr.org/points/19400",
+            "approval_status": "APPROVED",
+            "clause_text": "The College Board site does not respond to do not track signals or similar mechanisms and requests.",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:15:23",
+            "point_link": "https://edit.tosdr.org/points/19386",
+            "approval_status": "APPROVED",
+            "clause_text": "If you register with us for certain Services, this Agreement includes and incorporates additional terms specific to those Services.",
+            "point_source": "https://privacy.collegeboard.org/site-terms?navId=gf-terms",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:26:10",
+            "point_link": "https://edit.tosdr.org/points/28961",
+            "approval_status": "APPROVED",
+            "clause_text": "his information may include internet protocol (IP) addresses",
+            "point_source": "https://privacy.collegeboard.org/privacy-center/privacy-statement",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

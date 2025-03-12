@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Turnitin - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:35:22",
+            "point_link": "https://edit.tosdr.org/points/10041",
+            "approval_status": "APPROVED",
+            "clause_text": "Turnitin reserves the right to change the terms, conditions, and notices under which the Site is offered from time to time and without prior notice.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:35:26",
+            "point_link": "https://edit.tosdr.org/points/10031",
+            "approval_status": "APPROVED",
+            "clause_text": "The licenses shall survive the termination of the User Agreement.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 06:35:37",
+            "point_link": "https://edit.tosdr.org/points/10070",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not transmit any papers or Communications on or through the Site that (a) restricts any other user's enjoyment of the Site,",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:06:38",
+            "point_link": "https://edit.tosdr.org/points/9366",
+            "approval_status": "APPROVED",
+            "clause_text": "All personal data we process is directly linked to a specific purpose, such as requesting access to our academic content database, or requesting web content (i.e.\na newsletter, case study, video, etc.).</p>\n<p>",
+            "point_source": "https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:08:38",
+            "point_link": "https://edit.tosdr.org/points/9365",
+            "approval_status": "APPROVED",
+            "clause_text": "At any time, you can access, update, rectify or erase any personal data by logging into your account and clicking \"User Info\" or contacting Customer Support",
+            "point_source": "https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:08:38",
+            "point_link": "https://edit.tosdr.org/points/9374",
+            "approval_status": "APPROVED",
+            "clause_text": "Our data is stored in the EU or USA with robust physical, digital, and procedural safeguards in place to protect your personal data, including the use of SSL encryption, redundant servers and data centers, and sophisticated perimeter security.\nWe continuously audit for security vulnerabilities and make software patching a priority.",
+            "point_source": "https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:27",
+            "point_link": "https://edit.tosdr.org/points/10040",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-08-20 18:28:22 UTC, fedada (30172)  Suspended wrote:\n          언니 이번 생엔 내가 왕비야 captivates with its unique storyline, blending historical intrigue and fantasy. The protagonist's journey is both inspiring and engaging. 언니 이번 생엔 내가 왕비야",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service can use your content, with some exceptions, for all their existing and future services",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:27",
+            "point_link": "https://edit.tosdr.org/points/10032",
+            "approval_status": "APPROVED",
+            "clause_text": "Turnitin can use your content for their services, excluding personally identifiable data, papers, and grades and assessment related information.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "This service can use your content for all their existing and future services",
+                "href": "https://edit.tosdr.org/cases/180"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:35:26",
+            "point_link": "https://edit.tosdr.org/points/10042",
+            "approval_status": "APPROVED",
+            "clause_text": "Turnitin is not responsible for any software, data or other information available from any third party Website.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:06:37",
+            "point_link": "https://edit.tosdr.org/points/9371",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated: 29th August 2018",
+            "point_source": "https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:08:38",
+            "point_link": "https://edit.tosdr.org/points/9372",
+            "approval_status": "APPROVED",
+            "clause_text": "If you choose to disable cookies, it may limit use of certain of features or functions of our websites or service.",
+            "point_source": "https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 06:35:27",
+            "point_link": "https://edit.tosdr.org/points/10039",
+            "approval_status": "APPROVED",
+            "clause_text": "Turnitin reserves the right, but shall have no obligation to edit or remove any Communication, in whole or in part, that in Turnitin's sole discretion is objectionable, disruptive to the Site or in violation of this User Agreement.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:35:35",
+            "point_link": "https://edit.tosdr.org/points/10025",
+            "approval_status": "APPROVED",
+            "clause_text": "You acknowledge and agree that Turnitin may stop (permanently or temporarily) providing the Services (or any features within the Services) to You or to users generally at Turnitin's sole discretion, without prior notice to You.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:35:26",
+            "point_link": "https://edit.tosdr.org/points/10028",
+            "approval_status": "APPROVED",
+            "clause_text": "Subject to Your compliance with the User Terms, Turnitin hereby grants You a non-transferable, non-exclusive license to use and access the Services and Site, solely for non-commercial use.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:35:25",
+            "point_link": "https://edit.tosdr.org/points/10038",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SITE AND ALL INFORMATION AND SERVICES AVAILABLE THROUGH THE SITE ARE PROVIDED \"AS IS,\" WITH ALL FAULTS, AND \"AS AVAILABLE\".",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Spidering or crawling is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:27",
+            "point_link": "https://edit.tosdr.org/points/10036",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to access (or attempt to access) any of the Services or Site through any automated means (including use of scripts or web crawlers) and shall ensure that You comply with the instructions set out in any robots.txt file present on the Services or Site.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:35:36",
+            "point_link": "https://edit.tosdr.org/points/10024",
+            "approval_status": "APPROVED",
+            "clause_text": "Turnitin can only be used by people 18 and over and/or can form a legally binding contract, or people under 18 with parental or guardian consent. If you are under the age of majority in your residence you must use Turnitin with the supervision and permission of a parent or legal guardian.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:27",
+            "point_link": "https://edit.tosdr.org/points/10034",
+            "approval_status": "APPROVED",
+            "clause_text": "Turnitin can suspend your account to prevent damages to their services, comply with laws/regulations/government requests, protect Turnitin from legal liability, or if you breach the user agreement.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:35:25",
+            "point_link": "https://edit.tosdr.org/points/10026",
+            "approval_status": "APPROVED",
+            "clause_text": "You can only use Turnitin to evaluate a student's academic ability.\n    \n      \n        \n          \n              Version 1: 2020-08-19 03:30:15 UTC by cherryblossom (3439) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2020-08-19 03:30:15 UTC by cherryblossom (3439) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2020-08-19 03:30:15 UTC by cherryblossom (3439) \n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: Other applicable rules, terms, conditions or guidelines\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: Other applicable rules, terms, conditions or guidelines\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: Other applicable rules, terms, conditions or guidelines\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: Other applicable rules, terms, conditions or guidelines\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:35:25",
+            "point_link": "https://edit.tosdr.org/points/10037",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Procedure for Making Claims of Copyright Infringement",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:35:22",
+            "point_link": "https://edit.tosdr.org/points/10033",
+            "approval_status": "APPROVED",
+            "clause_text": "You are solely responsible for any and all use of Your account.\nIf You become aware of any unauthorized use of Your password or of Your account, You agree to notify Turnitin by sending an email to legal@turnitin.com.\nYou are entirely responsible for maintaining the confidentiality of Your password and You agree not to share Your password with any other person, whether directly or indirectly.\nYou agree to use reasonable efforts to retain the confidentiality of class identification numbers and passwords.",
+            "point_source": "https://api.turnitin.com/api/lti/1p0/user/static_eula",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        }
+    ]
+}

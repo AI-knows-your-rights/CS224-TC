@@ -1,0 +1,557 @@
+{
+    "meta_data": {
+        "title": "Booking.com - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23652",
+            "approval_status": "APPROVED",
+            "clause_text": "The app doesn't really require those permissions, but if the user grants access to them, information about location and contacts may be used for \"recommendations\", which might include marketing (https://edit.tosdr.org/points/23656).",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23668",
+            "approval_status": "APPROVED",
+            "clause_text": "Since these cookies are used in third-party websites as well, we can assume these are third-party cookies and not the service's own.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23660",
+            "approval_status": "APPROVED",
+            "clause_text": "We use advertising partners like metasearch providers to allow you to compare our offers with the offers of other Online Travel Agencies (OTAs).\nWhen you make a reservation on Booking.com after using an advertising partner, we’ll send the details of the reservation that you made on Booking.com to that partner.</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23666",
+            "approval_status": "APPROVED",
+            "clause_text": "They allow you to be recognized as the same user across the pages of a website, devices, between websites, or when you use our apps.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "Your Personal data may be sold unless you live in California and you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23673",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may share certain parts of your personal info with third parties, which under Californian law can be treated as a \"sale\" of information.\nThis may include info related to Identifiers, Commercial information, Geolocation data, Internet activity, and Inferences, as described above.\nWe may also share your personal info listed above in A–I for “business purposes,” such as to service providers who assist us with securing our services, for payment purposes, customer support services, delivering marketing messages, or advertisements.\nFor more details, including the recipients of your personal info, check out the “What kind of personal data does Booking.com collect?” and “How does Booking.com share your data with third parties?” sections of our Privacy Statement.</p>\n<p>California law provides you with certain rights, including the right to access specific pieces of personal info, to learn about how we process personal info including disclosure or sale of personal info, to request deletion of personal info, to opt out of “sales,” and to not be denied goods or services for exercising these rights.</p>\n<p>You may exercise your right to opt out of “sales” by clicking on this link and following the instructions: https://www.booking.com/content/ccpa.html</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "A license is kept on user-generated content even after you close your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23640",
+            "approval_status": "APPROVED",
+            "clause_text": "perpetual right and license",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23656",
+            "approval_status": "APPROVED",
+            "clause_text": "Marketing activities: We use your information for marketing activities.\nThese activities include:</p>\n<ol>\n<li>\n<p>Using your contact info to send you regular news about travel-related products and services.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23644",
+            "approval_status": "APPROVED",
+            "clause_text": "By using this website, you agree that any and all disputes arising out of or relating to your use of this website, or other services provided by Booking.com or the support companies in connection with your use of this website (including the interpretation and scope of this clause and the arbitrability of the dispute), will be resolved via mandatory, binding arbitration.</p>",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23669",
+            "approval_status": "APPROVED",
+            "clause_text": "This allows you to like or share content or products on social media such as Facebook, Instagram, YouTube, Twitter, Pinterest, Snapchat, and LinkedIn.</p>\n<p>These “like” and “share” buttons work using pieces of code from the individual social media providers, allowing third-party cookies to be placed on your device.</p>\n<p>These cookies can be purely functional, but can also be used to keep track of which websites you visit from their network, to build a profile of your online browsing behavior, and to show you personalized ads.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23654",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data we receive from other sources.\n<p>It’s not just the things you tell us, though – we may also receive info about you from other sources.\nThese include business partners, such as affiliate partners, subsidiaries of the Booking.com corporate group, other affiliates of the Booking Holdings Inc.\ncorporate group, and other independent third parties.</p>\n<p>Anything we receive from these partners may be combined with info provided by you.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23665",
+            "approval_status": "APPROVED",
+            "clause_text": "Also: \"we use something known as “cross-device tracking.” This can be done with or without the use of cookies. [...] With cross-device tracking, Booking.com is able to track user behavior across multiple devices. As part of cross-device tracking, we may combine data collected from a particular browser or mobile device with data from another computer or device that’s linked to it\"",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:20:19",
+            "point_link": "https://edit.tosdr.org/points/23653",
+            "approval_status": "APPROVED",
+            "clause_text": "If you’re using a mobile device, we collect data that identifies the device, as well as data about your device-specific settings and characteristics, app crashes, and other system activity.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Extra data may be collected about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 06:20:19",
+            "point_link": "https://edit.tosdr.org/points/23651",
+            "approval_status": "APPROVED",
+            "clause_text": "We may offer you referral programs or sweepstakes.\nParticipating in these will involve providing us with relevant personal data.</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23663",
+            "approval_status": "APPROVED",
+            "clause_text": "Competent Authorities: We disclose personal data to law enforcement to the extent required by law or strictly necessary for the prevention, detection, or prosecution of criminal acts and fraud, or if we’re legally obliged to do so otherwise.\nWe may need to further disclose personal data to competent authorities to protect and defend our rights or properties, or the rights and properties of our business partners.</p>\n</li>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23645",
+            "approval_status": "APPROVED",
+            "clause_text": "You understand and agree that, by accepting these terms and conditions, you and Booking.com are each waiving the right to a trial by jury or to participate in a class action with respect to the claims covered by this mandatory arbitration provision.</p>",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23659",
+            "approval_status": "APPROVED",
+            "clause_text": "Marketing services</p>\n<p>We share personal data with advertising partners, including your email address, as part of marketing Booking.com services via third parties to ensure that relevant ads are shown to the right audience.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23661",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Third-party service providers: We use service providers outside of the Booking.com corporate group to support us in providing our services.\nThese include:</p>\n<ul>\n<li>\n<p>Customer support</p>\n</li>\n<li>\n<p>Market research</p>\n</li>\n<li>\n<p>Fraud detection and prevention (including anti-fraud screening)</p>\n</li>\n<li>\n<p>Payment</p>\n<p>We use third parties to process payments, handle chargebacks or provide billing collection services.\nWhen a chargeback is requested for your Trip Reservation, either by you or the holder of the credit card used to make the reservation, we’ll need to share certain reservation details with the payment service provider and the relevant financial institution so they can handle the chargeback.\nThis could also include a copy of your reservation confirmation or the IP address used to make your reservation.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23667",
+            "approval_status": "APPROVED",
+            "clause_text": "Refers to \"analytical cookies\"",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23664",
+            "approval_status": "APPROVED",
+            "clause_text": "Our website, emails, and mobile apps may contain small transparent image files or lines of code that record how you interact with them.\nThese include “web beacons,” “scripts,” “tracking URLs,” or “software development kits” (known as SDKs):</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23671",
+            "approval_status": "APPROVED",
+            "clause_text": ">You have the right to review the personal data we keep about you at any time.\nYou can request access to or deletion of your personal data by submitting this form.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You maintain ownership of your uploaded images and reviews",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23641",
+            "approval_status": "APPROVED",
+            "clause_text": "Booking.com does not own or endorse the photos/images that are uploaded.",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23647",
+            "approval_status": "APPROVED",
+            "clause_text": "What kind of personal data does Booking.com collect?",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23649",
+            "approval_status": "APPROVED",
+            "clause_text": "Why does Booking.com collect and use your personal data?",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23672",
+            "approval_status": "APPROVED",
+            "clause_text": "California law\n<p>This section supplements our Privacy Statement and only applies if you live in the state of California.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:20:20",
+            "point_link": "https://edit.tosdr.org/points/23662",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n</ul>\n<p>All service providers are required to continue to safeguard your personal data adequately.",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23639",
+            "approval_status": "APPROVED",
+            "clause_text": "You are granting Booking.com a non-exclusive",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23657",
+            "approval_status": "APPROVED",
+            "clause_text": "You can unsubscribe from email marketing communications quickly, easily, and anytime.\nAll you need to do is click the “Unsubscribe” link included in each newsletter or other communication.</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23634",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>2021-07-04",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23646",
+            "approval_status": "APPROVED",
+            "clause_text": "We might amend the Privacy Statement from time to time, so we recommend revisiting this page occasionally to make sure you know where you stand.\nIf we make changes to the Privacy Statement which will have an impact on you (e.g.\nif we intend to process your personal data for other purposes than previously communicated), we'll notify you of these changes before the new activities begin.</p>\n<p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23637",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to adjust, refuse, or remove reviews at our sole discretion insofar as it violates our review policy.",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23638",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>However and to the extent permitted by law, neither we nor any of our officers, directors, employees, representatives, subsidiaries, affiliated companies, distributors, affiliate (distribution) partners, licensees, agents, or others involved in creating, sponsoring, promoting, or otherwise making available the site and its contents will be liable for (i) any punitive, special, indirect, or consequential loss or damages, any loss of production, loss of profit, loss of revenue, loss of contract, loss of or damage to goodwill or reputation, loss of claim, (ii) any inaccuracy relating to the (descriptive) information (including rates, availability, and ratings) of the Trip Provider as made available on our Platform, (iii) the services rendered or the products offered by the Trip Provider or other business partners, (iv) any (direct, indirect, consequential, or punitive) damages, losses, or costs suffered, incurred, or paid by you, pursuant to, arising out of or in connection with the use, inability to use, or delay of our Platform",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23635",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>These pages, the content, and infrastructure of these pages and the online reservation service (including the facilitation of payment service) provided by us on these pages and through the website are owned, operated, and provided by Booking.com B.V.\nand are provided for your personal, non-commercial (B2C) use only, subject to the terms and conditions set out below.",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23636",
+            "approval_status": "APPROVED",
+            "clause_text": "Therefore, you are not allowed to resell, deep link, use, copy, monitor (e.g.\nspider, scrape), display, download, or reproduce any content",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "Your personal data is pseudonymized into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23658",
+            "approval_status": "APPROVED",
+            "clause_text": "We also use personal data for analytical purposes and product improvement.\nThis is part of our commitment to improving our services and enhancing the user experience.</p>\n<p>In this case, we use data for testing and troubleshooting purposes, as well as generating statistics about our business.\nThe main goal here is to get insights into how our services perform, how they’re used, and ultimately to optimize and customize our website and apps, making them easier and more meaningful to use.\nWe strive to use pseudonyms for this analytical work as much as possible.</p>\n</li>\n<li>\n<p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+            "rating": "neutral",
+            "description": "You must provide your legal name and pseudonyms aren't allowed, but it makes sense for the purposes of this service.",
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23650",
+            "approval_status": "APPROVED",
+            "clause_text": "When you make a Trip Reservation, you are (at a minimum) asked for your name and email address.</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+                "href": "https://edit.tosdr.org/cases/213"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23670",
+            "approval_status": "APPROVED",
+            "clause_text": "We’re currently unable to support “Do Not Track” browser settings.</p>",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:18",
+            "point_link": "https://edit.tosdr.org/points/23648",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In addition to this, we also collect info from the computer, phone, tablet, or other device you use to access our services.\nThis includes the IP address,",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 06:20:19",
+            "point_link": "https://edit.tosdr.org/points/23642",
+            "approval_status": "APPROVED",
+            "clause_text": "The translated version is a courtesy and office translation only and you cannot derive any rights from the translated version.",
+            "point_source": "https://www.booking.com/content/terms.html",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23655",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-06-25 09:28:09 UTC, rafay (36766)  wrote:\n          I like the valuable info you provide in your articles. I’ll bookmark your blog and check again here regularly. I’m quite certain I’ll learn many new stuff right here! Good luck for the next",
+            "point_source": "https://www.booking.com/content/privacy.html",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

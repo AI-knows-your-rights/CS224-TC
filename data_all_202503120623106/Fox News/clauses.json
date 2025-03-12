@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Fox News - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service still tracks you even if you opted out from tracking",
+            "rating": "blocker",
+            "description": "Users can’t fully opt out of tracking technologies used for non essential purposes such as advertising, marketing or analytics. The user may be asked for consent for installing some tracking technologies on the device, and even if all are rejected the service will still track its visitors and ignore the choice.This case doesn’t apply to functional cookies that are necessary to provide the services.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/17265",
+            "approval_status": "APPROVED",
+            "clause_text": "The opting out process is browser and device specific and users may need to both opt out of the sale of personal data and opt out of targeted advertising cookies.\n    \n      \n        \n          \n              Version 2: 2021-03-13 10:03:35 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2021-03-13 10:03:35 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2021-03-13 10:03:35 UTC by AgnesDeLion (20760)  Staff\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: This service tracks you on other websites\n            Updated Title: This service still tracks you even if you opted out from tracking\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: The opting out process is browser and device specific and users may need to both opt out of the sale of personal data and opt out of targeted advertising.\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n    \n        \n          \n            Previous Title: This service tracks you on other websites\n            Updated Title: This service still tracks you even if you opted out from tracking\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: The opting out process is browser and device specific and users may need to both opt out of the sale of personal data and opt out of targeted advertising.\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n          \n            Previous Title: This service tracks you on other websites\n            Updated Title: This service still tracks you even if you opted out from tracking\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: The opting out process is browser and device specific and users may need to both opt out of the sale of personal data and opt out of targeted advertising.\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n            Previous Title: This service tracks you on other websites\n            Updated Title: This service still tracks you even if you opted out from tracking\n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: The opting out process is browser and device specific and users may need to both opt out of the sale of personal data and opt out of targeted advertising.\n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT",
+            "point_source": "https://www.foxnews.com/donotsell",
+            "case": {
+                "text": "This service still tracks you even if you opted out from tracking",
+                "href": "https://edit.tosdr.org/cases/478"
+            }
+        },
+        {
+            "title": "This service allows tracking via third-party cookies for purposes including targeted advertising.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:11:08",
+            "point_link": "https://edit.tosdr.org/points/4617",
+            "approval_status": "APPROVED",
+            "clause_text": "Other parties that support the Fox News Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Fox News Services usage statistics, may also use these technologies to collect similar information when you use the Fox News Services or other parties’ services.",
+            "point_source": "http://www.foxnews.com/privacy-policy.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:05:15",
+            "point_link": "https://edit.tosdr.org/points/8655",
+            "approval_status": "APPROVED",
+            "clause_text": "Company may modify this Agreement at any time, and each such modification will be effective upon posting on the Company Sites.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:35:06",
+            "point_link": "https://edit.tosdr.org/points/6473",
+            "approval_status": "APPROVED",
+            "clause_text": "Company may terminate your account and/or access to the Company Services at any time, for any or no reason, with or without prior notice or explanation, and shall have no liability to you for such termination.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service may sell your data unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 10:13:45",
+            "point_link": "https://edit.tosdr.org/points/17264",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our partners use that information to deliver online advertisements to you on your devices and tailor those ads to your interests.\nSuch sharing may be considered a \"Sale\" under the California Consumer Privacy Act (CCPA).\nThe CCPA provides a right to opt out of the \"Sale\" of personal information.</p>\n<ul>\n<li>\n<p>\n<strong>\n<em>Fox News Sites</em>\n</strong>\n<br> If you wish to opt out of the \"Sale\" of your information in connection with tailored advertising that appears primarily on Fox News' websites, move the toggle above to \"On.\"</p>\n</li>\n<li>\n<p>\n<strong>\n<em>Other Sites</em>\n</strong>\n<br> To also opt out of the \"Sale\" of your information related to tailored advertising on other sites, please visit http://optout.aboutads.info/#/ or http://optout.networkadvertising.org/# and follow the instructions.</p>\n</li>",
+            "point_source": "https://www.foxnews.com/donotsell",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:35:06",
+            "point_link": "https://edit.tosdr.org/points/6478",
+            "approval_status": "APPROVED",
+            "clause_text": "<u>Each of you and Company also agrees to give up the ability to seek to represent, in a class action or otherwise, anyone but each of you and Company</u>&nbsp;</strong>(see paragraph 9 below).</p>",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:08:59",
+            "point_link": "https://edit.tosdr.org/points/7562",
+            "approval_status": "APPROVED",
+            "clause_text": "UBJECT TO APPLICABLE LAW, YOU AGREE THAT ANY CAUSE OF ACTION YOU MAY HAVE ARISING OUT OF OR RELATED TO THIS AGREEMENT, THE COMPANY SITES OR THE COMPANY SERVICES MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER SUCH CAUSE OF ACTION ACCRUES.\nAFTER SUCH PERIOD, SUCH CAUSE OF ACTION SHALL BE PERMANENTLY BARRED.</p>\n<p>",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "You wave your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:32:51",
+            "point_link": "https://edit.tosdr.org/points/4621",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AND COMPANY WAIVE THE RIGHT TO BRING OR PARTICIPATE IN A CLASS ACTION IN CONNECTION WITH SUCH DISPUTES.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service uses your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:19:33",
+            "point_link": "https://edit.tosdr.org/points/4619",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use the information we collect from and about you to provide the Fox News Services and features to you, including: to measure and improve those Fox News Services and features and to develop new products and services.\nto improve your experience with both online and off-line Fox News Services by delivering content you will find relevant and interesting, including advertising and marketing messages",
+            "point_source": "http://www.foxnews.com/privacy-policy.html",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "We and our advertising partners collect certain information, including cookies, advertising identifiers and/or the IP address of your device",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:09:13",
+            "point_link": "https://edit.tosdr.org/points/16625",
+            "approval_status": "APPROVED",
+            "clause_text": "The site and their advertising partners collect cookies, advertising ids and IP address of your devices when you visit.\n    \n      \n        \n          \n              Version 2: 2021-02-17 14:54:28 UTC by generalwuggs (22394) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2021-02-17 14:54:28 UTC by generalwuggs (22394) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2021-02-17 14:54:28 UTC by generalwuggs (22394) \n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT",
+            "point_source": "https://www.foxnews.com/donotsell",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:06:58",
+            "point_link": "https://edit.tosdr.org/points/7565",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not use the Site in any manner that could damage, disable, overburden, or impair the Site, or interfere with any other party's use and enjoyment of the Site.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:08:58",
+            "point_link": "https://edit.tosdr.org/points/6471",
+            "approval_status": "APPROVED",
+            "clause_text": "All registration information you submit to create an account must be accurate and kept up to date.\nYour failure to do so will constitute a breach of the Agreement, which may result in immediate termination of your account.\nYou may not (i) select or use as a username a name of another person with the intent to impersonate that person.\nor (ii) use as a username a name subject to any rights of another person without appropriate authorization.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Usernames can be rejected for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 06:35:01",
+            "point_link": "https://edit.tosdr.org/points/6470",
+            "approval_status": "APPROVED",
+            "clause_text": "Company reserves the right to refuse registration of, or cancel, a username, in its sole discretion.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "Usernames can be rejected for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 10:04:10",
+            "point_link": "https://edit.tosdr.org/points/7870",
+            "approval_status": "APPROVED",
+            "clause_text": "Company reserves the right to refuse registration of, or cancel, a username, in its sole discretion.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:07",
+            "point_link": "https://edit.tosdr.org/points/4622",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-27 11:38:39 UTC, stephen987 (29019)  Suspended wrote:\n          There a few interesting points soon enough on this page but I don’t determine if I see them all center to heart. You can find some validity but I am going to take hold opinion until I look into it further. Very good write-up , thanks therefore we want far more! Added onto FeedBurner too레플리카사이트",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "This service fines spammers",
+            "rating": "good",
+            "description": "Sending unsolicited promotional communications through the Service (i.e. spam) is prohibited and spammers must pay a sum of money as a penalty.",
+            "last_updated": "2023-07-11 10:08:58",
+            "point_link": "https://edit.tosdr.org/points/7564",
+            "approval_status": "APPROVED",
+            "clause_text": "Send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the Company Services.\nIf you do so, you acknowledge you will have caused substantial harm to Company, but that the amount of harm would be extremely difficult to measure.\nAs a reasonable estimation of such harm, and by way of liquidated damages and not as a penalty, you agree to pay Company $50 for each actual or intended recipient of such communication;</p>\n<p>- Solicit, collect or request any personal information for commercial or unlawful purposes",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "This service fines spammers",
+                "href": "https://edit.tosdr.org/cases/153"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:36:15",
+            "point_link": "https://edit.tosdr.org/points/7563",
+            "approval_status": "APPROVED",
+            "clause_text": "Effective as of May 19, 2020</p>",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:04",
+            "point_link": "https://edit.tosdr.org/points/6476",
+            "approval_status": "APPROVED",
+            "clause_text": "You understand that Company does not control the User Content posted by users via the Company Services and, as such, you understand you may be exposed to offensive, inaccurate or otherwise objectionable User Content.\nCompany assumes no responsibility or liability for this type of Content.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:08:43",
+            "point_link": "https://edit.tosdr.org/points/12808",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Site is intended solely for your personal and non-commercial use",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:08:58",
+            "point_link": "https://edit.tosdr.org/points/6472",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for maintaining the confidentiality of your password and are responsible for all use of your account.\nIt is therefore critical that you do not share your password with anyone.\nYou agree not to use the account, username, email address or password of another member or subscriber at any time and not to allow any other person to use your account.",
+            "point_source": "http://www.foxnews.com/terms-use.html",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:19:33",
+            "point_link": "https://edit.tosdr.org/points/4618",
+            "approval_status": "APPROVED",
+            "clause_text": "At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted",
+            "point_source": "http://www.foxnews.com/privacy-policy.html",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        }
+    ]
+}

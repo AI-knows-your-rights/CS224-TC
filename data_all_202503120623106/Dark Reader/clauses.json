@@ -1,0 +1,67 @@
+{
+    "meta_data": {
+        "title": "Dark Reader - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Dark Reader does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:15:49",
+            "point_link": "https://edit.tosdr.org/points/19753",
+            "approval_status": "APPROVED",
+            "clause_text": "Dark Reader had never collected and will never collect any personal data, browsing history etc.",
+            "point_source": "https://darkreader.org/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "This service provides archives of their Privacy policy so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 10:08:43",
+            "point_link": "https://edit.tosdr.org/points/19755",
+            "approval_status": "APPROVED",
+            "clause_text": "(see update history) </small>",
+            "point_source": "https://darkreader.org/privacy/",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:15:50",
+            "point_link": "https://edit.tosdr.org/points/19754",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated: February 11, 2020",
+            "point_source": "https://darkreader.org/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24696",
+            "approval_status": "APPROVED",
+            "clause_text": "Dark Reader uses Chrome (Chromium) or WebExtensions Storage Sync API for storing user's settings and browser's Web Storage API (localStorage) for storing user's Developer Tools f",
+            "point_source": "https://darkreader.org/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

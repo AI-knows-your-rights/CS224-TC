@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Hinterland Games - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13771",
+            "approval_status": "APPROVED",
+            "clause_text": "6.\nSubject to the above one-year retention requirement, we will only retain personal&nbsp;information for as long as necessary to fulfill the identified purposes above or as long as&nbsp;required for a legal or business purpose.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13782",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote (because the following is already highlighted): \"Spam Defense The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.\"",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:10:13",
+            "point_link": "https://edit.tosdr.org/points/13981",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We collect personal&nbsp;information for the following purposes:[...] 6. To manage or transfer our assets or liabilities, for example in the case of an acquisition or merger, the provision of security for a credit facility or the change of a supplier of products.\"",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:09:47",
+            "point_link": "https://edit.tosdr.org/points/13772",
+            "approval_status": "APPROVED",
+            "clause_text": "We will obtain your consent to collect, use or disclose your personal information, except where&nbsp;we are legally authorized or required by law to do so without consent.\n&nbsp;&nbsp;For example, we may&nbsp;collect, use or disclose your personal information without your knowledge or consent where:\n</p>\n<p> 1.\nThe information is publicly available, as defined by statute or regulation.\n</p>\n<p> 2.\nWe are obtaining legal advice;&nbsp.\n</p>\n<p> 3.\nWe reasonably expect that obtaining consent would compromise an investigation or&nbsp;proceeding.\nand&nbsp.\n</p>\n<p> 4.\nWe are permitted to by law.\n&nbsp.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:34:38",
+            "point_link": "https://edit.tosdr.org/points/13769",
+            "approval_status": "APPROVED",
+            "clause_text": "5.\nTo provide personal information to third party suppliers of products and services.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13776",
+            "approval_status": "APPROVED",
+            "clause_text": "Google Analytics is a web analysis service provided by Google Inc.\n(“Google”).\nGoogle utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:03:41",
+            "point_link": "https://edit.tosdr.org/points/10483",
+            "approval_status": "APPROVED",
+            "clause_text": "Use of a cookie is in no way linked to any personally identifiable&nbsp;information",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "You can request (only) access to personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/13982",
+            "approval_status": "APPROVED",
+            "clause_text": "Access&nbsp;</em>\n</p>\n<p> You have right to access your personal information held by Hinterland Studio Inc.&nbsp;Your request for access must be made in writing and we may require individuals to prove their&nbsp;identity before giving them access to their personal information for security reasons.&nbsp;Upon request and authentication of identity, we will provide information about the ways in&nbsp;which your personal information is or has been used, and the names of the individuals and&nbsp;organizations to which their personal information has been disclosed.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:03:45",
+            "point_link": "https://edit.tosdr.org/points/10485",
+            "approval_status": "APPROVED",
+            "clause_text": "We have a designated Privacy Officer that can respond to questions, concerns and complaints&nbsp;at privacy@Hinterlandgames.com &nbsp.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:03:38",
+            "point_link": "https://edit.tosdr.org/points/10486",
+            "approval_status": "APPROVED",
+            "clause_text": "We state the purpose of collecting personal information when it is requested.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 10:10:13",
+            "point_link": "https://edit.tosdr.org/points/13980",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Third Parties Google Analytics Google Analytics is a web analysis service provided by Google Inc. (“Google”).[...] The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source. Invisible reCAPTCHA This site uses a CAPTCHA to ensure humans are performing certain actions.[...]\" Third Parties mentioned: Google Analytics, IPS Spam Defense and Google reCaptcha.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13774",
+            "approval_status": "APPROVED",
+            "clause_text": "You may set your browser to refuse cookies, but&nbsp;certain parts of our website may not function properly as a result.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:03:41",
+            "point_link": "https://edit.tosdr.org/points/10478",
+            "approval_status": "APPROVED",
+            "clause_text": "We have the ability to remove objectionable messages and we will make every effort to do so, within a reasonable time frame, if we determine that removal is necessary.",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:39",
+            "point_link": "https://edit.tosdr.org/points/10476",
+            "approval_status": "APPROVED",
+            "clause_text": "Please remember that we are not responsible for any messages posted.",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:03:41",
+            "point_link": "https://edit.tosdr.org/points/10479",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> You agree, through your use of this service, that you will not use this website to post any material which is knowingly false and/or defamatory, inaccurate, abusive, vulgar, hateful, harassing,",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:03:46",
+            "point_link": "https://edit.tosdr.org/points/10480",
+            "approval_status": "APPROVED",
+            "clause_text": "obscene, profane, sexually oriented,",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:03:39",
+            "point_link": "https://edit.tosdr.org/points/10481",
+            "approval_status": "APPROVED",
+            "clause_text": "or otherwise violative of any law.",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13780",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies on certain pages of our site to help&nbsp;analyze our website flow, measure promotional effectiveness and promote trust and safety.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:03:40",
+            "point_link": "https://edit.tosdr.org/points/10477",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not vouch for or warrant the accuracy, completeness or usefulness of any message, and are not responsible for the contents of any message.",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:03:39",
+            "point_link": "https://edit.tosdr.org/points/10482",
+            "approval_status": "APPROVED",
+            "clause_text": "Our software uses cookies to distinguish you from other users of our website.\nThis helps us to provide you with a personalized experience when you browse this site.",
+            "point_source": "https://hinterlandforums.com/terms/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13781",
+            "approval_status": "APPROVED",
+            "clause_text": "The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.",
+            "point_source": "https://hinterlandforums.com/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

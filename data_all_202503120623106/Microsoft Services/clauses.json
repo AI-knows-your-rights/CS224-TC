@@ -1,0 +1,529 @@
+{
+    "meta_data": {
+        "title": "Microsoft Services - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without prior notice and without a reason",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:34:04",
+            "point_link": "https://edit.tosdr.org/points/1255",
+            "approval_status": "APPROVED",
+            "clause_text": "See excerpt.",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23359",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Service providers that help us determine your device’s location.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:19:52",
+            "point_link": "https://edit.tosdr.org/points/23352",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Microsoft uses the data we collect to provide you rich, interactive experiences.\nIn particular, we use data to:</p>\n<ul>\n<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.\nIt also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>\n<li>Improve and develop our products.</li>\n<li>Personalize our products and make recommendations.</li>\n<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers.</li>\n</ul>\n<p>We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23356",
+            "approval_status": "APPROVED",
+            "clause_text": "Some cookies are placed by third parties acting on our behalf.\nWe use cookies and similar technologies to store and honor your preferences and settings, enable you to sign-in, provide interest-based advertising",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:33:02",
+            "point_link": "https://edit.tosdr.org/points/1581",
+            "approval_status": "APPROVED",
+            "clause_text": "If they (in their opinion) require some data to carry out a contract and you don't provide that data they can immediately close your account without prior notice. As the required personal data can be changed at any time and may not even be the same for all customers, this is basically a suspension loophole.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Microsoft may remotely disabled software you are not licensed to use.",
+            "rating": "bad",
+            "description": "The service disables software that you are not licensed to use.",
+            "last_updated": "2023-07-11 10:06:33",
+            "point_link": "https://edit.tosdr.org/points/1248",
+            "approval_status": "APPROVED",
+            "clause_text": "Microsoft may remotely disable software you are not licensed to use.\n    \n      \n        \n          \n              Version 1: 2018-05-15 09:11:42 UTC by Deleted  Suspended\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2018-05-15 09:11:42 UTC by Deleted  Suspended\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2018-05-15 09:11:42 UTC by Deleted  Suspended\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n          \n            Previous Analysis: \n            Updated Analysis: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n          \n            Previous Analysis: \n            Updated Analysis: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n          \n            Previous Analysis: \n            Updated Analysis: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n            Previous Analysis: \n            Updated Analysis: [bad] Microsoft may remotely disabled software you are not licensed to use.\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/",
+            "case": {
+                "text": "The service disables software that you are not licensed to use.",
+                "href": "https://edit.tosdr.org/cases/330"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:06:34",
+            "point_link": "https://edit.tosdr.org/points/10894",
+            "approval_status": "APPROVED",
+            "clause_text": "We also obtain data from third parties.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:37",
+            "point_link": "https://edit.tosdr.org/points/14259",
+            "approval_status": "APPROVED",
+            "clause_text": "These third parties may place cookies on your computer and collect data about your online activities across websites or online services.\nThese companies currently include, but are not limited to: AppNexus, Facebook, Media.net, Outbrain, Taboola and Verizon Media.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14329",
+            "approval_status": "APPROVED",
+            "clause_text": "Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity aren’t allowed.",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:11:10",
+            "point_link": "https://edit.tosdr.org/points/14330",
+            "approval_status": "APPROVED",
+            "clause_text": "If You Live In (or, If a Business, Your Principal Place of Business Is In) the United States.</strong> We hope we never have a dispute, but if we do, you and we agree to try for 60 days to resolve it informally.\nIf we can’t, you and we agree to <strong>binding individual arbitration before the American Arbitration Association (\"AAA\") under the Federal Arbitration Act (\"FAA\"), and not to sue in court in front of a judge or jury</strong>.",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23357",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of our websites include social media cookies, including those that enable users who are signed in to the social media service to share content via that service.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23355",
+            "approval_status": "APPROVED",
+            "clause_text": "Microsoft apps use additional identifiers, such as the advertising ID in Windows described in the Advertising ID section of this privacy statement, for similar purposes.</p>\n<p>We also use “web beacons” to help deliver cookies and gather usage and performance data.\nOur websites may include web beacons, cookies, or similar technologies from third-party service providers.</p>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23353",
+            "approval_status": "APPROVED",
+            "clause_text": "For these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products).\nFor example Cortana may use information from your calendar to suggest action items in a heads-up email, and Microsoft Store uses information about the apps and services you use to make personalized app recommendations.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Voice data is collected and shared with third-parties",
+            "rating": "bad",
+            "description": "The service collects data and recordings of your voice when you communicate with a service verbally and may use and share them with third parties, that may use this data for marketing or advertising.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23351",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we manually review short snippets of voice data that we have taken steps to de-identify to improve our speech recognition technologies.\nThis manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf.</p>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Voice data is collected and shared with third-parties",
+                "href": "https://edit.tosdr.org/cases/489"
+            }
+        },
+        {
+            "title": "No promise to inform of government requests",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:33:18",
+            "point_link": "https://edit.tosdr.org/points/833",
+            "approval_status": "APPROVED",
+            "clause_text": "Microsoft reserves the right at all times to disclose any information as Microsoft deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in Microsoft's sole discretion.",
+            "point_source": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:06:53",
+            "point_link": "https://edit.tosdr.org/points/10895",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Microsoft uses the data we collect to provide you rich, interactive experiences.\nIn particular, we use data to:</p>\n<ul>\n<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.\nIt also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>\n<li>Improve and develop our products.</li>\n<li>Personalize our products and make recommendations.</li>\n<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers.</li>\n</ul>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-06-30 18:12:32",
+            "point_link": "https://edit.tosdr.org/points/34147",
+            "approval_status": "APPROVED",
+            "clause_text": "Location data</strong>.\nData about your device’s location, which can be either precise or imprecise.\nFor example, we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:19:52",
+            "point_link": "https://edit.tosdr.org/points/23360",
+            "approval_status": "APPROVED",
+            "clause_text": "We also share personal data with vendors or agents working on our behalf for the purposes described in this statement.\nFor example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal data to provide those functions.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23350",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use personal data<p>Microsoft uses the data we collect to provide you with rich, interactive experiences.\nIn particular, we use data to:</p>\n<ul>\n<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.\nIt also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>\n<li>Improve and develop our products.</li>\n<li>Personalize our products and make recommendations.</li>\n<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14257",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We transfer personal data from the European Economic Area, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23358",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics</strong>.\nWe use first- and third-party cookies and other identifiers to gather usage and performance data.\nFor example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:33:02",
+            "point_link": "https://edit.tosdr.org/points/10057",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Access and clear some of your data through the Microsoft privacy dashboard.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service provides two factor authentication for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 06:33:45",
+            "point_link": "https://edit.tosdr.org/points/19234",
+            "approval_status": "APPROVED",
+            "clause_text": "multi-factor authentication",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14258",
+            "approval_status": "APPROVED",
+            "clause_text": "Controls for how Microsoft personalizes advertising are available at http://choice.live.com (https://go.microsoft.com/fwlink/?LinkId=286759).",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Harming minors in any ways is prohibited",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-27 17:37:07",
+            "point_link": "https://edit.tosdr.org/points/34486",
+            "approval_status": "APPROVED",
+            "clause_text": "Don’t engage in any activity that exploits, harms, or threatens to harm children.",
+            "point_source": null,
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/14325",
+            "approval_status": "APPROVED",
+            "clause_text": "WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14328",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>iii.\nDon’t send spam or engage in phishing.",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14324",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU UNDERSTAND THAT USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT WE PROVIDE THE SERVICES ON AN \"AS IS\" BASIS \"WITH ALL FAULTS\" AND \"AS AVAILABLE.\"",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/14323",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>ii.\nDon’t engage in any activity that exploits, harms, or threatens to harm children.</li>",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:06:26",
+            "point_link": "https://edit.tosdr.org/points/14312",
+            "approval_status": "APPROVED",
+            "clause_text": "Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14327",
+            "approval_status": "APPROVED",
+            "clause_text": "By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of “majority” where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:08:25",
+            "point_link": "https://edit.tosdr.org/points/14326",
+            "approval_status": "APPROVED",
+            "clause_text": "Don’t do anything illegal",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:06:54",
+            "point_link": "https://edit.tosdr.org/points/10896",
+            "approval_status": "APPROVED",
+            "clause_text": "We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/14322",
+            "approval_status": "APPROVED",
+            "clause_text": "FOR YOUR CONVENIENCE, MICROSOFT MAY MAKE AVAILABLE AS PART OF THE SERVICES OR IN ITS SOFTWARE PRODUCTS, TOOLS AND UTILITIES FOR USE AND/OR DOWNLOAD.\nMICROSOFT DOES NOT MAKE ANY ASSURANCES WITH REGARD TO THE ACCURACY OF THE RESULTS OR OUTPUT THAT DERIVES FROM SUCH USE OF ANY SUCH TOOLS AND UTILITIES.",
+            "point_source": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/14316",
+            "approval_status": "APPROVED",
+            "clause_text": "MICROSOFT CORPORATION HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.",
+            "point_source": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:19:51",
+            "point_link": "https://edit.tosdr.org/points/23354",
+            "approval_status": "APPROVED",
+            "clause_text": "Microsoft services do not currently respond to browser DNT signals",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The service is transparent regarding government requests or inquiries that may involve user data.",
+            "rating": "neutral",
+            "description": "Weight was 30.",
+            "last_updated": "2019-08-25 19:18:06",
+            "point_link": "https://edit.tosdr.org/points/1440",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://groups.google.com/forum#!topic/tosdr/E8yfnkX4Fg0",
+            "case": {
+                "text": "The service is transparent regarding government requests or inquiries that may involve your data.",
+                "href": "https://edit.tosdr.org/cases/169"
+            }
+        }
+    ]
+}

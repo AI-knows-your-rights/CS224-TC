@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Pocket - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9055",
+            "approval_status": "APPROVED",
+            "clause_text": "We will keep your information only for as long as we need it to provide you services, manage our business or as required by law or contract.</p",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9051",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition to the information that you provide to us when you register for a user account, we collect information about the URLs, titles and content of the web pages and other information you save to Pocket.\nThe types of information we collect includes your browser type, device type, time zone, language, and other information related to the manner in which you access the Pocket Technologies.\nIf you are on a mobile device, we collect the advertising identifiers provided by Apple on iOS and by Google on Android.\nYou can change this identifier in your device settings.\nWe also collect information about your use of the Pocket Technologies so that we can provide our services.\nFor example, as a part of providing Pocket’s syncing features, we sync information about the items that you save and view within Pocket so that your list, tags, scroll position, and other account and usage information may be synced across all of your devices.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9044",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note this Privacy Policy will change from time to time.\nWe may amend this Privacy Policy at any time by posting the amended terms on our Website that you can access at getpocket.com or through the options or help menu of the Pocket application.\nAll amended terms shall automatically be effective thirty (30) days after they are initially posted on the Website.\nIf we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2024-01-24 20:05:51",
+            "point_link": "https://edit.tosdr.org/points/9063",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to refuse service and/or terminate user accounts in our sole discretion.",
+            "point_source": "https://getpocket.com/tos",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/7675",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also use \"pixel tags,\" \"web beacons,\" \"clear GIFs\" or similar means (individually or collectively \"Pixel Tags\") in connection with emails that we send to our users in order to collect usage data.\nWe use Pixel Tags, other technologies and the information we collect to count users who have visited certain pages on our Website, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9054",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event that we or certain of our assets are acquired, user information may be included among the transferred assets.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/7676",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-09 17:24:25 UTC, sowaro4784 (31933)  wrote:\n          You ought to basically fantastic not to mention solid advice, which means notice:\tOrlando Bed Bug Pest Control",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9025",
+            "approval_status": "APPROVED",
+            "clause_text": "These parties are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide to them for any other purpose other than those discussed above, unless you have explicitly agreed or given your prior permission to them for additional uses.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The service allows you to opt out of providing personal information to third parties",
+            "rating": "good",
+            "description": "The Service provides opt-out instructions to the share of (some) personal information with third parties.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9042",
+            "approval_status": "APPROVED",
+            "clause_text": "You can also view and control which third party services, if any, you want to connect to your Pocket account.\nThese settings are at: https://getpocket.com/options",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "You can opt out of providing personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/337"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9056",
+            "approval_status": "APPROVED",
+            "clause_text": "You can access, correct, or delete your personal information and export your data from your Pocket Profile.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9045",
+            "approval_status": "APPROVED",
+            "clause_text": "We follow the law whenever we receive requests about you from a government or related to a lawsuit.\nWe will notify you when we are asked to hand over your personally identifiable information in this way unless we are legally prohibited from doing so.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9057",
+            "approval_status": "APPROVED",
+            "clause_text": "As part of our default settings to share saved and recommended content, we send emails to our users.\nYou may opt-out of receiving these, and updates on our service and your use, by using the unsubscribe feature on any of our email correspondence or from your account settings.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2024-01-24 20:05:52",
+            "point_link": "https://edit.tosdr.org/points/9060",
+            "approval_status": "APPROVED",
+            "clause_text": "If notified that any user has posted, shared or saved any information or materials which allegedly do not conform to this Agreement, we may in our sole discretion investigate the allegation and determine whether to take any other actions, including, but not limited to, whether to remove or request the removal of the information or materials posted, shared or saved by a user.",
+            "point_source": "https://getpocket.com/tos",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/7674",
+            "approval_status": "APPROVED",
+            "clause_text": "You may decline our cookies if your browser permits, although in that case you may not be able to use certain features, you may be required to enter your password more frequently during a session, and you may be unable to install or use certain Pocket Technologies.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/12871",
+            "approval_status": "APPROVED",
+            "clause_text": "You are required to create a user account, however, to use our application.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "Users cannot scrape the website of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2024-01-24 20:05:52",
+            "point_link": "https://edit.tosdr.org/points/9064",
+            "approval_status": "APPROVED",
+            "clause_text": "7) use any robot, spider, scraper, or other automated means to access our website or proprietary work for any purpose without our prior written permission.",
+            "point_source": "https://getpocket.com/tos",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "This service is only available to users over 13 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2024-03-20 17:03:21",
+            "point_link": "https://edit.tosdr.org/points/35929",
+            "approval_status": "APPROVED",
+            "clause_text": "Except as provided in the paragraph above, the Pocket Technologies are not for individuals under the age of 13.",
+            "point_source": null,
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2024-01-24 20:05:52",
+            "point_link": "https://edit.tosdr.org/points/9061",
+            "approval_status": "APPROVED",
+            "clause_text": "We also reserve the right to terminate the account of any user who transfers or saves content in violation of this Agreement.",
+            "point_source": "https://getpocket.com/tos",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The service refers users to external documents for more information",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9052",
+            "approval_status": "APPROVED",
+            "clause_text": "Such third party processors’ use of your personal information is governed by their respective privacy policies.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Only aggregate data is given to third parties",
+            "rating": "neutral",
+            "description": "The Service only shares your information in an aggregated form, which means an anonymized form\nthat can't be linked to a unique identity.",
+            "last_updated": "2024-01-24 20:07:34",
+            "point_link": "https://edit.tosdr.org/points/9023",
+            "approval_status": "APPROVED",
+            "clause_text": "We also share aggregated, non-personal data and related usage information, which does not contain any personal information which can identify you or any other individual user, with third parties, including content providers, website operators, advertisers and publishers.",
+            "point_source": "https://getpocket.com/privacy",
+            "case": {
+                "text": "Only aggregate data is given to third parties",
+                "href": "https://edit.tosdr.org/cases/191"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2024-04-01 16:03:40",
+            "point_link": "https://edit.tosdr.org/points/35928",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand and agree to it.</p>",
+            "point_source": null,
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        }
+    ]
+}

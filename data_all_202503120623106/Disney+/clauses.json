@@ -1,0 +1,627 @@
+{
+    "meta_data": {
+        "title": "Disney+ - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18003",
+            "approval_status": "APPROVED",
+            "clause_text": "Tracking on third-party websites containing Disney+ products, whether you have an account or not.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17997",
+            "approval_status": "APPROVED",
+            "clause_text": "\"In particular, we collect: [...] - Information sent either one-to-one or within a limited group using our message, chat, post, or similar functionality, where we are permitted by applicable law to collect this information;\"",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "This service still tracks you even if you opted out from tracking",
+            "rating": "blocker",
+            "description": "Users can’t fully opt out of tracking technologies used for non essential purposes such as advertising, marketing or analytics. The user may be asked for consent for installing some tracking technologies on the device, and even if all are rejected the service will still track its visitors and ignore the choice.This case doesn’t apply to functional cookies that are necessary to provide the services.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18015",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>FLASH COOKIES:<br>\n<br>We may use local shared objects, sometimes known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit.\nOur advertisers and third-party service providers also may use Flash cookies to collect and store information.\nFlash cookies are different from browser cookies because of the amount of, type of, and how data is stored.\nCookie management tools provided by your browser will not remove Flash cookies.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "This service still tracks you even if you opted out from tracking",
+                "href": "https://edit.tosdr.org/cases/478"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/17999",
+            "approval_status": "APPROVED",
+            "clause_text": "- Location information, including location information provided by a mobile or other device interacting with one of our sites, applications, or physical properties (including through beacon technologies), or associated with your IP address or other online or device identifier, where we are permitted by law to process this information;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18006",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>We will not share your personal information with a third party outside The Walt Disney Family of Companies except in limited circumstances, including:<br> - When you allow us to share your personal information with another company, by electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18012",
+            "approval_status": "APPROVED",
+            "clause_text": "We will retain your personal information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law.<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18018",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>We also may allow third-party advertisers to place their performance cookies on your device through their advertisements on this website.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:14:09",
+            "point_link": "https://edit.tosdr.org/points/17996",
+            "approval_status": "APPROVED",
+            "clause_text": "In particular, we collect:<br> - Registration information you provide when you create an account, enter a promotion, or link your profile on a third-party site or platform with your registration account, such as your first name and surname, country of residence, gender, date of birth, email address, username, and password;<br> - Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;<br> - Information you provide in public forums on our sites and applications, such as your public posts;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "The service can delete your account without a reason, but upon prior notice",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17992",
+            "approval_status": "APPROVED",
+            "clause_text": "Disney+ may, in its sole discretion, terminate your subscription to the Disney+ Service at any time before the end of the current billing period or free trial upon prior notice, which may be communicated electronically.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/17998",
+            "approval_status": "APPROVED",
+            "clause_text": "<br> - Information we obtain from a third party, such as a site or platform provider, about use of our applications on third-party platforms or devices;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18019",
+            "approval_status": "APPROVED",
+            "clause_text": "Our functionality cookies collect anonymous information.\nhowever, if you have a registration account with us, the information collected by us using our functionality cookies may be associated with your registration account, for example, if you are a registered user, our functionality cookies may allow us to track your browsing across different websites operated by the Walt Disney Family of Companies or to detect your experiences when accessing our websites from different devices.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/18004",
+            "approval_status": "APPROVED",
+            "clause_text": "- Send you offers and promotions for our products and services or third-party products and services;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18022",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies to analyse your online behaviour so that we can operate and improve our services.\nto communicate with you.\nto personalise content or advertising on this or other platforms.\nand provide social media features for you.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18007",
+            "approval_status": "APPROVED",
+            "clause_text": "- When we share your personal information with third parties in connection with the sale of a business",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18000",
+            "approval_status": "APPROVED",
+            "clause_text": "- Usage, viewing, technical, and device data when you visit our sites, use our applications on third-party sites or platforms, or open emails we send, or connect with our wireless Internet access services and other similar technologies, including your browser or device type, unique device identifier, and IP address;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18005",
+            "approval_status": "APPROVED",
+            "clause_text": "- Provide you with targeted advertising based on your activity on our sites and applications and on third-party sites and applications.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18008",
+            "approval_status": "APPROVED",
+            "clause_text": "- When companies perform services on our behalf, like package delivery, marketing and advertising, and customer service.\nhowever, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18001",
+            "approval_status": "APPROVED",
+            "clause_text": "- Still or video images captured by cameras or readers on or around our physical properties.\nand<br> - Call recordings when you call our reservation centers or other guest services phone numbers.<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:10",
+            "point_link": "https://edit.tosdr.org/points/17987",
+            "approval_status": "APPROVED",
+            "clause_text": "Disney+ will not be responsible for any losses arising from the unauthorized use of your Disney+ account, where such unauthorized use was not caused by Disney+.<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18020",
+            "approval_status": "APPROVED",
+            "clause_text": "Our targeted advertising cookies collect anonymous information.\nhowever, if you have a registration account with us, the information collected by us using our targeted advertising cookies may be associated with your registration account, for example, we may seek to show more closely targeted adverts to you based on your browsing behaviour.<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18013",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>We operate globally and may transfer your personal information to individual companies of The Walt Disney Family of Companies or third parties in locations around the world for the purposes described in this privacy policy.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18017",
+            "approval_status": "APPROVED",
+            "clause_text": "We (or service providers operating on our behalf) may place our performance cookies on your device.\nThe information collected using our performance cookies is used by us or for our benefit, to improve our website experience or for other statistics gathering purposes.<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:35:38",
+            "point_link": "https://edit.tosdr.org/points/18021",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also use cookies or other tracking technologies within our communications to you (for example to see if they have been read or opened or to see what content you interact with and what links you follow) so that we can better match future communications to your interests.<br>\n<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18002",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>HOW WE COLLECT YOUR INFORMATION<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18009",
+            "approval_status": "APPROVED",
+            "clause_text": "We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information.\nIn accordance with applicable law, your controls and choices may include:<br> - Correcting, updating, and deleting your registration account (Logout);<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:35:35",
+            "point_link": "https://edit.tosdr.org/points/18025",
+            "approval_status": "APPROVED",
+            "clause_text": "You have a right to lodge a complaint with your local Data Protection Supervisory Authority or with the UK Information Commissioner’s Office: https://ico.org.uk/for-the-public.<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/uk-&-eu-privacy-rights",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18023",
+            "approval_status": "APPROVED",
+            "clause_text": "TYPES OF INFORMATION WE COLLECT<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18024",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>USE OF YOUR INFORMATION BY THE WALT DISNEY FAMILY OF COMPANIES",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18014",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "This service will warn users about website maintenance",
+            "rating": "good",
+            "description": "Users will be notified before their experience is impacted due to website maintenance.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17991",
+            "approval_status": "APPROVED",
+            "clause_text": "It is possible that the Disney+ Service and/or some or all Disney+ Content may not be available for streaming or downloading at any given time (i) during usual maintenance or update periods, (ii) any power or server outages beyond our control.\n(iii) as a result of war, riots, social unrest.\nor (iv) as a result of other matters beyond the control of us.\nDisney+ will take reasonable efforts to provide you with as much prior notice as possible.\n<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "You will be notified about website maintenance",
+                "href": "https://edit.tosdr.org/cases/159"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18011",
+            "approval_status": "APPROVED",
+            "clause_text": "- Controlling targeted advertising from many ad networks and partners.\ndata exchanges.\nand marketing analytics and digital advertising and marketing service providers (by visiting the Digital Advertising Alliance);<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17989",
+            "approval_status": "APPROVED",
+            "clause_text": "You can cancel your subscription to the Disney+ Service at any time before the end of the current billing period or free trial.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, users are notified a week or more in advance.",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/17983",
+            "approval_status": "APPROVED",
+            "clause_text": "We may amend this Agreement (for price changes only section 2.a applies).\nAny such amendment will be effective thirty (30) days following our notice to you in which we explain the amendment and the procedure for implementation of same and expressly notify you that the amendment will become effective if you do not inform us that you do not agree.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/18010",
+            "approval_status": "APPROVED",
+            "clause_text": "- Choosing whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17994",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless they're caused by willful misconduct or they cause life or body damages; Disney+ shall not be liable for any losses or damages relating to the use of the service.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:03:03",
+            "point_link": "https://edit.tosdr.org/points/17982",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated: April 2, 2020<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/17988",
+            "approval_status": "APPROVED",
+            "clause_text": "Your subscription to the Disney+ Service includes enrollment into an ongoing/recurring payment plan.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:14:00",
+            "point_link": "https://edit.tosdr.org/points/18016",
+            "approval_status": "APPROVED",
+            "clause_text": "If you turn cookies off, you won’t have access to many features that make your guest experience more efficient and some of our services will not function properly.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/cookies-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:09:11",
+            "point_link": "https://edit.tosdr.org/points/17985",
+            "approval_status": "APPROVED",
+            "clause_text": "The Disney+ Service is provided to individuals for their personal use only.\nCompanies, associations and other groups may not register for a Disney+ account or use the Disney+ service.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17990",
+            "approval_status": "APPROVED",
+            "clause_text": "vii.\naccess, monitor or copy, or permit another person or entity to access, monitor or copy, any element of the Disney+ Service using a robot, spider, scraper or other automated means without our express written permission;<br>",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "This service is only available to users over 18 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:35:38",
+            "point_link": "https://edit.tosdr.org/points/17984",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be 18 years of age to purchase the Disney+ service.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17986",
+            "approval_status": "APPROVED",
+            "clause_text": "You are solely responsible for maintaining the confidentiality and security of your username and password and for all activities that occur on or through your Disney+ account.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Netherlands",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/17995",
+            "approval_status": "APPROVED",
+            "clause_text": "This Disney+ Subscriber Agreement and any dispute or claim arising out of or in connection with this Disney+ Subscriber Agreement are governed by and construed in accordance with the laws of the Netherlands.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:13:59",
+            "point_link": "https://edit.tosdr.org/points/17993",
+            "approval_status": "APPROVED",
+            "clause_text": "Disney+ does not state that the Disney+ Content and the Disney+ Service will meet your requirements.",
+            "point_source": "https://www.disneyplus.com/en-gb/legal/subscriber-agreement",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

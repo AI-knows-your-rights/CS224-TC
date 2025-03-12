@@ -1,0 +1,809 @@
+{
+    "meta_data": {
+        "title": "Adobe Services - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:35:33",
+            "point_link": "https://edit.tosdr.org/points/10065",
+            "approval_status": "APPROVED",
+            "clause_text": "When you register to use an Adobe app or website, create an Adobe ID, or contact us for support or other offerings, Adobe collects information that identifies you.\nThis includes:</p>\n<p>&nbsp;</p>\n<ul>\n<li>Name;</li>\n<li>Date of birth;</li>\n<li>Company name;</li>\n<li>Email address;</li>\n<li>Telephone number;</li>\n<li>Address;</li>\n<li>Country;</li>\n<li>IP address;</li>\n<li>Mobile Device ID;</li>\n<li>Payment/billing information (where an app or website is 'paid for');</li>\n<li>Eligibility information (e.g., for student and teacher editions of apps);</li>\n<li>Types of apps and websites of interest.\nand</li>\n<li>Content of customer support communications.</li>\n</ul>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14458",
+            "approval_status": "APPROVED",
+            "clause_text": "When you close your account, we begin deleting certain personal information that we no longer have a business reason to retain, such as your hashed password and your tokenized payment account data.\nHowever, we typically retain personal information related to our contract and business transactions with you for seven years after your last interaction with us.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for purposes including advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:09:00",
+            "point_link": "https://edit.tosdr.org/points/14445",
+            "approval_status": "APPROVED",
+            "clause_text": "Adobe websites use cookies and similar technologies provided by our own company (Adobe Experience Cloud) and other companies that allow us to gather additional information to measure and improve the effectiveness of our advertising.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14446",
+            "approval_status": "APPROVED",
+            "clause_text": "Adobe can share personal data with any third party if it's permitted by law.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "The service can delete your free account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14427",
+            "approval_status": "APPROVED",
+            "clause_text": "Adobe may offer free memberships, offers, and trial memberships in its sole discretion.\nIf access to the Services or Software is provided to you for free or for trial purposes, such access is governed by these Terms.\nAt any time prior to or during the free or trial period, Adobe may, in its sole discretion, terminate the free or trial access without prior notice and without any liability to you, to the extent permitted under applicable law, for any reason, including to prevent abuse of the free or trial access.\nAfter the free or trial access period expires, you may only continue using the Services or Software by enrolling in a paid subscription, if available, or as otherwise permitted by Adobe.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service may sell your data unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14442",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Adobe uses the information we collect about you for the following purposes: [...] Sending you information about Adobe products and services, special offers and similar information, and sharing your information with third parties for their own marketing purposes (where your consent is not required)\"\nUnder the CCPA, sharing personal data with third parties for their own marketing purposes may be considered sale.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:09:00",
+            "point_link": "https://edit.tosdr.org/points/14439",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Adobe advertises online in a variety of ways, including displaying Adobe ads to you on other companies' websites and apps and on social media platforms, such as Facebook and LinkedIn [...] We collect information such as: Which ads are displayed; Which ads are clicked on. and Where the ad was displayed.\"",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:35:35",
+            "point_link": "https://edit.tosdr.org/points/10066",
+            "approval_status": "APPROVED",
+            "clause_text": "we may combine information provided by you with information from third party sources, in accordance with applicable law.\nFor example, the size, industry, and other information about the company you work for (where you have provided company name) will be obtained from sources including, professional networking sites and information service providers.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14466",
+            "approval_status": "APPROVED",
+            "clause_text": "\"[...] It includes: IP address; Type of browser and device;\"",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:10:54",
+            "point_link": "https://edit.tosdr.org/points/14425",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless otherwise noted, the amended Terms will be effective immediately, and your continued use of our Services and Software will confirm your acceptance of the changes.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14435",
+            "approval_status": "APPROVED",
+            "clause_text": "o Class Actions.\nYou may only resolve disputes with us on an individual basis, and you may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action.</b>",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14450",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>When we have a good faith belief that we are required to provide information in response to a subpoena, court order, or other applicable law or legal process (learn more), or to respond to an emergency involving the danger of death or serious bodily harm;",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14447",
+            "approval_status": "APPROVED",
+            "clause_text": "If we merge with or are acquired by another company, sell an Adobe website, app, or business unit, or if all or a substantial portion of our assets are acquired by another company, your information will likely be disclosed to our advisers and any prospective purchaser's advisers and will be one of the assets that is transferred to the new owner.<br>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14444",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>We provide interactive features that engage with social media sites, such as Facebook.\nIf you use these features, these sites will send us personal information about you.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14441",
+            "approval_status": "APPROVED",
+            "clause_text": "You can sign in to some Adobe apps or websites using a social networking account, such as a Facebook account.\nWhere you give appropriate permissions, we will receive information about you from your social networking account, such as name, location, and basic demographic information.</p>\n<p>&nbsp;</p>\n<p>Adobe has its own pages on many social networking sites (for example, the Adobe® Photoshop® team’s Facebook page).\nWe will collect information which you have made publicly available on your social networking account, such as name and interests in our products and services, when you interact with our social networking pages.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14434",
+            "approval_status": "APPROVED",
+            "clause_text": "If a dispute is not resolved within 30 days of receipt by us, any resulting legal actions must be resolved through final and binding arbitration, including any question of whether arbitration is required, except that you may assert claims in small claims court if your claims qualify.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/14429",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Depending on the app or website, this information may be associated with your device or browser or it may be associated with your Adobe account. It includes: [...] Webpage that led you to an Adobe website;\"",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:03:11",
+            "point_link": "https://edit.tosdr.org/points/11293",
+            "approval_status": "APPROVED",
+            "clause_text": "We also disclose personal information to other companies in the Adobe family and with advertising and sales partners consistent with your choices.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:32:56",
+            "point_link": "https://edit.tosdr.org/points/11693",
+            "approval_status": "APPROVED",
+            "clause_text": "We will also share your personal information with other third-party data controllers.\nThe types of third parties your information may be shared with include: our resellers and other sales and advertising partners, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, information service providers, fraud monitoring and prevention providers, publishers, and non-profit organizations (with your consent, if required).\nThird-party data controllers may also use Adobe products and services to collect and process your personal information.\nIf you are using an email address that is associated with a business domain (e.g., yourname@businessname.com) to access Adobe's apps and websites, or if you were invited to use the apps and websites by a business, we may provide your personal information to that business",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 10:10:54",
+            "point_link": "https://edit.tosdr.org/points/14426",
+            "approval_status": "APPROVED",
+            "clause_text": "We recommend that you back up your Content and Creative Cloud Customer Fonts elsewhere regularly if the Services provide storage and this functionality is enabled by the applicable Services.\nWe may create reasonable technical limits on file size, storage space, processing capacity, and other technical limits.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14464",
+            "approval_status": "APPROVED",
+            "clause_text": "Adobe websites use cookies and similar technologies provided by our own company (Adobe Experience Cloud) and other companies that allow us to gather additional information to measure and improve the effectiveness of our advertising.\nWe collect information such as:</p>\n<p>&nbsp;</p>\n<ul>\n<li>Which ads are displayed;</li>\n<li>Which ads are clicked on.\nand&nbsp;</li>\n<li>Where the ad was displayed.&nbsp;</li>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:03:12",
+            "point_link": "https://edit.tosdr.org/points/11291",
+            "approval_status": "APPROVED",
+            "clause_text": "We transfer your personal information to the US and other countries, which may be outside the country in which you live.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14457",
+            "approval_status": "APPROVED",
+            "clause_text": "To register, you must provide your date of birth, country, email and name.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user or $100",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:54",
+            "point_link": "https://edit.tosdr.org/points/14430",
+            "approval_status": "APPROVED",
+            "clause_text": "Our total liability in any matter arising out of or related to the Terms is limited to the greater of (A) US $100.\nor (B) the aggregate amount that you paid for access to the Services and Software during the three-month period preceding the event giving rise to the liability.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:04:09",
+            "point_link": "https://edit.tosdr.org/points/11292",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Emails we send you may include a technology (called a web beacon) that tells Adobe whether you have received or opened the email, or clicked a link in the email.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:06:59",
+            "point_link": "https://edit.tosdr.org/points/9538",
+            "approval_status": "APPROVED",
+            "clause_text": "If you reside in North America (inclusive of United States, Canada, Mexico, United States territories and possessions, and United States military bases wherever located), your relationship is with Adobe Inc., a United States company, and the Terms are governed by the law of California, U.S.A.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14454",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Under the law of some jurisdictions, you may have the right to ask us for a copy of your personal information.\nto correct, delete or restrict (stop any active) processing of your personal information.\nand to obtain the personal information you provide to us for a contract or with your consent in a structured, machine readable format, and to ask us to share (port) this information to another controller.</p>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14451",
+            "approval_status": "APPROVED",
+            "clause_text": "Please be careful when you share your personal information.\nDo not share anything you wouldn’t want publicly known unless you are sure you are posting it within an app or website that allows you to control who sees what you post.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14456",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have unresolved concerns, you have the right to report them to your local privacy regulator or data protection authority and, where applicable, you also have the right to lodge a complaint with Adobe Ireland's lead supervisory authority, the Irish Data Protection Commission.</p>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14460",
+            "approval_status": "APPROVED",
+            "clause_text": "Will this privacy policy change?\n<p>Occasionally, we may update this privacy policy (or other documents in the Adobe Privacy Center) to allow Adobe to accommodate new technologies, industry practices, regulatory requirements or for other purposes.\nIf we do, we will change the \"last updated\" date at the top of this policy and the revised policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14452",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We employ administrative, technical, and physical security controls where appropriate, such as encryption, 2-step verification,\"",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14448",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We will also share your personal information with companies that help us run our business by processing personal information on behalf of Adobe for the purposes identified above.\nSuch companies include providers of customer support services, payment processing services, fraud monitoring and prevention, email, social media, and other marketing platforms and service providers, and hosting services.\nWe require these companies to protect your personal information consistent with this Privacy Policy.</p>\n<p>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:10:04",
+            "point_link": "https://edit.tosdr.org/points/14453",
+            "approval_status": "APPROVED",
+            "clause_text": "We employ administrative, technical, and physical security controls where appropriate, such as encryption,",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:54",
+            "point_link": "https://edit.tosdr.org/points/14459",
+            "approval_status": "APPROVED",
+            "clause_text": "</b>Solely for the purposes of operating or improving the Services and Software, when you upload Content to the Services or Software, you grant us a nonexclusive, worldwide, royalty-free, sublicensable, and transferrable license to use, reproduce, publicly display, distribute, modify (so as to better showcase your Content, for example), publicly perform, and translate the Content.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/14431",
+            "approval_status": "APPROVED",
+            "clause_text": "You may stop using the Services and Software at any time.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/14438",
+            "approval_status": "APPROVED",
+            "clause_text": "Where your consent is required, we will obtain your permission before (i) sending you news and promotional material about Adobe.\n(ii) accessing information stored on your device relating to your use of, and engagement with, websites and apps (e.g.\nAdobe Connect meetings) and crash reports.\nand (iii) analyzing your content.\nYou can withdraw your consent to such activities at any time.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:03:18",
+            "point_link": "https://edit.tosdr.org/points/11295",
+            "approval_status": "APPROVED",
+            "clause_text": "You may use and access the Services or Software at your own discretion and risk, and you are solely responsible for any damage to your computer system or loss of data that results from the use of and access to any Service or Software",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2024-01-14 18:10:36",
+            "point_link": "https://edit.tosdr.org/points/35648",
+            "approval_status": "APPROVED",
+            "clause_text": "You authorize us to continue billing your account with the updated information that we obtain.",
+            "point_source": null,
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:04:22",
+            "point_link": "https://edit.tosdr.org/points/11296",
+            "approval_status": "APPROVED",
+            "clause_text": "We encourage you to periodically review the Adobe Privacy Center for the latest information on our privacy practices.\nUnder certain circumstances (for example with certain material changes) we will provide notice to you of these changes and, where required by applicable law, we will obtain your consent.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:06:55",
+            "point_link": "https://edit.tosdr.org/points/9533",
+            "approval_status": "APPROVED",
+            "clause_text": "Published March 16, 2020",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:10:54",
+            "point_link": "https://edit.tosdr.org/points/14432",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon the expiration or termination of the Terms, some or all of the Services and Software may cease to operate without prior notice.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/14433",
+            "approval_status": "APPROVED",
+            "clause_text": "Your indemnification obligations, our warranty disclaimers and limitations of liabilities, and dispute resolution provisions stated in the Terms will survive.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2024-01-14 18:10:31",
+            "point_link": "https://edit.tosdr.org/points/35647",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>(O) engage in chain letters, junk mails, pyramid schemes, phishing, spamming, fraudulent activities, or other unsolicited messages;",
+            "point_source": null,
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:10:52",
+            "point_link": "https://edit.tosdr.org/points/14428",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Unless stated in the Additional Terms, the Services and Software are provided “AS-IS.”",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:04:23",
+            "point_link": "https://edit.tosdr.org/points/11267",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be 13 or older to register for an individual Adobe ID</u>.\nSchools that participate in the primary and secondary education named user offering may issue a child under 13 an enterprise-level Adobe ID, consistent with the&nbsp;Primary and Secondary Education Additional Terms.</b>\n</p>\n<p>&nbsp;</p>\n<p>\n<b>1.\nYour Agreement with Adobe.</b>\n</p>\n<p>&nbsp;</p>\n<p>1.1&nbsp;<b>Choice of Law and Contracting Entity.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:06:59",
+            "point_link": "https://edit.tosdr.org/points/9535",
+            "approval_status": "APPROVED",
+            "clause_text": "We will respond to clear notices of copyright infringement consistent with the Digital Millennium Copyright Act (“DMCA”)",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14436",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of the Terms is held invalid or unenforceable for any reason, the remainder of the Terms will continue in full force and effect.</p>",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14443",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies and other technologies to track the use of our websites and apps.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:10:56",
+            "point_link": "https://edit.tosdr.org/points/14449",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share or publish aggregate information that doesn’t specifically identify you, such as statistical information about visitors to our websites or statistical information about how customers use the Adobe Experience Cloud.<br>",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2024-01-07 13:33:07",
+            "point_link": "https://edit.tosdr.org/points/35646",
+            "approval_status": "APPROVED",
+            "clause_text": "Please notify Customer Support immediately if you become aware of any unauthorized use of your account.",
+            "point_source": null,
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14437",
+            "approval_status": "APPROVED",
+            "clause_text": "</b>Our failure to enforce or exercise any provision of the Terms is not a waiver of that provision.</p>",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14455",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, most web browsers have a “Do Not Track” feature that lets you tell websites you do not want to have your online activities tracked.\nCurrently, there is not an accepted standard on how companies should respond to web browsers’ “Do Not Track” signals.\nAccordingly, our apps and websites do not currently recognize or respond to “Do Not Track” browser signals.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "For users living in North America, the court of law governing the terms is in location California, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/14423",
+            "approval_status": "APPROVED",
+            "clause_text": "If you reside in North America (inclusive of United States, Canada, Mexico, United States territories and possessions, and United States military bases wherever located), your relationship is with Adobe Inc., a United States company, and the Terms are governed by the law of California, U.S.A., unless preempted by U.S.\nfederal law, without regard to conflict of law rules.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "For users living outside of North America, the court of law governing the terms is in location Ireland",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/14424",
+            "approval_status": "APPROVED",
+            "clause_text": "If you reside outside of North America, your relationship is with Adobe Systems Software Ireland Limited, and the Terms are governed by the law of Ireland.",
+            "point_source": "https://www.adobe.com/legal/terms.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:58",
+            "point_link": "https://edit.tosdr.org/points/14463",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We collect information about how you use our apps and websites, including when you use a desktop app feature that takes you online (such as a photo syncing feature). Depending on the app or website, this information may be associated with your device or browser or it may be associated with your Adobe account. It includes: IP address;\"",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service employs separate policies for different parts of the service",
+            "rating": "neutral",
+            "description": "The user may need to read additional product-specific agreements depending on the way the service is used.",
+            "last_updated": "2023-07-11 10:10:57",
+            "point_link": "https://edit.tosdr.org/points/14462",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that websites and apps provided by some companies acquired by Adobe may operate under their own privacy policies until their privacy practices are integrated with Adobe's privacy practices.\nFor a current list of these companies, click here.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Separate policies are employed for different parts of the service",
+                "href": "https://edit.tosdr.org/cases/200"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:55",
+            "point_link": "https://edit.tosdr.org/points/14440",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Adobe websites may implement Google reCAPTCHA Enterprise to help prevent spam and abuse.",
+            "point_source": "https://www.adobe.com/privacy/policy.html",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

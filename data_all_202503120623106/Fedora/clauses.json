@@ -1,0 +1,263 @@
+{
+    "meta_data": {
+        "title": "Fedora - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31000",
+            "approval_status": "APPROVED",
+            "clause_text": "your geographic coordinates (longitude/latitude)",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:28:56",
+            "point_link": "https://edit.tosdr.org/points/30999",
+            "approval_status": "APPROVED",
+            "clause_text": "Fedora collects personal data when:</p>",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:56",
+            "point_link": "https://edit.tosdr.org/points/31006",
+            "approval_status": "APPROVED",
+            "clause_text": "Fedora often makes chat rooms, forums, mailing lists, message boards, and/or news groups available to its\nusers.\nPlease remember that any information that is disclosed in these areas becomes public information.\nExercise caution when deciding to disclose your personal data.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 06:28:59",
+            "point_link": "https://edit.tosdr.org/points/31012",
+            "approval_status": "APPROVED",
+            "clause_text": "Changes to this Privacy Statement <p>Fedora reserves the right to change this policy from time to time.\nIf we do make changes, the revised Privacy\nStatement will be posted on this site.\nA notice will be posted on our homepage for 30 days whenever this\nprivacy statement is changed in a material way.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:28:56",
+            "point_link": "https://edit.tosdr.org/points/31002",
+            "approval_status": "APPROVED",
+            "clause_text": "Using (Processing) Your Personal Data",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-04-21 17:56:18",
+            "point_link": "https://edit.tosdr.org/points/31015",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://gitlab.com/fedora/websites-apps/fedora-websites/fedora-websites-3.0",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:28:56",
+            "point_link": "https://edit.tosdr.org/points/30998",
+            "approval_status": "APPROVED",
+            "clause_text": "The Information We Collect",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:28:56",
+            "point_link": "https://edit.tosdr.org/points/31010",
+            "approval_status": "APPROVED",
+            "clause_text": "Your Rights and Choices in the EEA <p>Where the EU General Data Protection Regulation 2016/679 (“GDPR”) applies to the processing of your personal\ndata, especially when you access the website from a country in the European Economic Area (“EEA”), you have the\nfollowing rights, subject to some limitations, against Fedora:</p>",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31005",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Commitment to Data Security",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:28:56",
+            "point_link": "https://edit.tosdr.org/points/31013",
+            "approval_status": "APPROVED",
+            "clause_text": "Publishing someone else’s private information, such as a physical or electronic address, without explicit permission</p>",
+            "point_source": "https://docs.fedoraproject.org/en-US/project/code-of-conduct/",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31004",
+            "approval_status": "APPROVED",
+            "clause_text": "However, you must understand that\nthe use of cookies may be necessary to provide certain services, and choosing to reject cookies will reduce the\nperformance and functionality of the site.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31011",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Statement was last amended on May 25, 2018.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31014",
+            "approval_status": "APPROVED",
+            "clause_text": "Repeatedly instigating conflict, and baiting people into arguments</p>\n</li>\n<li>\n<p>Public or private harassment</p>",
+            "point_source": "https://docs.fedoraproject.org/en-US/project/code-of-conduct/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31007",
+            "approval_status": "APPROVED",
+            "clause_text": "Although we value individual ideas and encourage\nfree expression, Fedora reserves the right to take necessary action to preserve the integrity of these areas,\nsuch as removing any posting that is vulgar or inappropriate.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31008",
+            "approval_status": "APPROVED",
+            "clause_text": "Fedora does not knowingly allow children under the age of 13 to become\nregistered members of our sites.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31001",
+            "approval_status": "APPROVED",
+            "clause_text": "for research activities, including the production of statistical reports (such aggregated information is not\nused to contact the subjects of the report);",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31009",
+            "approval_status": "APPROVED",
+            "clause_text": "Fedora does not control the information collection of sites that can be reached through links from fedoraproject.org.\nIf you have questions about the data collection procedures of linked sites, please contact those sites directly.</p>",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31003",
+            "approval_status": "APPROVED",
+            "clause_text": "Fedora’s online services automatically capture IP addresses.\nWe use IP addresses to help diagnose problems with\nour servers, to administer our website, and to help ensure the security of your interaction with our services.\nYour IP address is used to help identify you and your location, in order to provide you data and content from\nour services as quickly as possible.",
+            "point_source": "https://docs.fedoraproject.org/en-US/legal/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

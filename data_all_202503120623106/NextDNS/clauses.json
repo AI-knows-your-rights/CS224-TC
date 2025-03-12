@@ -1,0 +1,81 @@
+{
+    "meta_data": {
+        "title": "NextDNS - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:04:40",
+            "point_link": "https://edit.tosdr.org/points/8270",
+            "approval_status": "APPROVED",
+            "clause_text": "2.\nWhen the service comes into contact with user data that shall not be logged, it is discarded as quickly as possible.",
+            "point_source": "https://nextdns.io/privacy",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:11:26",
+            "point_link": "https://edit.tosdr.org/points/14200",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not (and will never) sell, license, sublicense or share any of the data submitted directly or indirectly by our users with any person or entity.",
+            "point_source": "https://nextdns.io/privacy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 10:04:40",
+            "point_link": "https://edit.tosdr.org/points/8271",
+            "approval_status": "APPROVED",
+            "clause_text": "If not specifically requested by the user, no data is logged.\nSome features require some sort of data retention.\nin that case, our users are given the option, control, and full access to what is logged and for how long",
+            "point_source": "https://nextdns.io/privacy",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22510",
+            "approval_status": "APPROVED",
+            "clause_text": "We also follow a strict policy of “What You See Is What We Have” (WYSIWWH), letting you see, export or delete every bit of your data at any time",
+            "point_source": "https://nextdns.io/privacy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:03:33",
+            "point_link": "https://edit.tosdr.org/points/13295",
+            "approval_status": "APPROVED",
+            "clause_text": "NextDNS Inc.\nis an independent company 100% funded, owned and controlled by its founders and will never engage in any data sharing or selling activities, now or in the future.",
+            "point_source": "https://nextdns.io/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        }
+    ]
+}

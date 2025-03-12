@@ -1,0 +1,417 @@
+{
+    "meta_data": {
+        "title": "OneSignal - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 04:48:17",
+            "point_link": "https://edit.tosdr.org/points/19321",
+            "approval_status": "APPROVED",
+            "clause_text": "They may also collect device identifiers and GPS location data.\n    \n          On 2024-07-26 18:44:59 UTC, sowaro4784 (31933)  wrote:\n          I exploit solely premium quality products – you will observe these individuals on:\tPest Control Tampa",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19332",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, as you browse our website, advertising cookies may be placed on your computer so that we can understand what you are interested in.\nOur display advertising partners may then help us retarget ads to you on other sites based on your interactions with the OneSignal Website.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19329",
+            "approval_status": "APPROVED",
+            "clause_text": "We likewise may share the SDK Information or Data Segments we create with website operators and app developers (for instance, related to push notifications they send) for their advertising, analytics, or other purposes.</li>\n</ul>",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19325",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Sometimes the SDK Information may be to perform any of the above functions, or other marketing or analytics services.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:16:04",
+            "point_link": "https://edit.tosdr.org/points/19324",
+            "approval_status": "APPROVED",
+            "clause_text": "Information may be used to resolve identities across multiple devices, such as to match IP addresses or hashed emails to link an End User across (for instance) browsers, mobile devices, tablets, set top boxes, or other devices.</li>",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19330",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>If the disclosure is done as part of, including as part of due diligence for, a purchase, transfer, or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, any information we have may be one of the transferred assets) or in the event of bankruptcy</li>\n</ul>",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons and device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19334",
+            "approval_status": "APPROVED",
+            "clause_text": "We use automated mechanisms, such as cookies, pixels, and other locally stored objects (such as “IndexedDB)”) that we associate with unique identifiers in order to keep track of visitor interactions with the OneSignal Websites.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19318",
+            "approval_status": "APPROVED",
+            "clause_text": "Web pages visited that have implemented the SDK, and information about those visits (e.g., session duration, time-stamp, referring URLs)</li>\n<li>",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19346",
+            "approval_status": "APPROVED",
+            "clause_text": "Any controversy or claim arising out of or\nin any way connected with this EULA between the Parties shall be\nresolved by one arbitrator, in accordance with the Commercial\nArbitration Rules of the American Arbitration Association and shall be\nheld in San Francisco County, California.",
+            "point_source": "https://onesignal.com/tos",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/19320",
+            "approval_status": "APPROVED",
+            "clause_text": "This location information is combined with mobile advertising identifiers.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19328",
+            "approval_status": "APPROVED",
+            "clause_text": "For instance, we may share certain of the information we collect or receive with companies that help us with billing and payment, marketing, advertising and email marketing, data enhancement (e.g., to provide more relevant offers)",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19326",
+            "approval_status": "APPROVED",
+            "clause_text": "We share the SDK Information with service providers, contractors and other companies to fulfill your orders, operate our business, communicate with you and make available our Services and this Website.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/19323",
+            "approval_status": "APPROVED",
+            "clause_text": "For instance, if SDK Information indicates that a particular device is frequently seen at restaurants, we might categorize a user for targeting of local restaurant offers.\nOr, if a user is frequently seen at sports stadiums, we might categorize the user as a “Sports Fan.”</li>",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/19331",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use third party-services such as Google Analytics, in which case those third parties gather information such as your IP address, browser type, the webpage from which you came to our website, and the times of your access to the OneSignal Website.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user or $1500",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19342",
+            "approval_status": "APPROVED",
+            "clause_text": "(B) ANY DIRECT DAMAGES ARISING FROM OR RELATING TO THIS EULA\nTO THE EXTENT THAT THE AGGREGATE AMOUNT OF SUCH DAMAGES EXCEEDS THE GREATER\nOF (X) ALL AMOUNTS PAID BY ONE PARTY TO ANOTHER DURING THE SIX MONTHS\nPRECEDING THE DATE OF THE EVENT THAT IS THE BASIS FOR THE CLAIM AND (Y)\n$1500.\n</li>",
+            "point_source": "https://onesignal.com/tos",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "If you're a resident of the EU or the UK, you can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19336",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>In addition, if you are a resident of the European Union or the United Kingdom, you can <strong>object to processing </strong> of your Personal Data, ask us to <strong>restrict processing </strong> of your Personal Data",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19335",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>If you wish to <strong>access, correct, update or request deletion </strong> of your Personal Data, you can do so at any time by contacting us at Privacy@OneSignal.com.\n</li>",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19337",
+            "approval_status": "APPROVED",
+            "clause_text": "or <strong>request portability </strong> of your Personal Data.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:35:29",
+            "point_link": "https://edit.tosdr.org/points/19317",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:15:20",
+            "point_link": "https://edit.tosdr.org/points/19322",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use the SDK Information",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19333",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>When required by law or in response to lawful process, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:16:05",
+            "point_link": "https://edit.tosdr.org/points/19341",
+            "approval_status": "APPROVED",
+            "clause_text": "Either Party terminate this EULA for any reason or for no reason at\nany time upon thirty (30) days’ prior written notice to the other Party.",
+            "point_source": "https://onesignal.com/tos",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19338",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to <strong>opt-out of marketing communications </strong> we send you at any time.\nYou can exercise this right by clicking on the “opt-out” link in the marketing communications we send you or by contacting us at Privacy@OneSignal.com.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:16",
+            "point_link": "https://edit.tosdr.org/points/19344",
+            "approval_status": "APPROVED",
+            "clause_text": "Licensee agrees to\nindemnify, defend, and hold the Company and its affiliates and their\nrespective directors, officers, employees, and agents (collectively\n“Indemnified Company Persons”) harmless from and against any Losses\narising out of any lawsuit, action, claim, demand, administrative\naction, arbitration, or other legal proceeding brought or asserted\nagainst any Indemnified Company Person as a result of or in connection\nwith: (a) Licensee’s breach or alleged breach of any covenant or\nrepresentation herein or of Licensee’s own posted privacy policy (or\nsimilar posted privacy statement).\nor (b) any violation of applicable\nlaw by Licensee or any other Indemnified Licensee Persons.",
+            "point_source": "https://onesignal.com/tos",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 04:47:42",
+            "point_link": "https://edit.tosdr.org/points/19340",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at our sole discretion, to modify this Privacy Policy or any portion thereof.\nAny changes will be effective from the time of publication of the new privacy policy.\nIf we believe that the changes are material, we will let you know by doing one (or more) of the following: (i) posting the changes on or through the Services, (ii) sending you an email or message about the changes.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:16:05",
+            "point_link": "https://edit.tosdr.org/points/19343",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong> THE SDK IS BEING PROVIDED TO LICENSEE ON AN\n“AS-IS” AND “AS AVAILABLE” BASIS.",
+            "point_source": "https://onesignal.com/tos",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19319",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>IP address, from which geographic location may be inferred",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:21",
+            "point_link": "https://edit.tosdr.org/points/19327",
+            "approval_status": "APPROVED",
+            "clause_text": "These service providers may help us perform any of the activities set forth in Section 2.",
+            "point_source": "https://onesignal.com/privacy_policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in California, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:15:22",
+            "point_link": "https://edit.tosdr.org/points/19345",
+            "approval_status": "APPROVED",
+            "clause_text": "This EULA shall be governed by the laws\nof the State of California without regard to choice of law principles.\n</li>",
+            "point_source": "https://onesignal.com/tos",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

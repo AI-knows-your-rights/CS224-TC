@@ -1,0 +1,473 @@
+{
+    "meta_data": {
+        "title": "Wallapop - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29274",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop collects and handles your personal data when you have registered as a user on either the application or the webpage and also of the users who browse or use the app without having registered",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29277",
+            "approval_status": "APPROVED",
+            "clause_text": "To analyse the content of the chats in which you interact with other users.",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29276",
+            "approval_status": "APPROVED",
+            "clause_text": "if your previous consent has been given to us, we will have access the location of your device in order to show you the items that are closest to you, allowing you to enjoy our services to the full",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/29280",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Wallapop has access to and collects data, for the aforementioned purposes, on the location of the device when the geo-localisation feature is enabled",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29282",
+            "approval_status": "APPROVED",
+            "clause_text": "we will share your data with third parties in order to display adverts that match your purchasing and browsing preferences within our, and external, services and products",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29447",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to deliver the items, your personal details will be supplied to the third party operators of the postal service carrying out the delivery and between those contracted to carry out the transaction, who are contracted to act within the established regulations of personal data protection.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29279",
+            "approval_status": "APPROVED",
+            "clause_text": "The data gathered in order to show you targeted advertisement will be kept for the period that you do not disagree to those terms",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/29289",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>Persistent analysis cookies from Google Analytics: we and Google process these and they allow us to quantify the number of users and so carry out statistical measurement and analysis of the use users make of our services",
+            "point_source": "https://about.wallapop.com/en/cookies/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Your information is only shared with third parties when given specific consent",
+            "rating": "good",
+            "description": "The service does not share user information with any third parties unless users specifically give it permission to do so.",
+            "last_updated": "2023-07-11 06:26:18",
+            "point_link": "https://edit.tosdr.org/points/29094",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>As previously mentioned, only in the case that you have given your prior consent, may Wallapop provide your data to third parties outside of our company",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Your information is only shared with third parties when given specific consent",
+                "href": "https://edit.tosdr.org/cases/296"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:26:26",
+            "point_link": "https://edit.tosdr.org/points/29278",
+            "approval_status": "APPROVED",
+            "clause_text": "You can exercise your rights to access, modify, deny or restrict the handling and portability of your data",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29449",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop reserves the right to deny the use of the Service temporarily or permanently to any User that breaches the rules as set out in the Terms and conditions as well as legal and moral regulations.\nWallapop may also prohibit the use of a User or restrict access to Users on the grounds of the ensuring the best use of the Service and/or the Users experience of such.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29443",
+            "approval_status": "APPROVED",
+            "clause_text": "It’s not possible to accidently purchase features as the buying process is made up of several steps in order to select and accept the Users options.\ntherefore, any claim against this is inadmissible.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/29285",
+            "approval_status": "APPROVED",
+            "clause_text": "The Terms and conditions are applicable as of the 24th of October 2016 and replace the previous Terms and Conditions that were applied from 2nd of May 2016",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:26:42",
+            "point_link": "https://edit.tosdr.org/points/29445",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop is not aware of the content or services of the Linked sites and, therefore, are not directly or indirectly liable for any damages caused by the unlawfulness, quality, unavailability, error or uselessness of the content and / or services on Linked sites nor any other damage that is not directly attributable to wallapop.</p>",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "This service can use your content for all their existing and future services",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29446",
+            "approval_status": "APPROVED",
+            "clause_text": "The User freely and exclusively offers wallapop public communication rights, rights of reproduction, distribution and transformation of the the Content, in all the exploitation modalities that exist at the time of accepting the Terms and conditions for the complete duration of this agreement that covers the x x rights.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service can use your content for all their existing and future services",
+                "href": "https://edit.tosdr.org/cases/180"
+            }
+        },
+        {
+            "title": "This service has a no refund policy with some exceptions",
+            "rating": "neutral",
+            "description": "Payments can be refunded if some requirements are fulfilled.",
+            "last_updated": "2023-07-11 06:26:44",
+            "point_link": "https://edit.tosdr.org/points/29456",
+            "approval_status": "APPROVED",
+            "clause_text": "In the case of making an unsuccessful payment for a feature via the website or if technical issues interrupt the payment process.\nthe limit of 14 calendar days applies to request a refund for this feature.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service has a no refund policy with some exceptions",
+                "href": "https://edit.tosdr.org/cases/398"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:26:29",
+            "point_link": "https://edit.tosdr.org/points/29273",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop reserves the right to check the age of any user of the webpage or application at any time",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29454",
+            "approval_status": "APPROVED",
+            "clause_text": "For this reason, when this data is not provided to us, we can not process your registration or offer the required services of buying and selling via Wallapop",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:26:42",
+            "point_link": "https://edit.tosdr.org/points/29453",
+            "approval_status": "APPROVED",
+            "clause_text": "This webpage or application is not designed for use by those under the age of 14.\nthose of this age, or below, should also refrain from supplying any data of a personal nature.\nTo this effect, Wallapop only recommends the use of their webpage and application for those over the age of 18.",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29451",
+            "approval_status": "APPROVED",
+            "clause_text": "Uploading listings with images of sexual content is prohibited.</p>\n<p>– It is prohibited to upload ads related to sex, eroticism or fetishism nor is it allowed to offer services of massage or company and friendship",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29442",
+            "approval_status": "APPROVED",
+            "clause_text": "The User undertakes to use the service in accordance with the law, morality, public policy and these Terms and conditions.\nHe/she also undertakes to make appropriate use of the services and/or content on the website and not use it to perform activities that are unlawful or illegal, infringe any applicable legal rules or infringe the rights of third parties.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29288",
+            "approval_status": "APPROVED",
+            "clause_text": "The User may not hold wallapop liable for any possible claim, fine, punishment or sanction that may become enforced as a result of breaching of the rules previously indicated",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/29290",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop will conserve purely statistical data on the use of resources and tools",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29457",
+            "approval_status": "APPROVED",
+            "clause_text": "The configuration of Google Analytics is predetermined by Google Inc., so we suggest that you view the Google Analytics privacy page (http://www.google.com/intl/es/analytics/privacyoverview.html) in order to obtain information about the “cookies” it uses and how to disable them.</p>",
+            "point_source": "https://about.wallapop.com/en/cookies/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:26:30",
+            "point_link": "https://edit.tosdr.org/points/29287",
+            "approval_status": "APPROVED",
+            "clause_text": "The User is responsible at all times for the security of their password and assumes the risk of any damage or harm as a result of misuse, as well as, the transfer, revelation or loss of the same",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/29284",
+            "approval_status": "APPROVED",
+            "clause_text": "The cookies used by this website and their purpose are described below",
+            "point_source": "https://about.wallapop.com/en/cookies/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:26:42",
+            "point_link": "https://edit.tosdr.org/points/29448",
+            "approval_status": "APPROVED",
+            "clause_text": "Any claim resulting from a dispute between the Users of the Service should be solved between one another.\nholding wallapop totally exempt from liability",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29444",
+            "approval_status": "APPROVED",
+            "clause_text": "wallapop is not responsible for damages of any nature derived from:</p>\n<p>a) The use of the Service by any of the Users.\nthe status, origin, inaccuracy or falsification of the information supplied to us by the Users nor the items they have for sale via the Service.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29450",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop is not the owner of any of the goods on sale or sold on their platform.\nit takes no part in buying and selling transactions carried out exclusively by the buyer and seller.\nWallapop does not moderate nor validate the items offered by the user via the Wallapop service and does not take any responsibility.\ndirectly, indirectly or subsequently for damages of any kind derived from the use or employment of its contents.\nThey take no responsibility for the activities of the user and or third parties of the service.\nThey are equally not responsible for the legality reliability, utility, veracity, accuracy, exhaustiveness and relevance of any transaction",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/29286",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The service provider reserves the right to modify and update the Terms and conditions that once in force, must be agreed to by the User in order to continue using the Service",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29458",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop will not be responsible in any case for damages caused as a consequence of incorrect or insufficient packaging.",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:26:29",
+            "point_link": "https://edit.tosdr.org/points/29275",
+            "approval_status": "APPROVED",
+            "clause_text": "Wallapop obtains and uses the IP address and other identification from the device used to browse our webpage and application",
+            "point_source": "https://about.wallapop.com/en/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "You agree to comply with the law of the service's country",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 06:26:43",
+            "point_link": "https://edit.tosdr.org/points/29452",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms and conditions will be governed by and construed in accordance with Spanish Law",
+            "point_source": "https://about.wallapop.com/en/legal-terms-and-conditions/",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        }
+    ]
+}

@@ -1,0 +1,543 @@
+{
+    "meta_data": {
+        "title": "ADT - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21502",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Log Files:</b>&nbsp;We gather certain information automatically and store it in log files",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21497",
+            "approval_status": "APPROVED",
+            "clause_text": "Mobile Application:</b>&nbsp;We may collect information such as registration and activation information from our mobile application(s) associated with our service(s) and your device(s).&nbsp;</li>\n<li>\n<b>Device Data:</b>&nbsp;We may collect various types of data and event information from your device(s) by using cameras, microphones, GPS, or other monitoring sensors.\n</li>",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21504",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-12 06:42:45 UTC, bangpiano0101 (33629)  wrote:\n          Welcome to GO99, which provides the ultimate, diverse and attractive online betting experience! At GO99, we are proud to provide a safe playground. - please click here đăng ký go99",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 04:49:26",
+            "point_link": "https://edit.tosdr.org/points/21495",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<b>In General:</b>&nbsp;When you use our website(s), service(s), and your device(s) you may be asked to provide personal information such as: <ul>\n<li>Name and/or business name</li>\n<li>Home address and/or business address</li>\n<li>Home, business, and/or mobile telephone number </li>\n<li>Email address</li>\n<li>Credit, debit, or other payment account number and related information </li>\n<li>Date of birth or other identifying personal characteristics </li>\n<li>Social Security Number</li>\n<li>Emergency contact list information about others </li>\n<li>Personal identification code</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>\n<b>Product Specific:</b>&nbsp;Certain device(s) or service(s) may collect additional information such as: <ul>\n<li>Audio, video, and still-image recordings from your monitoring device(s) </li>\n<li>Geolocation and GPS information including physical location of your device(s) by using satellite, cell phone tower, or Wi-Fi signals </li>\n<li>Motion detection, accelerometer activity, and climate conditions surrounding your device(s) </li>\n<li>Monitoring event information such as arming and disarming your device(s) </li>\n<li>Internet protocol (IP) addresses, internet service provider (ISP), date/time stamp, and/or other event data which is automatically collected and stored in log files",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21500",
+            "approval_status": "APPROVED",
+            "clause_text": "Local Stored Objects:</b>&nbsp;We may store information about your browsing activities through locally stored objects by using technologies such as “Flash cookies” and HTML5 (“LSOs”).\nLSOs tack your actions and store information about your preferences and can be used by third party partners to deliver interest-based advertisements.\n</li>",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Some personal data may be kept after the end of the data retention period or a request for erasure",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 04:49:26",
+            "point_link": "https://edit.tosdr.org/points/21515",
+            "approval_status": "APPROVED",
+            "clause_text": "ADT will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21485",
+            "approval_status": "APPROVED",
+            "clause_text": "ADT reserves the right, in its sole discretion, to terminate your access to all or part of this site, with or without notice, without liability to you, any other user, or any third party.</p>",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21506",
+            "approval_status": "APPROVED",
+            "clause_text": "We use the information collected from third party sources to determine the suitability of extending credit and for marketing purposes.</p>",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-07-11 04:49:19",
+            "point_link": "https://edit.tosdr.org/points/21492",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-01-01 10:02:47 UTC, Opurnerly (33910)  Suspended wrote:\n          What documents are required on usavisagov? USA VISA ELIGIBILITY QUESTIONS",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21505",
+            "approval_status": "APPROVED",
+            "clause_text": "</ul>\n<p>We may combine the above information with other information we collect or receive from other sources, such as public databases, joint marketing partners, social media platforms, and other third parties including, but not limited to, credit reporting bureaus.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21508",
+            "approval_status": "APPROVED",
+            "clause_text": "Providing marketing and promotional materials</li>",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21503",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Log Files:</b>&nbsp;We gather certain information automatically and store it in log files.\nThis information may include Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21501",
+            "approval_status": "APPROVED",
+            "clause_text": "Our website(s) include social media features that may collect your Internet Protocol (IP) address of the page you are visiting and may set a cookie to enable the feature to function properly.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Florida, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21519",
+            "approval_status": "APPROVED",
+            "clause_text": "Use of this Site shall be governed by all applicable Federal laws of the U.S.\nand the laws of the State of Florida, without giving effect to its conflict of laws provisions.",
+            "point_source": "https://www.adt.com/about-adt/legal/terms-of-use",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21499",
+            "approval_status": "APPROVED",
+            "clause_text": "Web Beacons:</b>&nbsp;We may collect information about your browsing activities by using web beacons.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21513",
+            "approval_status": "APPROVED",
+            "clause_text": "We may transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21514",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Cross-Border Transfer:</b> We may transfer, store, and/or access your information electronically or in hard copy in the United States or Canada.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21512",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<b>Legal Authorities:</b>&nbsp;We may also disclose your information for legal reasons including to comply with a subpoena or court order or similar legal process, to cooperate with law enforcement, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.</li>",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21484",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to review the Terms of Use periodically for changes, modifications, additions, or deletions.\nYour continued use of the site after such notice has been given constitutes acceptance of such changes, modifications, additions, or deletions.</p>",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21510",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share your information with partners and service providers (including ADT Authorized Dealers) to provide some of our service(s) and to complete our business purposes as described above.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21518",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it.",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21496",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>How ADT Collects Information",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21494",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>What Information ADT Collects",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21507",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>How ADT Uses Your Information",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21517",
+            "approval_status": "APPROVED",
+            "clause_text": "If you wish to opt out of interest-based advertising click here or if located in the European Union click here.",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21509",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Third Party Providers:</b> We do not sell your information to third parties for their own marketing purposes.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 04:49:21",
+            "point_link": "https://edit.tosdr.org/points/21511",
+            "approval_status": "APPROVED",
+            "clause_text": "Before we share personal information, we enter into written agreements with the business partners which contain data protection terms that safeguard your data.\nThese companies may use your personal information only as necessary to provide these services to us, except as otherwise authorized by you for another purpose.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:19",
+            "point_link": "https://edit.tosdr.org/points/21493",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>ADT Inc.\n(and its and its affiliated entities) participates in and has certified its compliance with the EU-U.S.\nPrivacy Shield Framework and the Swiss-U.S.\nPrivacy Shield Framework.",
+            "point_source": "https://www.myadtdigitalsecurity.com/privacy-policy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:19",
+            "point_link": "https://edit.tosdr.org/points/21491",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify, defend and hold harmless ADT, its officers, directors, employees, agents, licensors, suppliers and any third party information providers to the Site against any and all losses, expenses, damages and costs, including reasonable attorneys’ fees, incurred in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third party that your use of the Site violates the Terms, any applicable law or regulation, or the rights of any third party.<br>",
+            "point_source": "https://www.adt.com/about-adt/legal/terms-of-use",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:34:46",
+            "point_link": "https://edit.tosdr.org/points/15618",
+            "approval_status": "APPROVED",
+            "clause_text": "Last revised: January 10, 2018",
+            "point_source": "https://www.adt.com/about-adt/legal/terms-of-use",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21490",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In no event shall ADT, its Service Partners or licensors be liable for any damages suffered as a result of using, modifying, contributing, copying, distributing, or downloading any materials, information, software, products, and services included in or available through the Web Site.\nIn no event shall ADT, its Service Partners or licensors be liable for any indirect, punitive, special, incidental, or consequential damages (including but not limited to loss of business, revenue, profits, use, data, or other economic advantage), however it arises, whether in an action of contract, negligence, or other tortious action, arising out of or in connection with the use or performance of information available from the Web Site, even if previously advised of the possibility of such damage",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21486",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless otherwise specified, the Web Site is made available for your personal, non-commercial use only.",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21487",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-14 06:29:44 UTC, mansion0 (36915)  wrote:\n          Very informative post! There is a lot of information here that can help any business get started with a successful social networking campaign.  link situs toto",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 04:49:19",
+            "point_link": "https://edit.tosdr.org/points/21489",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-08-11 08:13:28 UTC, mansion0 (36915)  wrote:\n          This is my first time i visit here and I found so many interesting stuff in your blog especially it's discussion, thank you. olxtoto",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:22",
+            "point_link": "https://edit.tosdr.org/points/21498",
+            "approval_status": "APPROVED",
+            "clause_text": "Internet protocol (IP) addresses,",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 04:49:26",
+            "point_link": "https://edit.tosdr.org/points/21516",
+            "approval_status": "APPROVED",
+            "clause_text": "Our website(s) do not respond to browser Do Not Track (DNT) signals",
+            "point_source": "https://www.adt.com/about-adt/legal/privacy-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 04:49:20",
+            "point_link": "https://edit.tosdr.org/points/21483",
+            "approval_status": "APPROVED",
+            "clause_text": "Changes to Terms of Use\n<p>ADT reserves the right to update or revise the Terms of Use governing this site, or any part thereof, at any time, at its sole discretion, without prior notice.\nSuch changes, modifications, additions, or deletions shall be effective immediately upon notice thereof, which may be given by any means including posting on this site or by other electronic or conventional means.",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 04:49:19",
+            "point_link": "https://edit.tosdr.org/points/21488",
+            "approval_status": "APPROVED",
+            "clause_text": "ADT and its Service Partners hereby disclaim all express or implied representations, warranties, guaranties, and conditions, including but not limited to any implied warranties or conditions of merchantability, fitness for a particular purpose, title, and non-infringement",
+            "point_source": "https://www.myadtdigitalsecurity.com/terms-of-use",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

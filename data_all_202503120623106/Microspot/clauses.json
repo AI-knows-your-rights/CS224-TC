@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "Microspot - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17817",
+            "approval_status": "APPROVED",
+            "clause_text": "Si vous souhaitez commander des marchandises ou des services sur notre site, nous avons besoin, pour effectuer la transaction, des informations suivantes:</p>\n<ul>\n<li>\n<p>Formule d'appel</p>\n</li>\n<li>\n<p>Prénom Nom</p>\n</li>\n<li>\n<p>Adresse</p>\n</li>\n<li>\n<p>Date de naissance</p>\n</li>\n<li>\n<p>Numéro de téléphone (le vôtre ou celui d'une personne désignée par vous) pour les questions éventuelles liées à votre commande</p>\n</li>\n<li>\n<p>Adresse mail pour l'envoi des informations relatives à votre commande et de la confirmation de celle-ci</p>\n</li>\n<li>\n<p>Numéro de Supercard si vous souhaitez cumuler des points</p>\n</li>\n<li>\n<p>Langue de correspondance</p>\n</li>\n<li>\n<p>Type de paiement / prestataire de services financiers</p>\n</li>\n</ul>\n<p>Vous nous communiquez ces données personnelles en vous enregistrant comme visiteur ou en ouvrant un compte client personnel.</p>",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:15:55",
+            "point_link": "https://edit.tosdr.org/points/19869",
+            "approval_status": "APPROVED",
+            "clause_text": "Des données relatives aux achats ainsi que des données en rapport avec l’accès à des canaux numériques du groupe Coop peuvent être utilisées par ce biais.\nLors de la visite de canaux numériques du groupe Coop, des informations sont collectées dans les fichiers journaux et attribuées au profil client.\nLes données du compte client peuvent être fusionnées avec des données provenant d’autres sources (par ex.\ncelles de la base de données Supercard) et complétées avec des données de commerçants d’adresses (par ex.\nPost Mach Move).\nLes données client collectées peuvent être exploitées notamment à des fins de marketing et de publicité ainsi que pour l'établissement de statistiques (par ex.\nétude de marché).\nPar ailleurs, les données client peuvent être assemblées avec d’autres données du groupe Coop.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/cgv",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17818",
+            "approval_status": "APPROVED",
+            "clause_text": "Elle affirme ne pas mélanger avec d'autres lots de données l'adresse IP transmise par votre navigateur dans le cadre de Google Analytics, mais la synchroniser avec d'autres technologies de système Google telles que DoubleClick, p.\nex.\n(voir détails au chapitre Publicité en ligne adaptée à l'utilisateur ci-après).",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:03:09",
+            "point_link": "https://edit.tosdr.org/points/17815",
+            "approval_status": "APPROVED",
+            "clause_text": "le site à partir duquel ils sont arrivés sur le nôtre.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:07:56",
+            "point_link": "https://edit.tosdr.org/points/17751",
+            "approval_status": "APPROVED",
+            "clause_text": "Notre site utilise des plug-ins sociaux de tiers tels que Facebook, Twitter ou Google+.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:03:09",
+            "point_link": "https://edit.tosdr.org/points/17814",
+            "approval_status": "APPROVED",
+            "clause_text": "Pour enregistrer votre comportement d'utilisateur, nous plaçons un cookie sur votre ordinateur, que nous comparons au pixel invisible correspondant sur notre site.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 10:06:01",
+            "point_link": "https://edit.tosdr.org/points/17813",
+            "approval_status": "APPROVED",
+            "clause_text": "Les informations générées par le cookie sur votre utilisation du site sont généralement transmises à un serveur de Google aux Etats-Unis, où elles sont stockées.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "This service uses your personal information for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 10:08:25",
+            "point_link": "https://edit.tosdr.org/points/17753",
+            "approval_status": "APPROVED",
+            "clause_text": "Si vous passez une commande sur notre site en passant par un compte client actif, nous traitons les données spécifiques correspondantes afin d'enrichir la personnalisation de la publicité, mais uniquement pour organiser des contenus dynamiques et pour créer des segments de groupes cibles.\nPar exemple, pour afficher des offres spéciales spécifiques à une marque ou des publicités correspondant à vos centres d'intérêt (bannière, site internet ou newsletter).",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "Google Analytics is used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:07:55",
+            "point_link": "https://edit.tosdr.org/points/17750",
+            "approval_status": "APPROVED",
+            "clause_text": "Google Analytics utilise des cookies qu'il enregistre sur votre PC afin d'analyser l'utilisation que vous faites de notre site.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:49",
+            "point_link": "https://edit.tosdr.org/points/17812",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous vous renseignons gratuitement et sur simple demande de votre part sur les données archivées vous concernant.\nVous avez par ailleurs le droit de rectifier, de supprimer et de bloquer vos données personnelles.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Microspot will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:56",
+            "point_link": "https://edit.tosdr.org/points/19872",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous ne transmettons aucune donnée à des tiers non autorisés, sauf si la loi ou un jugement nous y obligent.</p>",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (Switzerland).",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:13:51",
+            "point_link": "https://edit.tosdr.org/points/17848",
+            "approval_status": "APPROVED",
+            "clause_text": "10.\nFor, droit applicable</strong>\n<p>Les présentes conditions générales de vente peuvent faire l’objet de modifications à tout moment.\nLe droit suisse s'applique en exclusivité.\nLe for est soit le domicile du client, soit le siège de Coop à Bâle-Ville ou, pour les achats via un commerçant tiers, le siège de ce dernier.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/cgv",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:08:13",
+            "point_link": "https://edit.tosdr.org/points/17754",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous ne transmettons aucune donnée à des tiers non autorisés, sauf si la loi ou un jugement nous y obligent.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:15:57",
+            "point_link": "https://edit.tosdr.org/points/19870",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous pouvons transmettre la totalité des données saisies par nous aux entreprises et aux unités de Coop Société Coopérative, lesquelles ont le droit d'utiliser ces données selon les mêmes règles que celles qui s'appliquent à nous.\nNous transmettons par ailleurs vos données à des tiers si le traitement des commandes l'exige (pour la livraison, p.\nex.) ou si ces tiers sont chargés de traiter ces données dans le cadre de rapports contractuels avec nous.\nNous pouvons aussi mandater des prestataires de services externes liés par des instructions, pour assurer notamment l'exploitation du site ou l'envoi de mailings et d'e-mails.\nLes prestataires externes n'ont accès aux données personnelles que dans les conditions d'utilisation prévues par leur mandat et doivent signer un accord de confidentialité qui les engage juridiquement à respecter les instructions de Coop Société Coopérative.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:55",
+            "point_link": "https://edit.tosdr.org/points/19875",
+            "approval_status": "APPROVED",
+            "clause_text": "Une fois inscrit, vous recevrez un mail vous invitant à valider votre abonnement.\nVous pouvez vous désabonner à tout moment en cliquant sur le lien de désabonnement figurant dans chaque newsletter.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:35",
+            "point_link": "https://edit.tosdr.org/points/18649",
+            "approval_status": "APPROVED",
+            "clause_text": "Notre site intègre des images et des vidéos de sites de tiers, ainsi que des liens menant à ces sites.\nCes derniers ne sont pas concernés par les présentes dispositions.\nNous n'avons aucune influence sur l'adoption et le respect de celles-ci par les exploitants des sites tiers et déclinons par conséquent toute responsabilité quant à l'exactitude, à l'actualité et à l'exhaustivité des informations qu'ils proposent.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:34:02",
+            "point_link": "https://edit.tosdr.org/points/17722",
+            "approval_status": "APPROVED",
+            "clause_text": "Version: 05/2020</strong>",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/cgv",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service has a no refund policy with some exceptions",
+            "rating": "neutral",
+            "description": "Payments can be refunded if some requirements are fulfilled.",
+            "last_updated": "2023-07-11 10:15:55",
+            "point_link": "https://edit.tosdr.org/points/19868",
+            "approval_status": "APPROVED",
+            "clause_text": "En règle générale, le client ne dispose d’aucun droit de reprise ou d’échange.\nLa reprise d’articles est possible dans certains cas, conformément aux conditions de reprise.\nAucun échange possible.\nLa reprise d’un article est uniquement possible dans un délai de deux semaines (14 jours calendaires) après réception de la marchandise.\n</p>\n<p>La reprise doit toujours être sollicitée via notre portail de retour sur www.microspot.ch.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/cgv",
+            "case": {
+                "text": "This service has a no refund policy with some exceptions",
+                "href": "https://edit.tosdr.org/cases/398"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:03:32",
+            "point_link": "https://edit.tosdr.org/points/17847",
+            "approval_status": "APPROVED",
+            "clause_text": "2.1.\nLes offres de microspot.ch sur la boutique en ligne www.microspot.ch s’adressent à des clients majeurs",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/cgv",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:14:35",
+            "point_link": "https://edit.tosdr.org/points/18651",
+            "approval_status": "APPROVED",
+            "clause_text": "Pour en savoir plus sur la collecte et l'utilisation de vos données par un fournisseur, sur vos droits à cet égard et sur les moyens dont vous disposez pour protéger votre vie privée, veuillez consulter les informations du fournisseur sur la protection des données.</p>\n<ul>\n<li>\n<p>Facebook Ireland Ltd.\nou Facebook, Inc.: https://www.facebook.com/policy</p>\n</li>\n<li>\n<p>Google Inc.: https://policies.google.com/privacy </p>\n</li>\n<li>\n<p>Twitter Inc.: https://twitter.com/fr/privacy",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:11:46",
+            "point_link": "https://edit.tosdr.org/points/18650",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous les collectons et les utilisons en vue d'optimiser notre site et d'améliorer sa convivialité, par exemple.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:57",
+            "point_link": "https://edit.tosdr.org/points/17752",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous vous signalons explicitement qu'à cette occasion, votre adresse IP sera également enregistrée.",
+            "point_source": "https://www.microspot.ch/fr/cms/entreprise/protection-des-donn%C3%A9es",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

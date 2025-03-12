@@ -1,0 +1,459 @@
+{
+    "meta_data": {
+        "title": "Wise - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "[UK] You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 04:49:52",
+            "point_link": "https://edit.tosdr.org/points/21809",
+            "approval_status": "APPROVED",
+            "clause_text": "What this means for you when you use our Service we will require you to provide your name, address, date of birth, taxpayer ID, phone number, email address, and other information that will allow us to identify you.",
+            "point_source": "https://wise.com/terms-of-use",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "[US] Your account can be deleted upon notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21804",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Wise, in its sole discretion, reserves the right to suspend or terminate this Customer Agreement, access to or use of its Service websites, software, systems (including any networks and servers used to provide any of the Services) operated by us or on our behalf or some or all of the Services for any reason and at any time upon notice to you",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:27:34",
+            "point_link": "https://edit.tosdr.org/points/21806",
+            "approval_status": "APPROVED",
+            "clause_text": "List of third parties identified: CloudFlare, New Relic, Veriff, MixPanel, DoubleClick, Google Analytics, HotJar, Informizely, Facebook, Onclusive, Google Ads, Microsoft, Twitter, Yahoo, Snap, LinkedIn, Prospect Point Media, Beeswax, Podsights, Amazon Ads, Quora Ads, Google AdWords, YouTube Integrations, Google Pay, Facebook Integrations, Authy (Twilio).\n    \n      \n        \n          \n              Version 3: 2021-06-03 19:34:04 UTC by AgnesDeLion (20760)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 3: 2021-06-03 19:34:04 UTC by AgnesDeLion (20760)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 3: 2021-06-03 19:34:04 UTC by AgnesDeLion (20760)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED",
+            "point_source": "https://wise.com/gb/legal/cookie-policy",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "[US] Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21800",
+            "approval_status": "APPROVED",
+            "clause_text": "Note: This is from the Terms of Service for the USA.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "[US] Your provided identifiable information is actively checked by the service",
+            "rating": "bad",
+            "description": "The service checks if the required identifiable information you've provided is correct, and may do so on a regular basis. The check measures could be analyzing your browser information and/or providing the identifiable information to a third-party or the authority, thus compromising your anonymity.",
+            "last_updated": "2023-07-11 06:19:19",
+            "point_link": "https://edit.tosdr.org/points/22941",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you open a Wise Account and use certain Services, federal law requires that we verify some of your information.\nYou authorize Wise to make any inquiries we consider necessary to validate your identity.\nThese may be made directly or through third parties, including checking commercial databases or credit reports.\nWe may need to ask you for further information, requiring you to provide your date of birth, a taxpayer identification number and other information that will allow us to reasonably identify you.\nThis could include requiring you to take steps to confirm ownership of your email address or financial instruments, ordering a credit report from a credit reporting agency, or verifying your information against third party databases or through other sources.\n&nbsp;We may also ask to see your driver’s license or other identifying documents at any time.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "Your provided identifiable information is actively checked by the service",
+                "href": "https://edit.tosdr.org/cases/492"
+            }
+        },
+        {
+            "title": "[UK] Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 04:49:52",
+            "point_link": "https://edit.tosdr.org/points/21799",
+            "approval_status": "APPROVED",
+            "clause_text": "Because of the multiple Terms of Services (USA, UK, EEA), data gathered may have variations. For this point, this is for the United Kingdom.\n    \n      \n        \n          \n              Version 3: 2021-06-03 19:29:53 UTC by AgnesDeLion (20760)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 3: 2021-06-03 19:29:53 UTC by AgnesDeLion (20760)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 3: 2021-06-03 19:29:53 UTC by AgnesDeLion (20760)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  CHANGES REQUESTED",
+            "point_source": "https://wise.com/terms-of-use",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Your use is throttled",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21807",
+            "approval_status": "APPROVED",
+            "clause_text": "Kind of a shot in the dark, to be fair, because this doesn't relate to the usage of the service itself.",
+            "point_source": "https://wise.com/gb/legal/cookie-policy",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "[EU] Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21739",
+            "approval_status": "APPROVED",
+            "clause_text": "The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (\"EEA\").",
+            "point_source": "https://wise.com/privacy-policy-tw-europe",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "[EU] Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 04:49:33",
+            "point_link": "https://edit.tosdr.org/points/21605",
+            "approval_status": "APPROVED",
+            "clause_text": "2.\nData we collect about you",
+            "point_source": "https://wise.com/gb/legal/privacy-policy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "[US] When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 04:49:47",
+            "point_link": "https://edit.tosdr.org/points/21740",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If we change the Customer Agreement in a way that reduces your rights or increases your responsibilities, we will provide you with 30 days’ prior notice by posting notice here.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "A list of all cookies set by the website is provided",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21808",
+            "approval_status": "APPROVED",
+            "clause_text": "You can see each cookie we use and our reasons for using them below.</p>",
+            "point_source": "https://wise.com/gb/legal/cookie-policy",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "[EU] Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:13:11",
+            "point_link": "https://edit.tosdr.org/points/21734",
+            "approval_status": "APPROVED",
+            "clause_text": "Information we may collect from you",
+            "point_source": "https://wise.com/privacy-policy-tw-europe",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "[EU] Two factor authentication is provided for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 04:49:44",
+            "point_link": "https://edit.tosdr.org/points/21738",
+            "approval_status": "APPROVED",
+            "clause_text": "(d) Set up 2-step authentication where prompted",
+            "point_source": "https://wise.com/terms-of-use-tw-europe",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "[EU] The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:44",
+            "point_link": "https://edit.tosdr.org/points/21733",
+            "approval_status": "APPROVED",
+            "clause_text": "We are compliant with all applicable laws and regulations applicable to the processing of data, including the EU Regulation 2016/679 (the “GDPR”)",
+            "point_source": "https://wise.com/privacy-policy-tw-europe",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "[US] The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:49:45",
+            "point_link": "https://edit.tosdr.org/points/21737",
+            "approval_status": "APPROVED",
+            "clause_text": "9.1 California Consumer Privacy Act Notice",
+            "point_source": "https://wise.com/us/legal/privacy-policy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "[US] You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:44",
+            "point_link": "https://edit.tosdr.org/points/21731",
+            "approval_status": "APPROVED",
+            "clause_text": "Except to the extent prohibited under applicable law, you agree to defend, indemnify and hold harmless Wise and its affiliates, and their respective successors and assigns,",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:50:00",
+            "point_link": "https://edit.tosdr.org/points/21904",
+            "approval_status": "APPROVED",
+            "clause_text": "I think I may have selected too much. Maybe some other excerpts here could be of use to other cases?",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:49:33",
+            "point_link": "https://edit.tosdr.org/points/21604",
+            "approval_status": "APPROVED",
+            "clause_text": "All legal documents have a date on the last update of the agreements.",
+            "point_source": "https://wise.com/gb/legal/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "[US] This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:19:16",
+            "point_link": "https://edit.tosdr.org/points/21732",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-06-01 13:31:10 UTC by CyanoTex (23355)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-06-01 13:31:10 UTC by CyanoTex (23355)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-06-01 13:31:10 UTC by CyanoTex (23355)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: This service assumes no liability for any losses or damages resulting from any matter relating to the service\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: This service assumes no liability for any losses or damages resulting from any matter relating to the service\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: This service assumes no liability for any losses or damages resulting from any matter relating to the service\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: This service assumes no liability for any losses or damages resulting from any matter relating to the service\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 04:49:52",
+            "point_link": "https://edit.tosdr.org/points/21801",
+            "approval_status": "APPROVED",
+            "clause_text": "We may, at any time and without liability, modify or discontinue all or part of the Services (including access via any third-party links).\ncharge, modify or waive certain fees related to the Services.\nor offer the Services, or certain of the Services, to some or all users.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "[US] They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:19:16",
+            "point_link": "https://edit.tosdr.org/points/22940",
+            "approval_status": "APPROVED",
+            "clause_text": "Might be applicable service-wide though...",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "Alternative accounts are not allowed",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21802",
+            "approval_status": "APPROVED",
+            "clause_text": "\"unless we explicitly approve the opening of additional accounts. We may refuse the creation of duplicate accounts for the same user.\" Not sure what to make of this line, but it sounds like, if you ask them that you need an alternate account and give a good reason, they might go through with it? But then there's the \"may refuse\" part, which sounds like they may let you make an alternate account.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/21736",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to use some or all of the Services, you must first open a Wise Account",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "[EU] You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 06:19:16",
+            "point_link": "https://edit.tosdr.org/points/22943",
+            "approval_status": "APPROVED",
+            "clause_text": "You must not attempt to gain unauthorised access to our Website, our servers, computers or databases.",
+            "point_source": "https://wise.com/terms-of-use-tw-europe",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:52",
+            "point_link": "https://edit.tosdr.org/points/21805",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you do not log in to your Wise Account for two or more years, Wise may close your Wise Account and send your prepaid Borderless Account balance, if any, to your primary address or, if required, escheat (send) your prepaid Borderless Account balance to your state of residency.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:11:53",
+            "point_link": "https://edit.tosdr.org/points/21728",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be 18 years or over.</strong>",
+            "point_source": "https://wise.com/terms-of-use-tw-europe",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "[US] You can’t close your account if an investigation is ongoing",
+            "rating": "neutral",
+            "description": "If an investigation is currently ongoing, you’re not allowed to close your account until it’s done or in an attempt to avoid investigation.",
+            "last_updated": "2023-07-11 06:19:45",
+            "point_link": "https://edit.tosdr.org/points/23285",
+            "approval_status": "APPROVED",
+            "clause_text": "You must not close your Wise Account to avoid an investigation.\nIf you attempt to close your Wise Account during an investigation, we may hold your money until the investigation is fully completed.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "You can’t close your account if an investigation is ongoing",
+                "href": "https://edit.tosdr.org/cases/496"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:50:00",
+            "point_link": "https://edit.tosdr.org/points/21910",
+            "approval_status": "APPROVED",
+            "clause_text": "Let Customer Support know immediately if your email address becomes compromised.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "[US] You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:19:16",
+            "point_link": "https://edit.tosdr.org/points/22730",
+            "approval_status": "APPROVED",
+            "clause_text": "Contact Customer Support immediately if you believe your credentials have been compromised or you are suspicious about the security of your password or any other security features.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:49:52",
+            "point_link": "https://edit.tosdr.org/points/21803",
+            "approval_status": "APPROVED",
+            "clause_text": "You, not Wise, are responsible for maintaining adequate security and control of any and all IDs, passwords, or any other details that you use to access your Wise Account and the Services.",
+            "point_source": "https://wise.com/us/terms-of-use-tw-inc",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "[EU] The court of law governing the terms is in Belgium",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:12:35",
+            "point_link": "https://edit.tosdr.org/points/21735",
+            "approval_status": "APPROVED",
+            "clause_text": "a company incorporated under the law of Belgium",
+            "point_source": "https://wise.com/terms-of-use-tw-europe",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:19:16",
+            "point_link": "https://edit.tosdr.org/points/22942",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not liable if the amount received by the Recipient is less than anticipated as a result of changes in the global currency markets.",
+            "point_source": "https://wise.com/terms-of-use",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

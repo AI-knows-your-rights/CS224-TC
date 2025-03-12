@@ -1,0 +1,347 @@
+{
+    "meta_data": {
+        "title": "How-To Geek - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 10:09:29",
+            "point_link": "https://edit.tosdr.org/points/13588",
+            "approval_status": "APPROVED",
+            "clause_text": "The service can retain personal data after a request of erasure for as many reasons as \"In certain circumstances\" could imply.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes including advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:08:15",
+            "point_link": "https://edit.tosdr.org/points/13248",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>Note that some of our advertisers may place cookies on your computer, including Future plc and Google AdSense.\nWe do not have control over cookies placed by our advertisers.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:08:13",
+            "point_link": "https://edit.tosdr.org/points/13244",
+            "approval_status": "APPROVED",
+            "clause_text": "When you “like” or “follow” us on social media sites such as Facebook, Twitter, or LinkedIn, we collect some information from you including your name, e-mail address, and any comments or content you post relevant to us including photos or videos.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:35:01",
+            "point_link": "https://edit.tosdr.org/points/13241",
+            "approval_status": "APPROVED",
+            "clause_text": "Information Collected from Third Parties</li>",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:35:22",
+            "point_link": "https://edit.tosdr.org/points/13251",
+            "approval_status": "APPROVED",
+            "clause_text": "\"we reserve the right to make disclosures in the future, under the following circumstances: [...] As a part of business mergers or acquisitions\"",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:35:00",
+            "point_link": "https://edit.tosdr.org/points/13242",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>When you provide this information directly to us by the methods described above, we use it for the purpose of communicating with you, providing customer service, verifying your information, providing advertising or marketing services,",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service receives your location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:35:08",
+            "point_link": "https://edit.tosdr.org/points/13246",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We automatically collect certain information about the computer or devices you use to access our Site. This includes: (a) IP addresses,geolocation information,\"",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:08:15",
+            "point_link": "https://edit.tosdr.org/points/13243",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect and use this data for the purpose of communicating with you, providing customer service, verifying your information, providing advertising or marketing services,",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 06:35:33",
+            "point_link": "https://edit.tosdr.org/points/13256",
+            "approval_status": "APPROVED",
+            "clause_text": "Because, for your security, we require you to prove your identity before granting access to your information, we will verify your identity.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:35:11",
+            "point_link": "https://edit.tosdr.org/points/13247",
+            "approval_status": "APPROVED",
+            "clause_text": "We use third-party analytic providers and technologies, including cookies, as described below, and other similar tools, to assist in collecting this information.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:08:11",
+            "point_link": "https://edit.tosdr.org/points/13253",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you would like to correct or erase your personal data we have collected please send us a request by email at compliance@howtogeek.com.\nWhen we receive such a request, we will seek to comply as soon as reasonably practicable (but in no event more than 30 days).",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:35:28",
+            "point_link": "https://edit.tosdr.org/points/13254",
+            "approval_status": "APPROVED",
+            "clause_text": "We will keep your information only for as long as is reasonably necessary for the purposes that it has been collected, taking into account any legal requirements that may apply.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:36:13",
+            "point_link": "https://edit.tosdr.org/points/13257",
+            "approval_status": "APPROVED",
+            "clause_text": "Additionally, you have the right to request that we delete personal information that we may have collected from you.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties but may do it in the future",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:08:12",
+            "point_link": "https://edit.tosdr.org/points/13250",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not currently disclose your information in any of the categories above to third parties.\nHowever, we reserve the right to make disclosures in the future, under the following circumstances:</p>\n<ul>",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 06:35:28",
+            "point_link": "https://edit.tosdr.org/points/13252",
+            "approval_status": "APPROVED",
+            "clause_text": "</ul>\n<p>In the event that we make the decision to begin disclosing this information we will notify you by updating this policy, and prior to any significant disclosure we may provide notice to you by placing a notice in a prominent or relevant location within our Site, and in some cases via email directly to you.",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:08:12",
+            "point_link": "https://edit.tosdr.org/points/13240",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The information we collect falls into four data classes.</p>",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The services will notify users if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 10:08:12",
+            "point_link": "https://edit.tosdr.org/points/13255",
+            "approval_status": "APPROVED",
+            "clause_text": "In the unlikely event that we believe the security of your information may have been compromised, we may seek to notify you.</p>",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:35:00",
+            "point_link": "https://edit.tosdr.org/points/13239",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Our Data Protection Officer is the person responsible for overseeing our compliance with the General Data Protection Regulation (“GDPR”) and the California Consumer Privacy Act (“CCPA”).\nIf you want to contact this individual, you can email compliance@howtogeek.com.</p>",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:23:36",
+            "point_link": "https://edit.tosdr.org/points/26442",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated: October 16, 2017",
+            "point_source": "https://www.howtogeek.com/terms-of-use/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:08:12",
+            "point_link": "https://edit.tosdr.org/points/13249",
+            "approval_status": "APPROVED",
+            "clause_text": "However, if you set your browser to refuse cookies, some portions of our Site may not function properly.</p>",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:23:36",
+            "point_link": "https://edit.tosdr.org/points/26441",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to use our Services, you must be of legal age and competence.\nIf you are under legal age, you are prohibited from using our Services and further prohibited from providing us with any personal information.",
+            "point_source": "https://www.howtogeek.com/terms-of-use/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:08:27",
+            "point_link": "https://edit.tosdr.org/points/8249",
+            "approval_status": "APPROVED",
+            "clause_text": "No one under 13 years of age is allowed to provide any personal information or use our public forums, chats, etc.\nMinors between 13 – 17 years of age must get permission of their parent(s) or legal guardian(s) before using our Services",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:21",
+            "point_link": "https://edit.tosdr.org/points/13587",
+            "approval_status": "APPROVED",
+            "clause_text": "We receive this data, on occasion, for the purpose of providing information to you about products and services offered by How-To Geek and our business partners,",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:13",
+            "point_link": "https://edit.tosdr.org/points/13245",
+            "approval_status": "APPROVED",
+            "clause_text": "We automatically collect certain information about the computer or devices you use to access our Site.\nThis includes: (a) IP addresses,",
+            "point_source": "https://www.howtogeek.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

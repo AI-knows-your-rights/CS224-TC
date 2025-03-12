@@ -1,0 +1,123 @@
+{
+    "meta_data": {
+        "title": "YogaDNS - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22517",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Neither the Website nor the App uses cookies directly or indirectly",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22512",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In general, you can use the Website and the App without providing any personal information",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "Only necessary logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22514",
+            "approval_status": "APPROVED",
+            "clause_text": "When processing your DNS queries, the App does not transmit, store, analyze, or make use of that data.",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "Your personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22516",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22515",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.</p>",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (September 2020)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:18:28",
+            "point_link": "https://edit.tosdr.org/points/22511",
+            "approval_status": "APPROVED",
+            "clause_text": "Privacy Policy 4 September 2020",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22513",
+            "approval_status": "APPROVED",
+            "clause_text": "This information is technically necessary for a website to operate and comprises:</p>\n<ul>\n<li>the IP address",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The service is transparent regarding government requests or inquiries that may involve your data.",
+            "rating": "neutral",
+            "description": "Weight was 30.",
+            "last_updated": "2023-07-11 06:18:44",
+            "point_link": "https://edit.tosdr.org/points/22518",
+            "approval_status": "APPROVED",
+            "clause_text": "Warrant canary <p>We have not placed any backdoors into our software and have not received any requests to do so.<br>",
+            "point_source": "https://www.yogadns.com/legal/",
+            "case": {
+                "text": "The service is transparent regarding government requests or inquiries that may involve your data.",
+                "href": "https://edit.tosdr.org/cases/169"
+            }
+        }
+    ]
+}

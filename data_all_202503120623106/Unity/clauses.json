@@ -1,0 +1,879 @@
+{
+    "meta_data": {
+        "title": "Unity - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "[Parsec Users] You waive your moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-09-25 20:31:05",
+            "point_link": "https://edit.tosdr.org/points/34978",
+            "approval_status": "APPROVED",
+            "clause_text": "You hereby irrevocably waive (and agree to cause to be waived) any claims and assertions of moral rights or attribution with respect to Your Content.",
+            "point_source": null,
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:32:17",
+            "point_link": "https://edit.tosdr.org/points/33608",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use the following features based on Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.",
+            "point_source": "https://unity3d.com/legal/cookie-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-09-25 20:32:20",
+            "point_link": "https://edit.tosdr.org/points/34981",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect (Depending on the Product or Service)Information that you or others actively provide, including:<ul>\n<li>\n<p>Name</p>\n</li>\n<li>\n<p>Age or date of birth</p>\n</li>\n<li>\n<p>Gender</p>\n</li>\n<li>\n<p>Username</p>\n</li>\n<li>\n<p>Profile photo</p>\n</li>\n<li>\n<p>Email address</p>\n</li>\n<li>\n<p>Physical or mailing address</p>\n</li>\n<li>\n<p>Phone number</p>\n</li>\n<li>\n<p>Name and contact information for a business or organization</p>\n</li>\n<li>\n<p>Password(s) that Users create to access parts of the Service</p>\n</li>\n<li>\n<p>Billing or financial account information and tax or government IDs:</p>\n<ul>\n<li>\n<p>When Users provide payment (e.g.\ncredit card information, billing address, etc.) information to make a purchase, that information is sent to payment processors who assist Unity.\nUnity’s payment systems are not designed to store credit card numbers.</p>\n</li>\n<li>\n<p>When Users, such as publishers in the Asset Store, provide us with the information we need to send them payments.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Social network information: When you log in to our Services with a social network account, you may have the option of sharing information such as the name you use on that network and your friends list or other information that the third party social network chooses to share with Unity.</p>\n</li>\n<li>\n<p>Company information including but not limited to company name, work, address, and job title.&nbsp;</p>\n</li>\n<li>\n<p>Users may share information with us that we store on their behalf and use to enhance their experiences.\nFor example, in Unity’s game replay Service, Users may be able to upload contacts so they can make connections or to have invitations sent to friends.</p>\n</li>\n<li>\n<p>Users may provide us with information when they participate in community and forum pages on the Services or websites.\n</p>\n</li>\n<li>\n<p>For certain Developer Services such as Unity Cloud Build, Unity Collaborate, Unity Multiplayer or Unity Analytics, Developers may provide game information and credentials, including source control information as well as codes and keys.</p>\n</li>\n<li>\n<p>Location information:</p>\n<ul>\n<li>\n<p>Users can actively provide specific location information in certain account registration processes or when providing payment information, such as a billing address.",
+            "point_source": null,
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-09-25 20:38:52",
+            "point_link": "https://edit.tosdr.org/points/34976",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies are read by our advertising partners and allow us to re-target you with advertising as you browse the web.</li>",
+            "point_source": null,
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:32:17",
+            "point_link": "https://edit.tosdr.org/points/33607",
+            "approval_status": "APPROVED",
+            "clause_text": "Beacons, pixel tags, clear gifs: Unity or its service providers or third parties advertising within the Service may use these technologies to learn the online behavior and interests of Users and to personalize ads that Users see.",
+            "point_source": "https://unity3d.com/legal/cookie-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:32:16",
+            "point_link": "https://edit.tosdr.org/points/33609",
+            "approval_status": "APPROVED",
+            "clause_text": "The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-09-25 15:08:56",
+            "point_link": "https://edit.tosdr.org/points/34954",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the Offerings or any of the Services Assets following modifications made to these Terms or any of the Policies constitutes your acceptance of them",
+            "point_source": null,
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes (with some exceptions)",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-09-25 20:33:05",
+            "point_link": "https://edit.tosdr.org/points/34972",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Except for disputes falling within the Arbitration Exceptions set out below, any dispute arising out of, relating to or in connection with these Terms (including any disputes regarding the existence, validity, interpretation, performance, breach or termination thereof or any dispute regarding non-contractual obligations arising out of or relating to be) will be referred to and finally resolved by binding arbitration administered by the American Arbitration Association (“AAA”) under the AAA’s Commercial Arbitration Rules.",
+            "point_source": null,
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-09-25 20:31:21",
+            "point_link": "https://edit.tosdr.org/points/34991",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Sale or merger: In the event that Unity explores or undergoes a business transition, such as a merger, acquisition by another company, transfer of control, or sale of all or a portion of its assets, we may share or transfer all of your information, including personal information.",
+            "point_source": null,
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-09-25 20:31:37",
+            "point_link": "https://edit.tosdr.org/points/34988",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>To link to or combine with other information we have gathered;</p>",
+            "point_source": null,
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-09-25 20:32:00",
+            "point_link": "https://edit.tosdr.org/points/34983",
+            "approval_status": "APPROVED",
+            "clause_text": "Requested page(s).\nand</p>\n</li>\n<li>\n<p>Referring page(s)",
+            "point_source": null,
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "[Parsec Users] If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-09-25 20:32:27",
+            "point_link": "https://edit.tosdr.org/points/34979",
+            "approval_status": "APPROVED",
+            "clause_text": "If you provide Unity with any feedback or suggestions regarding the Parsec Offerings or otherwise relating to Unity’s business (“<strong>Feedback</strong>”), you agree that such Feedback shall not constitute your confidential or proprietary information, and hereby assign to Unity all rights in such Feedback.",
+            "point_source": null,
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-09-25 20:33:36",
+            "point_link": "https://edit.tosdr.org/points/34990",
+            "approval_status": "APPROVED",
+            "clause_text": "To inform Users of new products and services, including promotional offers.",
+            "point_source": null,
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-09-25 20:32:08",
+            "point_link": "https://edit.tosdr.org/points/34982",
+            "approval_status": "APPROVED",
+            "clause_text": "Users can choose to share the specific location of their device by permitting games and apps, including those that use Unity Analytics, to access it through the GPS functionality on their device",
+            "point_source": null,
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-09-25 20:31:30",
+            "point_link": "https://edit.tosdr.org/points/34998",
+            "approval_status": "APPROVED",
+            "clause_text": "Third-party service providers: We provide User information to other companies that perform Services on Unity’s behalf.\nFor example, we may employ service providers to process payments.\nhost or store our data.\ndeliver email messages.\nprovide legal or other guidance.\nor analyze data.",
+            "point_source": null,
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 06:24:02",
+            "point_link": "https://edit.tosdr.org/points/26968",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Your use of these features may result in the collection of biometric information.",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-09-25 20:33:29",
+            "point_link": "https://edit.tosdr.org/points/34989",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>To deliver and target advertising, including personalized ads;</p>",
+            "point_source": null,
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-09-25 20:31:14",
+            "point_link": "https://edit.tosdr.org/points/34994",
+            "approval_status": "APPROVED",
+            "clause_text": "Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country",
+            "point_source": null,
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-09-25 20:32:55",
+            "point_link": "https://edit.tosdr.org/points/34973",
+            "approval_status": "APPROVED",
+            "clause_text": "You confirm that none of you, your directors, employees, contractors, or Affiliates: (a) are individuals or entities identified on, or owned or controlled by or acting on behalf of entities identified on applicable Trade Controls restricted party lists (such as the List of Specially Designated Nationals and Blocked Persons, Foreign Sanctions Evaders List, Denied Persons List, Unverified List, and Entity List) (collectively, <strong>“Restricted Parties”</strong>), (b) are entities owned or controlled by one or more Restricted Parties, (c) do business in countries or regions subject to comprehensive Trade Controls, including Cuba, Iran, North Korea, Syria, and the Crimea, Donetsk and Luhansk regions of Ukraine, (<strong>“Sanctioned Countries”</strong>) or with government-affiliated entities in Sanctioned Countries, or (d) Will engage in or facilitate any activities with Sanctioned Countries or Restricted Parties.</p>\n<p>",
+            "point_source": null,
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-09-25 20:31:49",
+            "point_link": "https://edit.tosdr.org/points/34984",
+            "approval_status": "APPROVED",
+            "clause_text": "We may employ third-party analytics services to collect and analyze Developers’ use of the Unity Software.</p>",
+            "point_source": null,
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user or 1000$",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-09-25 20:33:16",
+            "point_link": "https://edit.tosdr.org/points/34969",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Unity’s aggregate liability arising out of or relating to these Terms, any Offering or any Projects thereof or related Third-Party Materials or Documentation will not exceed the greater of (a) $1,000 or (b) the total fees paid or payable by you to Unity for the relevant Offering in the twelve (12) months before the dispute.</p>",
+            "point_source": null,
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-09-25 20:33:22",
+            "point_link": "https://edit.tosdr.org/points/34977",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For example, we might use a web beacon to learn whether an email message was opened",
+            "point_source": null,
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:23",
+            "point_link": "https://edit.tosdr.org/points/21294",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Right to Access</strong> - You have the right to request Unity provide you with a copy of your personal data.&nbsp;&nbsp;</li>\n<li>\n<strong>Right to Rectification (Correction)</strong> - You have the right to request Unity to correct any information about you that you believe is incorrect.&nbsp.\nYou also have the right to request Unity to complete information about you that you believe is incorrect.</li>\n<li>\n<strong>Right to Erasure (Deletion)</strong> - You have the right to request Unity to erase your personal data, under certain conditions.&nbsp;&nbsp;</li>\n<li>\n<strong>Right to Restrict Processing</strong> - You have the right to request Unity to restrict the processing of your personal data, under certain conditions.</li>\n<li>\n<strong>Right to Object to Processing</strong> - You have the right to object to Unity’s processing of your personal data, under certain conditions.</li>",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-09-25 20:36:26",
+            "point_link": "https://edit.tosdr.org/points/34961",
+            "approval_status": "APPROVED",
+            "clause_text": "If, however, you provide any Feedback, you hereby grant to Unity a right and license to make, use, offer to sell, reproduce, modify, distribute, sublicense, make available, publicly display and perform, disclose and otherwise exploit the Feedback without restriction or obligation.\nThe foregoing right is non-exclusive, transferable (in accordance with these Terms), irrevocable, worldwide, royalty-free and fully paid-up.",
+            "point_source": null,
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-09-25 20:37:25",
+            "point_link": "https://edit.tosdr.org/points/34957",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Your User Content is yours.\nExcept as expressly granted to Unity under these Terms, you retain your ownership rights to User Content until you decide to transfer those rights.",
+            "point_source": null,
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-09-25 20:35:44",
+            "point_link": "https://edit.tosdr.org/points/34996",
+            "approval_status": "APPROVED",
+            "clause_text": "We retain Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law.",
+            "point_source": null,
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "Archives of their agreements are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-09-25 20:37:11",
+            "point_link": "https://edit.tosdr.org/points/34980",
+            "approval_status": "APPROVED",
+            "clause_text": ".</p>What's new as of April, 2021?",
+            "point_source": null,
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:04",
+            "point_link": "https://edit.tosdr.org/points/21295",
+            "approval_status": "APPROVED",
+            "clause_text": "Right to Data Portability</strong> - You have the right to request Unity to transfer your personal data that we have collected to another organization, or directly to you, under certain conditions.",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-09-25 20:37:17",
+            "point_link": "https://edit.tosdr.org/points/34985",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use the Information We Collect or Receive",
+            "point_source": null,
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-09-25 20:35:55",
+            "point_link": "https://edit.tosdr.org/points/34986",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect",
+            "point_source": null,
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-09-25 20:36:11",
+            "point_link": "https://edit.tosdr.org/points/34974",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, the DMCA permits you to send Unity a counter-notice.\nNotices and counter-notices must meet the then current statutory requirements imposed by the DMCA.\nSee http://www.copyright.gov/ for details.\nNotices and counter-notices should be sent through this form or to:</p>\n<p>Copyright Agent</p>\n<p>c/o Unity Technologies</p>\n<p>30 3rd Street</p>\n<p>San Francisco, CA 94103 USA</p>\n<p>copyright@unity3d.com",
+            "point_source": null,
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:24",
+            "point_link": "https://edit.tosdr.org/points/21296",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you are a European Union resident, the <strong>General Data Protection Regulation </strong>provides certain rights to you with respect to your personal data.",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-09-25 20:35:35",
+            "point_link": "https://edit.tosdr.org/points/34997",
+            "approval_status": "APPROVED",
+            "clause_text": "You can consult the list and location of our affiliates here: https://unity3d.com/contact/addresses</p>",
+            "point_source": null,
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "The service claims to be LGPD compliant for Brazilian users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the Lei Geral de Proteção de Dados Pessoais.",
+            "last_updated": "2023-07-11 04:49:24",
+            "point_link": "https://edit.tosdr.org/points/21289",
+            "approval_status": "APPROVED",
+            "clause_text": "The&nbsp;<strong>Brazilian General Data Protection Act</strong> provides you the right to:</p>\n<ul>\n<li>Confirm Unity's processing of your data;&nbsp;</li>\n<li>Access your data;&nbsp;</li>\n<li>Correct your incomplete, inaccurate, or outdated data;</li>\n<li>Request anonymization, blocking or elimination of unnecessary or excessive data or of data processed in noncompliance with the Brazilian General Data Protection Act;&nbsp;</li>\n<li>Port your data to other service providers or suppliers of products;&nbsp;</li>\n<li>Delete your personal data when processed with your consent;</li>\n<li>Obtain information on the public and private entities with whom Unity shared your data;&nbsp;</li>\n<li>Obtain information on the possibility of not providing consent and on the consequences of the denial",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "The service claims to be LGPD compliant for Brazilian users",
+                "href": "https://edit.tosdr.org/cases/483"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:49:24",
+            "point_link": "https://edit.tosdr.org/points/21291",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that Unity has placed a new California Notice of Rights&nbsp;on its website to explain how California residents may exercise their privacy rights under the <strong>California Consumer Privacy Act</strong>.\nThis notice is incorporated into this policy.",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-09-25 20:37:04",
+            "point_link": "https://edit.tosdr.org/points/34956",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>You may close your account at any time",
+            "point_source": null,
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-09-25 20:36:53",
+            "point_link": "https://edit.tosdr.org/points/34960",
+            "approval_status": "APPROVED",
+            "clause_text": "When you provide or make accessible User Content, you authorize, and hereby grant the right and license to Unity and its designees to use, reproduce, modify, perform and display, and distribute and make available User Content in connection with the Offerings and other activities contemplated by these Terms.\nThe foregoing right is non-exclusive, transferable (in accordance with these Terms), worldwide, royalty-free and fully paid-up",
+            "point_source": null,
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-09-25 20:35:51",
+            "point_link": "https://edit.tosdr.org/points/34993",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You can opt out of communications like email, by following the instructions in any marketing message you receive",
+            "point_source": null,
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:49:02",
+            "point_link": "https://edit.tosdr.org/points/21288",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated: October 18, 2020</strong>\n</p>\n<p>Last Edit/Review:&nbsp.\nApril 27, 2021</p>",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-09-25 20:34:07",
+            "point_link": "https://edit.tosdr.org/points/34975",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note declining cookies may cause our website not to function correctly.</p>",
+            "point_source": null,
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-09-25 20:35:15",
+            "point_link": "https://edit.tosdr.org/points/34959",
+            "approval_status": "APPROVED",
+            "clause_text": ".\nUnity does not undertake any legal obligation to monitor, pre-screen, review, flag, filter, modify, refuse or remove any or all User Content, however, Unity reserves the right to do so, and if Unity becomes aware and/or determines in its sole discretion that User Content does not comply with these Terms, Unity may remove such User Content.",
+            "point_source": null,
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-09-25 20:35:24",
+            "point_link": "https://edit.tosdr.org/points/34958",
+            "approval_status": "APPROVED",
+            "clause_text": "At the end of your subscription term for an Offering, your subscription will automatically renew at the then-current price and terms for the Offering, unless otherwise indicated to you in the Offering Identification.",
+            "point_source": null,
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service has a no refund policy with some exceptions",
+            "rating": "neutral",
+            "description": "Payments can be refunded if some requirements are fulfilled.",
+            "last_updated": "2023-07-11 06:24:02",
+            "point_link": "https://edit.tosdr.org/points/26965",
+            "approval_status": "APPROVED",
+            "clause_text": "All sales are final and there shall be no refunds except as required by law.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "This service has a no refund policy with some exceptions",
+                "href": "https://edit.tosdr.org/cases/398"
+            }
+        },
+        {
+            "title": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-09-25 20:34:02",
+            "point_link": "https://edit.tosdr.org/points/34970",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You will indemnify and hold Unity harmless (and, at Unity’s request, defend Unity) against any and all losses, liabilities, costs and expenses (including reasonable attorneys’ fees) suffered or incurred by Unity by reason of any claim, suit or proceeding (<strong>“Claim”</strong>) arising out of or relating to (a) User Content, (b) your access to or use of Offerings, Documentation and Third-Party Materials, including any Projects, Developed Materials or other results produced by such use, (c) your breach or any acts or omissions that, if true, would be a breach of these Terms (including any Commercial Terms or Additional Terms), and (d) your breach or alleged breach of any applicable law or regulation.</p>",
+            "point_source": null,
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:24:02",
+            "point_link": "https://edit.tosdr.org/points/26961",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Unity reserves the right, at its sole discretion, to modify, discontinue or terminate the Services.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-09-25 20:34:18",
+            "point_link": "https://edit.tosdr.org/points/34968",
+            "approval_status": "APPROVED",
+            "clause_text": "UNITY AND ITS LICENSORS AND SERVICE PROVIDERS DO NOT WARRANT OR REPRESENT THAT THE OFFERINGS AND ANY DOCUMENTATION, OR ANY PART THEREOF, WILL OPERATE UNINTERRUPTED OR ERROR-FREE.",
+            "point_source": null,
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-09-25 20:34:46",
+            "point_link": "https://edit.tosdr.org/points/34964",
+            "approval_status": "APPROVED",
+            "clause_text": "Send or otherwise post unsolicited or unauthorized communications, including commercial communications (such as spam)",
+            "point_source": null,
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-09-25 20:35:29",
+            "point_link": "https://edit.tosdr.org/points/34955",
+            "approval_status": "APPROVED",
+            "clause_text": "To access and/or use most Offerings, you must register for a “Unity Account”.",
+            "point_source": null,
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:49:24",
+            "point_link": "https://edit.tosdr.org/points/21292",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES ARE ALL PROVIDED BY UNITY ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY REPRESENTATIONS, WARRANTIES, COVENANTS OR CONDITIONS OF ANY KIND.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-09-25 20:34:54",
+            "point_link": "https://edit.tosdr.org/points/34963",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>(f) Breach, or attempt to breach or circumvent, any security or authentication measures used by any Offering;</p>\n<p>(g) Access or attempt to access the Offerings by any means other than the interface Unity provides or authorizes;</p>",
+            "point_source": null,
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-09-25 20:35:04",
+            "point_link": "https://edit.tosdr.org/points/34962",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>(l) Use automated means (including “web crawlers,” bots, robots, spiders, scrapers or other types of software or hardware technology) to collect content or information, download materials automatically or otherwise access any Offering;",
+            "point_source": null,
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-09-25 20:34:25",
+            "point_link": "https://edit.tosdr.org/points/34967",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \". Except as expressly authorized by these Terms (including any Commercial Terms or Additional Terms), Policies, Documentation or as otherwise expressly permitted in writing by Unity, you will not (and will not authorize, encourage or cooperate with any third party to):   [...] \n(v) Access, store, distribute, introduce, or transmit any material during the course of its use of the Offerings which is false, deceptive, misleading, harmful, threatening, defamatory, obscene, infringing, harassing or racially or ethnically offensive, facilitates illegal activity, depicts sexually explicit images, promotes unlawful violence, is discriminatory based on race, gender, color, religious belief, sexual orientation, disability\"",
+            "point_source": null,
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-09-25 20:34:36",
+            "point_link": "https://edit.tosdr.org/points/34965",
+            "approval_status": "APPROVED",
+            "clause_text": "(v) Access, store, distribute, introduce, or transmit any material during the course of its use of the Offerings which is false, deceptive, misleading, harmful, threatening, defamatory,",
+            "point_source": null,
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-09-25 20:34:28",
+            "point_link": "https://edit.tosdr.org/points/34966",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \". Except as expressly authorized by these Terms (including any Commercial Terms or Additional Terms), Policies, Documentation or as otherwise expressly permitted in writing by Unity, you will not (and will not authorize, encourage or cooperate with any third party to):   [...] \n(v) Access, store, distribute, introduce, or transmit any material during the course of its use of the Offerings which is false, deceptive, misleading, harmful, threatening, defamatory, obscene, infringing, harassing or racially or ethnically offensive, facilitates illegal activity, depicts sexually explicit images, promotes unlawful violence, is discriminatory based on race, gender, color, religious belief, sexual orientation, disability\"",
+            "point_source": null,
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:49:03",
+            "point_link": "https://edit.tosdr.org/points/21286",
+            "approval_status": "APPROVED",
+            "clause_text": "Except as expressly provided otherwise on the Site, the Services are intended for persons above the age to consent to processing&nbsp;in their region&nbsp;(e.g., 13 in the US, 16 in the EU, no minimum age in ANZ, etc.), however, you must be at least 18 to make purchases or submit content to Unity.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:24:02",
+            "point_link": "https://edit.tosdr.org/points/26964",
+            "approval_status": "APPROVED",
+            "clause_text": "You will immediately notify Unity of any unauthorized use of your account.</p>\n<p>",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:24:02",
+            "point_link": "https://edit.tosdr.org/points/26963",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to disclose your password to any third party and to take sole responsibility for any activities or actions under your account, whether or not you have authorized such activities or actions.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-09-25 20:33:52",
+            "point_link": "https://edit.tosdr.org/points/34987",
+            "approval_status": "APPROVED",
+            "clause_text": "To perform analytics and research aimed at improving the accuracy, effectiveness, usability, or popularity of website(s), products and services that Unity and Developers provide;</p>",
+            "point_source": null,
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-09-25 20:33:46",
+            "point_link": "https://edit.tosdr.org/points/34995",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not, however, recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations, and solutions.",
+            "point_source": null,
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 04:49:24",
+            "point_link": "https://edit.tosdr.org/points/21293",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to change our practices and this policy at any time.\nWe may also send an email or provide notice within some or all of our offerings when this policy changes.\nWe encourage you to check this page regularly so that you know what our current practices are.",
+            "point_source": "https://unity3d.com/legal/privacy-policy",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:49:25",
+            "point_link": "https://edit.tosdr.org/points/21287",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are under the age of 18 or whatever is the age of legal majority where you access the Services, you may purchase access to the Services only with the involvement of your legal guardian, and you represent and warrant that your legal guardian has read, understood and agreed to this Agreement.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Denmark",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:24:02",
+            "point_link": "https://edit.tosdr.org/points/26966",
+            "approval_status": "APPROVED",
+            "clause_text": "The Agreement is governed by and construed in accordance with the laws of Denmark, without regard to or application of conflict of laws rules or principles.",
+            "point_source": "https://unity3d.com/legal/terms-of-service",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

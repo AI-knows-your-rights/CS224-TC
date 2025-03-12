@@ -1,0 +1,347 @@
+{
+    "meta_data": {
+        "title": "Heroku - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:12:03",
+            "point_link": "https://edit.tosdr.org/points/16250",
+            "approval_status": "APPROVED",
+            "clause_text": "Third-party social media and advertising networks, which usually act as separate controllers, so that we can advertise on their platforms;</li>",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16251",
+            "approval_status": "APPROVED",
+            "clause_text": "if we are involved in a merger, reorganization, asset sale or business combination.",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:12:02",
+            "point_link": "https://edit.tosdr.org/points/16245",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We collect and process Personal Data for a variety of purposes, including: [...] to send to you marketing communications about us, our products and our services.\"",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:11:52",
+            "point_link": "https://edit.tosdr.org/points/16244",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We collect and process Personal Data for a variety of purposes, including: [...] to display personalized advertisements to you\"",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:05",
+            "point_link": "https://edit.tosdr.org/points/16253",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EACH PARTY TOGETHER WITH ALL OF ITS AFFILIATES ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT PAID BY CUSTOMER AND ITS AFFILIATES HEREUNDER FOR THE SERVICES GIVING RISE TO THE LIABILITY IN THE TWELVE MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE.",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 10:13:42",
+            "point_link": "https://edit.tosdr.org/points/16252",
+            "approval_status": "APPROVED",
+            "clause_text": "As described in the \"International transfer of Personal Data\" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of data protection where your Personal Data is transferred to countries outside the EEA, such as standard contractual clauses for the transfer of Personal Data as approved by the European Commission (Art.\n46 GDPR).",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:12:05",
+            "point_link": "https://edit.tosdr.org/points/16265",
+            "approval_status": "APPROVED",
+            "clause_text": "As between the parties, each party retains all ownership rights in and to its Confidential Information.",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:11:52",
+            "point_link": "https://edit.tosdr.org/points/16246",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>To restrict our processing of your Personal Data to the extent permitted by law (right to restriction of processing);",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 10:13:42",
+            "point_link": "https://edit.tosdr.org/points/16264",
+            "approval_status": "APPROVED",
+            "clause_text": "License by Customer to Use Feedback.</strong> Customer grants to SFDC and its Affiliates a worldwide, perpetual, irrevocable, royalty-free license to use and incorporate into its services any suggestion, enhancement request, recommendation, correction or other feedback provided by Customer or Users relating to the operation of SFDC’s or its Affiliates’ services.</p>",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:54",
+            "point_link": "https://edit.tosdr.org/points/16242",
+            "approval_status": "APPROVED",
+            "clause_text": "These rights may include:</p>\n<ul>\n<li>To access your Personal Data held by us (right to access);</li>\n<li>To rectify inaccurate Personal Data and, taking into account the purpose of processing the Personal Data, ensure it is complete (right to rectification);</li>\n<li>To erase/delete your Personal Data, to the extent permitted by applicable data protection laws (right to erasure.\nright to be forgotten);</li>",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:12:01",
+            "point_link": "https://edit.tosdr.org/points/16247",
+            "approval_status": "APPROVED",
+            "clause_text": "To transfer your Personal Data to another controller, to the extent possible (right to data portability);</li>",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:12:00",
+            "point_link": "https://edit.tosdr.org/points/16243",
+            "approval_status": "APPROVED",
+            "clause_text": "What Personal Data do we collect?",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:12:03",
+            "point_link": "https://edit.tosdr.org/points/16248",
+            "approval_status": "APPROVED",
+            "clause_text": "Purposes for which we process Personal Data and the legal bases on which we rely",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:03:00",
+            "point_link": "https://edit.tosdr.org/points/16257",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA, you have the right to lodge a complaint with the competent supervisory authority.</p>",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:02:54",
+            "point_link": "https://edit.tosdr.org/points/16255",
+            "approval_status": "APPROVED",
+            "clause_text": "A party may terminate this Agreement for cause (i) upon 30 days written notice to the other party of a material breach if such breach remains uncured at the expiration of such period,",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:12:03",
+            "point_link": "https://edit.tosdr.org/points/16254",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES HAVE ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY LOST PROFITS, REVENUES, GOODWILL, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR PUNITIVE DAMAGES, WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR IF A PARTY’S OR ITS AFFILIATES’ REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE.",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:12:04",
+            "point_link": "https://edit.tosdr.org/points/16262",
+            "approval_status": "APPROVED",
+            "clause_text": "Customers may not use a service to, nor allow its users or any third party to use a service to:</p>\n<ul>\n<li>I.\nGenerate or facilitate unsolicited commercial email (spam).",
+            "point_source": "https://www.heroku.com/policy/aup",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 10:12:04",
+            "point_link": "https://edit.tosdr.org/points/16260",
+            "approval_status": "APPROVED",
+            "clause_text": "Customers may not, and may not allow any third party, including its users, to use services to display, store, process, or transmit, or permit use of services to display, store, process, or transmit:</p>\n<ul>\n<li>I.\nMaterial that infringes or misappropriates a third party’s intellectual property or proprietary rights;</li>\n<li>II.\nHate-related or violent material, and/or material advocating discrimination against individuals or groups;</li>\n<li>",
+            "point_source": "https://www.heroku.com/policy/aup",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:12:03",
+            "point_link": "https://edit.tosdr.org/points/16259",
+            "approval_status": "APPROVED",
+            "clause_text": "ONTENT AND BETA SERVICES ARE PROVIDED “AS IS,” AND AS AVAILABLE EXCLUSIVE OF ANY WARRANTY WHATSOEVER.</p>",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:12:04",
+            "point_link": "https://edit.tosdr.org/points/16263",
+            "approval_status": "APPROVED",
+            "clause_text": "II.\nSend, upload, distribute, or disseminate, or offer to do the same, with respect to unlawful, defamatory, harassing, abusive, fraudulent, infringing, obscene, excessively profane, hateful, violent, or otherwise objectionable material,",
+            "point_source": "https://www.heroku.com/policy/aup",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/16261",
+            "approval_status": "APPROVED",
+            "clause_text": "III.\nObscene, excessively profane material or otherwise objectionable material;</li>",
+            "point_source": "https://www.heroku.com/policy/aup",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:12:04",
+            "point_link": "https://edit.tosdr.org/points/16249",
+            "approval_status": "APPROVED",
+            "clause_text": "For the avoidance of doubt, our Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers.",
+            "point_source": "https://www.salesforce.com/company/privacy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:12:02",
+            "point_link": "https://edit.tosdr.org/points/16256",
+            "approval_status": "APPROVED",
+            "clause_text": "No failure or delay by either party in exercising any right under this Agreement will constitute a waiver of that right.</p>",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:12:05",
+            "point_link": "https://edit.tosdr.org/points/16258",
+            "approval_status": "APPROVED",
+            "clause_text": "EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.",
+            "point_source": "https://www.heroku.com/policy/salesforce-heroku-msa",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "meta_data": {
+        "title": "Bing - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:30:02",
+            "point_link": "https://edit.tosdr.org/points/31889",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-20 06:09:50 UTC, fedada (30172)  Suspended wrote:\n          I appreciate the emphasis on quality and authenticity in the reviews on 오피가이드. 오피가이드",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "Your browsing history can be viewed by the service",
+            "rating": "blocker",
+            "description": "The service can view your search history and the websites you visit, which is an extremely intrusive way of collecting information that may include personal and/or sensitive data.",
+            "last_updated": "2023-07-11 06:29:29",
+            "point_link": "https://edit.tosdr.org/points/31901",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favorites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your browsing history can be viewed by the service",
+                "href": "https://edit.tosdr.org/cases/395"
+            }
+        },
+        {
+            "title": "Sensitive data is collected and shared to target advertising",
+            "rating": "blocker",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 06:30:02",
+            "point_link": "https://edit.tosdr.org/points/31902",
+            "approval_status": "APPROVED",
+            "clause_text": "Health data is used to target ads, only in the US.\nHowever, this health data is not considered sensitive and doesn't take place in other countries, so legally they do not use sensitive data to target ads.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Sensitive data is collected and shared to target advertising",
+                "href": "https://edit.tosdr.org/cases/487"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/7821",
+            "approval_status": "APPROVED",
+            "clause_text": "we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots.\nLocation can also be inferred from a device’s IP address or data in your account profile that indicates where it is located with less precision, such as at a city or postal code level.",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:29:29",
+            "point_link": "https://edit.tosdr.org/points/31900",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share data we collect with internal and external partners, such as Xandr, Verizon Media, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/7550",
+            "approval_status": "APPROVED",
+            "clause_text": "p>\n<p>The data we collect can include the following:</p>\n<p>\n<strong>Name and contact data</strong>.\nYour first and last name, email address, postal address, phone number, and other similar contact data.\n</p>\n<p>\n<strong>Credentials</strong>.\nPasswords, password hints, and similar security information used for authentication and account access.\n</p>\n<p>\n<strong>Demographic data</strong>.\nData about you such as your age, gender, country, and preferred language.\n</p>\n<p>\n<strong>Payment data</strong>.\nData to process payments, such as your payment instrument number (such as a credit card number) and the security code associated with your payment instrument.\n</p>\n<p>\n<strong>Subscription and licensing data</strong>.\nInformation about your subscriptions, licenses, and other entitlements.\n</p>\n<p>\n<strong>Interactions</strong>.\nData about your use of Microsoft products.\nIn some cases, such as search queries, this is data you provide in order to make use of the products.\nIn other cases, such as error reports, this is data we generate.\nOther examples of interactions data include:\n</p>\n<ul>\n<li>\n<strong>Device and usage data</strong>.\nData about your device and the product and features you use, including information about your hardware and software, how our products perform, as well as your settings.\nFor example: <ul>\n<li>\n<strong>Payment and account history</strong>.\nData about the items you purchase and activities associated with your account.\n</li>\n<li>\n<strong>Browse history</strong>.\nData about the webpages you visit.\n</li>\n<li>\n<strong>Device, connectivity, and configuration data</strong>.\nData about your device, your device configuration, and nearby networks.\nFor example, data about the operating systems and other software installed on your device, including product keys.\nIn addition, IP address, device identifiers (such as the IMEI number for phones), regional and language settings, and information about WLAN access points near your device.\n</li>\n<li>\n<strong>Error reports and performance data</strong>.\nData about the performance of the products and any problems you experience, including error reports.\nError reports (sometimes called “crash dumps”) can include details of the software or hardware related to an error, contents of files opened when an error occurred, and data about other software on your device.\n</li>\n<li>\n<strong>Troubleshooting and help data</strong>.\nData you provide when you contact Microsoft for help, such as the products you use, and other details that help us provide support",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/31895",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:33:04",
+            "point_link": "https://edit.tosdr.org/points/6752",
+            "approval_status": "APPROVED",
+            "clause_text": "We also obtain data about you from third parties",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:22:29",
+            "point_link": "https://edit.tosdr.org/points/7552",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use personal data<p>Microsoft uses the data we collect to provide you with rich, interactive experiences.\nIn particular, we use data to:</p>\n<ul>\n<li>Provide our products, which includes updating, securing, and troubleshooting, as well as providing support.\nIt also includes sharing data, when it is required to provide the service or carry out the transactions you request.</li>\n<li>Improve and develop our products.</li>\n<li>Personalize our products and make recommendations.</li>\n<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/7551",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets.</p",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Voice data is collected and shared with third-parties",
+            "rating": "bad",
+            "description": "The service collects data and recordings of your voice when you communicate with a service verbally and may use and share them with third parties, that may use this data for marketing or advertising.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31886",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we manually review short snippets of voice data that we have taken steps to de-identify to improve our speech recognition technologies.\nThis manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf.</p>\n<p>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Voice data is collected and shared with third-parties",
+                "href": "https://edit.tosdr.org/cases/489"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:22:29",
+            "point_link": "https://edit.tosdr.org/points/7567",
+            "approval_status": "APPROVED",
+            "clause_text": "We also use “web beacons” to help deliver cookies and gather usage and performance data.\nOur websites may include web beacons, cookies, or similar technologies from third-party service providers.",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:25:07",
+            "point_link": "https://edit.tosdr.org/points/28002",
+            "approval_status": "APPROVED",
+            "clause_text": "IF YOU LIVE IN (OR YOUR PRINCIPAL PLACE OF BUSINESS IS IN) THE UNITED STATES, PLEASE READ THE BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER IN SECTION 15.\nIT AFFECTS HOW DISPUTES ARE RESOLVED.</strong>",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31892",
+            "approval_status": "APPROVED",
+            "clause_text": ".\nSome of our websites include social media cookies, including those that enable users who are signed in to the social media service to share content via that service.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:30:02",
+            "point_link": "https://edit.tosdr.org/points/31899",
+            "approval_status": "APPROVED",
+            "clause_text": "Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as Microsoft.com, Microsoft Start, and Bing.</li>\n<li>When the advertising ID is enabled in Windows as part of your privacy settings, third parties can access and use the advertising ID (much the same way that websites can access and use a unique identifier stored in a cookie) to select and deliver ads in such apps.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31888",
+            "approval_status": "APPROVED",
+            "clause_text": "We also share data with Microsoft-controlled affiliates and subsidiaries.\nwith vendors working on our behalf",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31887",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/31896",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We transfer personal data from the European Economic Area, the United Kingdom, and Switzerland to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/31893",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<strong>Analytics</strong>.\nWe use first- and third-party cookies and other identifiers to gather usage and performance data.\nFor example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:29:59",
+            "point_link": "https://edit.tosdr.org/points/31894",
+            "approval_status": "APPROVED",
+            "clause_text": "We also include web beacons or similar technologies in our electronic communications to determine whether you open and act on them.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:22:29",
+            "point_link": "https://edit.tosdr.org/points/8016",
+            "approval_status": "APPROVED",
+            "clause_text": "You can request access to, erasure of, and updates to your personal data.",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:25:07",
+            "point_link": "https://edit.tosdr.org/points/28003",
+            "approval_status": "APPROVED",
+            "clause_text": "We don’t claim ownership of Your Content.\nYour Content remains Your Content and you are responsible for it.</p>",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/25637",
+            "approval_status": "APPROVED",
+            "clause_text": "Access and clear some of your data through the Microsoft privacy dashboard.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31884",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data we collect",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31885",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use personal data",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31890",
+            "approval_status": "APPROVED",
+            "clause_text": "Control the use of your data for personalized advertising from Microsoft by visiting our opt-out page.</li>",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31897",
+            "approval_status": "APPROVED",
+            "clause_text": "While some products, such as those involving payment, require a real name, you can sign in to and use other Microsoft products without providing your real name.",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:30:01",
+            "point_link": "https://edit.tosdr.org/points/31891",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You may have these rights under applicable laws, including the EU General Data Protection Regulation (GDPR)",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:20:14",
+            "point_link": "https://edit.tosdr.org/points/23676",
+            "approval_status": "APPROVED",
+            "clause_text": "Don’t do anything illegal.",
+            "point_source": "https://www.microsoft.com/en-us/servicesagreement/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:29:29",
+            "point_link": "https://edit.tosdr.org/points/31898",
+            "approval_status": "APPROVED",
+            "clause_text": "The log includes such details as: connection time, IP address",
+            "point_source": "https://privacy.microsoft.com/en-us/privacystatement",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:30:00",
+            "point_link": "https://edit.tosdr.org/points/7566",
+            "approval_status": "APPROVED",
+            "clause_text": "Some browsers have incorporated \"Do Not Track\" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked.\nBecause there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals.\nWe continue to work with the online industry to define a common understanding of how to treat DNT signals.",
+            "point_source": "http://www.microsoft.com/privacystatement/en-us/bing/default.aspx",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        }
+    ]
+}

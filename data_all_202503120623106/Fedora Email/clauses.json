@@ -1,0 +1,165 @@
+{
+    "meta_data": {
+        "title": "Fedora Email - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-09-06 22:57:40",
+            "point_link": "https://edit.tosdr.org/points/33498",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-08-28 17:07:27",
+            "point_link": "https://edit.tosdr.org/points/33500",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time.\nIf a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect.\nWhat constitutes a material change will be determined at our sole discretion",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-09-07 16:56:14",
+            "point_link": "https://edit.tosdr.org/points/33504",
+            "approval_status": "APPROVED",
+            "clause_text": "If you wish to terminate your account, you may simply discontinue using the Service.</p>",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-09-07 16:56:30",
+            "point_link": "https://edit.tosdr.org/points/33497",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Service may contain links to third-party web sites or services that are not owned or controlled by Fedora Email.</p>\n<p>Fedora Email has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services.\nYou further acknowledge and agree that Fedora Email shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:31:56",
+            "point_link": "https://edit.tosdr.org/points/33369",
+            "approval_status": "APPROVED",
+            "clause_text": "Last updated: January 1, 2021</p>",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-09-07 16:56:03",
+            "point_link": "https://edit.tosdr.org/points/33501",
+            "approval_status": "APPROVED",
+            "clause_text": "When you create an account with us",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:32:05",
+            "point_link": "https://edit.tosdr.org/points/33426",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password,",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-09-07 16:56:50",
+            "point_link": "https://edit.tosdr.org/points/33503",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect.",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:32:01",
+            "point_link": "https://edit.tosdr.org/points/33427",
+            "approval_status": "APPROVED",
+            "clause_text": "You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.</p>",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-09-07 16:56:41",
+            "point_link": "https://edit.tosdr.org/points/33502",
+            "approval_status": "APPROVED",
+            "clause_text": "Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location the USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-09-06 22:59:20",
+            "point_link": "https://edit.tosdr.org/points/33499",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+            "point_source": "https://fedora.email/tos",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

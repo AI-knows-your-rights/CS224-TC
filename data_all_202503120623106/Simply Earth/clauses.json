@@ -1,0 +1,431 @@
+{
+    "meta_data": {
+        "title": "Simply Earth - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21181",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use the Site, we automatically receive and record certain information from your computer (or other device) and your browser.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 04:48:58",
+            "point_link": "https://edit.tosdr.org/points/21159",
+            "approval_status": "APPROVED",
+            "clause_text": "To register, you can simply provide information about yourself, your shipping information including your address and billing information, and your valid email address and password to create your login profile.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21172",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site also enables third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising.\nFor example, third parties may use the fact that you visited the Site to target online ads for Simply Earth services to you on non-Simply Earth websites or services.\nIn addition, our third-party advertising networks might use information about your use of the Site to help target non-Simply Earth advertisements based on your online behavior in general.</p>",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21179",
+            "approval_status": "APPROVED",
+            "clause_text": "We share your personal information and non-personal information with other parties for a variety of purposes, as described below.</p>",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:48:53",
+            "point_link": "https://edit.tosdr.org/points/21168",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate any user's monthly subscription or access to our Website or Services, including access to any online discussion forum or chat room, in our sole discretion, for any reason and at any time, with or without prior notice.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 04:48:59",
+            "point_link": "https://edit.tosdr.org/points/21167",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site integrates certain third-party plug-ins (such as a Facebook \"like\" button).\nEven if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:48:54",
+            "point_link": "https://edit.tosdr.org/points/21163",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may combine personal information collected through the Site with other information that we or third parties collect about you in other contexts—such as our communications with you via email or phone, or your customer service records.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Wisconsin, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21169",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms and Conditions shall be governed and interpreted pursuant to the laws of W4228 Church Road, Waldo, Wisconsin, United States of America 53093, notwithstanding any principles of conflicts of law.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21175",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may use an application known as a \"web beacon\" (also known as a \"clear gif\" or \"web bug\").",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service does not guarantee the errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21186",
+            "approval_status": "APPROVED",
+            "clause_text": "(iv) DEFECTS WILL BE CORRECTED,",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "Extra data may be collected about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21174",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may use the personal and non-personal information that we collect to send you promotional communications, including emails or postal mail about the products and services offered by Simply Earth or our partners.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21189",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The personal and other information that we collect about you is controlled by Simply Earth, which is headquartered in the United States at W4228 Church Road, Waldo, WI 53093.</p>",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 04:48:54",
+            "point_link": "https://edit.tosdr.org/points/21165",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-25 09:26:27 UTC, Philrw32 (25648)  Suspended wrote:\n          Thanks for sharing this information. I really like your blog post very much. You have really shared a informative and interesting blog post with people.. Email marketing techniques",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21173",
+            "approval_status": "APPROVED",
+            "clause_text": "We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels (cookies or web beacons) are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21176",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we may allow third parties to set cookies or use web beacons on the Site or in email communications from Simply Earth.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21162",
+            "approval_status": "APPROVED",
+            "clause_text": "You can visit the Site without submitting any personal information.",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:48:59",
+            "point_link": "https://edit.tosdr.org/points/21190",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use the personal and non-personal information that we collect",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21180",
+            "approval_status": "APPROVED",
+            "clause_text": "Questions or comments\nIf you have any questions or comments regarding our Policy, please contact us at:\nPhone: 866-330-8165\nEmail: help@simplyearth.com",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21157",
+            "approval_status": "APPROVED",
+            "clause_text": "You may opt-out from receiving special promotions by emailing help@simplyearth.com or selecting to unsubscribe as may be provided in the applicable e-mail correspondence.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21170",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not responsible for the content of any linked Website or for any loss or damage incurred in connection with your use such links or dealings with the operators of such third party Websites.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 04:48:52",
+            "point_link": "https://edit.tosdr.org/points/21156",
+            "approval_status": "APPROVED",
+            "clause_text": "We may alter, suspend, or discontinue this Website or the Services in whole or in part, at any time and for any reason, without notice.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21183",
+            "approval_status": "APPROVED",
+            "clause_text": "(i) THE INFORMATION AVAILABLE ON THIS WEBSITE IS FREE OF ERRORS.\n(ii) THE PRODUCTS OR SERVICES ARE NOT DEFECTIVE.\n(iii) THE FUNCTIONS OR SERVICES (INCLUDING BUT NOT LIMITED TO MECHANISMS FOR THE DOWNLOADING AND UPLOADING OF CONTENT) PROVIDED BY THIS WEBSITE WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 04:48:54",
+            "point_link": "https://edit.tosdr.org/points/21158",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to start your ongoing Simply Earth monthly subscription, you must register as a member on our Website.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:59",
+            "point_link": "https://edit.tosdr.org/points/21182",
+            "approval_status": "APPROVED",
+            "clause_text": "EXCEPT AS EXPRESSLY PROVIDED HEREIN, ALL PRODUCTS SUPPLIED, AND ALL TEXT, IMAGES, AND OTHER INFORMATION ON OR ACCESSIBLE FROM THIS WEBSITE ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Simply Earth is only available to users over 18 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:48:54",
+            "point_link": "https://edit.tosdr.org/points/21160",
+            "approval_status": "APPROVED",
+            "clause_text": "Simply Earth services are available only to, and may only be used by, individuals who are 18 years and older who can form legally binding contracts under applicable law.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:48:56",
+            "point_link": "https://edit.tosdr.org/points/21178",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for protecting your login and password from unauthorized use, and you are responsible for all activity that occurs on your account (including without limitation financial obligations).",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21177",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to notify us immediately if you believe that your login or password has been or may be used without your permission so that appropriate action can be taken.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Minors must have the supervision of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:48:54",
+            "point_link": "https://edit.tosdr.org/points/21161",
+            "approval_status": "APPROVED",
+            "clause_text": "Individuals under the age of 18 can use this service only in conjunction with and under the supervision of a parent or legal guardian.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "You agree to comply with the law of the service's country",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 04:48:55",
+            "point_link": "https://edit.tosdr.org/points/21171",
+            "approval_status": "APPROVED",
+            "clause_text": "Those who choose to access this Website from outside the United States do so on their own initiative and at their own risk and are responsible for compliance with applicable local laws.",
+            "point_source": "https://simplyearth.com/pages/terms-of-service",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:54",
+            "point_link": "https://edit.tosdr.org/points/21166",
+            "approval_status": "APPROVED",
+            "clause_text": "and IP address, your general geographic location,",
+            "point_source": "https://simplyearth.com/pages/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "Free Software Foundation - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19700",
+            "approval_status": "APPROVED",
+            "clause_text": "The Free\nSoftware Foundation uses these customer lists to send occasional\nsolicitations and its biannual newsletter.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19707",
+            "approval_status": "APPROVED",
+            "clause_text": "The personal data recipients may be data processors who\nprovide ancillary services to the FSF.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:11:54",
+            "point_link": "https://edit.tosdr.org/points/18673",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics\n<p>The FSF uses Piwik, a free software Web analytics system, to monitor traffic on our Web sites.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19694",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you're not using \"Do Not Track\" and/or you would rather that we don't record your visits with Piwik, you can opt out of tracking on www.fsf.org (but not other domains) by unchecking the box below.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "This service provides archives of their Terms of Service so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19705",
+            "approval_status": "APPROVED",
+            "clause_text": "To see previous versions of this policy and a description of what has\nchanged, see the Privacy\nPolicy Changelog",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19708",
+            "approval_status": "APPROVED",
+            "clause_text": "The FSF will store personal\ndata during the term of the agreement and during the limitation period\nas defined by applicable law or until the consent for direct marketing\nis revoked.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19706",
+            "approval_status": "APPROVED",
+            "clause_text": "The data subjects are entitled to (i) request that the FSF allows\nthem to access and correct personal data submitted by them to the FSF.\n(ii)\nrequest that the FSF erase or limit the processing of personal data\nsubmitted by them and disagree with the processing of data if such\nrequests are compatible with the performance of the agreement and\napplicable law.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19696",
+            "approval_status": "APPROVED",
+            "clause_text": "If we do not receive such notification, generally we will reinstate the material.</p>\n<p>Please also be advised that we may terminate the accounts of repeat infringers.</p>\n<p>\n<e",
+            "point_source": "https://www.fsf.org/about/dmca-notice",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19698",
+            "approval_status": "APPROVED",
+            "clause_text": "You are creating a permanent,\npublic record of information added, removed, and/or altered by you,\nincluding information which may identify you.\nFor example, emails to\npublic discussion lists are publicly available in their entirety,\nincluding your email address.\nPlease think carefully about your desired\nlevel of anonymity before you disclose personal information.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:44",
+            "point_link": "https://edit.tosdr.org/points/19703",
+            "approval_status": "APPROVED",
+            "clause_text": "(iii) data portability.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "This service respects your browser's Do Not Track (DNT) headers",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 10:11:53",
+            "point_link": "https://edit.tosdr.org/points/18672",
+            "approval_status": "APPROVED",
+            "clause_text": "Piwik also respects the \"Do Not Track\" preference offered by some browsers, so if you have this option set, Piwik will ignore your visit.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19704",
+            "approval_status": "APPROVED",
+            "clause_text": "(iv) submit a complaint\nregarding the processing of personal data to the competent EU data\nprotection authority.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19710",
+            "approval_status": "APPROVED",
+            "clause_text": "Counter-Notification: What You Can Do If Your Work Was Removed <p>If you believe material you posted to one of the FSF’s sites was not infringing, you can submit a counter-notice.\nIf you need assistance in determining whether the material was not infringing, please contact the Electronic Frontier Foundation (via email at info@eff.org), who may be able to help you find an independent attorney to evaluate your situation.",
+            "point_source": "https://www.fsf.org/about/dmca-notice",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19702",
+            "approval_status": "APPROVED",
+            "clause_text": "General Data Protection Regulation <p>The FSF has the right to process personal data of EU residents (i)\ndue to their provided consent to FSF.\nor (ii) in order to conclude an\nagreement with them and to fulfill it.\nThe legal basis for the processing\nof personal data is Article 6 (1) (a)-(b) of the General Data Protection\nRegulation.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:45",
+            "point_link": "https://edit.tosdr.org/points/19701",
+            "approval_status": "APPROVED",
+            "clause_text": "Customers can opt out of all\ncontact or specify only print or email contact by emailing privacy@fsf.org",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:11:58",
+            "point_link": "https://edit.tosdr.org/points/18674",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated August 25th, 2016</em>",
+            "point_source": "https://www.fsf.org/about/dmca-notice",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19699",
+            "approval_status": "APPROVED",
+            "clause_text": "Right after that quote, another one follows: \"You are creating a permanent, public record of information added, removed, and/or altered by you, including information which may identify you. For example, emails to public discussion lists are publicly available in their entirety, including your email address.\"",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19697",
+            "approval_status": "APPROVED",
+            "clause_text": "Piwik preserves privacy by anonymizing visitors' IP addresses.\nThis means that it will not store any personally identifiable information about you, even though your visit produces a record that our site was visited by someone.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19709",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe there is a work or multiple works on one of the FSF's sites that violates copyright law, let us know.\nSpecifically, send us an email or letter that includes substantially the following:</p>",
+            "point_source": "https://www.fsf.org/about/dmca-notice",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:46",
+            "point_link": "https://edit.tosdr.org/points/19695",
+            "approval_status": "APPROVED",
+            "clause_text": "We use services for payment processing, which requires sharing the transaction information with them over a secure connection, under legal agreement that appropriately controls its use and retention.",
+            "point_source": "https://www.fsf.org/about/free-software-foundation-privacy-policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

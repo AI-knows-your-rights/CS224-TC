@@ -1,0 +1,557 @@
+{
+    "meta_data": {
+        "title": "Однокла́ссники (Ok.ru) - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2021-05-14 03:15:04",
+            "point_link": "https://edit.tosdr.org/points/19774",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2021-05-16 04:09:30",
+            "point_link": "https://edit.tosdr.org/points/19797",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2021-05-13 13:01:41",
+            "point_link": "https://edit.tosdr.org/points/19779",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2021-05-13 13:01:27",
+            "point_link": "https://edit.tosdr.org/points/19794",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2021-05-13 12:59:44",
+            "point_link": "https://edit.tosdr.org/points/19812",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/cookiepolicy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2021-05-16 04:08:25",
+            "point_link": "https://edit.tosdr.org/points/19788",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Some personal data may be kept after the end of the data retention period or a request for erasure",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2021-05-13 00:20:59",
+            "point_link": "https://edit.tosdr.org/points/19805",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2021-05-13 13:52:34",
+            "point_link": "https://edit.tosdr.org/points/19798",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2021-05-16 04:10:13",
+            "point_link": "https://edit.tosdr.org/points/19776",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2021-05-13 13:52:20",
+            "point_link": "https://edit.tosdr.org/points/19804",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Russia)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2021-05-13 13:49:57",
+            "point_link": "https://edit.tosdr.org/points/19790",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2021-05-13 13:02:33",
+            "point_link": "https://edit.tosdr.org/points/19807",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-12 06:43:34 UTC, bangpiano0101 (33629)  wrote:\n          Welcome to GO99, which provides the ultimate, diverse and attractive online betting experience! At GO99, we are proud to provide a safe playground. - please click here go99",
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2021-05-16 04:13:10",
+            "point_link": "https://edit.tosdr.org/points/19775",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2021-05-13 12:59:28",
+            "point_link": "https://edit.tosdr.org/points/19795",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2021-05-14 03:18:06",
+            "point_link": "https://edit.tosdr.org/points/19791",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "Prohibits public posting of private messages",
+            "rating": "good",
+            "description": "The service does not allow users to publicly post private messages they have received from other users.",
+            "last_updated": "2021-05-13 00:17:07",
+            "point_link": "https://edit.tosdr.org/points/19784",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You aren’t allowed to publicly post private messages",
+                "href": "https://edit.tosdr.org/cases/317"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2021-05-16 04:12:27",
+            "point_link": "https://edit.tosdr.org/points/19810",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2021-05-14 03:13:49",
+            "point_link": "https://edit.tosdr.org/points/19809",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2021-05-13 13:00:37",
+            "point_link": "https://edit.tosdr.org/points/19793",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service provides a list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2021-05-13 13:01:07",
+            "point_link": "https://edit.tosdr.org/points/19813",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/cookiepolicy",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2021-05-16 04:11:22",
+            "point_link": "https://edit.tosdr.org/points/19811",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2021-05-15 20:05:56",
+            "point_link": "https://edit.tosdr.org/points/19787",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2021-05-13 00:17:29",
+            "point_link": "https://edit.tosdr.org/points/19806",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You can choose with whom you share content",
+            "rating": "good",
+            "description": "Users can decide whether or not they want their content to be shared and they can control how and with whom it is shared.",
+            "last_updated": "2021-05-13 13:00:59",
+            "point_link": "https://edit.tosdr.org/points/19808",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "You can choose with whom you share content",
+                "href": "https://edit.tosdr.org/cases/225"
+            }
+        },
+        {
+            "title": "Prohibits the publishing of personally identifiable information without the owner’s consent",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2021-05-13 00:17:44",
+            "point_link": "https://edit.tosdr.org/points/19782",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2021-05-13 13:52:07",
+            "point_link": "https://edit.tosdr.org/points/19792",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2021-05-14 12:54:33",
+            "point_link": "https://edit.tosdr.org/points/19785",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can intervene in user disputes",
+            "rating": "neutral",
+            "description": "If you have a dispute with another user on this service, they can review the issue and intervene. However, they don't have an obligation to do so.",
+            "last_updated": "2021-05-12 18:05:17",
+            "point_link": "https://edit.tosdr.org/points/19778",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "The service can intervene in user disputes",
+                "href": "https://edit.tosdr.org/cases/276"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2021-05-16 04:14:50",
+            "point_link": "https://edit.tosdr.org/points/19786",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2021-05-11 10:44:21",
+            "point_link": "https://edit.tosdr.org/points/19770",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2021-05-13 13:00:49",
+            "point_link": "https://edit.tosdr.org/points/19783",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2021-05-14 03:17:17",
+            "point_link": "https://edit.tosdr.org/points/19781",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2021-05-16 04:14:30",
+            "point_link": "https://edit.tosdr.org/points/19773",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2021-05-16 04:14:05",
+            "point_link": "https://edit.tosdr.org/points/19780",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-10 20:09:37 UTC, Anthony00 (36542)  wrote:\n          real estate virtual assistant\n<a href=\"https://bit.ly/4aV6p7U\">real estate virtual assistant</a>\n<a href=\"https://virtualassitantindia.blogspot.com/2024/05/blog-post.html\">real estate virtual assistant</a>\n<a href=\"https://www.tumblr.com/virtualassitantusa/749400346980417536/a-virtual-assistant-for-your-real-estate-agency?source=share\">real estate virtual assistant</a>\n<a href=\"https://www.expatriates.com/cls/56021323.html?1714684272\">real estate virtual assistant</a>\n<a href=\"https://bloggalot.com/property-development/6-actions-to-automate-your-real-estate-business#google_vignette\">real estate virtual assistant</a>\n<a href=\"https://pudya.com/how-to-become-a-freelance-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://jigwe.in/1-how-much-does-a-virtual-assistant-earn/94855\">real estate virtual assistant</a>\n<a href=\"https://aajkaltrends.club/bookmarking/1-how-much-does-a-virtual-assistant-earn-delhi.html\">real estate virtual assistant</a>\n<a href=\"https://axyza.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://aylma.com/get-no-1-real-estate-virtual-assistant-services/\">real estate virtual assistant</a>\n<a href=\"https://kaancy.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://laece.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://plefi.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://productdiary.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://singlepanda.com/get-no-1-real-estate-virtual-assistant-services/\">real estate virtual assistant</a>\n<a href=\"https://starcourts.com/?p=61602\">real estate virtual assistant</a>\n<a href=\"https://submityourstories.com/page/business-services/real-estate-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://www.directorynode.com/preview-directory/\">real estate virtual assistant</a>\n<a href=\"https://xokki.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://xucal.com/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://661d75741facf.site123.me/\">real estate virtual assistant</a>\n<a href=\"https://in.pinterest.com/pin/946952259138252634\">real estate virtual assistant</a>\n<a href=\"https://myanimelist.net/login.php?from=%2Fregister.php\">real estate virtual assistant</a>\n<a href=\"https://www.pearltrees.com/virtualassistant99#item592869687\">real estate virtual assistant</a>\n<a href=\"https://www.pearltrees.com/virtualassistant99\">real estate virtual assistant</a>\n<a href=\"https://www.openstreetmap.org/#map=4/21.84/82.79\">real estate virtual assistant</a>\n<a href=\"https://www.ranker.com/writer/e-assistant\">real estate virtual assistant</a>\n<a href=\"https://auth.angel.com/u/email-verification/SFMyNTY.g2gDaAJtAAAAJDA4MzQ5MDRmLTZkZDYtNDNiNy1iM2YwLTJmODY2ODliODk4N20AAAAXZWFzc2lzdGFudDAwNUBnbWFpbC5jb21uBgApBpsrjwFiAAFRgA.gw_Cee2LmdkHjkzfUO27__G90Ez34KGmBDwqYy0yVt0?return_to=\">real estate virtual assistant</a>\n<a href=\"https://answers.informer.com/u/230543/real-estate-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://www.deviantart.com/virtualassistant99/journal/08-AUG-WHY-COLLABORATE-WITH-A-OR-REAL-ESTATE-1048363387\">real estate virtual assistant</a>\n<a href=\"https://coub.com/virtualassistan\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://padlet.com/Virtualassistan/my-fierce-padlet-yzj5gedw26wvn7od\">real estate virtual assistant</a>\n<a href=\"https://dzone.com/articles/virtual-assistants-to-support-the-real-estate-agen\">real estate virtual assistant</a>\n<a href=\"https://dzone.com/newsletters/5135310/manage.html\">real estate virtual assistant</a>\n<a href=\"https://www.awwwards.com/Virtualassistant99/\">real estate virtual assistant</a>\n<a href=\"https://www.bloglovin.com/@virtualassistant16/uses-virtual-assistants-for-real-estate\">real estate virtual assistant</a>\n<a href=\"https://folkd.com/link/Real-Estate-Virtual-Assistant\">real estate virtual assistant</a>\n<a href=\"https://medium.com/@eassistant005/the-benefits-of-a-real-estate-virtual-assistant-3aa10ef6d282\">real estate virtual assistant</a>\n<a href=\"https://mix.com/virtualassistant09\">real estate virtual assistant</a>\n<a href=\"https://virtualas09.livejournal.com/499.html\">real estate virtual assistant</a>\n<a href=\"https://virtualassistant09.free-blogz.com/74078070/virtual-assistance-for-the-real-estate-industry\">real estate virtual assistant</a>\n<a href=\"https://virtualas09.livejournal.com/\">real estate virtual assistant</a>\n<a href=\"https://virtualassistant09.free-blogz.com/74078070/virtual-assistance-for-the-real-estate-industry\">real estate virtual assistant</a>\n<a href=\"https://hatena.blog/\">real estate virtual assistant</a>\n<a href=\"https://hubpages.com/@virtualassistant99\">real estate virtual assistant</a>\n<a href=\"https://medium.com/@eassistant005/the-benefits-of-a-real-estate-virtual-assistant-3aa10ef6d282\">real estate virtual assistant</a>\n<a href=\"https://sites.google.com/view/real-estate-virtualassistant-/home\">real estate virtual assistant</a>\n<a href=\"https://loop.frontiersin.org/people/2730065/overview\">real estate virtual assistant</a>\n<a href=\"https://diigo.com/0w5hxd\">real estate virtual assistant</a>\n<a href=\"https://secure.smore.com/n/uhc93-tasks-for-a-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://zumvu.com/marketplace/us/v304874/virtual-assistants-for-real-estate/\">real estate virtual assistant</a>\n<a href=\"https://myanimelist.net/profile/Virtualassista09\">real estate virtual assistant</a>\n<a href=\"https://virtualassistant09.mystrikingly.com/blog/real-estate-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://disqus.com/channel/discussbreakingnews/discussion/channel-discussbreakingnews/tasks_of_a_real_estate_virtual_assistant_and_the_benefits_of_hiring_them/\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://www.expatriates.com/cls/56049523.html?1715026538\">real estate virtual assistant</a>\n<a href=\"https://www.whizolosophy.com/category/other-relationships/article-essay/9-tasks-of-your-real-estate-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://www.a2zsocialnews.com/preview-news/\">real estate virtual assistant</a>\n<a href=\"https://www.directorynode.com/preview-directory/\">real estate virtual assistant</a>\n<a href=\"https://socialbookmarkingmentor.com/page/business-services/virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://freead1.net/ad/5114827/how-much-does-a-virtual-assistant-earn.html\">real estate virtual assistant</a>\n<a href=\"https://blog.rackons.in/how-can-you-become-a-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://www.businessbook.pk/users/detail/virtualassistant-32904\">real estate virtual assistant</a>\n<a href=\"https://triberr.com/Virtualassistant99\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://www.deviantart.com/virtualassistant99\">real estate virtual assistant</a>\n<a href=\"https://in.pinterest.com/pin/946952259138346627/\">real estate virtual assistant</a>\n<a href=\"https://trustedrevie.ws/my-account\">real estate virtual assistant</a>\n<a href=\"https://www.pearltrees.com/virtualassistant99#item593912418\">real estate virtual assistant</a>\n<a href=\"https://www.tumblr.com/virtualassitantusa/749844758851108864/remote-real-estate-assistant-56021323?source=share\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://x.com/eassistant005/status/1787917532361281816\">real estate virtual assistant</a>\n<a href=\"https://www.diigo.com/user/virtualutkarsh?query=%23AUTOMATEYOUR\">real estate virtual assistant</a>\n<a href=\"https://wakelet.com/wake/bzkGtmpHw3oyjRj93IHK-\">real estate virtual assistant</a>\n<a href=\"https://bookmarksplash.com/preview-news/\">real estate virtual assistant</a>\n<a href=\"https://www.bookmarkinghost.info/my-account/\">real estate virtual assistant</a>\n<a href=\"https://www.bookmarkmaps.com/preview-listing/\">real estate virtual assistant</a>\n<a href=\"https://heavenarticle.com/author/virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://community.spiceworks.com/u/spiceuser-gazu/follow/feed\">real estate virtual assistant</a>\n<a href=\"https://bookmarkport.com/story18945104/real-estate-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://wayranks.com/wp-admin/profile.php\">real estate virtual assistant</a>\n<a href=\"https://bookmarkport.com/story18945112/real-estate-virtual-assistant\">real estate virtual assistant</a>\n<a href=\"https://habr.com/en/sandbox/216349/\">real estate virtual assistant</a>\n<a href=\"https://solo.to/page\">real estate virtual assistant</a>\n<a href=\"https://www.instapaper.com/read/1679655409\">real estate virtual assistant</a>\n<a href=\"https://www.symbaloo.com/home/mix/13ePC4aLWU\">real estate virtual assistant</a>\n<a href=\"https://www.scoop.it/u/eassistant005-gmail-com\">real estate virtual assistant</a>\n<a href=\"https://getpocket.com/read/cH9T6Ad4g0gY1p94cQdy0l7v13p2gS30046CdKre64k3cHo2420Z5V2eB44yt9cQ_d2dd838a2e862c3beaf4449aa7706c49\">real estate virtual assistant</a>\n<a href=\"https://flipboard.com/@eassistant2024/real-estate-virtual-assistant-j06vp99ly\">real estate virtual assistant</a>\n<a href=\"https://wakelet.com/wake/ryXh9N4gmk8POsYSd5O7W\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://in.pinterest.com/Virtualassistant09/real-estate-virtual-assistant/\">real estate virtual assistant</a>\n<a href=\"https://www.bibsonomy.org/user/virtual09/Realestatevirtualassistant,\">real estate virtual assistant</a>\n<a href=\"https://www.votetags.info/preview-story/\">real estate virtual assistant</a>\n<a href=\"https://folkd.com/link/Real-Estate-Virtual-Assistant2\">real estate virtual assistant</a>\n<a href=\"https://www.newsciti.com/preview-story/\">real estate virtual assistant</a>\n<a href=\"https://afroshub.com/\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://bookmark-template.com/story19202911/why-collaborate-with-a-or-real-estate\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://bookmarkstumble.com/story18543688/get-no-1-real-estate-virtual-assistant-services\">real estate virtual assistant</a>\n<a href=\"https://allmyfaves.com/Virtualassistant09?tab=Virtualassistant\">real estate virtual assistant</a>\n<a href=\"https://tinyurl.com/app/pricing?newuser\">real estate virtual assistant</a>\n<a href=\"https://www.seosubmitbookmark.com/preview-listing/\">real estate virtual assistant</a>\n<a href=\"https://www.diigo.com/user/virtualutkarsh?query=%23realestatevirtualassistant\">real estate virtual assistant</a>\n<a href=\"\">real estate virtual assistant</a>\n<a href=\"https://peatix.com/user/22086530/view\">real estate virtual assistant</a>",
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2021-05-13 13:02:14",
+            "point_link": "https://edit.tosdr.org/points/19771",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account if you violate the terms",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2021-05-13 13:00:04",
+            "point_link": "https://edit.tosdr.org/points/19777",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2021-05-13 13:49:31",
+            "point_link": "https://edit.tosdr.org/points/19796",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/privacypolicy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2021-05-16 04:13:53",
+            "point_link": "https://edit.tosdr.org/points/19772",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Russia",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2021-05-13 11:37:38",
+            "point_link": "https://edit.tosdr.org/points/19789",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://ok.ru/regulations",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}
