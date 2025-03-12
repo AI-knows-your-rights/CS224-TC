@@ -84,6 +84,16 @@ Each website folder contains a `documents/` subfolder with Terms & Conditions (T
 
 ## 🚀 Usage
 
+### 🔹 Clone the Repository
+
+```bash
+brew install git-lfs # if you haven't installed git-lfs
+# or sudo apt-get install git-lfs
+git lfs install
+git lfs pull
+git clone --depth 1 https://github.com/rayhu-stanford/tc_ranker.git
+```
+
 ### 🔹 Download Data
 
 1. Navigate to the `data_downloader/` folder.
@@ -111,6 +121,12 @@ npm run download -- --all
 
 #### Setup
 
+```bash
+conda env create -f tc_ranker_environment.yaml
+conda activate tc_ranker
+```
+
+Or do it manually:
 ```bash
 conda create -n tc_ranker python=3.10
 conda activate tc_ranker
