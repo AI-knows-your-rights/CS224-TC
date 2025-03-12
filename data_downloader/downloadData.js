@@ -198,6 +198,10 @@ const acceptableLabels = [
 ];
 // Function to check for Terms and Conditions using Legal BERT model
 async function checkForTermsAndConditions(text) {
+  return {
+    status: "Acceptable",
+    message: "Classification Skipped",
+  };
   try {
     const result = await hf.zeroShotClassification({
       model: "facebook/bart-large-mnli",

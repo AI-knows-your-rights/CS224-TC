@@ -1,0 +1,81 @@
+{
+    "meta_data": {
+        "title": "Open Camera - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22467",
+            "approval_status": "APPROVED",
+            "clause_text": "</ul>\n<p>Although Open Camera is ad-free, the Open Camera website has ads via Google Adsense: Third party vendors, including Google, use cookies to\nserve ads based on a user's previous visits to this website or other websites.",
+            "point_source": "https://opencamera.org.uk/privacy_oc.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22465",
+            "approval_status": "APPROVED",
+            "clause_text": "This website uses cookies, including for Google Analytics",
+            "point_source": "https://opencamera.org.uk/privacy_oc.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22468",
+            "approval_status": "APPROVED",
+            "clause_text": "Open Camera is released under the GPL v3 or later.",
+            "point_source": "https://opencamera.org.uk/#licence",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22469",
+            "approval_status": "APPROVED",
+            "clause_text": "The source code is\navailable from https://sourceforge.net/​projects/opencamera/files/",
+            "point_source": "https://opencamera.org.uk/#licence",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22466",
+            "approval_status": "APPROVED",
+            "clause_text": "Consent plugin for the EU cookie law",
+            "point_source": "https://opencamera.org.uk/privacy_oc.html",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        }
+    ]
+}

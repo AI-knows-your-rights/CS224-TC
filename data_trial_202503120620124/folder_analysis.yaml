@@ -1,0 +1,201 @@
+summary:
+  total_subfolders: 5
+  total_files: 25
+  total_documents: 37
+folders:
+  - name: Authy (Twilio)
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 10
+      tc_files: 0
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 337510
+          word_count: 51556
+        - name: Review_02.txt
+          size_bytes: 337510
+          word_count: 51556
+        - name: Review_03.txt
+          size_bytes: 616284
+          word_count: 97812
+        - name: Review_04.txt
+          size_bytes: 1091
+          word_count: 177
+        - name: Review_05.txt
+          size_bytes: 337510
+          word_count: 51556
+        - name: authy.html.txt
+          size_bytes: 337510
+          word_count: 51556
+        - name: cookies.html.txt
+          size_bytes: 337510
+          word_count: 51556
+        - name: pay-terms.html.txt
+          size_bytes: 1091
+          word_count: 177
+        - name: privacy.html.txt
+          size_bytes: 337510
+          word_count: 51556
+        - name: tos.html.txt
+          size_bytes: 616284
+          word_count: 97812
+  - name: Le Bon Coin
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 6
+      tc_files: 0
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 43
+          word_count: 8
+        - name: Review_02.txt
+          size_bytes: 43
+          word_count: 8
+        - name: Review_03.txt
+          size_bytes: 43
+          word_count: 8
+        - name: cookies.html.txt
+          size_bytes: 43
+          word_count: 8
+        - name: rules.html.txt
+          size_bytes: 43
+          word_count: 8
+        - name: vos_droits_et_obligations.html.txt
+          size_bytes: 43
+          word_count: 8
+  - name: Open Camera
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 4
+      tc_files: 0
+      review_files: 0
+      files:
+        - name: '#licence.html.txt'
+          size_bytes: 10208
+          word_count: 979
+        - name: Review_01.txt
+          size_bytes: 10208
+          word_count: 979
+        - name: Review_02.txt
+          size_bytes: 4344
+          word_count: 699
+        - name: privacy_oc.html.html.txt
+          size_bytes: 4344
+          word_count: 699
+  - name: SpiderOak
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: false
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 10
+      tc_files: 0
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 141004
+          word_count: 22019
+        - name: Review_02.txt
+          size_bytes: 423758
+          word_count: 65097
+        - name: Review_03.txt
+          size_bytes: 372288
+          word_count: 57256
+        - name: Review_04.txt
+          size_bytes: 60519
+          word_count: 9112
+        - name: Review_05.txt
+          size_bytes: 80980
+          word_count: 11903
+        - name: hipaa.html.txt
+          size_bytes: 80980
+          word_count: 11903
+        - name: law-enforcement.html.txt
+          size_bytes: 60519
+          word_count: 9112
+        - name: privacy-policy.html.txt
+          size_bytes: 141004
+          word_count: 22019
+        - name: service-agreement.html.txt
+          size_bytes: 372288
+          word_count: 57256
+        - name: terms-of-service.html.txt
+          size_bytes: 423758
+          word_count: 65097
+  - name: Tinder
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: false
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 7
+      tc_files: 0
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 174898
+          word_count: 27336
+        - name: Review_02.txt
+          size_bytes: 51113
+          word_count: 8070
+        - name: Review_03.txt
+          size_bytes: 62425
+          word_count: 9740
+        - name: Review_04.txt
+          size_bytes: 27622
+          word_count: 3941
+        - name: Review_05.txt
+          size_bytes: 679672
+          word_count: 107609
+        - name: cookie-policy?locale=en.html.txt
+          size_bytes: 51113
+          word_count: 8070
+        - name: en.html.txt
+          size_bytes: 679672
+          word_count: 107609

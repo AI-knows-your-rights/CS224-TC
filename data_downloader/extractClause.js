@@ -44,12 +44,20 @@ const fetchHtml = async (url, retries = 3) => {
 };
 
 // Function to save HTML content to a file
-const saveHtml = (content, pointId) => {
+const savePointHtml = (content, pointId) => {
     const dir = path.join(process.cwd(), 'points_html');
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true });
     }
     fs.writeFileSync(path.join(dir, `point_${pointId}.html`), content);
+};
+
+const saveCaseHtml = (content, caseId) => {
+    const dir = path.join(process.cwd(), 'cases_html');
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
+    }
+    fs.writeFileSync(path.join(dir, `case_${caseId}.html`), content);
 };
 
 // Function to extract point ID from edit link
@@ -59,7 +67,7 @@ const extractPointId = (editLink) => {
 };
 
 // Function to process a single point
-const processPoint = async (pointId, editPageUrl) => {
+const processPoint = async (pointId, pointPageUrl) => {
     const filePath = path.join(process.cwd(), 'points_html', `point_${pointId}.html`);
     
     // Check if file already exists and is valid
@@ -70,9 +78,32 @@ const processPoint = async (pointId, editPageUrl) => {
     // Add delay to prevent overwhelming the server
     await delay(500); // 500ms delay between requests
     
-    const editPageHtml = await fetchHtml(editPageUrl);
-    saveHtml(editPageHtml, pointId);
+    const editPageHtml = await fetchHtml(pointPageUrl);
+    savePointHtml(editPageHtml, pointId);
     return editPageHtml;
+};
+
+
+const extractCaseId = (caseUrl) => {
+    const match = caseUrl.match(/\/cases\/(\d+)/);
+    return match ? match[1] : null;
+};
+
+// Function to process a single case
+const processCase = async (caseId, casePageUrl) => {
+    const filePath = path.join(process.cwd(), 'cases_html', `case_${caseId}.html`);
+    
+    // Check if file already exists and is valid
+    if (isValidFile(filePath)) {
+        return fs.readFileSync(filePath, 'utf8');
+    }
+    
+    // Add delay to prevent overwhelming the server
+    await delay(500); // 500ms delay between requests
+    
+    const casePageHtml = await fetchHtml(casePageUrl);
+    saveCaseHtml(casePageHtml, caseId);
+    return casePageHtml;
 };
 
 const extractClauses = async (htmlContent) => {
@@ -117,23 +148,85 @@ const extractClauses = async (htmlContent) => {
         clause.last_updated = lastUpdated ? lastUpdated.replace("Last updated: ", "") : null;
 
         // Extract Edit Link
-        clause.edit_link = point.find('.edit-icon').attr('href') || null;
+        clause.point_link = point.find('.edit-icon').attr('href') || null;
 
         // Fetch and process edit page if edit link exists
-        if (clause.edit_link) {
+        if (clause.point_link) {
             try {
-                const pointId = extractPointId(clause.edit_link);
+                const pointId = extractPointId(clause.point_link);
                 if (pointId) {
-                    const editPageUrl = `https://edit.tosdr.org/points/${pointId}`;
-                    const editPageHtml = await processPoint(pointId, editPageUrl);
+                    const pointPageUrl = `https://edit.tosdr.org/points/${pointId}`;
+                    const pointPageHtml = await processPoint(pointId, pointPageUrl);
                     
                     // Extract approval status
-                    const $edit = cheerio.load(editPageHtml);
-                    const statusElement = $edit('body > div.container > div:nth-child(3) > div:nth-child(2) > span.label.label-success > span');
+                    const $point = cheerio.load(pointPageHtml);
+                    const statusElement = $point('body > div.container > div:nth-child(3) > div:nth-child(2) > span.label.label-success > span');
                     clause.approval_status = statusElement.text().trim() || null;
+                    // Extract clause text from the specified selector
+                    // const clauseTextElement = $edit('body > div.container > div:nth-child(7) > div');
+                    // document.querySelector("body > div.container > div:nth-child(7) > div")
+
+                    // /html/body/div[2]/div[4]/div/text()
+                    // const clauseText = $edit('html > body > div:nth-child(2) > div:nth-child(4) > div').text().trim() || null;
+
+                    // clause.clause_text = clauseText; //clauseTextElement.text().trim() || null;
+                    // console.log(clause.clause_text);
+                    
+                    // Debug: Log the entire HTML structure
+                    console.info(`Processing point ${pointId}`);
+                    
+                    // Try multiple possible selectors for the clause text
+                    const selectors = [
+                       'div.container div:nth-child(7) div',
+                       'div.container div:nth-child(6) div blockquote'
+                    ];
+                    // col-sm-10 col-sm-offset-1 p30 bgw
+                    // document.querySelector("body > div.container > div:nth-child(7) > div")
+                    // body > div.container > div:nth-child(7) > div
+
+                    let clauseText = null;
+                    for (const selector of selectors) {
+                        const element = $point(selector);
+                        if (element.length > 0) {
+                            // Check if the element has a sub-element footer and remove it
+                            element.find('footer').remove();
+                            clauseText = element.text().trim();
+                            console.info(`Found text using selector: ${selector}`);
+                            break;
+                        }
+                    }
+                    
+                    clause.clause_text = clauseText;
+                    
+                    // If still null, log the relevant part of the HTML for debugging
+                    if (!clauseText) {
+                        console.log(`Could not find clause text for point ${pointId}, url: ${pointPageUrl} `);
+                    }
+                    
+                    // Extract point source: the T&C document link
+                    const sourceElement = $point('body > div.container > div:nth-child(3) > div:nth-child(5) > a');
+                    clause.point_source =  sourceElement.attr('href') || null;
+
+                    // // Extract additional point details
+                    // clause.point_source = $edit('body > div.container > div:nth-child(3) > div:nth-child(5) > a').text().trim() || null;
+                    // Extract point case
+                    // clause.point_case = $edit('body > div.container > div:nth-child(3) > div:nth-child(3) > a').text().trim() || null;
+                    // console.log(clause.point_case);
+
+                    // Extract case details - get the text and href
+                    const caseElement = $point('body > div.container > div:nth-child(3) > div:nth-child(3) > a');
+                    const caseId = extractCaseId(caseElement.attr('href'));
+                    const casePageUrl= `https://edit.tosdr.org${caseElement.attr('href')}` || null
+                    clause.case = {
+                        text: caseElement.text().trim() || null,
+                        href: casePageUrl 
+                    };
+
+                    const casePageHtml = await processCase(caseId, casePageUrl);
+
                 }
             } catch (error) {
-                console.error(`Error processing point "${clause.title}" (${clause.edit_link}):`, error.message);
+                console.error(`Error processing point "${clause.title}" (${clause.point_link}):`, error.message);
                 clause.approval_status = null;
             }
         }
