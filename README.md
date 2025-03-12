@@ -69,7 +69,7 @@ This same methodology is applied for **document scoring** based on predicted cla
 
 - Each folder contains a `service.html` file with clause-level ratings.
 - This file is converted to `service.txt` for easier reading.
-- Additionally, `service.html` is transformed into JSON format for efficient processing.
+- Additionally, we extract data from `service.html`, its `points` and `cases`, save them in the clauses.json for efficient processing.
 
 ### 🔹 T&C Documents
 
@@ -115,9 +115,21 @@ npm run download -- --all
 conda create -n tc_ranker python=3.10
 conda activate tc_ranker
 conda install jupyter
-pip install torch transformers datasets
-python src/legal-bert.py
+conda install pandas
+conda install scikit-learn
+conda install transformers
+conda install pytorch
+conda install datasets
+pip install 'accelerate>=0.26.0'
+# pip install torch transformers datasets
+
 ```
+
+Open the `Ray_score_prediction.ipynb` file in Jupyter Notebook:
+
+```python
+```
+
 
 ---
 
