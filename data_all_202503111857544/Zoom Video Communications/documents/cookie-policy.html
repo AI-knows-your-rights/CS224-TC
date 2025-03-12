@@ -1,0 +1,1712 @@
+
+<!doctype html>
+<html xmlns:fb="http://ogp.me/ns/fb#" lang="en">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# zoomvideocall: http://ogp.me/ns/fb/zoomvideocall#">
+        <title>Cookie Statement | Zoom</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta name="referrer" content="origin-when-cross-origin">
+        <meta name="description" content="Learn how Zoom uses cookies and your options for controlling the use of cookies on the Zoom site.">
+        <link rel="canonical" href="https://www.zoom.com/en/trust/cookie-policy/" />
+        <meta name="robots" content="index, follow">
+        <link href="https://www.zoom.com/en/trust/cookie-policy/" hreflang="x-default" rel="alternate" />
+<link href="https://www.zoom.com/en/trust/cookie-policy/" hreflang="en" rel="alternate" />
+
+        <link rel="icon" type="image/png" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="/dist/main.css?t=638768396020000000" media="screen,print" />
+        <script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+    document.addEventListener('DOMContentLoaded', function () {
+        try {
+            //console.log('DOMContentLoaded event fired');
+
+            function excludeUrls() {
+                const excludedUrl = 'https://www.zoom.com/en/contact/contact-vb-sales';
+                if (window.location.href.includes(excludedUrl)) {
+                    //console.log('URL is excluded, exiting script execution');
+                    return true;
+                }
+                return false;
+            }
+
+            function checkLoggedInStatus() {
+                const cmsGuidKey = "authorized-access";
+                const roles = [
+                    "e833b0a4-49b2-4a65-8270-598b5650186f",
+                    "be0a4727-2dc2-47cf-aa36-55e9b69bb501",
+                    "82c0350d-4c26-4b95-8feb-330fef53cda3",
+                ];
+
+                const cookieValue = document.cookie
+                    .split(";")
+                    .map(c => c.trim())
+                    .find(c => c.startsWith(`${cmsGuidKey}=`))
+                    ?.split("=")[1]?.trim();
+
+                //console.log("Authorized-access cookie value:", cookieValue);
+
+                const hasValidRole = roles.includes(cookieValue);
+                //console.log("User has valid role:", hasValidRole);
+
+                return hasValidRole; // Return logged-in status
+            }
+
+            function isSMBUser() {
+                const cookieName = "isSMBUser";
+                const cookieValue = getCookie(cookieName);
+
+                // Check if the cookie is already set
+                if (cookieValue) {
+                    //console.log(`isSMBUser value retrieved from cookie: ${cookieValue}`);
+                    return cookieValue === "true";
+                }
+
+                // If no cookie, determine the value from dataLayer
+                const dataLayer = window.dataLayer || [];
+                //console.log("Data layer content:", dataLayer);
+                const smbValue = dataLayer.some(s =>
+                    ['Just Me', '2-10', '11-50'].includes(s.employeeCount) ||
+                    (s.employee_count && s.employee_count < 51) ||
+                    ['Small (10 - 49 Employees)', 'Micro (1 - 9 Employees)'].includes(s.rwCompanySize)
+                );
+
+                // Store the computed value in a cookie
+                createCookieWithValue(cookieName, smbValue ? "true" : "false");
+                return smbValue ;
+            }
+
+            window.addEventListener("beforeunload", () => {
+                //console.log("Resetting isSMBUser on refresh...");
+                document.cookie = "isSMBUser=; max-age=0; path=/; domain=.zoom.com";
+            });
+
+
+            function getCookie(name) {
+                const match = document.cookie.split(";").map(c => c.trim())
+                    .find(c => c.startsWith(`${name}=`));
+                return match ? match.split("=")[1] : null;
+            }
+
+            function waitForPersonalizationData(callback) {
+                const interval = 100; // Check every 100ms
+                const timeout = 10000; // Timeout after 10 seconds
+                const startTime = Date.now();
+
+                const checkDataLayer = () => {
+                    const dataLayer = window.dataLayer || [];
+                    const eventLoaded = dataLayer.some(item => item.event === "rw_personalization_data");
+
+                    if (eventLoaded) {
+                        //console.log("rw_personalization_data event is loaded in the dataLayer.");
+                        const smbValue = isSMBUser();
+                        //console.log("isSMBUser value:", smbValue);
+
+                        // Store the isSMB value in a cookie
+                        createCookieWithValue("isSMBUser", smbValue ? "true" : "false");
+
+                        callback(smbValue); // Pass the SMB value to the callback
+                        return;
+                    }
+
+                    if (Date.now() - startTime > timeout) {
+                        //console.error("Timed out waiting for rw_personalization_data event.");
+
+                        // Default to false in the cookie if timeout occurs
+                        createCookieWithValue("isSMBUser", "false");
+
+                        callback(false); // Proceed with false if timeout occurs
+                        return;
+                    }
+
+                    setTimeout(checkDataLayer, interval); // Retry after interval
+                };
+
+                checkDataLayer();
+            }
+
+            function createCookieWithValue(cookieName, cookieValue) {
+                if (cookieValue !== undefined) {
+                    let domain = location.hostname.split('.').reverse()[1] + '.' + location.hostname.split('.').reverse()[0];
+                    setCookie(cookieName, cookieValue, 365, domain);
+                }
+            }
+
+            function setCookie(cookieName, value, days, domain) {
+                let expires = "";
+                if (days) {
+                    const date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toUTCString();
+                }
+
+                // Create the cookie
+                document.cookie = `${cookieName}=${value || ""}${expires}; path=/; secure; samesite=none; domain=.${domain}`;
+            }
+
+            function monitorAuthorizationState() {
+                let lastCookieValue = getCookie("authorized-access");
+
+                setInterval(() => {
+                    const currentCookieValue = getCookie("authorized-access");
+                    if (currentCookieValue !== lastCookieValue) {
+                        //console.log(`Authorization state changed from ${lastCookieValue} to ${currentCookieValue}`);
+                        lastCookieValue = currentCookieValue;
+
+                        // Refresh the page when the authorization state changes
+                        //console.log("Refreshing the page due to authorization state change.");
+                        window.location.reload();
+                    }
+                }, 1000); // Check every second
+            }
+
+            function monitorSMBUserState() {
+                let lastSMBValue = isSMBUser(); // Initial state
+
+                setInterval(() => {
+                    const currentSMBValue = isSMBUser();
+                    if (currentSMBValue !== lastSMBValue) {
+                        //console.log(`isSMBUser state changed from ${lastSMBValue} to ${currentSMBValue}`);
+                        lastSMBValue = currentSMBValue;
+
+                        // Trigger DOM updates based on the new state
+                        updateDOMBasedOnState(currentSMBValue);
+                    }
+                }, 1000); // Check every second
+            }
+
+            function logElementAction(action, element) {
+                if (element) {
+                    console.log(`${action}:`, {
+                        tagName: element.tagName,
+                        classList: Array.from(element.classList),
+                        innerHTML: element.innerHTML,
+                    });
+                } else {
+                    console.warn(`${action} failed: Element is null or undefined.`);
+                }
+            }
+
+            function initializeNavElements() {
+                //console.log("Initializing navigation elements");
+
+                const navLeft = document.querySelector('.main-nav__left .main-nav__list');
+                const navRight = document.querySelector('.main-nav__right .main-nav__list');
+
+                if (!navLeft || !navRight) {
+                    console.error("Navigation elements not found");
+                    return;
+                }
+
+                // Refined selector logic for Plans & Pricing
+                const backendPlansPricingLeft = navLeft.querySelector('li.main-nav__list-item > a.main-nav__link[href*="zoom.us/pricing"]');
+                if (backendPlansPricingLeft) {
+                    const parentElement = backendPlansPricingLeft.closest('li.main-nav__list-item');
+                    if (parentElement && !parentElement.hasAttribute('data-added-by')) {
+                        //console.log("Adding 'data-added-by=backend' to backend Plans & Pricing in the main-nav__list");
+                        parentElement.setAttribute('data-added-by', 'backend');
+                    } else {
+                        console.warn("Parent element already has 'data-added-by' or is null.");
+                    }
+                } else {
+                    console.warn("Plans & Pricing link not found in the correct navigation context.");
+                }
+
+                // Locate "Contact Sales" in the right navigation and add the data attribute
+                const backendContactSalesRight = navRight.querySelector('li.main-nav__list-item > a[href*="contact-sales"]');
+                //console.log("backendContactSalesRight -> ", backendContactSalesRight);
+
+                if (backendContactSalesRight) {
+                    const parentElement = backendContactSalesRight.closest('li.main-nav__list-item');
+                    if (parentElement && !parentElement.hasAttribute('data-added-by')) {
+                        //console.log("Adding 'data-added-by=backend' to backend-rendered Contact Sales in the main-nav__list");
+                        parentElement.setAttribute('data-added-by', 'backend');
+                    }
+                } else {
+                    console.warn("Contact Sales link not found in right navigation.");
+                }
+
+
+
+                // Add custom-script elements for Contact Sales (left) and Plans & Pricing (right)
+                const contactSalesWrapperLeft = document.createElement('li');
+                contactSalesWrapperLeft.className = 'main-nav__list-item';
+                contactSalesWrapperLeft.setAttribute('data-added-by', 'custom-script');
+                contactSalesWrapperLeft.setAttribute('data-nav-type', 'contact-sales');
+                contactSalesWrapperLeft.style.display = "none";
+                const contactSalesLinkLeft = document.createElement('a');
+                contactSalesLinkLeft.href = 'https://www.zoom.com/en/contact/contact-sales/';
+                contactSalesLinkLeft.textContent = 'Contact Sales';
+                contactSalesLinkLeft.className = 'main-nav__link';
+                contactSalesWrapperLeft.appendChild(contactSalesLinkLeft);
+                navLeft.appendChild(contactSalesWrapperLeft);
+
+                const plansPricingWrapperRight = document.createElement('li');
+                plansPricingWrapperRight.className = 'main-nav__list-item';
+                plansPricingWrapperRight.setAttribute('data-added-by', 'custom-script');
+                plansPricingWrapperRight.setAttribute('data-nav-type', 'plans-pricing');
+                plansPricingWrapperRight.style.display = "none";
+                const plansPricingLinkRight = document.createElement('a');
+                plansPricingLinkRight.href = 'https://www.zoom.com/pricing';
+                plansPricingLinkRight.textContent = 'Plans & Pricing';
+                plansPricingLinkRight.classList.add('fdn-button', 'fdn-button--button-style-tertiary', 'fdn-button--button-small');
+                plansPricingWrapperRight.appendChild(plansPricingLinkRight);
+
+                const signUpFreeButton = navRight.querySelector('.fdn-button--button-style-primary');
+                if (signUpFreeButton) {
+                    navRight.insertBefore(plansPricingWrapperRight, signUpFreeButton.parentElement);
+                }
+
+                //console.log("Navigation elements initialized.");
+            }
+
+            function updateNavVisibility(isSMB, isLoggedIn) {
+                //console.log(`Updating navigation visibility. State: ${isSMB ? "SMB" : "Non-SMB"} | Logged In: ${isLoggedIn}`);
+
+                const navLeftList = document.querySelector('.main-nav__left .main-nav__list');
+                const navRightList = document.querySelector('.main-nav__right .main-nav__list');
+
+                const contactSalesLeftItem = navLeftList.querySelector('[data-nav-type="contact-sales"], [data-added-by="backend"][data-nav-type="contact-sales"]');
+                const contactSalesRightItem = navRightList.querySelector('[data-added-by="backend"]');
+
+                const plansPricingLeftItem = navLeftList.querySelector('[data-added-by="backend"][data-nav-type="plans-pricing"], li.main-nav__list-item > a.main-nav__link[href*="pricing"]')?.parentElement;
+                const plansPricingRightItem = navRightList.querySelector('[data-nav-type="plans-pricing"]');
+                const loggedInPlansPricingItem = navRightList.querySelector('[data-nav-type="plans-pricing-logged-in"]');
+
+                // Handle logged-out SMB users
+                if (!isLoggedIn && isSMB) {
+                    //console.log("SMB user and not logged in: Show Contact Sales on left and Plans & Pricing on right");
+
+                    // Show Contact Sales on the left
+                    if (contactSalesLeftItem) {
+                        contactSalesLeftItem.style.display = '';
+                    }
+
+                    // Hide Contact Sales on the right
+                    if (contactSalesRightItem) {
+                        contactSalesRightItem.style.display = 'none';
+                    }
+
+                    // Show Plans & Pricing on the right
+                    if (plansPricingRightItem) {
+                        plansPricingRightItem.style.display = '';
+                    }
+
+                    // Hide Plans & Pricing on the left
+                    if (plansPricingLeftItem) {
+                        plansPricingLeftItem.style.display = 'none';
+                    }
+
+                    // Hide logged-in Plans & Pricing
+                    if (loggedInPlansPricingItem) {
+                        loggedInPlansPricingItem.style.display = 'none';
+                    }
+                }
+                // Handle logged-in SMB users
+                else if (isLoggedIn && isSMB) {
+                    //console.log("SMB user and logged in: Show custom 'Plans & Pricing' on right, hide existing elements");
+
+                    // Hide Contact Sales on the right
+                    if (contactSalesRightItem) {
+                        contactSalesRightItem.style.display = 'none';
+                    }
+
+                    // Create or show the logged-in Plans & Pricing
+                    if (!loggedInPlansPricingItem) {
+                        //console.log("Adding custom 'Plans & Pricing' for logged-in users on the right between Web App and My Account");
+
+                        const plansPricingWrapper = document.createElement('li');
+                        plansPricingWrapper.className = 'main-nav__list-item';
+                        plansPricingWrapper.setAttribute('data-added-by', 'custom-script');
+                        plansPricingWrapper.setAttribute('data-nav-type', 'plans-pricing-logged-in');
+
+                        const plansPricingLink = document.createElement('a');
+                        plansPricingLink.href = 'https://www.zoom.com/pricing';
+                        plansPricingLink.textContent = 'Plans & Pricing';
+                        plansPricingLink.classList.add('fdn-button', 'fdn-button--button-style-tertiary', 'fdn-button--button-small');
+
+                        plansPricingWrapper.appendChild(plansPricingLink);
+
+                        // Place the new Plans & Pricing between Web App and My Account
+                        const myAccountItem = navRightList.querySelector('li > a[href*="profile"]')?.parentElement;
+                        const webAppItem = navRightList.querySelector('.resources-nav__dropdown-webapprestricted')?.parentElement;
+
+                        if (webAppItem && myAccountItem) {
+                            navRightList.insertBefore(plansPricingWrapper, myAccountItem);
+                        } else if (myAccountItem) {
+                            navRightList.insertBefore(plansPricingWrapper, myAccountItem);
+                        } else if (webAppItem) {
+                            navRightList.insertBefore(plansPricingWrapper, webAppItem.nextSibling);
+                        } else {
+                            navRightList.appendChild(plansPricingWrapper);
+                        }
+                    } else {
+                        loggedInPlansPricingItem.style.display = '';
+                    }
+
+                    // Hide existing Plans & Pricing on the right
+                    if (plansPricingRightItem) {
+                        plansPricingRightItem.style.display = 'none';
+                    }
+
+                    // Hide Contact Sales on the left
+                    if (contactSalesLeftItem) {
+                        contactSalesLeftItem.style.display = 'none';
+                    }
+
+                    // Hide existing Plans & Pricing on the left
+                    if (plansPricingLeftItem) {
+                        plansPricingLeftItem.style.display = 'none';
+                    }
+                }
+                // Handle logged-in Non-SMB users
+                else if (isLoggedIn && !isSMB) {
+                    //console.log("Non-SMB user and logged in: Show Plans & Pricing on left, hide Contact Sales and Plans & Pricing from right");
+
+                    // Show Plans & Pricing on the left
+                    if (plansPricingLeftItem) {
+                        plansPricingLeftItem.style.display = '';
+                    }
+
+                    // Hide Contact Sales on the right
+                    if (contactSalesRightItem) {
+                        contactSalesRightItem.style.display = 'none';
+                    }
+
+                    // Hide logged-in Plans & Pricing
+                    if (loggedInPlansPricingItem) {
+                        loggedInPlansPricingItem.style.display = 'none';
+                    }
+
+                    // Hide Plans & Pricing on the right
+                    if (plansPricingRightItem) {
+                        plansPricingRightItem.style.display = 'none';
+                    }
+
+                    // Hide Contact Sales on the left
+                    if (contactSalesLeftItem) {
+                        contactSalesLeftItem.style.display = 'none';
+                    }
+                }
+                // Handle logged-out Non-SMB users
+                else if (!isLoggedIn && !isSMB) {
+                    //console.log("Non-SMB user and not logged in: Show Plans & Pricing on left and Contact Sales on right");
+
+                    // Show Plans & Pricing on the left
+                    if (plansPricingLeftItem) {
+                        plansPricingLeftItem.style.display = '';
+                    }
+
+                    // Show Contact Sales on the right
+                    if (contactSalesRightItem) {
+                        contactSalesRightItem.style.display = '';
+                    }
+
+                    // Hide Contact Sales on the left
+                    if (contactSalesLeftItem) {
+                        contactSalesLeftItem.style.display = 'none';
+                    }
+
+                    // Hide logged-in Plans & Pricing
+                    if (loggedInPlansPricingItem) {
+                        loggedInPlansPricingItem.style.display = 'none';
+                    }
+
+                    // Hide Plans & Pricing on the right
+                    if (plansPricingRightItem) {
+                        plansPricingRightItem.style.display = 'none';
+                    }
+                }
+
+                //console.log("Navigation visibility updated.");
+            }
+
+            function updateDOMBasedOnState(isSMB) {
+                //console.log("Updating DOM based on state");
+
+                // Use checkLoggedInStatus to determine the logged-in state
+                const isLoggedIn = checkLoggedInStatus();
+                //console.log('current state logged in- ', isLoggedIn)
+
+                updateNavVisibility(isSMB, isLoggedIn);
+            }
+
+
+            function initializeScript() {
+                //console.log("Initializing script");
+
+                // Set up navigation elements
+                initializeNavElements();
+
+                // Wait for personalization data and update the state
+                waitForPersonalizationData((isSMB) => {
+                    updateDOMBasedOnState(isSMB);
+                });
+
+                monitorAuthorizationState();
+                // Monitor SMB state changes
+                monitorSMBUserState();
+            }
+
+            initializeScript();
+
+        } catch (error) {
+            console.error('Error in executing navigation modification:', error);
+        }
+    });
+</script>
+        <meta property="og:title" content="Cookie Statement">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.zoom.com/en/trust/cookie-policy/">
+<meta property="og:image" content="https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==">
+<meta property="og:image:secure_url" content="https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==">
+<meta property="og:description" content="Learn how Zoom uses cookies and your options for controlling the use of cookies on the Zoom site.">
+<meta property="og:site_name" content="Zoom">
+<meta property="og:locale" content="en">
+
+        
+        <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@zoom">
+<meta name="twitter:url" content="https://www.zoom.com/en/trust/cookie-policy/">
+<meta name="twitter:title" content="Cookie Statement">
+<meta name="twitter:description" content="Learn how Zoom uses cookies and your options for controlling the use of cookies on the Zoom site.">
+<meta name="twitter:image" content="https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==">
+
+        <script type="application/ld+json" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+    {
+        "@context": "https://schema.org",
+        "@type": "Corporation",
+        "@id": "https://www.zoom.com/#corporation",
+        "url": "https://www.zoom.com/",
+        "founder": {
+            "@type": "Person",
+            "name": "Eric Yuan"
+        },
+        "foundingDate": "2011-04-21",
+        "legalName": "Zoom Communications, Inc.",
+        "name": "Zoom Communications",
+        "alternateName": [
+            "Zoom",
+            "Zoom Video Communications"
+        ],
+        "description": "Modernize workflows with Zoom's trusted collaboration tools: including video meetings, team chat, VoIP phone, webinars, whiteboard, contact center, and events.",
+        "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "San Jose, CA",
+        "postalCode": "95113",
+        "streetAddress": "55 Almaden Boulevard",
+        "addressCountry": "US"
+        },
+        "logo": "https://st3.zoom.us/static/6.2.7916/image/thumb.png",
+        "sameAs": [
+        "https://en.wikipedia.org/wiki/Zoom_Video_Communications",
+        "https://g.co/kgs/UdsQY1Y",
+        "https://www.linkedin.com/company/zoom",
+        "https://x.com/Zoom",
+        "https://www.youtube.com/zoommeetings",
+        "https://www.facebook.com/zoom",
+        "https://www.instagram.com/zoom",
+        "https://zoom.us/",
+        "https://support.zoom.com/"
+        ]
+    }
+</script>
+        <script type="text/javascript" charset="UTF-8" data-domain-script="054bb50c-9aa4-49a0-8c41-57b963195b3a" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" async="" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA="></script>
+        <script defer="" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=" type="text/javascript">
+window.dataLayer = window.dataLayer || [];
+
+</script>
+        <script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+    createOnPageCookie('_zm_visitor_guid');
+
+ function createOnPageCookie(cookieName) {
+    let thisCookie = getOnPageCookie(cookieName)
+
+    let now = new Date()
+    let threshold = new Date('October 10, 2023')
+    if (!(thisCookie && '' != thisCookie) || now < threshold)
+    {
+      let value = generateId()
+      let domain = location.hostname.split('.').reverse()[1] + '.' + location.hostname.split('.').reverse()[0]
+      setOnPageCookie(cookieName,value,365,domain)
+    }
+  }
+
+function generateId() {
+    return 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'.replace(/[xy]/g, function(ad) {
+      var ac = (Math.random() * 16) | 0
+        , ab = ad == 'x' ? ac : (ac & 3) | 8
+      return ab.toString(16)
+    })
+  }
+
+function getOnPageCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	// see if value is JSON
+	let isJSON = function isJson(str) {
+		try {
+			JSON.parse(str);
+		} catch (e) {
+			return false;
+		}
+		return true;
+	};
+	for (var i = 0; i < ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+		if (c.indexOf(nameEQ) == 0) {
+			let content = c.substring(nameEQ.length, c.length);
+			if (isJSON(content)) {
+				content = JSON.parse(content);
+				// replace commas
+				for (const [key, item] of Object.entries(content)) {
+					if (typeof item == 'string') content[key] = item.replace('U+0002C',',')
+				}
+			}
+			return content;
+		}
+	}
+	return null;
+}
+
+function setOnPageCookie(cookieName, value, days, domain) {
+    var expires = ""
+    if (days) {
+      var date = new Date()
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000))
+      expires = "; expires=" + date.toUTCString()
+    }
+    if (typeof value === 'object') {
+      // because of Safari bug handling JSON in cookies commas need to be stripped out
+      let obj = {}
+      for (const [key, item] of Object.entries(value)) {
+        if (typeof item == 'string') obj[key] = item.replace(/,/,'U+0002C')
+        else obj[key] = item
+      }
+      // turn value into JSON
+      value = JSON.stringify(obj)
+    }
+    // create cookie
+    document.cookie = cookieName + "=" + (value || "") + expires + "; path=/;secure;samesite=none;domain=." + domain
+  }
+
+
+</script>
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+console.log(window.zmGlobalMrktKey);
+window.zmGlobalMrktId = "" || null;
+window.zmGlobalMrktKey = "" || null;
+window['optimizely'] = window['optimizely'] || [];</script>
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+var optimizely = window["optimizely"] || [];
+optimizely.push({"type": "holdEvents"});
+</script>
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=" src="https://cdn.optimizely.com/js/20917322331.js"></script>
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+(function () {
+var optimizely = window["optimizely"] || [];
+window.sendOptimizelyEvents = function (oneTrustConsentId) {
+optimizely.push({
+"type": "tags",
+"tags": {
+"onetrust_id": oneTrustConsentId || ""
+}
+});
+optimizely.push({"type": "sendEvents"});
+}
+})();
+</script>
+        
+        <!-- Google Tag Manager --><script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5WKFT9');</script><!-- End Google Tag Manager -->
+             
+             
+        
+        <script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: { instrumentationKey:'19a17737-94f4-4af6-b75e-bd513bb1c305', disableCookiesUsage: false }});
+</script>
+
+        
+        
+    </head>
+    <body data-layer-site="" class="fonts-loaded ">
+        <style>
+
+/* BLOG */
+.height-holder:has(.blog-detail-speaker) {
+    height: 100% !important;
+}
+
+.hardware-detailed .hardware-fdn-autoImage img {
+    max-height: 400px;
+}
+
+
+header.header-v3>.main-nav ul li>div[class^="resources-nav__dropdown-"],
+header.header-v3>.resources-nav ul li>div[class^="resources-nav__dropdown-"] {
+    min-width: max-content;
+}
+@media(min-width: 1025px) and (max-width: 1200px) {
+    .header-v3.header:has(.main-nav__logo--blog) .main-nav__left .main-nav__list li:not(:last-child) {
+        display: none;
+    }
+
+    .header-v3.header:has(.main-nav__logo--blog) .main-nav__right .main-nav__list-item a.fdn-button {
+        font-size: 12px;
+    }
+}
+
+@media(min-width: 1025px) and (max-width: 1200px) {
+    .main-nav__container:has(.main-nav__logo--blog) .main-nav__hamburger-trigger {
+        display: flex !important;
+    }
+
+    .header-v3.header:has(.main-nav__logo--blog) nav.mobile-menu {
+        display: block;
+    }
+}
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .header-v3 .megamenu__list-item-heading a {
+        white-space: break-spaces;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1439px) {
+
+    html:lang(de) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(es) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(fr) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(id) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(it) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(ja) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(nl) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(pl) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(pt) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(ru) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(sv) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(tr) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child,
+    html:lang(vi) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list li:last-child {
+        display: grid;
+    }
+
+    html:lang(de) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(es) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(fr) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(id) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(it) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(ja) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(nl) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(pl) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(pt) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(ru) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(sv) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(tr) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2),
+    html:lang(vi) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2) {
+        display: block;
+    }
+
+    html:lang(de) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(es) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(fr) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(id) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(it) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(ja) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(nl) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(pl) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(pt) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(ru) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(sv) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(tr) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child,
+    html:lang(vi) .header-v3.header>.mobile-menu .mobile-menu__main-nav>.mobile-menu__list>li:last-child {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2) {
+        display: block;
+    }
+
+    .header-v3 .mobile-menu .mobile-menu__main-nav .mobile-menu__list .mobile-menu__list-item:last-child {
+        display: block;
+    }
+
+    html:lang(en) .header-v3 .mobile-menu .mobile-menu__main-nav .mobile-menu__list .mobile-menu__list-item:last-child,
+    html:lang(zh-Hant-TW) .header-v3 .mobile-menu .mobile-menu__main-nav .mobile-menu__list .mobile-menu__list-item:last-child,
+    html:lang(ko) .header-v3 .mobile-menu .mobile-menu__main-nav .mobile-menu__list .mobile-menu__list-item:last-child,
+    html:lang(zh-Hans-CN) .header-v3 .mobile-menu .mobile-menu__main-nav .mobile-menu__list .mobile-menu__list-item:last-child {
+        display: none;
+    }
+}
+
+
+.fdn-image-card .fdn-hero-banner-card__tag-list li:hover {
+    border: 1px solid #e0e0e6;
+    color: #666487;
+}
+
+.grid-landing-page__mobile-filters span {
+    padding-right: 0;
+}
+
+.grid-landing-page__mobile-filters span .grid-landing-page__mobile-filters-sort {
+    padding-right: 0.625rem;
+}
+
+@media (min-width: 1025px) {
+    .fdn-icon-block li {
+        align-items: center;
+    }
+
+    .testimonial-carousel .swiper-slide {
+        padding-top: 3.125rem;
+    }
+
+    .testimonial-carousel .swiper-slide:only-child {
+        padding-top: 1.25rem;
+    }
+}
+
+body:has(.fdn-copy-block) .fdn-stories-wrapper .fdn-copy-block__sub-title h2 {
+    font-size: 1.25rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 1025px) {
+    body:has(.fdn-copy-block) .fdn-stories-wrapper .fdn-copy-block__sub-title h2 {
+        font-size: 1.5rem;
+        margin-top: 40px;
+        margin-bottom: 10px;
+    }
+}
+
+
+/* CUSTOMER STORIES */
+.cmp-card-customer-story .customer-story-card__arrow-wrap {
+    width: 100%;
+}
+.customer-story-card .customer-story-card__content {
+    margin-bottom: 20px;
+}
+.customer-story-card:hover .customer-story-card__story-link {
+        opacity: 1;
+        transition: all 1s ease;
+    }
+.customer-story-card__story-link {
+        opacity: 0;
+        white-space: nowrap;
+    }
+.cmp-card-customer-story:hover .customer-story-card__story-link { 
+    animation: delayWhiteSpace 0s linear 0.25s forwards;
+}
+
+@keyframes delayWhiteSpace {
+    to {
+        white-space: normal;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 996px) {
+html:lang(ru) header.header-v3 nav.main-nav .main-nav__right ul li a { font-size: 12px;}
+html:lang(ru) header.header-v3 .resources-nav__dropdown, html:lang(ru) header.header-v3 .resources-nav__link {font-size: 11px;}
+html:lang(ru) header.header-v3 .resources-nav__list-item--search .FlyoutContainer #standaloneSearchbox.CoveoSearchInterface { width: 250px;}
+html:lang(ru) header.header-v3 .resources-nav__list-item--search .FlyoutContainer #standaloneSearchbox.CoveoSearchInterface .FlyoutButton {align-items: center; height: 22px;}
+html:lang(ru) header.header-v3 .resources-nav__list-item--search .FlyoutContainer #standaloneSearchbox.CoveoSearchInterface .FlyoutButton .CoveoText { font-size: 11px !important;}
+html:lang(ru) .fonts-loaded header.header-v3 .main-nav__right .resources-nav__dropdownrestricted, html:lang(ru) .fonts-loaded .header-v3 .main-nav__right .resources-nav__dropdown-webapprestricted, html:lang(ru) header.header-v3 .main-nav__right .main-nav__list>.main-nav__list-item > a, html:lang(ru) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2), html:lang(ru) .fonts-loaded .header-v3 .main-nav__right .resources-nav__dropdown-joinrestricted, html:lang(ru) header.header-v3 .main-nav__link { font-size: 10px;}
+}
+@media (min-width: 997px) and (max-width: 1140px) {
+html:lang(ru) header.header-v3 .resources-nav__dropdown, html:lang(ru) header.header-v3 .resources-nav__link {font-size: 11px;}
+html:lang(ru) header.header-v3 .resources-nav__list-item--search .FlyoutContainer #standaloneSearchbox.CoveoSearchInterface { width: 250px;}
+html:lang(ru) header.header-v3 .resources-nav__list-item--search .FlyoutContainer #standaloneSearchbox.CoveoSearchInterface .FlyoutButton {align-items: center; height: 22px;}
+html:lang(ru) header.header-v3 .resources-nav__list-item--search .FlyoutContainer #standaloneSearchbox.CoveoSearchInterface .FlyoutButton .CoveoText { font-size: 11px !important;}
+html:lang(ru) .fonts-loaded header.header-v3 .main-nav__right .resources-nav__dropdownrestricted, html:lang(ru) .fonts-loaded .header-v3 .main-nav__right .resources-nav__dropdown-webapprestricted, html:lang(ru) header.header-v3 .main-nav__right .main-nav__list>.main-nav__list-item > a, html:lang(ru) .header-v3.header .main-nav__left .main-nav__list:has(li:last-child[style*="display: none"])>li:nth-last-child(2), html:lang(ru) .fonts-loaded .header-v3 .main-nav__right .resources-nav__dropdown-joinrestricted, html:lang(ru) header.header-v3 .main-nav__link { font-size: 12px;}
+}
+</style>
+<style>
+.tabcus tr td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    vertical-align: middle;
+}
+h2.headline-medium.cust {
+    margin-bottom: 10px;
+}
+</style>
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WKFT9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <input id="market-verify-eventname" type="hidden" value="pageLoad"></input>
+<input id="market-verify-pagename" type="hidden" value="cookie policy"></input>
+<input id="market-verify-pagelanguage" type="hidden" value="en"></input>
+<input id="market-verify-usercountry" type="hidden" value="US"></input>
+<input id="market-verify-fullUrl" type="hidden" value="https://www.zoom.com/en/trust/cookie-policy/"></input>
+
+        
+            
+    <header class="header header-v3 " data-cmp-is="navigator">
+        <input type="hidden" id="market-verify" value="https://zoom.us/market_verify/v2" />
+        <input type="hidden" id="plan-price-api" value="https://zoom.us/pricing/planprice.json" />
+
+        <nav class="resources-nav" aria-label="Resources">
+            <div class="resources-nav__container">
+                <a href="#main" class="resources-nav__skip">Skip to main content</a>
+                <a href="#" class="skip_to_chat resources-nav__skip">Skip To Help Chat</a>
+                
+        <a href="/en/accessibility/" class="resources-nav__accessibility js-analytics-cta" title="Accessibility Overview" data-title=""  data-link-type="" data-en-text="" >Accessibility Overview</a>
+
+                <ul class="resources-nav__list">
+                    <li class="resources-nav__list-item resources-nav__list-item--search">
+                            <div class="FlyoutContainer">
+                                <div id="standaloneSearchbox" class="CoveoSearchInterface">
+                                    <div class="CoveoAnalytics"></div>
+                                    <div class="FlyoutButton">
+                                        <span class="coveo-search-button">
+                                            <svg focusable="false" enable-background="new 0 0 20 20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Search" class="coveo-search-button-svg">
+                                                <g fill="currentColor">
+                                                    <path class="coveo-magnifier-circle-svg"
+                                                          d="m8.368 16.736c-4.614 0-8.368-3.754-8.368-8.368s3.754-8.368 8.368-8.368 8.368 3.754 8.368 8.368-3.754 8.368-8.368 8.368m0-14.161c-3.195 0-5.793 2.599-5.793 5.793s2.599 5.793 5.793 5.793 5.793-2.599 5.793-5.793-2.599-5.793-5.793-5.793">
+                                                    </path>
+                                                    <path d="m18.713 20c-.329 0-.659-.126-.91-.377l-4.552-4.551c-.503-.503-.503-1.318 0-1.82.503-.503 1.318-.503 1.82 0l4.552 4.551c.503.503.503 1.318 0 1.82-.252.251-.581.377-.91.377">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                        </span>
+                                        <div class="CoveoText" data-value="Search"></div>
+                                    </div>
+                                    <div class="CoveoSearchbox transition-hidden" data-enable-omnibox="true"></div>
+                                </div>
+                            </div>
+                    </li>
+                    
+
+
+        <li class="resources-nav__list-item">
+            <a href="https://support.zoom.com/hc/en" target="_blank" class="resources-nav__link js-analytics-cta" title="Support" data-title=""  data-link-type="" data-en-text="" >Support<span class="visually-hidden"> Support</span></a>
+		</li>
+
+
+        <li class="resources-nav__list-item">
+            <a href="tel:18887999666" class="resources-nav__link js-analytics-cta" data-title="" rel="noopener noreferrer" data-link-type="" data-en-text="" >1.888.799.9666<span class="visually-hidden"> Click to call</span></a>
+		</li>
+
+<li class="resources-nav__list-item authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3">
+    <span></span>
+</li>
+
+
+        <li class="resources-nav__list-item authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3">
+            <a href="/en/contact/contact-sales/" class="resources-nav__link js-analytics-cta" title="Contact Sales" data-title=""  data-link-type="" data-en-text="Contact Sales" >Contact Sales<span class="visually-hidden"> Contact Sales</span></a>
+		</li>
+
+
+        <li class="resources-nav__list-item">
+            <a href="/en/contact/live-demo/" class="resources-nav__link js-analytics-cta" title="Request a Demo" data-title=""  data-link-type="" data-en-text="" >Request a Demo</a>
+		</li>
+
+
+                    <li class="resources-nav__list-item " data-user-for="97af72b4-4108-4885-b753-f02a39956839">
+                        <span></span>
+                    </li>
+                    <li class="resources-nav__list-item " data-user-for="97af72b4-4108-4885-b753-f02a39956839">
+                        
+
+
+        <a href="https://zoom.us/join" target="_top" class="resources-nav__link js-analytics-cta" title="Join" data-title=""  data-link-type="" data-en-text="" >Join<span class="visually-hidden"> Join</span></a>
+
+                    </li>
+                    
+                    <li class="resources-nav__list-item " data-user-for="97af72b4-4108-4885-b753-f02a39956839">
+                        <button href="#" class="resources-nav__dropdown" aria-haspopup="true" aria-expanded="false">
+                            Host
+                        </button>
+                        <div class="resources-nav__dropdown-list">
+                            <ul>
+                                
+
+
+        <li class="resources-nav__dropdown-list-item">
+            <a href="https://zoom.us/start/videomeeting" target="_blank" class="resources-nav__dropdown-link js-analytics-cta" title="With Video On" data-title=""  data-link-type="" data-en-text="" >With Video On</a>
+		</li>
+
+
+        <li class="resources-nav__dropdown-list-item">
+            <a href="https://zoom.us/start/webmeeting" target="_blank" class="resources-nav__dropdown-link js-analytics-cta" title="With Video Off" data-title=""  data-link-type="" data-en-text="" >With Video Off</a>
+		</li>
+
+
+        <li class="resources-nav__dropdown-list-item">
+            <a href="https://zoom.us/start/sharemeeting" target="_blank" class="resources-nav__dropdown-link js-analytics-cta" title="Screen Share Only" data-title=""  data-link-type="" data-en-text="" >Screen Share Only</a>
+		</li>
+
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="resources-nav__list-item " data-user-for="97af72b4-4108-4885-b753-f02a39956839">
+                        
+        <a href="https://zoom.us/signin" class="resources-nav__link js-analytics-cta" title="Sign In" data-title=""  data-link-type="" data-en-text="" >Sign In<span class="visually-hidden"> to your Zoom account</span></a>
+
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+            <nav aria-label="Main Navigation" class="main-nav"><div class="main-nav__container"><div class="main-nav__left"><a class="main-nav__logo" href="https://www.zoom.com/"><img alt="Zoom Logo" height="26" src="https://media.zoom.com/images/assets/Zoom&#x2B;Logo/Zz01ZGU4MDMzZWJmNDcxMWVkOTI4NGEyNDU1OWRiZTc5Zg==?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOlsiNWRlODAzM2ViZjQ3MTFlZDkyODRhMjQ1NTlkYmU3OWYiXSwiZXhwIjoxNjgxMzM0MTEwfQ.3_IFoXtmS8ExOGbL0F1oGPu8z6lgijgDWFf82zrDFzk" width="114"></img></a><ul class="main-nav__list"><li class="main-nav__list-item"><button aria-expanded="false" aria-haspopup="true" class="main-nav__megamenu-trigger">Products</button><section aria-label="Products" class="megamenu megamenu-products"><div class="megamenu-products-wrapper"><div class="megamenu-products--title"><div class="megamenu-products--subtitle"><a data-en-text="" data-link-type="" href="/en/ai-assistant/"><img alt="AI Companion" class="nav-title-logo" fetchpriority="auto" loading="lazy" src="https://media.zoom.com/images/assets/Full-Color.svg/Zz0zZTU4NjkxMmUwNDAxMWVlOGRjNWFhZTRmMzFmZjlkNg==" title="AI Companion"></img></a></div><div class="megamenu-products--description"><p>Empowering you to increase productivity, improve team effectiveness, and enhance skills. <a data-en-text="" data-link-type="" href="/en/ai-assistant/">Learn more</a></p></div></div><div class="megamenu__bottom"><div class="megamenu__column"><div class="megamenu__column__zoomWorkplace column"><div class="megamenu__head"><div class="megamenu__column-title column-1"><a data-en-text="" data-link-type="" href="/en/products/collaboration-tools/"><img alt="Zoom Workplace" class="nav-title-logo" fetchpriority="auto" loading="lazy" src="https://media.zoom.com/images/assets/logo_product_ZM-workplace_1-line_color-RGB&#x2B;3.svg/Zz01MTA2NTc2MGUwM2UxMWVlOTkyNDkyMTRhMzBjNjAxZg==" title="Zoom Workplace"></img></a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><div class="megamenu__column--block"><div class="megamenu__workplace__column"><ul class="megamenu__list"><li class="megamenu__list-item-heading--disabled">Communication</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Meetings" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/one-meetings.svg/Zz01YTBmNDRkMmVhOGMxMWVkODExZDRhYjdlM2I2YjFmNQ==" title="Meetings" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/virtual-meetings/">Meetings<span class="visually-hidden"> Meetings</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Team Chat" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-team-chat.svg/Zz1lZGNhYmY5MmU0NGUxMWVkYjM1OGEyNzVhMWI2ODM4Yw==" title="Team Chat" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/team-chat/">Team Chat<span class="visually-hidden"> Team Chat</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Phone" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-phone.svg/Zz1lZDNmZDE4NGU0NGUxMWVkOTZiZTllNDY0OTU3ZDg4Zg==" title="Phone" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/voip-phone/">Phone<span class="visually-hidden"> Phone</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Mail &amp; Calendar" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mail&#x2B;calendar&#x2B;Icon.svg/Zz00MWE3YmZiMGRiYmMxMWVlYWQzZjkyZDMwZWIwZDkwYw==" title="Mail &amp; Calendar" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/email-calendar/">Mail & Calendar<span class="visually-hidden"> Mail & Calendar</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Scheduler" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/appointment-scheduler.svg/Zz01MTRiNTg1ZTM1MGYxMWVlYjc3NmQ2NTU5Nzc3NzFhOQ==" title="Scheduler" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/appointment-scheduler/">Scheduler<span class="visually-hidden"> Scheduler</span></a></div></li></ul></div><div class="megamenu__workplace__column"><ul class="megamenu__list"><li class="megamenu__list-item-heading--disabled">Productivity</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Docs" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_docs.svg/Zz0zNTAwYmRkNGRiYzExMWVlYjY2NWNlOTkyMzIwMjc2OA==" title="Docs" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/collaborative-docs/">Docs<span class="visually-hidden"> Docs</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Whiteboard" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-whiteboard.svg/Zz1lZDJjOTczNmU0NGUxMWVkOGFmNmI2NWQ2NDcyM2M3Mg==" title="Whiteboard" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/online-whiteboard/">Whiteboard<span class="visually-hidden"> Whiteboard</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Clips" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-clips.svg/Zz00OTAyYWM5NjVjNTcxMWVlOTA5MDU2NmQ1MzA1MjExNQ==" title="Clips" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/video-recording/">Clips<span class="visually-hidden"> Clips</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Notes" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/Notes-Logo.svg/Zz02MmFkNzBjYWRiYzAxMWVlOWYzNDZhZTY1ZDYyODc3MA==" title="Notes" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/productivity/">Tasks<span class="visually-hidden"> Tasks</span></a></div></li><li class="megamenu__list-item-heading--disabled">Apps & Integrations</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="App Marketplace" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/developer-marketplace.svg/Zz02OWE4YzY1OGVhOTUxMWVkODU1MWU2NWI4Njg2NmUxNA==" title="App Marketplace" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://marketplace.zoom.us/workplace-apps">App Marketplace<span class="visually-hidden"> App Marketplace</span></a></div></li></ul></div><div class="megamenu__workplace__column"><ul class="megamenu__list"><li class="megamenu__list-item-heading--disabled">Spaces</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Rooms" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/Rooms.svg/Zz02ODUyMWZiZWRiYzMxMWVlOTExYjA2NmQzNDk4YmEzNQ==" title="Rooms" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/meeting-rooms/">Rooms<span class="visually-hidden"> Rooms</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Workspace Reservations" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_workspace-reservation.svg/Zz1jY2EzMDQ1NmRiYzMxMWVlYmFhMGVhMDc5Nzg3Mjk1OA==" title="Workspace Reservations" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/meeting-rooms/features/workspace/">Workspace Reservation<span class="visually-hidden"> Workspace Reservation</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Digital Signage" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/digital&#x2B;sign.svg/Zz04ZmQ1MGJlMGRiYzQxMWVlODNlYjBhZjZlZjU5YjMxYw==" title="Digital Signage" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/meeting-rooms/features/workspace/">Digital Signage<span class="visually-hidden"> Digital Signage</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Visitor Management" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/visitor-manage.svg/Zz00Mjc3ZDUwY2RiYzUxMWVlOTI3N2VhMDc5Nzg3Mjk1OA==" title="Visitor Management" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/meeting-rooms/features/workspace/#visitor-management">Visitor Management<span class="visually-hidden"> Visitor Management</span></a></div></li><li class="megamenu__list-item-heading--disabled">Employee Engagement</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Workvivo" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/workvivo-zm.svg/Zz00OTI4MjQ4MDVjNTcxMWVlYjY2ZTFlZThhMTdjNjk4Yg==" title="Workvivo" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/workvivo/">Workvivo<span class="visually-hidden"> Workvivo</span></a></div></li></ul></div></div></div></div><div class="megamenu__column"><div class="megamenu__column__businessService column"><div class="megamenu__head"><div class="megamenu__column-title column-2"><a data-en-text="" data-link-type="" href="/en/products/business-services/">Business Services</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><div class="megamenu__column--block"><div class="megamenu__workplace__column"><ul class="megamenu__list"><li class="megamenu__list-item-heading--disabled">Customer Experience</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Contact Center" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/cc-contact-center.svg/Zz01OTgzNDIwMmVhOGMxMWVkYWEwOWNhMjZkMjg1ODQxMg==" title="Contact Center" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/contact-center/">Contact Center<span class="visually-hidden"> Contact Center</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Virtual Agent" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-virtual-agent.svg/Zz1lZTMzZjllNGU0NGUxMWVkOGRiN2I2NWQ2NDcyM2M3Mg==" title="Virtual Agent" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/virtual-agent/">Virtual Agent<span class="visually-hidden"> Virtual Agent</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Workforce Engagement Management" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_workforce-engagement-management.svg/Zz1kMTNkNDdmZWU3MzIxMWVlOGQwYTgyM2JmOTdlNjdmNA==" title="Workforce Engagement Management" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/workforce-engagement-management/">Workforce Engagement<span class="visually-hidden"> Workforce Engagement</span></a></div></li><li class="megamenu__list-item-heading--disabled">Sales</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Revenue Accelerator" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_revenue-accelerator.svg/Zz1kZjRjZWQ2YWRiY2QxMWVlYmRhNmFhMDkzYjQ2OGZiZA==" title="Revenue Accelerator" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/conversation-intelligence/">Revenue Accelerator<span class="visually-hidden"> Revenue Accelerator</span></a></div></li></ul></div><div class="megamenu__workplace__column"><ul class="megamenu__list"><li class="megamenu__list-item-heading--disabled">Marketing</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Events" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_events.svg/Zz0wNDhmOTg1NGRiY2MxMWVlYjQ3MWQyNTdlYzNkN2VhZg==" title="Events" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/event-platform/">Events<span class="visually-hidden"> Events</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Sessions" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_sessions.svg/Zz0yZTUzYjZjNGRiY2QxMWVlOTRlODNhZWU2NWQ2NTAxNA==" title="Sessions" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/single-session-events/">Sessions<span class="visually-hidden"> Sessions</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Webinars" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_webinars.svg/Zz03Y2QyMWY1Y2RiY2QxMWVlOTVlZDEyMzJmZDU0MGZkZQ==" title="Webinars" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/webinars/">Webinars<span class="visually-hidden"> Webinars</span></a></div></li><li class="megamenu__list-item-heading--disabled">Ecosystems</li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="APIs &amp; SDKs" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_revenue-accelerator.svg/Zz05MTQ1ZmQ4MGRiY2YxMWVlYjI1MmYyMTViMGQ3YTJlNA==" title="APIs &amp; SDKs" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/video-sdk/">APIs & SDKs<span class="visually-hidden"> APIs & SDKs</span></a></div></li><li class="megamenu__list-item megamenu__list-item--has-icon"><img alt="Workflow Automation" class="megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/workflow-automation-logo.svg/Zz1kMWM4MzcwNGVlODExMWVmYWQwYjdlOWEwYmQ0YjdiOA==" title="Workflow Automation" width="28"></img><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/workflow-automation/">Workflow Automation<span class="visually-hidden"> Workflow Automation</span></a></div></li></ul></div></div></div></div></div></div><div class="megamenu-products--actionbar"><ul><li class="action-bar-primary"><a data-en-text="" data-link-type="" href="/en/products/">Discover all products</a></li><li class="action-bar-secondary"><a data-en-text="" data-link-type="" href="https://zoom.us/pricing">Plans & pricing</a></li></ul></div></section><div class="activeSegment"><span class="leftTriangle"></span><span class="rightTriangle"></span></div></li><li class="main-nav__list-item"><button aria-expanded="false" aria-haspopup="true" class="main-nav__megamenu-trigger">Solutions</button><section aria-label="Solutions" class="megamenu megamenu-solutions"><div class="megamenu__bottom"><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title"><a data-en-text="" data-link-type="" href="/en/industry/">By industry</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/industry/education/">Education</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/industry/finance/">Financial Services</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/industry/government/">Government</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/industry/healthcare/">Healthcare</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/industry/manufacturing/">Manufacturing</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/industry/retail/">Retail</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/frontline-workers/">Frontline</a></div></li></ul></div></div><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">By audience</div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/audiences/small-business/">Small and Midsized Businesses</a></div></li><li class="megamenu__list-items"><span class="">Enterprise</span><ul><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/audiences/information-technology/">Information Technology</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/audiences/cx/">Customer Experience</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/audiences/sales-and-revenue/">Sales and Revenue</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/audiences/av-facilities/">Facilities</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/audiences/marketing-events/">Marketing and Events</a></div></li></ul></li></ul></div></div><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title"><a data-en-text="" data-link-type="" href="https://developers.zoom.us/docs/" target="_blank">For developers</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/video-sdk/">Video SDK</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://developers.zoom.us/docs/meeting-sdk/" target="_blank">Meeting SDK</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://marketplace.zoom.us/" target="_blank">App Marketplace</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://developers.zoom.us/docs/api/" target="_blank">APIs</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://developers.zoom.us/docs/api/rest/webhook-reference/" target="_blank">Webhooks</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/zoom-apps/">Zoom Apps</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://developers.zoom.us/docs/" target="_blank">Developer Solutions</a></div></li></ul></div></div><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title"><a data-en-text="" data-link-type="" href="https://partner.zoom.us/" target="_blank">For partners</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://partner.zoom.us/solutions/" target="_blank">Partner Solutions</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://partner.zoom.us/partner-locator/" target="_blank">Find a Partner</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://partner.zoom.us/" target="_blank">Become a Partner</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://mypartnerportal.zoom.us/" target="_blank">Partner Portal</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://mypartnerportal.zoom.us/?sso=21&amp;RelayState=/pages/38/home" target="_blank">Partner Learning Center</a></div></li></ul></div></div><div class="megamenu__bottom-action-bar"><ul><li class="action-bar-primary"><a data-en-text="" data-link-type="" href="https://zoom.us/pricing" target="_blank">Plans & pricing<span class="visually-hidden"> Solutions</span></a><span class="leftTriangle"></span><span class="rightTriangle"></span></li></ul></div></div></section><div class="activeSegment"><span class="leftTriangle"></span><span class="rightTriangle"></span></div></li><li class="main-nav__list-item"><button aria-expanded="false" aria-haspopup="true" class="main-nav__megamenu-trigger">Resources</button><section aria-label="Resources" class="megamenu megamenu-resources"><div class="megamenu__bottom"><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Explore</div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/blog/">Zoom Blog</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/resources/">Resource Library</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://ev.zoom.us/">Webinars & Events</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/customer-stories/all/">Customer Stories</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/trust/">Zoom Trust Center</a></div></li></ul></div></div><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Connect & Learn</div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://community.zoom.com/">Zoom Community</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://learning.zoom.us/learn">Learning Center</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://learn-zoom.us/show-me">How-to Videos</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://events.zoom.us/eo/AsGmtVcsNuaXLrlYNfkaKSphxX-acfgoGLA3gKJv74EKmPPf34Bc~AggLXsr32QYFjq8BlYLZ5I06Dg" target="_blank">Customer Success Hub</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/resources/tech-library/">Technical Content Library</a></div></li></ul></div></div><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Hardware & Services</div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://explore.zoom.us/en/global-services/">Global Services</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/hardware/">Hardware Options</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="/en/products/cmk/">Customer Managed Key</a></div></li></ul></div></div><div class="megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Support</div></div><ul class="megamenu__list"><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://support.zoom.com/hc/en">Customer Support</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://explore.zoom.us/en/support-plans/">Premier Support</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://developers.zoom.us/support/">Developer Support</a></div></li><li class="megamenu__list-item"><div class="megamenu__list-item-heading"><a data-en-text="" data-link-type="" href="https://explore.zoom.us/en/support-plans/developer/">Premier Developer Support</a></div></li></ul></div></div><div class="megamenu__bottom-action-bar"><ul></ul></div></div><div class="megamenu__highlight"><div class="megamenu__highlight-item"><img alt="Download the Zoom app" class="megamenu__highlight-item-image" fetchpriority="auto" height="120" loading="lazy" src="https://media.zoom.com/images/assets/Resources-ZoomClient.png/Zz05YzJhYzg5NGM0NjkxMWVkYWI2NDEyZjk5ZTY0ZGM3Nw==" title="Download the Zoom app" width="120"></img><div class="megamenu__highlight-item-content"><div class="megamenu__highlight-item-heading">Download the Zoom app</div><p class="megamenu__highlight-item-description">Keep your Zoom app up to date to access the latest features.</p><a class="megamenu__highlight-item-cta" data-en-text="" data-link-type="" href="https://zoom.us/download">Download Center</a></div></div><div class="megamenu__highlight-item"><img alt="Zoom Virtual Backgrounds" class="megamenu__highlight-item-image" fetchpriority="auto" height="120" loading="lazy" src="https://media.zoom.com/images/assets/Resources-VirtualBG.png/Zz01MTc3YTRkNmE2YTExMWVmOWEyNTMyZDUxNWJkZWVjOA==" title="Zoom Virtual Backgrounds" width="120"></img><div class="megamenu__highlight-item-content"><div class="megamenu__highlight-item-heading">Zoom Virtual Backgrounds</div><p class="megamenu__highlight-item-description">Download hi-res images and animations to elevate your next Zoom meeting.</p><a class="megamenu__highlight-item-cta" data-en-text="" data-link-type="" href="/en/products/virtual-meetings/features/virtual-background-library/">Browse backgrounds</a></div></div></div></section><div class="activeSegment"><span class="leftTriangle"></span><span class="rightTriangle"></span></div></li><li class="main-nav__list-item"><a class="main-nav__link" data-en-text="" data-link-type="" href="https://zoom.us/pricing">Plans & Pricing</a></li></ul></div><div class="main-nav__right"><ul class="main-nav__list"><li class="main-nav__list-item main-nav__list-item--mobile"><a class="main-nav__mobile-link" data-en-text="" data-link-type="" href="https://zoom.us/join" target="_top">Join</a></li><li class="main-nav__list-item main-nav__list-item--mobile"><a class="main-nav__mobile-link" data-en-text="" data-link-type="" href="https://zoom.us/join" target="_blank">Host</a></li><li class="main-nav__list-item " data-user-for="97af72b4-4108-4885-b753-f02a39956839"><a class="fdn-button fdn-button--button-style-tertiary fdn-button--button-small" data-en-text="" data-link-type="" href="/en/contact/contact-sales/">Contact Sales<span class="visually-hidden"> Contact Sales</span></a></li><li class="main-nav__list-item " data-user-for="97af72b4-4108-4885-b753-f02a39956839"><a class="fdn-button fdn-button--button-style-primary fdn-button--button-small" data-en-text="" data-link-type="" href="https://zoom.us/signup">Sign Up Free</a></li><li class="resources-nav__list-item  authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3"><a class="resources-nav__join" data-en-text="" data-link-type="" href="https://zoom.us/join" target="_top">Join<span class="visually-hidden"> Join</span></a></li><li class="resources-nav__list-item authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3"><button aria-expanded="false" aria-haspopup="true" class="resources-nav__dropdown-joinrestricted">Join</button><div class="resources-nav__dropdown-list-joinrestricted"><ul><li class="resources-nav__dropdown-list-item"><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://zoom.us/join" target="_blank">By Meeting ID<span class="visually-hidden"> By Meeting ID</span></a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://zoom.us/calendar/list" target="_blank">Public event list<span class="visually-hidden"> Public event list</span></a></li></ul></div></li><li class="resources-nav__list-item authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3"><button aria-expanded="false" aria-haspopup="true" class="resources-nav__dropdownrestricted">Host</button><div class="resources-nav__dropdown-listrestricted"><ul><li class="resources-nav__dropdown-list-item"><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://zoom.us/start/videomeeting" target="_blank">With Video On</a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://zoom.us/start/webmeeting" target="_blank">With Video Off</a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://zoom.us/start/sharemeeting" target="_blank">Screen Share Only</a></li></ul></div></li><li class="resources-nav__list-item authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3"><button aria-expanded="false" aria-haspopup="true" class="resources-nav__dropdown-webapprestricted">Web App</button><div class="resources-nav__dropdown-list-webapprestricted"><ul><li class="resources-nav__dropdown-list-item"><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://app.zoom.us/wc?webp=1"><img alt="Home " class="" fetchpriority="auto" id="webApps-home" loading="lazy" src="https://media.zoom.com/images/assets/webApps-sprites.svg/Zz1hZTNiMGNmMDAxOGIxMWVmOTZhM2MyOGQwNmQwMTc4OA==" title="Home">Home</img><span class="visually-hidden"> Home</span></a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://app.zoom.us/wc/team-chat?webp=1"><img alt="Team Chat" class="" fetchpriority="auto" id="webApps-teamchat" loading="lazy" src="https://media.zoom.com/images/assets/webApps-sprites.svg/Zz1hZTNiMGNmMDAxOGIxMWVmOTZhM2MyOGQwNmQwMTc4OA==" title="Team Chat">Team Chat</img><span class="visually-hidden"> Team Chat</span></a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://app.zoom.us/wc/phone?webp=1"><img alt="Phone " class="" fetchpriority="auto" id="webApps-phone" loading="lazy" src="https://media.zoom.com/images/assets/webApps-sprites.svg/Zz1hZTNiMGNmMDAxOGIxMWVmOTZhM2MyOGQwNmQwMTc4OA==" title="Phone ">Phone</img><span class="visually-hidden"> Phone</span></a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://app.zoom.us/wc/meetings?webp=1"><img alt="Meetings" class="" fetchpriority="auto" id="webApps-meetings" loading="lazy" src="https://media.zoom.com/images/assets/webApps-sprites.svg/Zz1hZTNiMGNmMDAxOGIxMWVmOTZhM2MyOGQwNmQwMTc4OA==" title="Meetings ">Meetings</img><span class="visually-hidden"> Meetings</span></a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://app.zoom.us/wc/contacts?webp=1"><img alt="Contacts" class="" fetchpriority="auto" id="webApps-contact" loading="lazy" src="https://media.zoom.com/images/assets/webApps-sprites.svg/Zz1hZTNiMGNmMDAxOGIxMWVmOTZhM2MyOGQwNmQwMTc4OA==" title="Contacts">Contacts</img><span class="visually-hidden"> Contacts</span></a><a class="resources-nav__dropdown-link" data-en-text="" data-link-type="" href="https://app.zoom.us/wc/whiteboards?webp=1"><img alt="Whiteboards" class="" fetchpriority="auto" id="webApps-whiteboards" loading="lazy" src="https://media.zoom.com/images/assets/webApps-sprites.svg/Zz1hZTNiMGNmMDAxOGIxMWVmOTZhM2MyOGQwNmQwMTc4OA==" title="Whiteboards">Whiteboards</img><span class="visually-hidden"> Whiteboards</span></a></li></ul></div></li><li class="main-nav__list-item authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3"><a class="fdn-button fdn-button--button-style-primary fdn-button--button-small" data-en-text="My Account" data-link-type="" href="https://zoom.us/profile">My Account<span class="visually-hidden"> My Account</span></a></li></ul><button aria-expanded="false" aria-haspopup="true" aria-label="Toggle Menu" class="main-nav__hamburger-trigger"><span></span></button></div></div></nav>
+            <nav class="mobile-menu"><div class="mobile-menu__container" data-block-size-ref=""><nav aria-label="Main Navigation" class="mobile-menu__main-nav"><ul class="mobile-menu__list"><li class="mobile-menu__list-item"><a aria-label="Search" class="mobile-menu__search" href="/en/search/"><img alt="Search" height="12" src="/dist/assets/icons/icon-search-gray.svg" width="12"></img>Search</a></li><li class="mobile-menu__list-item"><button aria-controls="panel-1" class="mobile-menu__accordion js-accordion-trigger">Products</button><section aria-label="Products" class="mobile-megamenu megamenu-products js-accordion-panel"><div class="mobile-megamenu-products-wrapper"><div class="mobile-megamenu-products--title"><div class="mobile-megamenu-products--subtitle"><a href="/en/ai-assistant/"><img alt="AI Companion" class="nav-title-logo" fetchpriority="auto" loading="lazy" src="https://media.zoom.com/images/assets/Full-Color.svg/Zz0zZTU4NjkxMmUwNDAxMWVlOGRjNWFhZTRmMzFmZjlkNg==" title="AI Companion"></img></a></div><div class="mobile-megamenu-products--description"><p>Empowering you to increase productivity, improve team effectiveness, and enhance skills. <a href="/en/ai-assistant/">Learn more</a></p></div></div><div class="mobile-megamenu__bottom"><div class="mobile-megamenu__column"><div class="mobile-megamenu__column__zoomWorkplace column"><div class="mobile-megamenu__head"><div class="mobile-megamenu__column-title"><a href="/en/products/collaboration-tools/"><img alt="Zoom Workplace" class="nav-title-logo" fetchpriority="auto" loading="lazy" src="https://media.zoom.com/images/assets/logo_product_ZM-workplace_1-line_color-RGB&#x2B;3.svg/Zz01MTA2NTc2MGUwM2UxMWVlOTkyNDkyMTRhMzBjNjAxZg==" title="Zoom Workplace"></img></a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><div class="mobile-megamenu__column--block"><div class="mobile-megamenu__workplace__column"><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item-heading--disabled">Communication</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Meetings" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/one-meetings.svg/Zz01YTBmNDRkMmVhOGMxMWVkODExZDRhYjdlM2I2YjFmNQ==" title="Meetings" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/virtual-meetings/">Meetings</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Team Chat" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-team-chat.svg/Zz1lZGNhYmY5MmU0NGUxMWVkYjM1OGEyNzVhMWI2ODM4Yw==" title="Team Chat" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/team-chat/">Team Chat</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Phone" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-phone.svg/Zz1lZDNmZDE4NGU0NGUxMWVkOTZiZTllNDY0OTU3ZDg4Zg==" title="Phone" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/voip-phone/">Phone</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Mail &amp; Calendar" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mail&#x2B;calendar&#x2B;Icon.svg/Zz00MWE3YmZiMGRiYmMxMWVlYWQzZjkyZDMwZWIwZDkwYw==" title="Mail &amp; Calendar" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/email-calendar/">Mail & Calendar</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Scheduler" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/appointment-scheduler.svg/Zz01MTRiNTg1ZTM1MGYxMWVlYjc3NmQ2NTU5Nzc3NzFhOQ==" title="Scheduler" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/appointment-scheduler/">Scheduler</a></div></li></ul></div><div class="mobile-megamenu__workplace__column"><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item-heading--disabled">Productivity</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Docs" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_docs.svg/Zz0zNTAwYmRkNGRiYzExMWVlYjY2NWNlOTkyMzIwMjc2OA==" title="Docs" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/collaborative-docs/">Docs</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Whiteboard" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-whiteboard.svg/Zz1lZDJjOTczNmU0NGUxMWVkOGFmNmI2NWQ2NDcyM2M3Mg==" title="Whiteboard" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/online-whiteboard/">Whiteboard</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Clips" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-clips.svg/Zz00OTAyYWM5NjVjNTcxMWVlOTA5MDU2NmQ1MzA1MjExNQ==" title="Clips" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/video-recording/">Clips</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Notes" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/Notes-Logo.svg/Zz02MmFkNzBjYWRiYzAxMWVlOWYzNDZhZTY1ZDYyODc3MA==" title="Notes" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/productivity/">Tasks</a></div></li><li class="mobile-megamenu__list-item-heading--disabled">Apps & Integrations</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="App Marketplace" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/developer-marketplace.svg/Zz02OWE4YzY1OGVhOTUxMWVkODU1MWU2NWI4Njg2NmUxNA==" title="App Marketplace" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="https://marketplace.zoom.us/workplace-apps">App Marketplace</a></div></li></ul></div><div class="mobile-megamenu__workplace__column"><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item-heading--disabled">Spaces</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Rooms" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/Rooms.svg/Zz02ODUyMWZiZWRiYzMxMWVlOTExYjA2NmQzNDk4YmEzNQ==" title="Rooms" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/meeting-rooms/">Rooms</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Workspace Reservations" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_workspace-reservation.svg/Zz1jY2EzMDQ1NmRiYzMxMWVlYmFhMGVhMDc5Nzg3Mjk1OA==" title="Workspace Reservations" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/meeting-rooms/features/workspace/">Workspace Reservation</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Digital Signage" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/digital&#x2B;sign.svg/Zz04ZmQ1MGJlMGRiYzQxMWVlODNlYjBhZjZlZjU5YjMxYw==" title="Digital Signage" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/meeting-rooms/features/workspace/">Digital Signage</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Visitor Management" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/visitor-manage.svg/Zz00Mjc3ZDUwY2RiYzUxMWVlOTI3N2VhMDc5Nzg3Mjk1OA==" title="Visitor Management" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/meeting-rooms/features/workspace/#visitor-management">Visitor Management</a></div></li><li class="mobile-megamenu__list-item-heading--disabled">Employee Engagement</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Workvivo" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/workvivo-zm.svg/Zz00OTI4MjQ4MDVjNTcxMWVlYjY2ZTFlZThhMTdjNjk4Yg==" title="Workvivo" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/workvivo/">Workvivo</a></div></li></ul></div></div></div></div></div><div class="mobile-megamenu__bottom"><div class="mobile-megamenu__column"><div class="mobile-megamenu__column__businessService column"><div class="mobile-megamenu__head"><div class="mobile-megamenu__column-title"><a href="/en/products/business-services/">Business Services</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><div class="mobile-megamenu__column--block"><div class="mobile-megamenu__workplace__column"><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item-heading--disabled">Customer Experience</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Contact Center" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/cc-contact-center.svg/Zz01OTgzNDIwMmVhOGMxMWVkYWEwOWNhMjZkMjg1ODQxMg==" title="Contact Center" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/contact-center/">Contact Center</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Virtual Agent" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/product-virtual-agent.svg/Zz1lZTMzZjllNGU0NGUxMWVkOGRiN2I2NWQ2NDcyM2M3Mg==" title="Virtual Agent" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/virtual-agent/">Virtual Agent</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Workforce Engagement Management" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_workforce-engagement-management.svg/Zz1kMTNkNDdmZWU3MzIxMWVlOGQwYTgyM2JmOTdlNjdmNA==" title="Workforce Engagement Management" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/workforce-engagement-management/">Workforce Engagement</a></div></li></ul></div><div class="mobile-megamenu__workplace__column"><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item-heading--disabled">Marketing</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Events" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_events.svg/Zz0wNDhmOTg1NGRiY2MxMWVlYjQ3MWQyNTdlYzNkN2VhZg==" title="Events" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/event-platform/">Events</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Sessions" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_sessions.svg/Zz0yZTUzYjZjNGRiY2QxMWVlOTRlODNhZWU2NWQ2NTAxNA==" title="Sessions" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/single-session-events/">Sessions</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Webinars" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_webinars.svg/Zz03Y2QyMWY1Y2RiY2QxMWVlOTVlZDEyMzJmZDU0MGZkZQ==" title="Webinars" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/webinars/">Webinars</a></div></li></ul></div><div class="mobile-megamenu__workplace__column"><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item-heading--disabled">Sales</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Revenue Accelerator" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_revenue-accelerator.svg/Zz1kZjRjZWQ2YWRiY2QxMWVlYmRhNmFhMDkzYjQ2OGZiZA==" title="Revenue Accelerator" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/conversation-intelligence/">Revenue Accelerator</a></div></li><li class="mobile-megamenu__list-item-heading--disabled">Ecosystems</li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="APIs &amp; SDKs" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/mark_product_revenue-accelerator.svg/Zz05MTQ1ZmQ4MGRiY2YxMWVlYjI1MmYyMTViMGQ3YTJlNA==" title="APIs &amp; SDKs" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/video-sdk/">APIs & SDKs</a></div></li><li class="mobile-megamenu__list-item mobile-megamenu__list-item"><img alt="Workflow Automation" class="mobile-megamenu__list-item-icon" fetchpriority="auto" height="28" loading="lazy" src="https://media.zoom.com/images/assets/workflow-automation-logo.svg/Zz1kMWM4MzcwNGVlODExMWVmYWQwYjdlOWEwYmQ0YjdiOA==" title="Workflow Automation" width="28"></img><div class="mobile-megamenu__list-item-heading"><a href="/en/products/workflow-automation/">Workflow Automation</a></div></li></ul></div></div></div></div></div></div><div class="mobile-megamenu__actionBar"><ul><li><a class="fdn-button fdn-button--button-style-primary fdn-button--button-small" href="/en/products/">Discover all products</a></li><li><a class="fdn-button fdn-button--button-style-textLink fdn-button--button-small" href="https://zoom.us/pricing">Plans & pricing</a></li></ul></div></section></li><li class="mobile-menu__list-item"><button aria-controls="panel-2" class="mobile-menu__accordion js-accordion-trigger">Solutions</button><section aria-label="Solutions" class="mobile-megamenu megamenu-solutions js-accordion-panel"><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title"><a href="/en/industry/"><span class="visually-hidden">By industry</span>By industry</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/industry/education/"><span class="visually-hidden">Education</span>Education</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/industry/finance/"><span class="visually-hidden">Financial Services</span>Financial Services</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/industry/government/"><span class="visually-hidden">Government</span>Government</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/industry/healthcare/"><span class="visually-hidden">Healthcare</span>Healthcare</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/industry/manufacturing/"><span class="visually-hidden">Manufacturing</span>Manufacturing</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/industry/retail/"><span class="visually-hidden">Retail</span>Retail</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/frontline-workers/"><span class="visually-hidden">Frontline</span>Frontline</a></div></li></ul></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">By audience</div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/audiences/small-business/"><span class="visually-hidden">Small and Midsized Businesses</span>Small and Midsized Businesses</a></div></li><li class="megamenu__list-item disabled"><div class="megamenu__list-item-heading"><p class="megamenu__list-item-heading--disabled">Enterprise</p></div><ul><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/audiences/information-technology/"><span class="visually-hidden">Information Technology</span>Information Technology</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/audiences/cx/"><span class="visually-hidden">Customer Experience</span>Customer Experience</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/audiences/sales-and-revenue/"><span class="visually-hidden">Sales and Revenue</span>Sales and Revenue</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/audiences/av-facilities/"><span class="visually-hidden">Facilities</span>Facilities</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/audiences/marketing-events/"><span class="visually-hidden">Marketing and Events</span>Marketing and Events</a></div></li></ul></li></ul></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title"><a href="https://developers.zoom.us/docs/">For developers</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/video-sdk/"><span class="visually-hidden">Video SDK</span>Video SDK</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://developers.zoom.us/docs/meeting-sdk/"><span class="visually-hidden">Meeting SDK</span>Meeting SDK</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://marketplace.zoom.us/"><span class="visually-hidden">App Marketplace</span>App Marketplace</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://developers.zoom.us/docs/api/"><span class="visually-hidden">APIs</span>APIs</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://developers.zoom.us/docs/api/rest/webhook-reference/"><span class="visually-hidden">Webhooks</span>Webhooks</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/zoom-apps/"><span class="visually-hidden">Zoom Apps</span>Zoom Apps</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://developers.zoom.us/docs/"><span class="visually-hidden">Developer Solutions</span>Developer Solutions</a></div></li></ul></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title"><a href="https://partner.zoom.us/"><span class="visually-hidden">For partners</span>For partners</a><span><img class="megamenu__list-item-icon" src="/dist/assets/icons/icon-right-bloom.svg" alt="" /></span></div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://partner.zoom.us/solutions/"><span class="visually-hidden">Partner Solutions</span>Partner Solutions</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://partner.zoom.us/partner-locator/"><span class="visually-hidden">Find a Partner</span>Find a Partner</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://partner.zoom.us/"><span class="visually-hidden">Become a Partner</span>Become a Partner</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://mypartnerportal.zoom.us/"><span class="visually-hidden">Partner Portal</span>Partner Portal</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://mypartnerportal.zoom.us/?sso=21&amp;RelayState=/pages/38/home"><span class="visually-hidden">Partner Learning Center</span>Partner Learning Center</a></div></li></ul></div></div><div class="mobile-megamenu-products-wrapper"></div></section></li><li class="mobile-menu__list-item"><button aria-controls="panel-3" class="mobile-menu__accordion js-accordion-trigger">Resources</button><section aria-label="Resources" class="mobile-megamenu megamenu-resources js-accordion-panel"><div class="mobile-megamenu__highlight mobile-megamenu__highlight--mobile"><div class="mobile-megamenu__highlight-item"><img alt="Download the Zoom app" class="mobile-megamenu__highlight-item-image" fetchpriority="auto" height="50" loading="lazy" src="https://media.zoom.com/images/assets/Resources-ZoomClient.png/Zz05YzJhYzg5NGM0NjkxMWVkYWI2NDEyZjk5ZTY0ZGM3Nw==" title="Download the Zoom app" width="50"></img><div class="mobile-megamenu__highlight-item-heading"><a href="https://zoom.us/download"><span class="visually-hidden">Download Center</span>Download the Zoom app</a></div></div><div class="mobile-megamenu__highlight-item"><img alt="Zoom Virtual Backgrounds" class="mobile-megamenu__highlight-item-image" fetchpriority="auto" height="50" loading="lazy" src="https://media.zoom.com/images/assets/Resources-VirtualBG.png/Zz01MTc3YTRkNmE2YTExMWVmOWEyNTMyZDUxNWJkZWVjOA==" title="Zoom Virtual Backgrounds" width="50"></img><div class="mobile-megamenu__highlight-item-heading"><a href="/en/products/virtual-meetings/features/virtual-background-library/"><span class="visually-hidden">Browse backgrounds</span>Zoom Virtual Backgrounds</a></div></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Explore</div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/blog/"><span class="visually-hidden">Zoom Blog</span>Zoom Blog</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/resources/"><span class="visually-hidden">Resource Library</span>Resource Library</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://ev.zoom.us/"><span class="visually-hidden">Webinars &amp; Events</span>Webinars & Events</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/customer-stories/all/"><span class="visually-hidden">Customer Stories</span>Customer Stories</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/trust/"><span class="visually-hidden">Zoom Trust Center</span>Zoom Trust Center</a></div></li></ul></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Connect & Learn</div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://community.zoom.com/"><span class="visually-hidden">Zoom Community</span>Zoom Community</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://learning.zoom.us/learn"><span class="visually-hidden">Learning Center</span>Learning Center</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://learn-zoom.us/show-me"><span class="visually-hidden">How-to Videos</span>How-to Videos</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://events.zoom.us/eo/AsGmtVcsNuaXLrlYNfkaKSphxX-acfgoGLA3gKJv74EKmPPf34Bc~AggLXsr32QYFjq8BlYLZ5I06Dg"><span class="visually-hidden">Customer Success Hub</span>Customer Success Hub</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/products/resources/tech-library/"><span class="visually-hidden">Technical Content Library</span>Technical Content Library</a></div></li></ul></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Hardware & Services</div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://explore.zoom.us/en/global-services/"><span class="visually-hidden">Global Services</span>Global Services</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/hardware/"><span class="visually-hidden">Hardware Options</span>Hardware Options</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="/en/products/cmk/"><span class="visually-hidden">Customer Managed Key</span>Customer Managed Key</a></div></li></ul></div></div><div class="mobile-megamenu__column"><div class="column"><div class="megamenu__head"><div class="megamenu__column-title">Support</div></div><ul class="mobile-megamenu__list"><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://support.zoom.com/hc/en"><span class="visually-hidden">Customer Support</span>Customer Support</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://explore.zoom.us/en/support-plans/"><span class="visually-hidden">Premier Support</span>Premier Support</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://developers.zoom.us/support/"><span class="visually-hidden">Developer Support</span>Developer Support</a></div></li><li class="mobile-megamenu__list-item"><div class="mobile-megamenu__list-item-heading"><a href="https://explore.zoom.us/en/support-plans/developer/"><span class="visually-hidden">Premier Developer Support</span>Premier Developer Support</a></div></li></ul></div></div><div class="mobile-megamenu-products-wrapper"></div><div class="mobile-megamenu__highlight"><div class="mobile-megamenu__highlight-item"><img alt="Download the Zoom app" class="mobile-megamenu__highlight-item-image" fetchpriority="auto" height="50" loading="lazy" src="https://media.zoom.com/images/assets/Resources-ZoomClient.png/Zz05YzJhYzg5NGM0NjkxMWVkYWI2NDEyZjk5ZTY0ZGM3Nw==" title="Download the Zoom app" width="50"></img><div class="mobile-megamenu__highlight-item-heading"><a href="https://zoom.us/download"><span class="visually-hidden">Download Center</span>Download the Zoom app</a></div></div><div class="mobile-megamenu__highlight-item"><img alt="Zoom Virtual Backgrounds" class="mobile-megamenu__highlight-item-image" fetchpriority="auto" height="50" loading="lazy" src="https://media.zoom.com/images/assets/Resources-VirtualBG.png/Zz01MTc3YTRkNmE2YTExMWVmOWEyNTMyZDUxNWJkZWVjOA==" title="Zoom Virtual Backgrounds" width="50"></img><div class="mobile-megamenu__highlight-item-heading"><a href="/en/products/virtual-meetings/features/virtual-background-library/"><span class="visually-hidden">Browse backgrounds</span>Zoom Virtual Backgrounds</a></div></div></div></section></li><li class="mobile-menu__list-item"><a class="mobile-menu__link" href="https://zoom.us/pricing"><span class="visually-hidden">Plans &amp; Pricing</span>Plans & Pricing</a></li></ul></nav><nav aria-label="Secondary Navigation" class="mobile-menu__secondary-nav"><ul class="mobile-menu__list"><li class="mobile-menu__list-item"><a class="mobile-menu__link" href="https://support.zoom.com/hc/en"><span class="visually-hidden">Support</span>Support</a></li><li class="mobile-menu__list-item"><a class="mobile-menu__link" href="tel:18887999666"><span class="visually-hidden">Click to call</span>1.888.799.9666</a></li><li class="mobile-menu__list-item"><a class="mobile-menu__link" href="/en/contact/contact-sales/"><span class="visually-hidden">Contact Sales</span>Contact Sales</a></li><li class="mobile-menu__list-item"><a class="mobile-menu__link" href="/en/contact/live-demo/">Request a Demo</a></li></ul></nav><div class="mobile-menu__buttons-container " data-user-for="97af72b4-4108-4885-b753-f02a39956839"><a class="fdn-button fdn-button--button-style-tertiary" href="https://zoom.us/signin"><span class="visually-hidden">to your Zoom account</span>Sign In</a><a class="fdn-button fdn-button--button-style-primary" href="https://zoom.us/signup">Sign Up Free</a></div><div class="mobile-menu__buttons-container restricted item-center authorized-access" data-user-for="82c0350d-4c26-4b95-8feb-330fef53cda3"><a class="fdn-button fdn-button--button-style-primary" href="https://zoom.us/profile"><span class="visually-hidden">My Account</span>My Account</a></div></div></nav>
+    </header>
+    
+    
+    
+
+<main role="main" id="main" class="content-max-width">
+    
+
+
+
+    <section class="hero hero--dark    hero--simple-text    " data-cmp-is="hero">
+        <div class="hero__container">
+            <div class="hero__content">
+                
+
+
+                
+
+
+
+                <h1 class="hero__title">Cookie Statement</h1>
+
+                
+
+                
+                
+                  
+
+                
+
+                    
+                 
+                
+
+                <div class="hero__by-line">
+                    
+<p>Updated: June 30, 2023</p>
+                </div>
+            </div>
+
+            
+
+    
+
+
+        </div>
+    </section>
+
+
+
+    <div class="module-columns layout-1-columns theme-light module-spacing-top-default module-spacing-default  module-padding-top-default module-padding-default  " id="1-col">
+        <div class="wrapper">
+            </headline>
+            
+            <div class="column column-1">
+                
+
+    <div class="fdn-copy-block fdn-copy-block--icon-small fdn-copy-block--light "  id="9f5d76f6-e87b-4aa1-8827-12fa9e5f547f-1">
+        
+        
+        
+        <div class="fdn-copy-block__sub-title">
+            
+<p>This Cookie Statement explains how Zoom Communications, Inc. (&ldquo;Zoom&rdquo;) and our third-party partners use cookies and similar technologies (&ldquo;Cookies&rdquo;) on our websites, including services provided on those websites (referred to collectively as &ldquo;Websites&rdquo;).</p>
+<p>Zoom uses Cookies to enable basic functionality, analyze trends, understand when and how you visit and interact with Zoom&rsquo;s Websites, gather information about your device and settings, and to permit Zoom and its marketing partners to provide and measure advertising to you relating to Zoom products and services. . Depending on your jurisdiction, we ask for your prior consent for different types of Cookies or allow you to opt-out.</p>
+<h2>What are Cookies and How Does Zoom Use Them?</h2>
+<p>Cookies are small text, image or data files or tag code snippets placed on your device by websites that you visit or access. They are widely used to make websites work and function with greater efficiency, and to provide customization and to improve website performance. Some Cookies stay on your device only for the duration of your web session and expire when you exit your browser; other Cookies remain longer than your web session, including after you exit your browser, for example to remember you when you return to the website.</p>
+<p>The table below explains the categories of Cookies that Zoom and our third-party partners use on our Websites and why. Depending on your jurisdiction, we get permission before we set certain cookies and you can always prevent Zoom from setting cookies that are not necessary for the performance of the Zoom service. Once you make such a cookie selection, Zoom stores a &ldquo;preference&rdquo; cookie on your device for at least six (6) months to prevent repeatedly asking you to set your cookie preferences. More detailed information about the specific Cookies used, and how you can control them, can be found by visiting our&nbsp;<a class="cookie-popup" href="/en/trust/cookie-policy/">Cookie management tool</a>&nbsp;at the footer of the page.</p>
+<table class="tabcus" style="border-collapse: collapse; width: 100%;" border="1"><colgroup> <col style="width: 33.2977%;" /> <col style="width: 33.2977%;" /> <col style="width: 33.2977%;" /> </colgroup>
+<tbody>
+<tr style="background-color: #f2f2f7;">
+<td><strong>Cookie</strong></td>
+<td><strong>Type</strong></td>
+<td><strong>Purpose</strong></td>
+</tr>
+<tr>
+<td rowspan="3">Strictly Necessary Cookies [1]</td>
+<td>Core</td>
+<td>These Cookies are required to enable basic Website functionality such as providing a secure login and remembering your progress through an order. For example when you sign into a Website using your Zoom account, we store the time you signed in and a unique ID number in an encrypted Cookie on your device. This Cookie allows you to move from page to page within the Website without signing in again on each page.</td>
+</tr>
+<tr>
+<td>Technical Performance</td>
+<td>Zoom uses these Cookies for, among other things, detection of browsing issues, optimization of technical performance and ergonomics, estimation of the required server power, the proper presentation of the Website and load balancing as strictly necessary to ensure that our Websites remain up and operating.</td>
+</tr>
+<tr>
+<td>Necessary Settings</td>
+<td>Zoom uses these Cookies to record a user&rsquo;s settings, such as language, currency, timezone, browser, device (such as camera) and multimedia player settings, that are strictly necessary to enable our Websites to operate properly. For example, Zoom records the user&rsquo;s timezone setting so that the meeting times on their calendar and calendar invites are correctly applied for them and their invitees.</td>
+</tr>
+<tr>
+<td>Functional Cookies</td>
+<td>Enhanced Functionality and Customization</td>
+<td>
+<p>These Cookies are not core to the service provided or the purpose of the web page visited. Functional Cookies enable the Website to provide enhanced functionality and customization, such as showing you video clips with support explanations or remembering a user&rsquo;s preferences.</p>
+<p>These Cookies may be set by us or by third party providers whose services we have added to our pages. If you do not allow these Cookies then some or all of these services may not function properly. For example, we embed videos from Zoom's YouTube channel using YouTube&rsquo;s privacy-enhanced mode to show you content. Youtube may also set additional cookies on your device once you click on the YouTube video player. If you opt-out of Functional Cookies, we will not be able to provide you with these additional functions.</p>
+</td>
+</tr>
+<tr>
+<td>Performance Cookies</td>
+<td>Analytics</td>
+<td>To provide and improve the performance of our Websites and products , Zoom uses Cookies, including session recording and replay technology, to gather usage and performance data (including mouse movements, clicks and other actions). For example, we use Cookies to count the number of unique visitors to a Website or to our blog and to develop other statistics about the operations of our Websites. This includes Cookies from Zoom and from third-party analytics providers, who help Zoom understand how people are using and interacting with Zoom&rsquo;s Websites.</td>
+</tr>
+<tr>
+<td rowspan="2">Targeting</td>
+<td>Advertising</td>
+<td>Zoom and Zoom&rsquo;s advertising partners may set Cookies on Zoom&rsquo;s Websites that collect data about how you interact with Zoom&rsquo;s Website so that they can provide advertising for Zoom on other websites and apps. Zoom&rsquo;s advertising partners also may set Cookies to show you third-party advertising (including personalized advertising) on Zoom&rsquo;s products. Depending on your jurisdiction, the default setting for cookies differs. We ask you for your prior consent or enable you to opt out of having your information shared with third-party advertisers or from receiving personalized advertising from our third-party partners. Users who withdraw their consent or opt-out of third-party advertising Cookies won&rsquo;t receive third-party personalized advertising on Zoom&rsquo;s Websites or in our products.</td>
+</tr>
+<tr>
+<td>Social Media Cookies</td>
+<td>Some of our Websites include Cookies provided by social media companies so that you can easily share Zoom content on social media, if you are logged into your social media account. Social media companies will not be able to determine whether you are already logged into a given social media account if you turn off Targeting Cookies, so you may not be able to share Zoom content on your social media account.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>[1] In instances where Zoom engages a third-party to deploy Strictly Necessary Cookies, Zoom only engages parties that have signed a processor agreement with Zoom in which any processing beyond or outside of Zoom&rsquo;s instruction is explicitly prohibited, including by the third parties&rsquo; subprocessors. Some Strictly Necessary Cookies may transfer personal data to the United States.</p>
+<h2>How to Control Cookies</h2>
+<p>Except for Strictly Necessary Cookies, you can accept or decline categories or individual cookies at any time by visiting our&nbsp;<a class="cookie-popup" href="/en/trust/cookie-policy/">Cookie management</a>&nbsp;tool at the footer of this webpage.&nbsp;</p>
+<p>You can also control Cookies by adjusting the settings within your internet browser. Most web browsers automatically accept Cookies but all browsers provide controls that allow you to block or delete them. For example, in most modern browsers, you can block or delete Cookies by clicking Settings &gt; Privacy &gt; Cookies. Instructions for blocking or deleting Cookies in other browsers may be available in each browser&rsquo;s privacy or help documentation. To find out more about Cookies, including how to see what Cookies have been set and how to manage and delete them, visit&nbsp;<a href="https://www.aboutcookies.org/" target="_blank" rel="noopener">www.aboutcookies.org</a>.</p>
+<p>Certain features of Zoom&rsquo;s Websites depend on Cookies. Please be aware that if you choose to block certain Cookies, you may not be able to sign in or use those features, and preferences that are dependent on Cookies may be lost. If you choose to delete Cookies, settings and preferences controlled by those Cookies, including advertising preferences, will be deleted and may need to be recreated.</p>
+<h2>Global Privacy Control</h2>
+<p>We respond to the&nbsp;<a href="https://globalprivacycontrol.org/" target="_blank" rel="noopener">Global Privacy Control</a>&nbsp;signal for residents of California and Connecticut.</p>
+<h2>Do Not Track</h2>
+<p>Some web browsers have a &ldquo;Do Not Track&rdquo; feature. This feature lets you tell websites you visit that you do not want to have your online activity tracked. These features are not yet uniform across browsers. Our Websites are not currently set up to respond to those signals.</p>
+<h2>Contact Us</h2>
+<p>Zoom Communications, Inc.</p>
+<p>Attention: Data Privacy Officer</p>
+<p>55 Almaden Blvd, Suite 600</p>
+<p>San Jose, CA 95113</p>
+<p>Email:&nbsp;<a href="mailto:privacy@zoom.us">privacy@zoom.us</a></p>
+<h2>Revisions to Our Cookie Statement</h2>
+<p>We may amend this Cookie Statement from time-to-time. When we make updates, changes or revisions, they will be effective when we post the updated Cookie Statement to our Website. If we make any material changes, we will notify you and provide you an opportunity to review before you choose to continue using our Websites, or maintaining your Cookie preferences.</p>
+<h2>Updates</h2>
+<p>Zoom&rsquo;s policies may require modifications in order to comply with applicable laws and regulatory requirements. Any such changes to Zoom&rsquo;s policies will be posted here.</p>
+        </div>
+        
+        
+        
+        
+    </div>
+
+            </div>
+            
+            
+        </div>
+    </div>
+
+</main>
+
+    <footer class="module-footer" id="" data-cmp-is="footer">
+        <div class="module-footer-top">
+            <div class="container">
+                <div class="module-footer-top__primary">
+                    <nav class="module-footer-nav js-module-footer-nav">
+
+                        <section class="module-footer-nav__section">
+                            
+
+
+        <a href="/en/about/" class="module-footer-nav__title js-analytics-cta" title="About" data-title=""  data-link-type="" data-en-text="" >About</a>
+
+                            <div class="module-footer-nav__panel">
+                                <ul class="module-footer-nav__list">
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/blog/" class="module-footer-nav__link js-analytics-cta" title="Zoom Blog" data-title=""  data-link-type="" data-en-text="" >Zoom Blog<span class="visually-hidden"> Zoom Blog</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/customer-stories/all/" class="module-footer-nav__link js-analytics-cta" title="Customers" data-title=""  data-link-type="" data-en-text="" >Customers</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/about/team/" class="module-footer-nav__link js-analytics-cta" title="Our Team" data-title=""  data-link-type="" data-en-text="" >Our Team</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://careers.zoom.us/home" class="module-footer-nav__link js-analytics-cta" title="Careers" data-title=""  data-link-type="" data-en-text="" >Careers</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://marketplace.zoom.us/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Integrations" data-title=""  data-link-type="" data-en-text="" >Integrations</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://partner.zoom.us/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Partners" data-title=""  data-link-type="" data-en-text="" >Partners</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://investors.zoom.us/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Investors" data-title=""  data-link-type="" data-en-text="" >Investors</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://news.zoom.us/" class="module-footer-nav__link js-analytics-cta" title="Press" data-title=""  data-link-type="" data-en-text="" >Press</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/about/esg-fy2024-impact-report/" class="module-footer-nav__link js-analytics-cta" title="Sustainability &amp; ESG" data-title=""  data-link-type="" data-en-text="" >Sustainability & ESG</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoomcares.zoom.us/" class="module-footer-nav__link js-analytics-cta" data-title=""  data-link-type="" data-en-text="Zoom Cares" >Zoom Cares<span class="visually-hidden"> Zoom Cares</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/about/media-kit/" class="module-footer-nav__link js-analytics-cta" title="Media Kit" data-title=""  data-link-type="" data-en-text="" >Media Kit</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://learn-zoom.us/show-me" target="_blank" class="module-footer-nav__link js-analytics-cta" title="How To Videos" data-title=""  data-link-type="" data-en-text="" >How To Videos</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://developers.zoom.us/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Developer Platform" data-title=""  data-link-type="" data-en-text="" >Developer Platform</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/zoom-ventures/" class="module-footer-nav__link js-analytics-cta" title="Zoom Ventures" data-title=""  data-link-type="" data-en-text="" >Zoom Ventures</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://shophappy.zoom.us/" class="module-footer-nav__link js-analytics-cta" data-title=""  data-link-type="" data-en-text="Zoom Merchandise Store" >Zoom Merchandise Store<span class="visually-hidden"> Zoom Merchandise Store</span></a>
+
+                                        </li>
+                                </ul>
+                            </div>
+                        </section>
+                        <section class="module-footer-nav__section">
+                            
+
+
+        <a href="https://zoom.us/download" target="_blank" class="module-footer-nav__title js-analytics-cta" title="Download" data-title=""  data-link-type="" data-en-text="" >Download</a>
+
+                            <div class="module-footer-nav__panel">
+                                <ul class="module-footer-nav__list">
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download" class="module-footer-nav__link js-analytics-cta" title="Zoom Workplace App" data-title=""  data-link-type="" data-en-text="Zoom Workplace App" >Zoom Workplace App<span class="visually-hidden"> Zoom Workplace App</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download#room_client" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Zoom Rooms App" data-title=""  data-link-type="" data-en-text="Zoom Rooms App" >Zoom Rooms App<span class="visually-hidden"> Zoom Rooms App</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download#room_controller" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Zoom Rooms Controller" data-title=""  data-link-type="" data-en-text="" >Zoom Rooms Controller</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download#chrome_ext" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Browser Extension" data-title=""  data-link-type="" data-en-text="" >Browser Extension</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download#outlook_plugin" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Outlook Plug-in" data-title=""  data-link-type="" data-en-text="" >Outlook Plug-in</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download#client_iphone" target="_blank" class="module-footer-nav__link js-analytics-cta" title="iPhone/iPad App" data-title=""  data-link-type="" data-en-text="iPhone/iPad App" >iPhone/iPad App<span class="visually-hidden"> iPhone/iPad App</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/download#mobile_app" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Android App" data-title=""  data-link-type="" data-en-text="Android App" >Android App<span class="visually-hidden"> Android App</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/products/virtual-meetings/features/virtual-background-library/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Zoom Virtual Backgrounds" data-title=""  data-link-type="" data-en-text="" >Zoom Virtual Backgrounds</a>
+
+                                        </li>
+                                </ul>
+                            </div>
+                        </section>
+                        <section class="module-footer-nav__section">
+                            
+
+
+        <a href="/en/contact/contact-sales/" class="module-footer-nav__title js-analytics-cta" title="Sales" data-title=""  data-link-type="" data-en-text="" >Sales</a>
+
+                            <div class="module-footer-nav__panel">
+                                <ul class="module-footer-nav__list">
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="tel:18887999666" class="module-footer-nav__link js-analytics-cta" data-title="" rel="noopener noreferrer" data-link-type="" data-en-text="" >1.888.799.9666<span class="visually-hidden"> Click to call</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/contact/contact-sales/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Contact Sales" data-title=""  data-link-type="" data-en-text="" >Contact Sales</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/pricing" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Plans and Pricing" data-title=""  data-link-type="" data-en-text="" >Plans & Pricing</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/contact/live-demo/" class="module-footer-nav__link js-analytics-cta" title="Request a Demo" data-title=""  data-link-type="" data-en-text="" >Request a Demo</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://ev.zoom.us/" class="module-footer-nav__link js-analytics-cta" title="Webinars and Events" data-title=""  data-link-type="" data-en-text="" >Webinars and Events</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://ebc.zoom.us/" class="module-footer-nav__link js-analytics-cta" title="Zoom Experience Center" data-title=""  data-link-type="" data-en-text=" Zoom Experience Center" >Zoom Experience Center<span class="visually-hidden">  Zoom Experience Center</span></a>
+
+                                        </li>
+                                </ul>
+                            </div>
+                        </section>
+                        <section class="module-footer-nav__section">
+                            
+
+
+        <a href="https://support.zoom.com/hc/en" target="_blank" class="module-footer-nav__title js-analytics-cta" title="Support" data-title=""  data-link-type="" data-en-text="" >Support<span class="visually-hidden"> Support</span></a>
+
+                            <div class="module-footer-nav__panel">
+                                <ul class="module-footer-nav__list">
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/test" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Test Zoom" data-title=""  data-link-type="" data-en-text="" >Test Zoom</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/account" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Account" data-title=""  data-link-type="" data-en-text="" >Account</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://support.zoom.com/hc/en" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Support Center" data-title=""  data-link-type="" data-en-text="" >Support Center<span class="visually-hidden"> Support Center</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://learning.zoom.us/learn" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Learning Center" data-title=""  data-link-type="" data-en-text="" >Learning Center</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/products/resources/tech-library/" class="module-footer-nav__link js-analytics-cta" title="Technical Content Library" data-title=""  data-link-type="" data-en-text="" >Technical Content Library<span class="visually-hidden"> Technical Content Library</span></a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://zoom.us/feed" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Feedback" data-title=""  data-link-type="" data-en-text="" >Feedback</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/contact/" class="module-footer-nav__link js-analytics-cta" title="Contact Us" data-title=""  data-link-type="" data-en-text="" >Contact Us</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/accessibility/" class="module-footer-nav__link js-analytics-cta" title="Accessibility" data-title=""  data-link-type="" data-en-text="" >Accessibility</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="https://developers.zoom.us/support/" target="_blank" class="module-footer-nav__link js-analytics-cta" title="Developer Support" data-title=""  data-link-type="" data-en-text="" >Developer Support</a>
+
+                                        </li>
+                                        <li class="module-footer-nav__item">
+                                            
+
+
+        <a href="/en/trust/legal-compliance/" class="module-footer-nav__link js-analytics-cta" title="Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement" data-title=""  data-link-type="" data-en-text="" >Privacy, Security, Legal Policies, and Modern Slavery Act Transparency Statement</a>
+
+                                        </li>
+                                </ul>
+                            </div>
+                        </section>
+                        <section>
+                            <div class="module-footer-dropdown__description visually-hidden">
+                                Language
+                            </div>
+                            <div class="module-footer-dropdown__title">Language</div>
+                            <button data-template="js-language-content" class="module-footer-dropdown__btn tooltip">
+                                English
+                                <img class="module-footer-dropdown__svg" src="/dist/assets/icons/icon-triangle.svg" alt="Drop down icon" />
+                            </button>
+                                <div id="js-language-content">
+                                    <ul class="module-footer-dropdown__list">
+                                                <li class="module-footer-dropdown__item">
+                                                    <a href="/en/trust/cookie-policy/" target="_self" data-locale="en-US" class="module-footer-dropdown__link ">English</a>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="module-footer-dropdown__description visually-hidden">
+                                    Currency
+                                </div>
+                                <div class="module-footer-dropdown__title">Currency</div>
+                                <button data-template="js-currency-content" class="module-footer-dropdown__btn tooltip">
+                                    US Dollar $
+                                    <img class="module-footer-dropdown__svg" src="/dist/assets/icons/icon-triangle.svg" alt="Drop down icon" />
+                                </button>
+                                    <div id="js-currency-content">
+                                        <ul class="module-footer-dropdown__list">
+                                                        <li class="module-footer-dropdown__item" id="USD" data-currency-value="USD" data-country-value="US">
+                                                            <button class="module-footer-dropdown__link active">US Dollar $</button>
+                                                        </li>
+                                        </ul>
+                                    </div>
+<input id="GeoLocation" name="GeoLocation" type="hidden" value="US" />                                <script type="text/javascript" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+                                    const allCurrencyList = [{"currencyAbbreviation":"AUD","displayName":"Australian Dollar","currencySymbol":"AU$","isSelected":false},{"currencyAbbreviation":"BRL","displayName":"Brazillian Real","currencySymbol":"R$","isSelected":false},{"currencyAbbreviation":"CAD","displayName":"Canadian Dollar","currencySymbol":"CA$","isSelected":false},{"currencyAbbreviation":"DKK","displayName":"Danish Krone","currencySymbol":"kr","isSelected":false},{"currencyAbbreviation":"AED","displayName":"Emirati Dirham","currencySymbol":"د.إ","isSelected":false},{"currencyAbbreviation":"EUR","displayName":"Euro","currencySymbol":"€","isSelected":false},{"currencyAbbreviation":"HKD","displayName":"Hong Kong Dollars","currencySymbol":"$","isSelected":false},{"currencyAbbreviation":"INR","displayName":"Indian Rupee","currencySymbol":"₹","isSelected":false},{"currencyAbbreviation":"IDR","displayName":"Indonesian Rupiah","currencySymbol":"Rp","isSelected":false},{"currencyAbbreviation":"JPY","displayName":"Japanese Yen","currencySymbol":"￥","isSelected":false},{"currencyAbbreviation":"MYR","displayName":"Malaysian Ringgit","currencySymbol":"RM","isSelected":false},{"currencyAbbreviation":"MXN","displayName":"Mexican Peso","currencySymbol":"$","isSelected":false},{"currencyAbbreviation":"NZD","displayName":"New Zealand Dollar","currencySymbol":"NZ$","isSelected":false},{"currencyAbbreviation":"NOK","displayName":"Norwegian Krone","currencySymbol":"kr","isSelected":false},{"currencyAbbreviation":"PHP","displayName":"Philippine Peso","currencySymbol":"₱","isSelected":false},{"currencyAbbreviation":"PLN","displayName":"Polish Zloty","currencySymbol":"zł","isSelected":false},{"currencyAbbreviation":"GBP","displayName":"Pound Sterling","currencySymbol":"£","isSelected":false},{"currencyAbbreviation":"SAR","displayName":"Saudi Riyal","currencySymbol":"﷼","isSelected":false},{"currencyAbbreviation":"SGD","displayName":"Singapore Dollars","currencySymbol":"$","isSelected":false},{"currencyAbbreviation":"R","displayName":"South African Rand","currencySymbol":"R","isSelected":false},{"currencyAbbreviation":"KRW","displayName":"South Korean Won","currencySymbol":"₩","isSelected":false},{"currencyAbbreviation":"SEK","displayName":"Swedish Krona","currencySymbol":"kr","isSelected":false},{"currencyAbbreviation":"CHF","displayName":"Swiss Fran","currencySymbol":"CHF","isSelected":false},{"currencyAbbreviation":"USD","displayName":"US Dollar","currencySymbol":"$","isSelected":true},{"currencyAbbreviation":"VND","displayName":"Vietnamese Dong","currencySymbol":"₫","isSelected":false}]
+                                </script>
+                            <ul class="social__list">
+                                    <li class="social__item">
+                                        
+
+    <a href="https://blog.zoom.us/"  target="" class="social__link" title="Blog">
+        
+    <img alt="" loading="lazy" fetchpriority="auto" src="https://media.zoom.com/images/assets/social-wordpress.svg/Zz1kMWRlNjQ5YWEzY2MxMWVkYmRiOGU2ZWE4YmQ4Y2E3MQ==?t=20250310120000" />   
+
+        
+    </a>
+
+                                    </li>
+                                    <li class="social__item">
+                                        
+
+    <a href="https://www.linkedin.com/company/zoom/" rel="noopener noreferrer" target="_blank" class="social__link" title="Linked In">
+        
+    <img alt="" loading="lazy" fetchpriority="auto" src="https://media.zoom.com/images/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20250310120000" />   
+
+        
+    </a>
+
+                                    </li>
+                                    <li class="social__item">
+                                        
+
+    <a href="https://twitter.com/zoom" rel="noopener noreferrer" target="_blank" class="social__link" title="Twitter">
+        
+    <img alt="" loading="lazy" fetchpriority="auto" src="https://media.zoom.com/images/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20250310120000" />   
+
+        
+    </a>
+
+                                    </li>
+                                    <li class="social__item">
+                                        
+
+    <a href="https://www.youtube.com/zoommeetings" rel="noopener noreferrer" target="_blank" class="social__link" title="YouTube">
+        
+    <img alt="" loading="lazy" fetchpriority="auto" src="https://media.zoom.com/images/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20250310120000" />   
+
+        
+    </a>
+
+                                    </li>
+                                    <li class="social__item">
+                                        
+
+    <a href="https://www.facebook.com/zoom" rel="noopener noreferrer" target="_blank" class="social__link" title="Facebook">
+        
+    <img alt="" loading="lazy" fetchpriority="auto" src="https://media.zoom.com/images/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20250310120000" />   
+
+        
+    </a>
+
+                                    </li>
+                                    <li class="social__item">
+                                        
+
+    <a href="https://www.instagram.com/zoom/" rel="noopener noreferrer" target="_blank" class="social__link" title="Instagram">
+        
+    <img alt="" loading="lazy" fetchpriority="auto" src="https://media.zoom.com/images/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20250310120000" />   
+
+        
+    </a>
+
+                                    </li>
+                            </ul>
+                        </section>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <div class="module-footer-bottom">
+            <div class="container">
+                <div class="module-footer-bottom__primary">
+                    <div class="module-footer__logo-dropdown">
+                        <div class="logo-copyright">
+                            <div class="copyright">
+                                Copyright &#xA9;2025 Zoom Communications, Inc. All rights reserved.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="utility-nav">
+                        <ul class="utility-nav__list">
+                                <li class="utility-nav__item">
+
+
+
+        <a href="/en/trust/terms/" class="utility-nav__link js-analytics-cta" title="Terms" data-title=""  data-link-type="" data-en-text="" >Terms</a>
+                                </li>
+                                <li class="utility-nav__item">
+
+
+
+        <a href="/en/trust/privacy/privacy-statement/" class="utility-nav__link js-analytics-cta" title="Privacy" data-title=""  data-link-type="" data-en-text="" >Privacy</a>
+                                </li>
+                                <li class="utility-nav__item">
+
+
+
+        <a href="/en/trust/" class="utility-nav__link js-analytics-cta" title="Trust Center" data-title=""  data-link-type="" data-en-text="" >Trust Center</a>
+                                </li>
+                                <li class="utility-nav__item">
+
+
+
+        <a href="https://explore.zoom.us/en/acceptable-use-guidelines/" target="_top" class="utility-nav__link js-analytics-cta" title="Acceptable Use Guidelines" data-title=""  data-link-type="" data-en-text="" >Acceptable Use Guidelines</a>
+                                </li>
+                                <li class="utility-nav__item">
+
+
+
+        <a href="/en/trust/legal-compliance/" class="utility-nav__link js-analytics-cta" title="Legal and Compliance" data-title=""  data-link-type="" data-en-text="" >Legal & Compliance</a>
+                                </li>
+                                <li class="utility-nav__item">
+
+
+    <a id="ot-do-not-sell" class="ot-sdk-show-settings" style="cursor: pointer">
+            <img src="https://media.zoom.com/images/assets/privacyoptions.png/Zz0xMzFhOTdlYTM1MzUxMWVlOTBjN2UyZTQ3MjNmN2MyMg==" alt="" />
+        Your Privacy Choices
+    </a>
+                                </li>
+                                <li class="utility-nav__item">
+
+
+    <a class="ot-sdk-show-settings" style="cursor: pointer">
+        Cookie Preferences
+    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+        
+        <script src="/dist/zoomv.main.min.js?t=638768396020000000" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA="></script>
+        
+        <script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=" src="/ClientResources/Scripts/CoveoJsSearch.js?t=638768395380000000" type="text/javascript"></script>
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=" src="/ClientResources/Scripts/coveo-en.js?t=638768395380000000" type="text/javascript"></script>
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=" type="text/javascript">
+        var user_locale = 'en-us';
+        var user_language = 'English';
+        
+            String.toLocaleString({ 'en-us': {
+
+                "ZoomPlaceholder": "Enter search here...",
+                "ZoomHeader": "What are you looking for?",
+                "All": "All",
+                "Support": "Support",
+                "Videos": "Videos",
+                "Source": "Source",
+                "Explore Zoom": "Explore Zoom",
+                "Solutions": "Solutions",
+                "Support Articles": "Support Articles",
+                "Community": "Community" } });
+        String["locale"] = user_locale;
+        var APIKey_Search = 'xxf1623479-48a6-4dce-8475-28e0b0720fbc';
+        Coveo.SearchEndpoint.configureCloudV2Endpoint('', APIKey_Search, 'https://platform.cloud.coveo.com/rest/search');
+        document.addEventListener('DOMContentLoaded', function () {
+            const standaloneSearchBoxRoot = document.querySelector('#standaloneSearchbox');
+            Coveo.initSearchbox(standaloneSearchBoxRoot, "/en/search/", { Analytics: { searchHub: 'Marketing', }, Searchbox: { placeholder: "ZoomPlaceholder" } });
+            document.querySelector('.FlyoutButton').addEventListener('click', function () { document.querySelector(".CoveoSearchbox").classList.toggle('transition-hidden'); document.querySelector(".FlyoutButton").classList.toggle('transition-hidden'); });
+            Coveo.$$(document.getElementById('standaloneSearchbox')).on(Coveo.InitializationEvents.afterComponentsInitialization, function (e, args) {
+                document.querySelector(".magic-box-clear").addEventListener('click', function (e) { document.querySelector(".CoveoSearchbox").classList.toggle('transition-hidden'); document.querySelector(".FlyoutButton").classList.toggle('transition-hidden'); }); });
+        })
+    </script>
+
+
+        <script opt-use-csp-nonce="true" type="text/javascript" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+function OptanonWrapper() {
+    let trustDom = document.getElementById('ot-do-not-sell');
+    if (trustDom)
+    {
+        trustDom.innerHTML = '<img alt=\"\" src=\"https://media.zoom.com/images/assets/privacyoptions.png/Zz0xMzFhOTdlYTM1MzUxMWVlOTBjN2UyZTQ3MjNmN2MyMg==" />Your Privacy Choices';
+    }
+    var oneTrustConsentId = OneTrust.getDataSubjectId();
+	var activeGroups = (OnetrustActiveGroups || '').split(',');
+		activeGroups = activeGroups.filter(function (v) {
+		return v !== '';
+	});
+	// send Optimizely events when Performance consent is given
+	if (activeGroups.indexOf('C0002') > -1 && typeof sendOptimizelyEvents === 'function') {
+		sendOptimizelyEvents(oneTrustConsentId);
+	}
+
+    // send Optimizely events when Targeting consent is given// create `OnetrustActiveGroups` cookie
+	var oneTrustActiveCookie = activeGroups.length ? activeGroups.join('') : '';
+	var date = new Date();
+	date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000));
+	var expires = "; expires=" + date.toUTCString();
+	document.cookie = "OnetrustActiveGroups=" + oneTrustActiveCookie + expires + "; path=/; secure=true; domain=" + ".zoom.com";
+}</script>
+        <script type="text/javascript" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+function getFromParam(name) {
+            var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)');
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return decodeURIComponent(r[2]);
+            return '';
+ }
+if ('1' == getFromParam('onlycontent')) {
+    var mainLinks = document.querySelectorAll('main a');
+    mainLinks.forEach(function(link) {
+    var href = link.getAttribute('href');
+    if (href.indexOf('mailto:') > -1) {
+        var textInsideAnchor = link.textContent || link.innerText;
+        link.outerHTML = textInsideAnchor;
+    }
+    if (href !== undefined && href.indexOf('mailto:') === -1) {
+        var params = window.location.href.slice(window.location.href.indexOf('?') + 0);
+        var baseUrl = href.split('?')[0];
+        link.setAttribute('href', baseUrl + params);
+    }
+    });
+    var sheet = document.createElement('style')
+    sheet.innerHTML = 'header,footer,.livesdk__invitation,#onetrust-consent-sdk{ display:none !important; }';
+    document.body.appendChild(sheet);
+}
+ if ('1' == getFromParam('nohyperlink')) {
+ var links = document.querySelectorAll('a');
+  for(var i = 0; i < links.length; i++) {
+  var anchorElement = links[i];  
+  var spanElement = document.createElement('span');
+  spanElement.innerHTML = anchorElement.innerHTML;
+  anchorElement.parentNode.replaceChild(spanElement, anchorElement);
+ }
+ }</script>
+        
+<script nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">
+document.querySelectorAll(".cookie-popup").forEach(function(cookiePopup) { cookiePopup.addEventListener("click", function(e) { e.preventDefault(); document.querySelectorAll(".onetrust-pc-dark-filter").forEach(function(darkFilter) { darkFilter.removeAttribute("style"); darkFilter.classList.remove("ot-hide"); }); document.querySelectorAll("#onetrust-pc-sdk").forEach(function(sdk) { sdk.removeAttribute("style"); sdk.classList.remove("ot-hide"); sdk.style.height = "75%"; }); }); });
+</script>
+        
+        <script type="text/javascript" data-lazy-load-campaign-url="_blank" data-apikey="AM_FKF55QOG_vdWum455Vg" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/chat-client.js" defer nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA="></script>
+        <script type="text/javascript" nonce="QVJ5RgLbmRnPXfkguKu/cYNFNoAXNijYUcMCy3XkxHA=">var skip_to_chat = document.querySelector('.skip_to_chat');
+                         if(skip_to_chat){
+                             skip_to_chat.addEventListener('click', function(event) {
+                                 event.preventDefault();
+                                 var elementToFocus = document.querySelector('.livesdk__invitation');
+                                 if (elementToFocus) {
+                                     elementToFocus.focus();
+                                     elementToFocus.addEventListener('keydown', function(event) {
+                                         if (event.key === 'Enter') {
+                                             elementToFocus.click();
+                                         }
+                                     });
+                                 }
+                             });
+                         }</script>
+        </body>
+</html>

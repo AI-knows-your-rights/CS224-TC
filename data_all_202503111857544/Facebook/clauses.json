@@ -1,0 +1,379 @@
+{
+    "meta_data": {
+        "title": "Facebook - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Facebook stores your data whether you have an account or not.",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 04:44:47",
+            "edit_link": "https://edit.tosdr.org/points/10493",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 04:44:47",
+            "edit_link": "https://edit.tosdr.org/points/10687",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service can view your browser history",
+            "rating": "blocker",
+            "description": "The service can view your search history and the websites you visit, which is an extremely intrusive way of collecting information that may include personal and/or sensitive data.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/17261",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Deleted content is not really deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2018-07-02 13:09:26",
+            "edit_link": "https://edit.tosdr.org/points/4356",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 04:44:51",
+            "edit_link": "https://edit.tosdr.org/points/10701",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/1059",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10686",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10700",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10688",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/17260",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 04:44:47",
+            "edit_link": "https://edit.tosdr.org/points/743",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10692",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10689",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10690",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 04:44:51",
+            "edit_link": "https://edit.tosdr.org/points/10720",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 04:44:51",
+            "edit_link": "https://edit.tosdr.org/points/12117",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 04:44:51",
+            "edit_link": "https://edit.tosdr.org/points/30564",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Facebook uses your data for many purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/984",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10718",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2019-01-27 16:35:02",
+            "edit_link": "https://edit.tosdr.org/points/1120",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/12118",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 04:44:51",
+            "edit_link": "https://edit.tosdr.org/points/27721",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10735",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Usernames can be rejected for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10732",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10723",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10743",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10691",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "info given about risk of publishing your info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:44:51",
+            "edit_link": "https://edit.tosdr.org/points/646",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service provides an onion site accessible over Tor",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2023-03-30 20:32:47",
+            "edit_link": "https://edit.tosdr.org/points/16745",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10693",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10717",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10744",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10702",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can choose with whom you share content",
+            "rating": "good",
+            "description": "Users can decide whether or not they want their content to be shared and they can control how and with whom it is shared.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/10698",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10745",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10736",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10730",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Spidering or crawling is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/9504",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/9462",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10739",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/10731",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10697",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 04:44:48",
+            "edit_link": "https://edit.tosdr.org/points/10728",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 04:44:50",
+            "edit_link": "https://edit.tosdr.org/points/9465",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+            "rating": "neutral",
+            "description": "You must provide your legal name and pseudonyms aren't allowed, but it makes sense for the purposes of this service.",
+            "last_updated": "2023-07-11 04:44:49",
+            "edit_link": "https://edit.tosdr.org/points/997",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Facebook uses cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 04:44:47",
+            "edit_link": "https://edit.tosdr.org/points/627",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

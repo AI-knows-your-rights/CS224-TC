@@ -45,3 +45,36 @@ There is default output file name `current_folder_report.yaml`. If you want to c
 ```bash
 python analyze_folder.py /path/to/your/folder --output analysis.yaml
 ```
+
+
+## Known Issues
+
+
+### Cannot retrieve the T&C documents
+
+Sometimes there are errors such as:
+
+
+```
+No response received for http://www.synonymo.fr/conditions_generales_utilisation: Maximum number of redirects exceeded
+Error processing document conditions_generales_utilisation for service Synonymo: Maximum number of redirects exceeded
+No response received for http://www.synonymo.fr/politique-de-cookies: Maximum number of redirects exceeded
+Error processing document politique-de-cookies for service Synonymo: Maximum number of redirects exceeded
+```
+
+
+### Cannot classify the T&C documents
+
+Sometimes there are errors such as:
+
+```
+
+Error during classification: "unknown error"
+The document privacy.php for service XE.com failed to classify.
+The document privacy.php for service XE.com has been saved as Review_01.txt.
+```
+
+This is because the document is not classified. You can ignore this error.
+
+
+

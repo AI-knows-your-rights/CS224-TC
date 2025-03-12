@@ -1,0 +1,211 @@
+{
+    "meta_data": {
+        "title": "ISODME - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 06:36:06",
+            "edit_link": "https://edit.tosdr.org/points/6843",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service can deny, cancel, terminate, suspend, lock, or modify access to (or control of) your account for any reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6847",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6851",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:36:06",
+            "edit_link": "https://edit.tosdr.org/points/6842",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:36:06",
+            "edit_link": "https://edit.tosdr.org/points/6844",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service conduct data profiling based on your characteristics, behavior and preferences for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6845",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:36:05",
+            "edit_link": "https://edit.tosdr.org/points/6820",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:36:05",
+            "edit_link": "https://edit.tosdr.org/points/6823",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:34:38",
+            "edit_link": "https://edit.tosdr.org/points/6825",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:36:15",
+            "edit_link": "https://edit.tosdr.org/points/6827",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:36:04",
+            "edit_link": "https://edit.tosdr.org/points/6822",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:33:22",
+            "edit_link": "https://edit.tosdr.org/points/6826",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6850",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:33:12",
+            "edit_link": "https://edit.tosdr.org/points/6829",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:36:13",
+            "edit_link": "https://edit.tosdr.org/points/6828",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:33:13",
+            "edit_link": "https://edit.tosdr.org/points/6830",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "They may stop providing any of the services at any time, for any or no reason, and without prior notice",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6849",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:56",
+            "edit_link": "https://edit.tosdr.org/points/6848",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 06:33:32",
+            "edit_link": "https://edit.tosdr.org/points/6837",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:02:49",
+            "edit_link": "https://edit.tosdr.org/points/6836",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:36:06",
+            "edit_link": "https://edit.tosdr.org/points/6846",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service is only available to users that are at least eighteen (18) years of age or otherwise recognized under applicable law",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6853",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:03:04",
+            "edit_link": "https://edit.tosdr.org/points/6835",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is transparent regarding government requests or inquiries that may involve user data.",
+            "rating": "neutral",
+            "description": "Weight was 30.",
+            "last_updated": "2023-07-11 06:36:07",
+            "edit_link": "https://edit.tosdr.org/points/6841",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Users agree not to submit illegal content",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:02:49",
+            "edit_link": "https://edit.tosdr.org/points/6838",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

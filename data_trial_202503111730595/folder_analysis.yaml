@@ -1,0 +1,174 @@
+summary:
+  total_subfolders: 5
+  total_files: 25
+  total_documents: 28
+folders:
+  - name: BlaBlaCar
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 6
+      tc_files: 2
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 31728
+          word_count: 5263
+        - name: TC_01.txt
+          size_bytes: 1335910
+          word_count: 221908
+        - name: TC_02.txt
+          size_bytes: 433851
+          word_count: 71534
+        - name: cookies-policy.html.txt
+          size_bytes: 31728
+          word_count: 5263
+        - name: privacy-policy.html.txt
+          size_bytes: 433851
+          word_count: 71534
+        - name: terms-and-conditions.html.txt
+          size_bytes: 1335910
+          word_count: 221908
+  - name: Cloudflare
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 8
+      tc_files: 3
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 479458
+          word_count: 71523
+        - name: TC_01.txt
+          size_bytes: 162210
+          word_count: 24514
+        - name: TC_02.txt
+          size_bytes: 125319
+          word_count: 17917
+        - name: TC_03.txt
+          size_bytes: 405843
+          word_count: 62997
+        - name: cookie-policy.html.txt
+          size_bytes: 125319
+          word_count: 17917
+        - name: privacypolicy.html.txt
+          size_bytes: 479458
+          word_count: 71523
+        - name: terms.html.txt
+          size_bytes: 405843
+          word_count: 62997
+        - name: website-terms.html.txt
+          size_bytes: 162210
+          word_count: 24514
+  - name: Guiding Tech
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 2
+      tc_files: 1
+      review_files: 0
+      files:
+        - name: TC_01.txt
+          size_bytes: 175545
+          word_count: 27924
+        - name: terms-of-use.html.txt
+          size_bytes: 175545
+          word_count: 27924
+  - name: MySudo
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 6
+      tc_files: 0
+      review_files: 0
+      files:
+        - name: Review_01.txt
+          size_bytes: 545182
+          word_count: 84971
+        - name: Review_02.txt
+          size_bytes: 116279
+          word_count: 18105
+        - name: Review_03.txt
+          size_bytes: 116279
+          word_count: 18105
+        - name: privacy-policy.html.txt
+          size_bytes: 116279
+          word_count: 18105
+        - name: privacypolicy.html.txt
+          size_bytes: 116279
+          word_count: 18105
+        - name: tos.html.txt
+          size_bytes: 545182
+          word_count: 84971
+  - name: WikiTree
+    files:
+      - name: clauses.json
+        valid: true
+      - name: details.json
+        valid: true
+      - name: documents
+        valid: Unknown format
+      - name: service.html
+        valid: true
+      - name: service.txt
+        valid: Unknown format
+    documents_folder:
+      total_files: 6
+      tc_files: 2
+      review_files: 0
+      files:
+        - name: Help:Privacy_Policy.html.txt
+          size_bytes: 105169
+          word_count: 16807
+        - name: Review_01.txt
+          size_bytes: 59652
+          word_count: 9158
+        - name: TC_01.txt
+          size_bytes: 105169
+          word_count: 16807
+        - name: TC_02.txt
+          size_bytes: 76960
+          word_count: 12277
+        - name: acceptable-use.html.html.txt
+          size_bytes: 59652
+          word_count: 9158
+        - name: terms.html.html.txt
+          size_bytes: 76960
+          word_count: 12277

@@ -1,0 +1,115 @@
+{
+    "meta_data": {
+        "title": "Yuka - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 04:48:01",
+            "edit_link": "https://edit.tosdr.org/points/20474",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:48:01",
+            "edit_link": "https://edit.tosdr.org/points/20465",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 04:48:01",
+            "edit_link": "https://edit.tosdr.org/points/20471",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Google analytics(/for Firebase) is used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:48:01",
+            "edit_link": "https://edit.tosdr.org/points/20469",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:48:02",
+            "edit_link": "https://edit.tosdr.org/points/20470",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:48:00",
+            "edit_link": "https://edit.tosdr.org/points/20464",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Alternative accounts are not allowed",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 04:48:01",
+            "edit_link": "https://edit.tosdr.org/points/20468",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 04:48:00",
+            "edit_link": "https://edit.tosdr.org/points/20460",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:48:00",
+            "edit_link": "https://edit.tosdr.org/points/20466",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:48:00",
+            "edit_link": "https://edit.tosdr.org/points/20461",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:48:00",
+            "edit_link": "https://edit.tosdr.org/points/20463",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The court of law governing the terms is in France",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 04:48:02",
+            "edit_link": "https://edit.tosdr.org/points/20473",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 04:48:01",
+            "edit_link": "https://edit.tosdr.org/points/20472",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

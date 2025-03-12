@@ -1,0 +1,83 @@
+{
+    "meta_data": {
+        "title": "Cryptomator - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:30:20",
+            "edit_link": "https://edit.tosdr.org/points/32090",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:30:20",
+            "edit_link": "https://edit.tosdr.org/points/32092",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:30:21",
+            "edit_link": "https://edit.tosdr.org/points/32094",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:30:21",
+            "edit_link": "https://edit.tosdr.org/points/32089",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:30:20",
+            "edit_link": "https://edit.tosdr.org/points/32088",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "An anonymous payment method is offered",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 06:30:21",
+            "edit_link": "https://edit.tosdr.org/points/32093",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:30:18",
+            "edit_link": "https://edit.tosdr.org/points/32086",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:30:21",
+            "edit_link": "https://edit.tosdr.org/points/32091",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:30:20",
+            "edit_link": "https://edit.tosdr.org/points/32087",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

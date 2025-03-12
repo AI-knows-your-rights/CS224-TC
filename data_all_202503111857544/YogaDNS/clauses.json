@@ -1,0 +1,75 @@
+{
+    "meta_data": {
+        "title": "YogaDNS - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22517",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22512",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Only necessary logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22514",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22516",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22515",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the agreements (September 2020)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:18:28",
+            "edit_link": "https://edit.tosdr.org/points/22511",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22513",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is transparent regarding government requests or inquiries that may involve your data.",
+            "rating": "neutral",
+            "description": "Weight was 30.",
+            "last_updated": "2023-07-11 06:18:44",
+            "edit_link": "https://edit.tosdr.org/points/22518",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

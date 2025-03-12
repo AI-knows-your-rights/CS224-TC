@@ -1,0 +1,91 @@
+{
+    "meta_data": {
+        "title": "Neurohr Bytes Software - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for up to 90 days",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-06-30 18:24:58",
+            "edit_link": "https://edit.tosdr.org/points/34192",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:06:25",
+            "edit_link": "https://edit.tosdr.org/points/10820",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:32:49",
+            "edit_link": "https://edit.tosdr.org/points/10814",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:06:25",
+            "edit_link": "https://edit.tosdr.org/points/10819",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "A list of cookies originating from the portal itself and inherited from external services is provided with explanations",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 06:32:49",
+            "edit_link": "https://edit.tosdr.org/points/10810",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your browser's Do Not Track (DNT) headers are respected, you have to manually opt-in to external services",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-06-30 18:24:24",
+            "edit_link": "https://edit.tosdr.org/points/34193",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service explains how to prevent disclosure of personal information to third parties",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-06-30 18:29:56",
+            "edit_link": "https://edit.tosdr.org/points/34196",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "2FA via TOTP / RFC 6238 is available to all accounts and is enforced for all administrative accounts",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-06-30 18:29:04",
+            "edit_link": "https://edit.tosdr.org/points/34194",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The court of law governing the terms is in location Graz, Austria",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:06:28",
+            "edit_link": "https://edit.tosdr.org/points/10815",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-02 09:30:04",
+            "edit_link": "https://edit.tosdr.org/points/34266",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

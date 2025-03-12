@@ -1,0 +1,91 @@
+{
+    "meta_data": {
+        "title": "KeePassXC - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:19:26",
+            "edit_link": "https://edit.tosdr.org/points/23079",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2021-06-26 13:32:52",
+            "edit_link": "https://edit.tosdr.org/points/23120",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 04:49:03",
+            "edit_link": "https://edit.tosdr.org/points/23081",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 04:48:47",
+            "edit_link": "https://edit.tosdr.org/points/23082",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 06:19:26",
+            "edit_link": "https://edit.tosdr.org/points/23078",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your browser's Do Not Track (DNT) headers are respected",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 04:49:03",
+            "edit_link": "https://edit.tosdr.org/points/23084",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2021-06-26 13:32:57",
+            "edit_link": "https://edit.tosdr.org/points/23121",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "No third-party analytics or tracking platforms are used",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 04:48:47",
+            "edit_link": "https://edit.tosdr.org/points/23083",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 04:48:47",
+            "edit_link": "https://edit.tosdr.org/points/23080",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:47",
+            "edit_link": "https://edit.tosdr.org/points/23085",
+            "approval_status": "APPROVED"
+        }
+    ]
+}

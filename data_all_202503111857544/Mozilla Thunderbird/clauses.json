@@ -1,0 +1,67 @@
+{
+    "meta_data": {
+        "title": "Mozilla Thunderbird - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service gives your personal data to third parties (Amazon Web Services) involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:47:35",
+            "edit_link": "https://edit.tosdr.org/points/19524",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:10:38",
+            "edit_link": "https://edit.tosdr.org/points/19514",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "The software is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2021-05-14 12:24:46",
+            "edit_link": "https://edit.tosdr.org/points/19525",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:47:34",
+            "edit_link": "https://edit.tosdr.org/points/19513",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:15:32",
+            "edit_link": "https://edit.tosdr.org/points/19522",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:34",
+            "edit_link": "https://edit.tosdr.org/points/19523",
+            "approval_status": "APPROVED"
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:35",
+            "edit_link": "https://edit.tosdr.org/points/19521",
+            "approval_status": "APPROVED"
+        }
+    ]
+}
