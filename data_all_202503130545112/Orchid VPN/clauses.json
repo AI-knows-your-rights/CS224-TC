@@ -1,0 +1,277 @@
+{
+    "meta_data": {
+        "title": "Orchid VPN - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete comments without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/15494",
+            "approval_status": "APPROVED",
+            "clause_text": "Orchid Labs Inc.\nreserves the right to monitor all Comments and to remove any Comments which it considers in its absolute discretion to be inappropriate, offensive or otherwise in breach of these Terms and Conditions.</li>",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15495",
+            "approval_status": "APPROVED",
+            "clause_text": "We also reserve the right to amend these terms and conditions and its linking policy at any time.",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes including advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:32:52",
+            "point_link": "https://edit.tosdr.org/points/13225",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of our affiliate / advertising partners may also use cookies.</p>",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:34:00",
+            "point_link": "https://edit.tosdr.org/points/13233",
+            "approval_status": "APPROVED",
+            "clause_text": "Orchid Labs, Inc does not use any cookies or tracking pixels for tracking user activity either on www.orchid.com or across the web.</p>\n<p>Cookies could be used to provide a more optimal website experience, such as server load balancing.</p>",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Users can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 06:33:31",
+            "point_link": "https://edit.tosdr.org/points/13232",
+            "approval_status": "APPROVED",
+            "clause_text": "Orchid is committed to user privacy and does not collect or store personal data.",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 06:34:00",
+            "point_link": "https://edit.tosdr.org/points/13234",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not sell, trade, or otherwise transfer to outside parties any information that we collect on www.orchid.com.",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15496",
+            "approval_status": "APPROVED",
+            "clause_text": "This privacy policy document describes in detail the types of personal information that is collected and recorded by www.orchid.com",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:33:31",
+            "point_link": "https://edit.tosdr.org/points/13229",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>You hereby grant to <strong>Orchid Labs Inc.</strong> a non-exclusive royalty-free license",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:34:05",
+            "point_link": "https://edit.tosdr.org/points/13236",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@orchid.com</p>",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the privacy policy",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:34:12",
+            "point_link": "https://edit.tosdr.org/points/13238",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy was last updated on: Monday, December 9th, 2019.",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:50",
+            "point_link": "https://edit.tosdr.org/points/13226",
+            "approval_status": "APPROVED",
+            "clause_text": "Orchid Labs Inc.\ndoes not screen, edit, publish or review Comments prior to their appearance on the website and Comments do not reflect the views or opinions of Orchid Labs Inc., its agents or affiliates.\nComments reflect the view and opinion of the person who posts such view or opinion.",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:33:45",
+            "point_link": "https://edit.tosdr.org/points/13227",
+            "approval_status": "APPROVED",
+            "clause_text": "The Comments do not contain any defamatory, libelous, offensive, indecent",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "This services gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 06:33:58",
+            "point_link": "https://edit.tosdr.org/points/13230",
+            "approval_status": "APPROVED",
+            "clause_text": "To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality,",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:06:22",
+            "point_link": "https://edit.tosdr.org/points/13228",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li>",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:32:52",
+            "point_link": "https://edit.tosdr.org/points/13224",
+            "approval_status": "APPROVED",
+            "clause_text": "We employ the use of cookies.",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/15209",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Whilst we endeavour to ensure that the information on this website is correct, we do not warrant its completeness or accuracy.\nnor do we commit to ensuring that the website remains available or that the material on the website is kept up to date.</p>",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 06:35:43",
+            "point_link": "https://edit.tosdr.org/points/13237",
+            "approval_status": "APPROVED",
+            "clause_text": "This policy does not apply to any information collected offline, through the Orchid iOS and Android applications published by Orchid Labs, Inc or via channels other than www.orchid.com.\nPlease see https://www.orchid.com/mobile-privacy-policy for the mobile privacy policy.</p>",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:35:45",
+            "point_link": "https://edit.tosdr.org/points/13231",
+            "approval_status": "APPROVED",
+            "clause_text": "fitness for purpose and/or the use of reasonable care and skill).",
+            "point_source": "https://www.orchid.com/service-terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:43",
+            "point_link": "https://edit.tosdr.org/points/13235",
+            "approval_status": "APPROVED",
+            "clause_text": "We do use some third party vendors,",
+            "point_source": "https://www.orchid.com/privacy-policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

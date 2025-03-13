@@ -1,0 +1,697 @@
+{
+    "meta_data": {
+        "title": "VKontakte - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:35:04",
+            "point_link": "https://edit.tosdr.org/points/12696",
+            "approval_status": "APPROVED",
+            "clause_text": "For the purposes of operation and technical support of the Site and compliance with these Terms the Site Administration has the technical ability to access the Users’ personal pages but does it only in the cases specified herein.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:05:05",
+            "point_link": "https://edit.tosdr.org/points/12690",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site Administration has the right but is not obliged to check the Site for prohibited Content and can delete or remove (without giving advance notice) any Content or Users at its own discretion for any reason or without reason, including, without limitation, removal or deletion of the Content which, in the personal opinion of the Site Administration, infringes these Terms, Russian legislation and/or may infringe the rights of, cause damage to, or threaten the security of other Users or third parties.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:34:13",
+            "point_link": "https://edit.tosdr.org/points/12837",
+            "approval_status": "APPROVED",
+            "clause_text": "We use your location data in order to generate recommendations and tailor and improve the adverts that are presented on the Site.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:05:52",
+            "point_link": "https://edit.tosdr.org/points/12836",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not delete personal information if it is relevant to an investigation or a dispute.\nIt will continue to be stored until those issues are fully resolved and/or during the term that is required and/or permissible under applicable/relevant law.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:05:32",
+            "point_link": "https://edit.tosdr.org/points/12667",
+            "approval_status": "APPROVED",
+            "clause_text": "Information that is received as the result of your behavioral actions on the Site (in particular, joining / leaving a group, adding other users to the friends list, posting pictures, participation / refusal to participate in meetings, your call history, adding video recordings and liking posts).",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:09:22",
+            "point_link": "https://edit.tosdr.org/points/12676",
+            "approval_status": "APPROVED",
+            "clause_text": "The information provided by the User, including personal data, may be used by the Site Administration to ensure compliance with the requirements of effective Russian legislation, other applicable/relevant legislation, as well as to transfer it to the third-parties in order to protect right and interests of the Users, the Site Administration and third-parties (including in order to prevent, control/investigate and/or suppress illegal actions).",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12674",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site Administration may make changes and/or additions to these Terms unilaterally without any special notification.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Service can block or censor user communications",
+            "rating": "bad",
+            "description": "The service reserves the right, for any or no reason, to refuse to post or reject user communications.",
+            "last_updated": "2023-07-11 10:08:49",
+            "point_link": "https://edit.tosdr.org/points/12680",
+            "approval_status": "APPROVED",
+            "clause_text": "In case of the violation of third parties’ legitimate rights and interests provided by Russian legislation or these Terms in the Сommunity, the Site Administration has the right to take the following measures at its opinion: (a) delete Content or other information the Community uploads and/or block the access to it.\n(b) block the access to the Community page for certain users.\n(c) block the access to the Community for the User that administrates Community.\n(d) transfer the Community administration rights and the use of sub-domain to the legal right holder that has confirmed their right for the Community Content according to the established procedure, including the right to the objects of copyright and related rights, the right to means of individualization, confusingly similar to those used in the Community sub-domain names.\n(e) exclude the Community from the search and/or block the Community.\n(f) temporary ban the publication of any links in the Community.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "User-generated content can be blocked or censored for any reason",
+                "href": "https://edit.tosdr.org/cases/379"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:35:33",
+            "point_link": "https://edit.tosdr.org/points/12694",
+            "approval_status": "APPROVED",
+            "clause_text": "suspend, limit or terminate the User’s access to all or any sections or services of the Site at any time for any reason or without explaining the reason, with or without advance notice.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (St. Petersburg, Russia)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:49:37",
+            "point_link": "https://edit.tosdr.org/points/12671",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-08-07 12:35:20 UTC, sowaro4784 (31933)  wrote:\n          Interestingly you write, I will address        you'll find exciting and interesting things on similar topics.\tTermite Treatment Oviedo",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12655",
+            "approval_status": "APPROVED",
+            "clause_text": "The User also approves to receive different types of informational mailings, including advertising and informational content, including from the Site Administration and third-partners by means of the internal Site’s functionality.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12664",
+            "approval_status": "APPROVED",
+            "clause_text": "Your personal information may also be processed if it is required by a law enforcement or regulatory authority, body or agency or in the defence or exercise of legal claims.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:05:29",
+            "point_link": "https://edit.tosdr.org/points/12839",
+            "approval_status": "APPROVED",
+            "clause_text": "and such a technology as VK Ads Pixel and VK Widgets.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:05:30",
+            "point_link": "https://edit.tosdr.org/points/12838",
+            "approval_status": "APPROVED",
+            "clause_text": "Data collected via third parties including your friends' information from Facebook.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12688",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site Administration has a right to transfer these rights described in this clause to the third-parties.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "Per the service's terms, users may not express negative opinions about them",
+            "rating": "bad",
+            "description": "Criticising, questioning, making objections or complaints about the Service, its staff or anything related to it is prohibited and constitutes a breach of the Terms.",
+            "last_updated": "2023-07-11 10:08:48",
+            "point_link": "https://edit.tosdr.org/points/12686",
+            "approval_status": "APPROVED",
+            "clause_text": "posting any other information which in the personal opinion of the Site Administration is undesirable, does not meet the Site purposes, infringes on the Users’ rights or is otherwise undesirable for posting on the Site.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Per the service's terms, you may not express negative opinions about them",
+                "href": "https://edit.tosdr.org/cases/156"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:35:35",
+            "point_link": "https://edit.tosdr.org/points/12656",
+            "approval_status": "APPROVED",
+            "clause_text": "The Administration of the Site processes the User's personal data in order to provide to the latter access to the services of the Site, including targeted advertisements to the User.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12673",
+            "approval_status": "APPROVED",
+            "clause_text": "When registering at the Site the User must provide the Site Administration with the necessary true and updated information to form the User’s personal page, including the User’s unique login and the password for access to the Site as well as the User’s first and last names.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "This service provides archives of their Terms of Service so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:34:10",
+            "point_link": "https://edit.tosdr.org/points/12840",
+            "approval_status": "APPROVED",
+            "clause_text": "We will store the previous versions of this Privacy Policy in our documentation achieve.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 10:08:48",
+            "point_link": "https://edit.tosdr.org/points/12665",
+            "approval_status": "APPROVED",
+            "clause_text": "You may delete your personal data by removing the data from your personal page.\nalternatively, you can remove your page using the Remove My Page functionality available in the My Settings section.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12666",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the following rights, in certain circumstances, in relation to your personal information: <ul>\n<li>(a) Right to access your personal information.\n</li>\n<li>(b) Right to rectify your personal information: you can request that we update, block or delete your personal data, if the data is incomplete, outdated, incorrect, unlawfully received or no longer relevant for the purpose of processing.\n</li>\n<li>(c) Right to restrict the use of your personal information.\n</li>\n<li>(d) Right to request that your personal information is erased.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12659",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 3: 2020-12-16 15:26:52 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 3: 2020-12-16 15:26:52 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 3: 2020-12-16 15:26:52 UTC by AgnesDeLion (20760)  Staff\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  QUOTE NOT FOUND\n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  QUOTE NOT FOUND\n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  QUOTE NOT FOUND\n            Updated Status:  PENDING\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  QUOTE NOT FOUND\n            Updated Status:  PENDING",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12670",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-08-04 10:47:29 UTC, joy12 (34641)  wrote:\n          Great knowledge, do anyone mind merely reference back to it ภู่หลาน สรรพคุณ",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12657",
+            "approval_status": "APPROVED",
+            "clause_text": "these third parties assume confidentiality obligations regarding your personal data collected by the Site and your use of the applications they offer.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:35:42",
+            "point_link": "https://edit.tosdr.org/points/12669",
+            "approval_status": "APPROVED",
+            "clause_text": "To reduce the probability of third parties gaining unauthorized access, if you login to your account from an unusual server (in particular, from a server located in a foreign country), we will block entry to your personal page.\nYou will then receive a message asking you to provide certain digits indicated in SMS sent to your mobile phone number.\nAfter three unsuccessful attempts to enter these digits, we will block access from that server for 4 hours.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:08:47",
+            "point_link": "https://edit.tosdr.org/points/12687",
+            "approval_status": "APPROVED",
+            "clause_text": "The User grants to the Site Administration a non-exclusive right to use on a free of charge basis the Content published on the Site",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:08:50",
+            "point_link": "https://edit.tosdr.org/points/12692",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site Administration does not bear liability for any damage to the computer of the User or any third party, mobile devices, any other equipment or software caused by or connected with the download of materials from the Site or via the links available on the Site.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:35:06",
+            "point_link": "https://edit.tosdr.org/points/12695",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-19 15:49:55 UTC, fedada (30172)  Suspended wrote:\n          My experience at 오피스타 was rejuvenating and satisfying. 오피스타",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:35:07",
+            "point_link": "https://edit.tosdr.org/points/12700",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>Date of Last Revision: May 21, 2018 </li>\n</ul>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:36",
+            "point_link": "https://edit.tosdr.org/points/12691",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site contains (or may contain) links to other web-sites (third parties’ sites) as well as articles, photos, illustrations, graphic images, music, sound, video, information, applications, software and other Content belonging to or originating from third parties (Third Parties’ Content), which is the result of intellectual activity and is protected in accordance with Russian legislation.\n</li>\n<li>\n<b>7.3.2.</b> The Site Administration does not check these third parties and their Content for conformity to any requirements (truthfulness, completeness, good faith etc.).\nThe Site Administration does not bear liability for any information on third parties’ sites to which the User gains access via the Site or Third Parties’ Content, including any opinions or statements expressed on the Third Parties’ Sites or in their Content.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:36",
+            "point_link": "https://edit.tosdr.org/points/12693",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site Administration makes it technically possible for the Users to use the Site, does not participate in forming the content of the Users’ personal pages, does not control and does not bear liability for the actions or omissions of any persons regarding use of the Site or formation and use of the content of the Users’ personal pages on the Site.\n</li>\n</ul>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 10:06:08",
+            "point_link": "https://edit.tosdr.org/points/12675",
+            "approval_status": "APPROVED",
+            "clause_text": "The User may register a maximum of one personal page at the Site.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "Prohibits political discussions or campaigning",
+            "rating": "neutral",
+            "description": "Political content in the form or pictures, discussions, or campaigning isn't allowed.",
+            "last_updated": "2023-07-11 10:08:49",
+            "point_link": "https://edit.tosdr.org/points/12679",
+            "approval_status": "APPROVED",
+            "clause_text": "No outside commercial or political advertising is permitted in the Community, including in the Community description, profile photo, albums, published content, pinned wall posts, discussions, polls, cover image, messages, Community stories, etc.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Political discussions or campaining are prohibited",
+                "href": "https://edit.tosdr.org/cases/316"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12685",
+            "approval_status": "APPROVED",
+            "clause_text": "carrying out the mass mailing of messages without the Site Users’ consent.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:35:05",
+            "point_link": "https://edit.tosdr.org/points/12697",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SITE AND ITS SERVICES, INCLUDING ALL SCRIPTS, APPLICATIONS, CONTENT AND THE SITE DESIGN ARE MADE AVAILABLE ON THE “AS IS” BASIS.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12682",
+            "approval_status": "APPROVED",
+            "clause_text": "\"When using the Site the User is prohibited from: [...]  making available or otherwise using any information which: (a) contains threats\"",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 10:08:50",
+            "point_link": "https://edit.tosdr.org/points/12684",
+            "approval_status": "APPROVED",
+            "clause_text": "propagandizes and/or contributes to racial, religious, ethnic hatred or hostility, propagandizes fascism or racial superiority.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:08:49",
+            "point_link": "https://edit.tosdr.org/points/12683",
+            "approval_status": "APPROVED",
+            "clause_text": "is vulgar or obscene, contains pornographic images and texts or sexual scenes with the participation of minors.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:05:28",
+            "point_link": "https://edit.tosdr.org/points/12672",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site User is the individual which is registered at the Site according to the procedure set by these Terms, reached the sufficient age for such registration under the applicable laws and/or has all necessary consents (e.g.\nparental consents) in full compliance with the applicable laws, including for purposes of data protection laws and has the relevant powers (hereinbefore and hereinafter the User)",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/12668",
+            "approval_status": "APPROVED",
+            "clause_text": "Access to the Site is authorized using your login (e-mail address or mobile phone number) and password.\nYou are responsible for keeping this information confidential.\nYou should not share your credentials with third parties and we recommend you take measures to ensure this information is kept confidential.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:35:04",
+            "point_link": "https://edit.tosdr.org/points/12699",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event that one or more provisions hereof become invalid or unenforceable for any reason, this will not affect the validity or applicability of the remaining provisions.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:08:49",
+            "point_link": "https://edit.tosdr.org/points/12689",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon detection of the rights violations, please use [http://vk.com/help?act=cc_terms|Regulations for Investigating Complaints concerning users' content] to complain.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12661",
+            "approval_status": "APPROVED",
+            "clause_text": "Information that is automatically received at the time of access to the Site or the third parties’ websites with the use of cookies",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:08:48",
+            "point_link": "https://edit.tosdr.org/points/12677",
+            "approval_status": "APPROVED",
+            "clause_text": "The User does not have the right to transfer his/her login and password to third parties and bears full responsibility for their confidentiality, choosing himself / herself the method of their storage.",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:08:48",
+            "point_link": "https://edit.tosdr.org/points/12678",
+            "approval_status": "APPROVED",
+            "clause_text": "When creating and administering the Community, including in case of registration of the sub-domain name used for directing to the Community page, the User confirms that he/she acts on lawful grounds (e.g., on the basis of the power of attorney), has all necessary rights and his/her actions do not infringe the lawful rights and interests of third parties and effective Russian legislation, including legislation on competition and rights to intellectual property results and means of individualization.\n</li>",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:08:46",
+            "point_link": "https://edit.tosdr.org/points/12663",
+            "approval_status": "APPROVED",
+            "clause_text": "you should ensure you review the relevant third party's privacy statement which will govern your data privacy rights.",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/12658",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also share your data with our third party contractors and application developers provided",
+            "point_source": "https://vk.com/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:35:06",
+            "point_link": "https://edit.tosdr.org/points/12698",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-26 17:52:13 UTC, fedada (30172)  Suspended wrote:\n          Wow, incredible blog layout! How lengthy have you ever been blogging for? you make blogging look easy. The overall look of your site is magnificent, as smartly the content material! massage near me",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Users agree to comply with the law of the service's country",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 10:08:50",
+            "point_link": "https://edit.tosdr.org/points/12681",
+            "approval_status": "APPROVED",
+            "clause_text": "When using the Site Services the User is obliged: <ul>\n<li>to comply with the provisions of effective Russian legislation, other applicable/relevant legislation,",
+            "point_source": "https://vk.com/terms",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        }
+    ]
+}

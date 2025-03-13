@@ -1,0 +1,487 @@
+{
+    "meta_data": {
+        "title": "Xiaomi - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2024-10-23 18:27:25",
+            "point_link": "https://edit.tosdr.org/points/36546",
+            "approval_status": "APPROVED",
+            "clause_text": "We have the right to remove your content at anytime for any reason.",
+            "point_source": null,
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:04:48",
+            "point_link": "https://edit.tosdr.org/points/13161",
+            "approval_status": "APPROVED",
+            "clause_text": "We may combine this information with other information (including information across different services or devices such as computers, mobile phones and other connected devices) to provide and improve our services and content.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:08:23",
+            "point_link": "https://edit.tosdr.org/points/13158",
+            "approval_status": "APPROVED",
+            "clause_text": "Conducting relevant promotional activities, such as providing marketing and promotional materials and updates.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:04:48",
+            "point_link": "https://edit.tosdr.org/points/13169",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In accordance with legal requirements, legal procedures, litigation and/or requests from public agencies and government agencies, Xiaomi may need to disclose your personal information.\nIf the disclosure is necessary or appropriate for national security, law enforcement, or other matters of public importance, we may also disclose information about you.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2024-09-06 14:27:12",
+            "point_link": "https://edit.tosdr.org/points/36545",
+            "approval_status": "APPROVED",
+            "clause_text": "Your suggestion to Xiaomi (“Feedback”) is regarded as transferring all rights of Feedback.",
+            "point_source": null,
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:04:52",
+            "point_link": "https://edit.tosdr.org/points/13164",
+            "approval_status": "APPROVED",
+            "clause_text": "referring/exit pages,",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2024-10-23 18:28:08",
+            "point_link": "https://edit.tosdr.org/points/36547",
+            "approval_status": "APPROVED",
+            "clause_text": "The interpretation of the terms of this Agreement, effectiveness and dispute resolution, are applicable to the laws of PRC",
+            "point_source": null,
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of users' data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 10:08:24",
+            "point_link": "https://edit.tosdr.org/points/13174",
+            "approval_status": "APPROVED",
+            "clause_text": "An exception to this is personal information that we are processing for public interest, scientific, historical research, or statistical purposes.\nXiaomi will continue to retain this type of information for longer than its standard retention period, where permitted based on applicable laws or your request, even if further data processing is not related to the original purpose of collection.</p>",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:05:01",
+            "point_link": "https://edit.tosdr.org/points/13166",
+            "approval_status": "APPROVED",
+            "clause_text": "We may sometimes share your personal information with third parties (as described below) in order to provide or improve our services, including offering services based on your requirements.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:05:37",
+            "point_link": "https://edit.tosdr.org/points/13177",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Xiaomi processes and backs up personal information through a global operating and control infrastructure.\nCurrently, Xiaomi has data centers in the United States, Germany and Singapore.\nFor the purposes described in the Privacy Policy, your information may be transferred to these data centers in accordance with applicable law.\nWe may also transfer your personal information to third-party service providers and business partners and your data may therefore also be transmitted to other countries or regions.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:04:48",
+            "point_link": "https://edit.tosdr.org/points/13163",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-10 04:31:12 UTC, sowaro4784 (31933)  wrote:\n          There you can download for free, see the first of these data. \tLong Island CPA firm",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:35",
+            "point_link": "https://edit.tosdr.org/points/13175",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Depending on applicable laws and regulations, you have the right to access, rectification, and erasure of any other personal information that we hold about you (hereinafter referred to as the request).<br>",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:05:21",
+            "point_link": "https://edit.tosdr.org/points/13173",
+            "approval_status": "APPROVED",
+            "clause_text": "We will cease to retain and delete or anonymize personal information once the purpose of collection is fulfilled, or after we confirm your request for erasure, or after we terminate the operation of the corresponding service.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "The service allows you to opt out of providing personal information to third parties",
+            "rating": "good",
+            "description": "The Service provides opt-out instructions to the share of (some) personal information with third parties.",
+            "last_updated": "2023-07-11 10:08:24",
+            "point_link": "https://edit.tosdr.org/points/13167",
+            "approval_status": "APPROVED",
+            "clause_text": "If you no longer wish to allow us sharing this information, please contact us at privacy@xiaomi.com.</p>",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "You can opt out of providing personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/337"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:04:49",
+            "point_link": "https://edit.tosdr.org/points/13155",
+            "approval_status": "APPROVED",
+            "clause_text": "What information is collected by us and how do we use it?",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:32:55",
+            "point_link": "https://edit.tosdr.org/points/13157",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use the personal information that we collect",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "This service provides a way for you to export your data",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:48",
+            "point_link": "https://edit.tosdr.org/points/12593",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to be provided with clear, transparent and easily understandable information about how we use your personal information and your rights.\nThis is why we are providing you with the information in this Privacy Policy.\n• Based on the requirements of applicable laws, a copy of your personal data collected and processed by us will be provided to you upon your request free of charge.\nFor any extra requests for relevant information, we may charge a reasonable fee based on actual administrative costs according to the applicable laws.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "This service provides a way for you to export your data",
+                "href": "https://edit.tosdr.org/cases/184"
+            }
+        },
+        {
+            "title": "Staff at this organisation recieve training about handling data",
+            "rating": "good",
+            "description": "When an organisation trains its staff regarding data, this should be regarded as a positive as it shows they are careful and helps staff to understand how to handle data.",
+            "last_updated": "2024-10-22 15:18:49",
+            "point_link": "https://edit.tosdr.org/points/36549",
+            "approval_status": "APPROVED",
+            "clause_text": "We conduct security and privacy protection training courses and tests to enhance our employees' awareness of the importance of protecting personal information.",
+            "point_source": null,
+            "case": {
+                "text": "Staff at this organisation receive training about handling data",
+                "href": "https://edit.tosdr.org/cases/505"
+            }
+        },
+        {
+            "title": "You will be notified if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2024-10-23 18:26:44",
+            "point_link": "https://edit.tosdr.org/points/36550",
+            "approval_status": "APPROVED",
+            "clause_text": "We handle personal data breaches as required by applicable data protection law which includes, where required, notifying the breach to the relevant data protection supervisory authority and data subjects.",
+            "point_source": null,
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:05:02",
+            "point_link": "https://edit.tosdr.org/points/13165",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not sell any personal information to third parties.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 10:08:24",
+            "point_link": "https://edit.tosdr.org/points/13170",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, when you access your Mi Account, you can choose to use our two-step verification program for better security.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:08:23",
+            "point_link": "https://edit.tosdr.org/points/13172",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, our employees and those of our business partners and third party service providers who access your personal information are subject to enforceable contractual obligations of confidentiality.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:32:55",
+            "point_link": "https://edit.tosdr.org/points/13171",
+            "approval_status": "APPROVED",
+            "clause_text": "All your personal information is stored on secure servers, and protected in controlled facilities.\nWe classify your information based on importance and sensitivity, and ensure that your personal information has the required level of security.\nWe have special access controls for cloud-based data storage, and we regularly review our information collection, storage and processing practices, including physical security measures, to guard against any unauthorized access and use.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 10:05:36",
+            "point_link": "https://edit.tosdr.org/points/13176",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to be provided with clear, transparent and easily understandable information about how we use your personal information and your rights.\nThis is why we are providing you with the information in this Privacy Policy.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:04:51",
+            "point_link": "https://edit.tosdr.org/points/13154",
+            "approval_status": "APPROVED",
+            "clause_text": "Should you have any questions with our data handling practices as summarized in this Privacy Policy, please contact privacy@xiaomi.com to address your specific concerns.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:08:22",
+            "point_link": "https://edit.tosdr.org/points/13159",
+            "approval_status": "APPROVED",
+            "clause_text": "If you no longer wish to receive certain types of promotional materials, you may opt-out by the method provided in the message (such as the unsubscribe link at the bottom of the message)",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:33:39",
+            "point_link": "https://edit.tosdr.org/points/13178",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We review the Privacy Policy periodically based on changes in business and technology, and we may update this Privacy Policy.\nIf we make a material change to this Privacy Policy, we will notify you via your registered contact information such as email (sent to the email address specified in your account) or publish on Xiaomi websites or notify you via mobile devices so that you can learn about the information we collect and how we use it.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2024-09-05 09:48:22",
+            "point_link": "https://edit.tosdr.org/points/36548",
+            "approval_status": "APPROVED",
+            "clause_text": "updated on December 9, 2019",
+            "point_source": null,
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2024-09-20 12:47:43",
+            "point_link": "https://edit.tosdr.org/points/36544",
+            "approval_status": "APPROVED",
+            "clause_text": "Xiaomi reserves the right to terminate this Agreement if the user infringes the copyright of the third party and receives notice from the owner or legal representative of the owner.</p>\n<p>Once this Agreement terminated, all your website accounts and your right to use the Site and Xiaomi products and services will also be terminated.\nYou should understand this means your User Content will be removed from our database.",
+            "point_source": null,
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:04:53",
+            "point_link": "https://edit.tosdr.org/points/13162",
+            "approval_status": "APPROVED",
+            "clause_text": "Technologies such as cookies, tags, and scripts are used by Xiaomi",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2024-08-24 15:04:54",
+            "point_link": "https://edit.tosdr.org/points/36551",
+            "approval_status": "APPROVED",
+            "clause_text": "you must notify us immediately if there is any unauthorized use of your account by any other Internet user or any other breach of security",
+            "point_source": null,
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:04:49",
+            "point_link": "https://edit.tosdr.org/points/13160",
+            "approval_status": "APPROVED",
+            "clause_text": "Internal purposes such as data analysis, research, and development of statistical information related to the use of our services for improvement.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:52",
+            "point_link": "https://edit.tosdr.org/points/13156",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may collect log information related to your use, such as cookies, IP addresses.</p>",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:01",
+            "point_link": "https://edit.tosdr.org/points/13168",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Xiaomi works together with a group of companies forming the Mi Ecosystem.",
+            "point_source": "https://www.mi.com/global/about/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

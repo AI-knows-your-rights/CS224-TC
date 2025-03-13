@@ -164,7 +164,7 @@ function extractTextFromHTML(htmlContent) {
         .replace(/\n\s*\n/g, '\n\n')  // Remove extra newlines
         .trim();
       
-      processedText += formattedText + '\n\n';
+      processedText += formattedText + '\n\n\n\n';
     }
   });
 
@@ -180,11 +180,15 @@ function extractTextFromHTML(htmlContent) {
     processedText += '\n';
   });
 
-  // Final cleanup
-  return processedText
+  // console.log(`processedText: ${processedText}`);
+
+  // Final cleanup removed \n\n
+  final_cleaned_processedText = processedText
     .replace(/\n{3,}/g, '\n\n')  // Remove excessive newlines
     .replace(/\s+/g, ' ')  // Normalize spaces
-    .trim();
+    .trim()
+
+  return processedText
 }
 
 

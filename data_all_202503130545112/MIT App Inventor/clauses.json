@@ -1,0 +1,333 @@
+{
+    "meta_data": {
+        "title": "MIT App Inventor - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22816",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>With research collaborators, but only under the condition that they\nare obligated to keep any personally identifying information\nconfidential.</li>\n<li>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22812",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that MIT, in its sole discretion, may terminate your use of the Site or your\nparticipation in it thereof, for any reason or no reason.</p>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:19:04",
+            "point_link": "https://edit.tosdr.org/points/22815",
+            "approval_status": "APPROVED",
+            "clause_text": "I didn't find a more fitting quote, but they seem to use Twitter trackers on their website.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Massachusetts, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22813",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong>\nYou agree that any dispute arising out of or relating to\nthese Terms or any content posted to a Site will be governed by the laws of the\nCommonwealth of Massachusetts, excluding its conflicts of law provisions.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:19:03",
+            "point_link": "https://edit.tosdr.org/points/22800",
+            "approval_status": "APPROVED",
+            "clause_text": "To respond to subpoenas, court orders, or other legal process, in\nresponse to a request for cooperation from law enforcement or another\ngovernment agency, to investigate, prevent, or take action regarding\nillegal activities, suspected fraud, or to enforce our user agreement\nor privacy policy, or to protect our rights or the rights of\nothers.</li>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:19:03",
+            "point_link": "https://edit.tosdr.org/points/22798",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share the information we collect with third parties as\nfollows:</p>\n<ul>\n<li>With service providers or contractors that perform certain\nfunctions on our behalf, including processing information that you\nprovide to us on the Site or operating the Site or portions of\nit.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22814",
+            "approval_status": "APPROVED",
+            "clause_text": "This quote isn't really precise, but by surfing through the website users may find Google cookies.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Content is published under a free license instead of a bilateral one",
+            "rating": "good",
+            "description": "User-generated content, such as posts or comments, is published under a free license, meaning other users can reuse it (e.g. Creative Commons license).",
+            "last_updated": "2023-07-11 06:19:03",
+            "point_link": "https://edit.tosdr.org/points/22803",
+            "approval_status": "APPROVED",
+            "clause_text": "All content and projects on this Site are licensed under the\nCreative Commons Attribution- ShareAlike 4.0 International\nLicense.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Content is published under a free license instead of a bilateral one",
+                "href": "https://edit.tosdr.org/cases/131"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:19:02",
+            "point_link": "https://edit.tosdr.org/points/22801",
+            "approval_status": "APPROVED",
+            "clause_text": "MIT has no proprietary rights in the apps you create with MIT App\nInventor.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:19:03",
+            "point_link": "https://edit.tosdr.org/points/22802",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to download your apps and\ndelete them from the server at any time.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22799",
+            "approval_status": "APPROVED",
+            "clause_text": "These service providers and contractors will be obligated to keep\nyour information confidential.</li>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22811",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, hold harmless\nand indemnify MIT, and its subsidiaries, affiliates, officers, agents, and\nemployees from and against any third-party claims, actions or demands arising\nout of, resulting from or in any way related to your use of the Site, including\nany liability or expense arising from any and all claims, losses, damages\n(actual and consequential), suits, judgments, litigation costs and attorneys’\nfees, of every kind and nature.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (July 2020)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:19:02",
+            "point_link": "https://edit.tosdr.org/points/22794",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>These Terms were modified on July 1, 2020.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 06:19:04",
+            "point_link": "https://edit.tosdr.org/points/22810",
+            "approval_status": "APPROVED",
+            "clause_text": "Your access to or download of software, information, materials,\nor data through the Site or any reference sites is at your own discretion and\nrisk and that you will be solely responsible for any damage to your property\n(including your computer system) or loss of data that results from the download\nor use of such material or data.</p>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "Political discussions or campaining are prohibited",
+            "rating": "neutral",
+            "description": "Political content in the form or pictures, discussions, or campaigning isn't allowed.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22806",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Political content or content related to partisan political\nactivities</li>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Political discussions or campaining are prohibited",
+                "href": "https://edit.tosdr.org/cases/316"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22809",
+            "approval_status": "APPROVED",
+            "clause_text": "MIT does not warrant the Site will operate in an\nuninterrupted or error-free manner",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You must create a Google account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22796",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to log in to MIT App Inventor, you need to use a Google\naccount.\nYour use of that account is subject to Google’s Terms of\nService for accounts, and the information you provide to Google is\ngoverned by Google’s Privacy\nPolicy.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:19:03",
+            "point_link": "https://edit.tosdr.org/points/22804",
+            "approval_status": "APPROVED",
+            "clause_text": "Prohibited Content <ul>\n<li>Content that defames, harasses, or threatens others</li>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:19:04",
+            "point_link": "https://edit.tosdr.org/points/22808",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SITE IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\"",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22805",
+            "approval_status": "APPROVED",
+            "clause_text": "Any inappropriate, profane, pornographic, obscene",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:19:04",
+            "point_link": "https://edit.tosdr.org/points/22807",
+            "approval_status": "APPROVED",
+            "clause_text": "Copyright owners who believe their material has been infringed on\nthe Site should contact MIT’s designated copyright agent at\ndmca-agent@mit.edu, or at 77 Massachusetts Ave., Cambridge, MA\n02138-4307 Attention: MIT DMCA Agent, W92-263A.</p>\n<p>Notification must include:</p>",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:19:05",
+            "point_link": "https://edit.tosdr.org/points/22795",
+            "approval_status": "APPROVED",
+            "clause_text": "MIT reserves the right to modify these Terms at any time and will\npublish notice of any such modifications online on this page for a\nreasonable period of time following such modifications, and by\nchanging the effective date of these Terms.",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:03",
+            "point_link": "https://edit.tosdr.org/points/22797",
+            "approval_status": "APPROVED",
+            "clause_text": "We may log the IP address",
+            "point_source": "https://appinventor.mit.edu/about/termsofservice",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

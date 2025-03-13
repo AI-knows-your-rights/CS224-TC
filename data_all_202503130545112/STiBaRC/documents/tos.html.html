@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=5, user-scalable=yes, width=device-width" />
+    <link rel="icon" type="image/png" href="icon.png">
+    <title>Terms of Service - STiBaRC</title>
+    <script type="text/javascript">
+
+        if (("standalone" in window.navigator) && window.navigator.standalone) {
+
+            var noddy, remotes = false;
+
+            document.addEventListener('click', function (event) {
+
+                noddy = event.target;
+
+                while (noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+                    noddy = noddy.parentNode;
+                }
+
+                if ('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)) {
+                    event.preventDefault();
+                    document.location.href = noddy.href;
+                }
+
+            }, false);
+        }
+    </script>
+    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src *  'unsafe-inline'; script-src *  'unsafe-inline'; media-src *">
+    <meta http-equiv="X-XSS-Protection" content="0">
+    <link rel="stylesheet" href="css/global.css">
+    <link href="css/register.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/themes/default.css" id="themer">
+    <script src="js/global.js"></script>
+
+</head>
+<body>
+    <div id="privacies">
+        <h2>Terms of Service</h2><i>Last updated 01/02/2024</i><br /><br />
+        * Follow the content policy (see below)<br />
+        * Be 16 years of age or older (Per <a href="https://codes.ohio.gov/ohio-revised-code/section-1349.09" target="_none">Ohio Revised Code Section 1349.09</a>)<br />
+        * Don't be stupid<br />
+        <h2>STiBaRC Content Policy</h2>
+        The following types of content are prohibited:<br />
+        * Content that is illegal in the state of Ohio or in your jurisdiction<br />
+        * Pornography or nudity<br />
+        * Any content that may be interpreted as sexualization of minors<br />
+        * Content that encourages, glorifies, or incites violence against or abuse of people or animals<br />
+        * Threats or harassment<br />
+        * Other people's personal information without their permission<br />
+        * Impersonation for a deceptive purpose<br />
+        * Facilitation of transfer of weapons or controlled substances<br />
+        * Spam<br />
+        * Excessive profanity<br />
+        * Hate speech<br />
+        * Offensive content in any way<br />
+        Additionally, the following actions are prohibited:<br />
+        * Actions that are illegal in the state of Ohio or in your jurisdiction<br />
+        * Intentionally preventing users from using STiBaRC normally<br />
+        * Creating additional account(s) for the purpose of evading bans or other restrictions<br /><br />
+        STiBaRC and its owner, Joshua Herron (aka herronjo), are not legally responsible for any content posted to this site. The user who submitted the content will be held liable for any legal consequences their content may have.
+        <br /><br />
+        STiBaRC (the organization), moderators, and the owner (Joshua Herron, aka herronjo), collectively referred to as <i>they</i>, reserve the right to remove posts or content as needed, only when they violate any of the content policies defined above.<br />
+        They also reserve the right to ban or commandeer any user account should the offense be serious enough, or an account has repeated infractions.<br />
+        Bots also apply to the content policies and additional terms above.<br />
+        <h2>Contact Us</h2>
+        Questions and concerns regarding privacy may be directed to <a href="mailto:herronjo110@gmail.com">herronjo110@gmail.com</a><br/>
+    </div>
+</body>
+<br/>
+<footer>
+    <a href="/" class="button" style="font-weight: bold">Home</a>
+    <br/><br/>
+    Official president: Aldeenyo (Alden Savon)<br />
+    Notice: this is intended to be a clone of Reddit, made just for fun and as a tribute to my friend Andrew.<br />
+    Icon by Alex Ortega<br />
+    &copy; 2021 <a href="https://team.stibarc.com" target="_none">STiBaRC Team</a>
+</footer>
+</html>

@@ -1,0 +1,179 @@
+{
+    "meta_data": {
+        "title": "USSeek - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22088",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Log Files</b>\n</p>\n<p> Like many other Web sites, USSeek makes use of log files.",
+            "point_source": "https://usseek.com/Privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22087",
+            "approval_status": "APPROVED",
+            "clause_text": "Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.\n</p>",
+            "point_source": "https://usseek.com/Privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22085",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP) ,date/time stamp,referring/exit pages,\"",
+            "point_source": "https://usseek.com/Privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Texas, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22083",
+            "approval_status": "APPROVED",
+            "clause_text": "Any claim relating to USSeek's web site shall be governed by the laws of the State of Texas without regard to its conflict of law provisions.",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22086",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of our advertising partners may use cookies and web beacons on our site.",
+            "point_source": "https://usseek.com/Privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22080",
+            "approval_status": "APPROVED",
+            "clause_text": "In no event shall USSeek or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on USSeek's Internet site, even if USSeek or a USSeek authorized representative has been notified orally or in writing of the possibility of such damage.",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22081",
+            "approval_status": "APPROVED",
+            "clause_text": "USSeek has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site.",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22076",
+            "approval_status": "APPROVED",
+            "clause_text": "under this license you may not: <ol>\n<li>modify or copy the materials;</li>\n<li>use the materials for any commercial purpose",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22077",
+            "approval_status": "APPROVED",
+            "clause_text": "The materials on USSeek's web site are provided \"as is\".",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:18:12",
+            "point_link": "https://edit.tosdr.org/points/22079",
+            "approval_status": "APPROVED",
+            "clause_text": "Further, USSeek does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22084",
+            "approval_status": "APPROVED",
+            "clause_text": "The information inside the log files includes internet protocol ( IP ) addresses",
+            "point_source": "https://usseek.com/Privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:18:17",
+            "point_link": "https://edit.tosdr.org/points/22078",
+            "approval_status": "APPROVED",
+            "clause_text": "USSeek makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose",
+            "point_source": "https://usseek.com/Terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "meta_data": {
+        "title": "ToS;DR Phoenix - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "No third-party analytics or tracking platforms are used",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:21:57",
+            "point_link": "https://edit.tosdr.org/points/25035",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not use third party trackers/cookies for the use of this site",
+            "point_source": "https://tosdr.atlassian.net/wiki/spaces/SP/pages/95354649/edit.tosdr.org+Privacy+Policy",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:15:31",
+            "point_link": "https://edit.tosdr.org/points/19493",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>We do not sell your data</strong>.",
+            "point_source": "https://tosdrconfluence.atlassian.net/wiki/spaces/SP/pages/6488224/edit.tosdr.org+Privacy+Policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-09-01 16:12:13",
+            "point_link": "https://edit.tosdr.org/points/10750",
+            "approval_status": "APPROVED",
+            "clause_text": "Nicknames are optional.",
+            "point_source": "https://edit.tosdr.org/about",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:47:30",
+            "point_link": "https://edit.tosdr.org/points/19491",
+            "approval_status": "APPROVED",
+            "clause_text": "When cancelling your account, we scramble your data in our database so you cannot recover your account and we don't lose your contributions.</p>",
+            "point_source": "https://tosdrconfluence.atlassian.net/wiki/spaces/SP/pages/6488224/edit.tosdr.org+Privacy+Policy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-09-01 16:12:13",
+            "point_link": "https://edit.tosdr.org/points/10751",
+            "approval_status": "APPROVED",
+            "clause_text": "Passwords are hashed in our database with the bcrypt algorithm.",
+            "point_source": "https://edit.tosdr.org/about",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "This service provides information on their security practices regarding passwords",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:24:52",
+            "point_link": "https://edit.tosdr.org/points/27729",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://tosdr.atlassian.net/wiki/spaces/SP/pages/95354649/edit.tosdr.org+Privacy+Policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-09-01 16:12:13",
+            "point_link": "https://edit.tosdr.org/points/10752",
+            "approval_status": "APPROVED",
+            "clause_text": "When cancelling your account, we scramble your data in our database so you cannot recover your account and we don't lose your contributions.",
+            "point_source": "https://edit.tosdr.org/about",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "Using the service, you acknowledge that reading ToS;DR is in no way a replacement for reading the full terms to which you are bound",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:26:59",
+            "point_link": "https://edit.tosdr.org/points/27730",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://tosdr.atlassian.net/wiki/spaces/SP/pages/95354642/edit.tosdr.org+Terms+of+Service",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:27:57",
+            "point_link": "https://edit.tosdr.org/points/30201",
+            "approval_status": "APPROVED",
+            "clause_text": "We only use first party cookies.",
+            "point_source": "https://tosdr.atlassian.net/wiki/spaces/SP/pages/95354649/edit.tosdr.org+Privacy+Policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        }
+    ]
+}

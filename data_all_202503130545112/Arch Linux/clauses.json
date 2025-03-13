@@ -1,0 +1,459 @@
+{
+    "meta_data": {
+        "title": "Arch Linux - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15955",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Arch may share your personal data with third parties under any of the following circumstances:\n</p>\n<ul>\n<li>Your publicly available personal data in the Arch account system,",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:09:30",
+            "point_link": "https://edit.tosdr.org/points/15948",
+            "approval_status": "APPROVED",
+            "clause_text": "\"[...] your IP address, your language preference, your timezone, your geographic coordinates (longitude/latitude), your disclosed affiliation(s).\"",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service receives your percise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:09:03",
+            "point_link": "https://edit.tosdr.org/points/15950",
+            "approval_status": "APPROVED",
+            "clause_text": "\"The types of personal data collected may include (but are not limited to):[...] your timezone, your geographic coordinates (longitude/latitude),\"",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Per the service's terms, users may not express negative opinions about them",
+            "rating": "bad",
+            "description": "Criticising, questioning, making objections or complaints about the Service, its staff or anything related to it is prohibited and constitutes a breach of the Terms.",
+            "last_updated": "2023-07-11 10:11:46",
+            "point_link": "https://edit.tosdr.org/points/16226",
+            "approval_status": "APPROVED",
+            "clause_text": "Furthermore, questioning or discussing the methods used by the Arch Linux development team will be\nmonitored closely and locked or removed <em>if deemed unhelpful and/or unproductive</em>.",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "Per the service's terms, you may not express negative opinions about them",
+                "href": "https://edit.tosdr.org/cases/156"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 10:09:15",
+            "point_link": "https://edit.tosdr.org/points/15969",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-02-07 00:15:23 UTC by Dr_Jeff (20149)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-02-07 00:15:23 UTC by Dr_Jeff (20149)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-02-07 00:15:23 UTC by Dr_Jeff (20149)  Staff\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: Features of the website are made available under a free software license\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: Features of the website are made available under a free software license\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: Features of the website are made available under a free software license\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: Features of the website are made available under a free software license\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "EU residents can request access and deletion of personal data.",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15963",
+            "approval_status": "APPROVED",
+            "clause_text": "you have the following rights, subject to some limitations, against Arch:\n</p>\n<ul>\n<li>The right to access your personal data;</li>\n<li>The right to rectify the personal data we hold about you;</li>\n<li>The right to erase your personal data;</li>",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:09:07",
+            "point_link": "https://edit.tosdr.org/points/15965",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>The right to restrict our use of your personal data;</li>\n<li>The right to object to our use of your personal data;",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "The service allows you to opt out of providing personal information to third parties",
+            "rating": "good",
+            "description": "The Service provides opt-out instructions to the share of (some) personal information with third parties.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15956",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Arch may share your personal data with third parties under any of the following circumstances:\n- Your publicly available personal data in the Arch account system, as described above, is accessible by anyone unless you, as the account holder, opt out as already described in this Privacy Policy.\"",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "You can opt out of providing personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/337"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15960",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Arch makes this very wiki, IRC chat rooms, bulletin boards, mailing lists, and a bugtracker available to its users.\nPlease remember that <i>any information</i> that is disclosed in these areas becomes <b>public information</b>.\nExercise caution when deciding to disclose your personal data.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:07",
+            "point_link": "https://edit.tosdr.org/points/15964",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>The right to receive your personal data in a usable electronic format and transmit it to a third party (also known as the right of data portability).",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15951",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>1.3 The information we collect</li>",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15952",
+            "approval_status": "APPROVED",
+            "clause_text": "1.5 Using (processing) your personal data",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/15967",
+            "approval_status": "APPROVED",
+            "clause_text": "Arch reserves the right to change this policy from time to time.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:09:31",
+            "point_link": "https://edit.tosdr.org/points/15954",
+            "approval_status": "APPROVED",
+            "clause_text": "As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud).",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/15966",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you would like to exercise any of these rights, please contact the administrators of the forum, wiki, or bugtracker where your information is stored.\nPlease understand, however, the rights enumerated above are not absolute in all cases.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 10:11:47",
+            "point_link": "https://edit.tosdr.org/points/16225",
+            "approval_status": "APPROVED",
+            "clause_text": "Arch is a community of volunteers.\nRather than providing a complicated pattern of balanced freedoms\nand restrictions, as well as the time, resources and personnel required to interpret and administer\nsuch rules, we have chosen a simple principle to embrace for the benefit of all.\nTherefore, this\nentire document may be condensed into one simple admonition:</p>\n<p>\n<em>\n<strong>Proactively seek to give of yourself and to bring only benefit to your peers and community.</strong>",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:09:05",
+            "point_link": "https://edit.tosdr.org/points/15959",
+            "approval_status": "APPROVED",
+            "clause_text": "Our commitment to data security\n<p>Arch staff and administrators are familiar with our privacy policy guidelines.\nOur websites enforce Transport Layer Security (TLS) connections, which encrypts your personal data when you send your personal information on our website.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/15968",
+            "approval_status": "APPROVED",
+            "clause_text": "Version\n<p>This is version 1.0.\nLast updated on 10 March, 2019.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You are allowed to quote their content with attribution",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/15970",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are producing a new product which is based on Arch Linux but which has more substantial changes than those described above as a Remix, you are allowed to state (and we would encourage you to do so) that your product is \"derived from Arch Linux\", \"based on Arch Linux\", or \"a derivative of Arch Linux\" but you may not use the Trademarks to refer to your product.\nIn some cases you may be allowed to use the Trademarks, but permission must be explicitly granted by the Arch Linux Project Lead.",
+            "point_source": "https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy",
+            "case": {
+                "text": "You are allowed to quote their content with attribution",
+                "href": "https://edit.tosdr.org/cases/388"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:09:06",
+            "point_link": "https://edit.tosdr.org/points/15961",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This site contains links to other sites.\nArch does not control the information collection of sites that can be reached through links from archlinux.org.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:09:05",
+            "point_link": "https://edit.tosdr.org/points/15958",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you do not want your personal information to be stored by cookies, you can configure your browser so that it always rejects these cookies or asks you each time if you accept them or not.\nHowever, you must understand that the use of cookies may be necessary to provide certain services (see 1.\nabove), and choosing to reject cookies will reduce the performance and functionality of the site.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Prohibits political discussions or campaigning",
+            "rating": "neutral",
+            "description": "Political content in the form or pictures, discussions, or campaigning isn't allowed.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/15976",
+            "approval_status": "APPROVED",
+            "clause_text": "Avoid controversy/controversial topics\n<p>There is no explicit list of topics considered to be \"trollish\", controversial or provocative, but\nin the past, posts pertaining to <strong>Religion, Sports, Race, Nationalism</strong> and <strong>Politics</strong> have\ninvariably been closed.\nTherefore, <em>\n<strong>specifically avoid these and all divisive topics in the Arch\ncommunity.</strong>\n</em> The staff certainly realize that such issues are deeply ingrained human realities.\nHowever, this is a technical community and is not intended nor able to effectively facilitate such\ncommentary nor the resulting unrest.</p>",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "Political discussions or campaining are prohibited",
+                "href": "https://edit.tosdr.org/cases/316"
+            }
+        },
+        {
+            "title": "This service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/15973",
+            "approval_status": "APPROVED",
+            "clause_text": "Having multiple accounts is an unnecessary use of\nresources.\nFurther, it may be interpreted as trolling behaviour.",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:09:07",
+            "point_link": "https://edit.tosdr.org/points/15975",
+            "approval_status": "APPROVED",
+            "clause_text": "Spamming is forbidden.\nPlease alert staff to the presence of spam should you encounter it.\nOffending spam accounts and associated IP addresses will be banned.\nDo not reply to spam posts as\nit increases the amount of work required to clean them up.</p>\n<p>Publicity, if it is related to Arch (as a project or community) or GNU/Linux/FOSS, will usually be\nallowed.\nPromoting web-invites, blog posts or commercial promotions are actively discouraged, or\noutright prohibited.\nRegistering just to promote your issue/cause, FOSS-related or not, treats the\ncommunity as a resource and is not acceptable.",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:09:08",
+            "point_link": "https://edit.tosdr.org/points/15972",
+            "approval_status": "APPROVED",
+            "clause_text": "Arch Linux is a respectful, inclusive community.\nAnti-social or offensive behaviour will not be\ntolerated.",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:09:10",
+            "point_link": "https://edit.tosdr.org/points/15974",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Criminal solicitation is forbidden in\nthis community.\nIn this context, \"criminal solicitation\" shall mean, \"To actively or implicitly\nfacilitate, incite, move, or persuade others to some act of lawlessness or illegal activity.\"</p>\n<p>Therefore do not post discussions which demonstrate, or link to, criminal solicitation in any form.\nThis includes, but is not limited to information or links to facilitate illegal drug use, theft,\nnetwork intrusion, creation of code for malicious purposes, prohibited software copying, prohibited\nuse of copyrighted/patented material, so-called \"warez\", or sites which provide torrents or links\nto such content.\nIllegal content shall be removed swiftly and dealt with in full accordance with\nknown applicable law.",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:09:05",
+            "point_link": "https://edit.tosdr.org/points/15962",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have questions about the data collection procedures of linked sites, please contact those sites directly.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:09:05",
+            "point_link": "https://edit.tosdr.org/points/15953",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Arch uses the personal data you provide to:[...] for research activities, including the production of statistical reports[...]\"",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15957",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>As part of offering and providing customizable and personalized services, Arch uses cookies to store and sometimes track information about you.",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:03",
+            "point_link": "https://edit.tosdr.org/points/15949",
+            "approval_status": "APPROVED",
+            "clause_text": "\"The types of personal data collected may include (but are not limited to):[...] your IP address,\"",
+            "point_source": "https://wiki.archlinux.org/index.php/ArchWiki:Privacy_policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Discussion about other Arch distributions is not allowed",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/16227",
+            "approval_status": "APPROVED",
+            "clause_text": "Other considerations in this category include:</p> Arch Linux distribution support ONLY\n<p>Arch-based distributions have their own support fora and users of those distributions should be\nactively encouraged to seek support there.\nThese distributions often use different packages,\npackage versions, repositories, or make custom system configurations silently, practically\nrendering support for such projects within Arch Linux impossible.\nCommunity technical support shall\nonly be provided for the Arch Linux distribution and the Arch User Repository.\nPosting issues with,\nand requesting support for, derivative distributions or operating systems other than Arch Linux are\nprohibited.</p>",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:09:07",
+            "point_link": "https://edit.tosdr.org/points/15977",
+            "approval_status": "APPROVED",
+            "clause_text": "Specific fora guidelines\n<p>In addition to the common code, each of the fora has its own specific\nguidelines summarized in the following subsections.",
+            "point_source": "https://gitlab.archlinux.org/archlinux/service-agreements/-/blob/master/code-of-conduct.md",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        }
+    ]
+}

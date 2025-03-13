@@ -1,0 +1,53 @@
+{
+    "meta_data": {
+        "title": "DeepL - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 10:02:49",
+            "point_link": "https://edit.tosdr.org/points/13373",
+            "approval_status": "APPROVED",
+            "clause_text": "The DeepL API is designed to translate up to 600 characters per minute and per customer.\nexceeding use may be limited and customers may encounter a 429 “Too Many Requests” error message, as described in the documentation.</p>",
+            "point_source": "https://www.deepl.com/pro-license.html#pro",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "This service will warn users about website maintenance",
+            "rating": "good",
+            "description": "Users will be notified before their experience is impacted due to website maintenance.",
+            "last_updated": "2023-07-11 10:02:49",
+            "point_link": "https://edit.tosdr.org/points/13363",
+            "approval_status": "APPROVED",
+            "clause_text": "Unavoidable downtime due to planned maintenance work shall be electronically notified to Customer in good time in advance (e.g.\nby e-mail).</p>",
+            "point_source": "https://www.deepl.com/pro-license.html#pro",
+            "case": {
+                "text": "You will be notified about website maintenance",
+                "href": "https://edit.tosdr.org/cases/159"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2020-12-15 05:42:03",
+            "point_link": "https://edit.tosdr.org/points/8802",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.deepl.com/privacy.html",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        }
+    ]
+}

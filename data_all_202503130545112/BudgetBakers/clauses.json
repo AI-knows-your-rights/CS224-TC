@@ -1,0 +1,277 @@
+{
+    "meta_data": {
+        "title": "BudgetBakers - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 04:47:56",
+            "point_link": "https://edit.tosdr.org/points/20387",
+            "approval_status": "APPROVED",
+            "clause_text": "Track your location.\nThe geodata allow us to provide you with a better Service.\nUnless you agree otherwise, we process this information in order to provide you with certain functionalities in our App such as Smart Assistant or heatmaps, to better help you track your spending.</li>",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 04:48:01",
+            "point_link": "https://edit.tosdr.org/points/20458",
+            "approval_status": "APPROVED",
+            "clause_text": "Apart from those we use cookies and third-party cookies that help us track your browsing history in order to serve you with behavioral advertising.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:47:54",
+            "point_link": "https://edit.tosdr.org/points/20392",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use analytics technology to create reports and analysis of your preferences (geodata, purchase preferences, planned spending), which will enable us to provide you with better Service and make you personalized Offers.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20390",
+            "approval_status": "APPROVED",
+            "clause_text": "We may be required by law to grant access to personal data about you that we process for the purpose of investigating criminal activities and violations of the law, to judicial or other government agencies in particular law enforcement authorities subject to warrants, subpoenas or other governmental orders.</p>",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20389",
+            "approval_status": "APPROVED",
+            "clause_text": "To provide you some services such as Bank connection, we share your personal data with trusted 3<sup>rd</sup> parties or banks",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20393",
+            "approval_status": "APPROVED",
+            "clause_text": "If you grant us your consent, we will use your personal data you provided us and which we obtain via tracking your use of the App, we will use these data to provide you with personalized advertising.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 04:48:00",
+            "point_link": "https://edit.tosdr.org/points/20459",
+            "approval_status": "APPROVED",
+            "clause_text": "We may process your personal data on third party servers, with whom we concluded data processing agreement according to the standards of the EU laws, securing your data privacy and safety.\nWe do not process personal data of EU Users, outside the EU, i.e.\nwe do not transfer personal data for the purposes of their data processing outside the EU.\nYou may obtain the information about which data processors we use and where we store personal data by contacting our customer support at support@budgetbakers.com</p>Physical Security<p>Provider uses&nbsp;Microsoft Azure servers and Linode datacentre.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Google Analytics, Facebook Analytics, Mixpanel and Fabric analytic are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20391",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Google Analytics, Facebook Analytics, Mixpanel and Fabric analytic services to be able to address you more relevant messages based on your behavior.</p>",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20384",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>What information do we process about you",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20378",
+            "approval_status": "APPROVED",
+            "clause_text": "As a company incorporated in the European Union we are committed to process any personal data about you in line with EU privacy standards and laws.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:47:54",
+            "point_link": "https://edit.tosdr.org/points/20377",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>These Terms of Services come into force and effect on September 1, 2019.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:02",
+            "point_link": "https://edit.tosdr.org/points/20476",
+            "approval_status": "APPROVED",
+            "clause_text": "Apart from that, users’ Personal Information may be visible to our technicians and IT staff when they are troubleshooting and analyzing data import errors and other technical errors that may occur during use of the Services.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20381",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>User’s Account</strong> means the User’s account created by registration in the App or online at www.budgetbakers.com.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:02",
+            "point_link": "https://edit.tosdr.org/points/20475",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The service is provided on “as is” and “as available” basis.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over 16 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20376",
+            "approval_status": "APPROVED",
+            "clause_text": "You may only use Wallet if you are over 16 years of age.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 04:47:56",
+            "point_link": "https://edit.tosdr.org/points/20394",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not use Wallet for any illegal or unauthorized purpose.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20382",
+            "approval_status": "APPROVED",
+            "clause_text": "The user is responsible for keeping his/her account login and password credentials secure and confidential.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20379",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you are not at least 16 years old, please seek advice of your parents, or other adult person who is&nbsp;the holder of parental responsibility before you start using our App or any of the Services.",
+            "point_source": "https://budgetbakers.com/privacy",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Czech Republic",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 04:47:54",
+            "point_link": "https://edit.tosdr.org/points/20383",
+            "approval_status": "APPROVED",
+            "clause_text": "The rights and obligations arising from these Terms are governed by Czech law, in particularly Act No.: 89/2012 Coll., Civil Code.",
+            "point_source": "https://budgetbakers.com/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

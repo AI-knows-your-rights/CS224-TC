@@ -1,0 +1,431 @@
+{
+    "meta_data": {
+        "title": "Flipboard - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 06:23:59",
+            "point_link": "https://edit.tosdr.org/points/26932",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also collect information about your contacts on your mobile or tablet device to help you connect with other Flipboard users if you provide us access.\nIf you want to email something you see through Flipboard to a friend who isn’t already a Flipboard account holder, we may keep their email address for the purpose of sending such email.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:27:25",
+            "point_link": "https://edit.tosdr.org/points/28500",
+            "approval_status": "APPROVED",
+            "clause_text": "If you allow for location sharing, your device may communicate with us in ways that allow for us to customize the content you receive and to customize advertising you see.</p>",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26940",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use personal information to create deidentified or aggregated data</em> which does not identify you or any other individual, or from which your identity cannot reasonably be ascertained.\nWe may use and disclose deidentified, anonymous or aggregated data as we choose.</p>\n<strong>How We Disclose Your Personal Information</strong>\n<p>We share your personal information under these circumstances:</p>\n<p>\n<em>We share information with our marketing partners.</em> Flipboard may work with advertising partners to serve you third-party advertisements, including interest-based advertisements, on Flipboard and on other services.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "User-generated content can be blocked or censored for any reason",
+            "rating": "bad",
+            "description": "The service reserves the right, for any or no reason, to refuse to post or reject user communications.",
+            "last_updated": "2023-07-11 06:25:45",
+            "point_link": "https://edit.tosdr.org/points/28510",
+            "approval_status": "APPROVED",
+            "clause_text": "We don’t pre-screen anyone’s content.\nHowever, we have the right to review and remove or disable access to any content through Flipboard for any reason.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "User-generated content can be blocked or censored for any reason",
+                "href": "https://edit.tosdr.org/cases/379"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26935",
+            "approval_status": "APPROVED",
+            "clause_text": "We use various tracking technologies such as web beacons, cookies and embedded scripts to automatically collect information about you when you interact with our websites, apps, ads, and emails.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28503",
+            "approval_status": "APPROVED",
+            "clause_text": "We may combine information we have collected offline with information we collect online.\nWe may combine information we get from a third party with information we already have.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26942",
+            "approval_status": "APPROVED",
+            "clause_text": "We use information for marketing purposes.\nFor example, we might use personal information to provide you with information about our services.\nWe might tell you about new features or services.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:27:25",
+            "point_link": "https://edit.tosdr.org/points/28514",
+            "approval_status": "APPROVED",
+            "clause_text": "If we aren’t able to solve the problem that way, we both agree that we will resolve any claims arising from these Terms or the Flipboard service by final and binding arbitration",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28502",
+            "approval_status": "APPROVED",
+            "clause_text": "Our marketing agencies, advertising technology vendors, and analytics providers may also provide us with information.</p>",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:25:34",
+            "point_link": "https://edit.tosdr.org/points/26934",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect Location Information</em>.\nTo help you connect with other Flipboard users and to personalize your Flipboard experience, we may ask for additional information, including your location.\nWe may collect information that identifies your device’s precise location (for example, GPS latitude and longitude level).\nWe also collect information about your general location, using your zip code or postcode and IP address.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26939",
+            "approval_status": "APPROVED",
+            "clause_text": "We might use your information to better understand how you use our service, customize your experience with us (including the content, marketing materials, and advertisements you see) and to conduct research and analysis.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal information is used for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 06:25:45",
+            "point_link": "https://edit.tosdr.org/points/28506",
+            "approval_status": "APPROVED",
+            "clause_text": "We rely on the following legal bases when we process your personal information:</p>",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:25:45",
+            "point_link": "https://edit.tosdr.org/points/28507",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>We share personal information with vendors and service providers that help us offer and improve our service.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26938",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use our websites or apps we may also collect operating system-provided device IDs or user-specific advertising IDs for advertisement tracking.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to $100",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:45",
+            "point_link": "https://edit.tosdr.org/points/28517",
+            "approval_status": "APPROVED",
+            "clause_text": "he maximum liability of Flipboard to you for our services is $100",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28509",
+            "approval_status": "APPROVED",
+            "clause_text": "You can post your own content on Flipboard, including articles, photos, comments and other content.\nYou—and you alone—own the rights to the content you create and publish through Flipboard.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:23:59",
+            "point_link": "https://edit.tosdr.org/points/26930",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2022-02-23 21:35:46 UTC by QualifierStoplight (26693) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2022-02-23 21:35:46 UTC by QualifierStoplight (26693) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2022-02-23 21:35:46 UTC by QualifierStoplight (26693) \n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: They store data on you even if you did not interact with the service\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: They store data on you even if you did not interact with the service\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: They store data on you even if you did not interact with the service\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: They store data on you even if you did not interact with the service\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "Your feedback is invited regarding changes to the terms.",
+            "rating": "good",
+            "description": "The Service takes user suggestions into account to update its Terms.",
+            "last_updated": "2023-07-11 06:25:45",
+            "point_link": "https://edit.tosdr.org/points/28518",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong>\n<p>We welcome all questions, concerns and feedback you might have about these terms.\nIf you have suggestions for us, please visit our Help Center and let us know.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "Your feedback is invited regarding changes to the terms.",
+                "href": "https://edit.tosdr.org/cases/119"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26931",
+            "approval_status": "APPROVED",
+            "clause_text": "If you want, you can give us a pseudonym instead of your legal name.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28504",
+            "approval_status": "APPROVED",
+            "clause_text": "You can opt out of receiving our marketing emails.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28505",
+            "approval_status": "APPROVED",
+            "clause_text": "ffective Date: June 26, 2020</p>",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:27:29",
+            "point_link": "https://edit.tosdr.org/points/28516",
+            "approval_status": "APPROVED",
+            "clause_text": "To&nbsp;the&nbsp;fullest&nbsp;extent allowed by law, Flipboard shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill or other intangible losses resulting from (A) your access to, use of, inability to access or inability to use Flipboard.\n(B) any third party conduct or content on Flipboard, including any defamatory, offensive or illegal conduct of third parties.\nor (C) any unauthorized access, use or alteration of your content.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28511",
+            "approval_status": "APPROVED",
+            "clause_text": "(b) send unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This service is only available to users over 16",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:26:31",
+            "point_link": "https://edit.tosdr.org/points/28513",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We love kids as much as anyone, but Flipboard is only for people 16 years old and older.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26941",
+            "approval_status": "APPROVED",
+            "clause_text": "If you choose to voluntarily submit your ethnicity, gender, disability status, and/or veteran status in connection with a job application, we may use that information for statistical tracking purposes (not for hiring decisions), in accordance with applicable law.</p>",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28508",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You will use the service only for lawful purposes, and will not violate the rights of third parties.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28512",
+            "approval_status": "APPROVED",
+            "clause_text": "Please let us know immediately if you discover any compromise of your account.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28501",
+            "approval_status": "APPROVED",
+            "clause_text": ".\nThese features are not currently uniform, so we don’t respond to Do-Not- Track requests at this time",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:24:00",
+            "point_link": "https://edit.tosdr.org/points/26933",
+            "approval_status": "APPROVED",
+            "clause_text": "If you use our website(s) or applications, we may collect information about the browser or device you are using, operating system, device identifiers, and your IP address.",
+            "point_source": "https://about.flipboard.com/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in California, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:25:44",
+            "point_link": "https://edit.tosdr.org/points/28515",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms will be governed by the laws of the State of California, except for its conflict of laws principles.",
+            "point_source": "https://about.flipboard.com/terms/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1033 @@
+{
+    "meta_data": {
+        "title": "Brilliant - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without prior notice and without a reason",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/5609",
+            "approval_status": "APPROVED",
+            "clause_text": "The Terms of Use state that \"Brilliant reserves the right to, in its sole discretion, remove any User Submission(s) at any time (with or without notice).\"",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23840",
+            "approval_status": "APPROVED",
+            "clause_text": "User agrees to maintain current, complete and accurate information for User's billing account.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:06:01",
+            "point_link": "https://edit.tosdr.org/points/5604",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Brilliant reserves the right, at its sole discretion, to modify or replace any of the terms or conditions of this Agreement at any time. It is User's responsibility to check this Agreement periodically for changes.\"",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "This service allows tracking via third-party cookies for purposes including targeted advertising.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:08:42",
+            "point_link": "https://edit.tosdr.org/points/5603",
+            "approval_status": "APPROVED",
+            "clause_text": "As stated in Brilliant's Cookie Policy, a cookie type that they use are Third Party Cookies, which are \"placed by a third party on your device and may provide information to those third parties about browsing habits (including your visits to our Services, the pages you have visited and the links and advertisements you have clicked) that may help identify if certain services that such third parties provide are being used, identify your interests, retarget you and serve advertisements that are relevant to you.\"\n    \n          On 2024-10-15 11:33:23 UTC, sowaro4784 (31933)  wrote:\n          it's really nice and meanful. it's really cool blog. Linking is very useful thing.you have really helped lots of people who visit blog and provide them usefull information.\tفتح اقفال",
+            "point_source": "https://brilliant.org/cookie-policy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23863",
+            "approval_status": "APPROVED",
+            "clause_text": "Brilliant may terminate User's access to all or any part of the Service at any time, with or without cause, effective upon notice thereof to User (provided that, if Brilliant determines there may be an immediate threat to Brilliant, it may terminate such access without notice).",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:06:16",
+            "point_link": "https://edit.tosdr.org/points/5606",
+            "approval_status": "APPROVED",
+            "clause_text": "The Privacy Policy states, \"Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.\"",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23898",
+            "approval_status": "APPROVED",
+            "clause_text": "By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Brilliant in the U.S.\nand will be hosted on U.S.\nservers, and you authorize Brilliant to transfer, store and process your information to and in the U.S.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:06:14",
+            "point_link": "https://edit.tosdr.org/points/5602",
+            "approval_status": "APPROVED",
+            "clause_text": "The Brilliant Cookie Policy states, \"The Services use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage.\"",
+            "point_source": "https://brilliant.org/cookie-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23886",
+            "approval_status": "APPROVED",
+            "clause_text": "Moreover, if Brilliant, or substantially all of its assets were acquired, or in the unlikely event that Brilliant goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23876",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also supplement the information we collect from you with information received from third parties",
+            "point_source": "https://brilliant.org/cookie-policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "A license is kept on user-generated content even after you close your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23844",
+            "approval_status": "APPROVED",
+            "clause_text": "perpetual",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23834",
+            "approval_status": "APPROVED",
+            "clause_text": "User's continued use of the Service following the posting of any changes to this Agreement constitutes acceptance of those changes.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23871",
+            "approval_status": "APPROVED",
+            "clause_text": "any disputes arising with respect to this Agreement shall be settled by arbitration",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23907",
+            "approval_status": "APPROVED",
+            "clause_text": "We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties.\n<ul>\n<li>First and last name</li>\n<li>Email address</li>\n<li>Birthdate</li>\n<li>IP address(es)</li>\n<li> Examples of these legitimate interests include: <ul>\n<li>Operation and improvement of our business, products and services</li>\n<li>Marketing of our products and services</li>",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23906",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, parts of the Service may be hosted by a third party on our behalf.\nYour information may be accessed by such providers/agents, in the event that we need to share your information with them to provide our services or customer support to you.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your use may be throttled",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23836",
+            "approval_status": "APPROVED",
+            "clause_text": "Brilliant may also impose limits on certain features and services or restrict User's access to parts or all of the Services without notice or liability.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Usernames can be rejected or changed for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23856",
+            "approval_status": "APPROVED",
+            "clause_text": "Brilliant reserves the right, in its discretion, to cancel or refuse registration of an Brilliant User ID.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "Your information is only shared with third parties when given specific consent",
+            "rating": "good",
+            "description": "The service does not share user information with any third parties unless users specifically give it permission to do so.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23892",
+            "approval_status": "APPROVED",
+            "clause_text": "Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Your information is only shared with third parties when given specific consent",
+                "href": "https://edit.tosdr.org/cases/296"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:20:30",
+            "point_link": "https://edit.tosdr.org/points/23847",
+            "approval_status": "APPROVED",
+            "clause_text": "For clarity, the foregoing license grant to Brilliant does not affect User's other ownership or license rights in your User Submission(s)",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23895",
+            "approval_status": "APPROVED",
+            "clause_text": "(continued)... In addition, we may automatically receive and store certain, anonymous types of information whenever you interact with the Service. Such information may include the user's IP address, domain server, and type of Internet browser. This information helps us, among other things, analyze trends and administer the Service. This information is anonymous and contains no personally identifiable data.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23873",
+            "approval_status": "APPROVED",
+            "clause_text": "remove and discontinue service to repeat offenders.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "Archives of their agreements are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23901",
+            "approval_status": "APPROVED",
+            "clause_text": "The previous version of this document is located here.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23899",
+            "approval_status": "APPROVED",
+            "clause_text": "User Submission(s) may be withdrawn by written request to support@brilliant.org to delete content.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23887",
+            "approval_status": "APPROVED",
+            "clause_text": "any acquirer of Brilliant may continue to use your Personal Information as set forth in this policy.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2021-07-09 20:00:39",
+            "point_link": "https://edit.tosdr.org/points/23904",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://brilliant.org/account/settings/data-portal/personal-data-export/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23893",
+            "approval_status": "APPROVED",
+            "clause_text": "How does Brilliant use the information it collects?",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23902",
+            "approval_status": "APPROVED",
+            "clause_text": "Objection:</strong> You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23894",
+            "approval_status": "APPROVED",
+            "clause_text": "What Personal Information Does Brilliant Collect?",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23883",
+            "approval_status": "APPROVED",
+            "clause_text": "To the limited extent we collect Personal Information – we neither rent nor sell your Personal Information to anyone.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23881",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are a California resident please click here to learn more about your privacy rights.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23875",
+            "approval_status": "APPROVED",
+            "clause_text": "C.\nProcedure to Supply a Counter-Notice to the Designated Agent: <p> If the content provider, member or user believes that the content that was removed or to which access was disabled is either not infringing, or the content provider, member or user believes that it has the right to post and use such content from the copyright owner, the copyright owner's agent or pursuant to the law, the content provider, member or user must send a counter-notice containing the following information to the Designated Agent listed below: </p>\n<ol>\n<li>A physical or electronic signature of the content provider, member or user;</li>\n<li>Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;</li>\n<li>A statement that the content provider, member or user has a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content.\nand</li>\n<li> Content provider's, member's or user's name, address, telephone number, and, if available, email address and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider's, member's or user's address is located, or if the content provider's, member's or user's address is located outside the United States, for any judicial district in which Brilliant is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23880",
+            "approval_status": "APPROVED",
+            "clause_text": "you may have additional rights under the EU General Data Protection Regulation (the \"GDPR\")",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23884",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless we tell you differently, Brilliant's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23845",
+            "approval_status": "APPROVED",
+            "clause_text": "sublicensable and transferable license to reproduce, distribute",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2021-07-07 09:40:40",
+            "point_link": "https://edit.tosdr.org/points/23905",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://help.brilliant.org/en/articles/741489-how-do-i-deactivate-or-delete-my-account",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23897",
+            "approval_status": "APPROVED",
+            "clause_text": "If you would like to stop receiving email from Brilliant, simply visit the&nbsp;Email section of your Account settings&nbsp;and uncheck any and all boxes.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "A free help desk is provided",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23903",
+            "approval_status": "APPROVED",
+            "clause_text": "Help centre can also be found at https://help.brilliant.org/en/",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23843",
+            "approval_status": "APPROVED",
+            "clause_text": "non-exclusive",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23848",
+            "approval_status": "APPROVED",
+            "clause_text": "User has the written consent, release, and/or permission of each and every identifiable individual person in the User Submission to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of the User Submission(s) in the manner contemplated by the Sites, the Service and this Agreement.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23865",
+            "approval_status": "APPROVED",
+            "clause_text": "User is responsible for all of its activity in connection with the Service.\nUser shall defend, indemnify, and hold harmless Brilliant, its affiliates, and each of its and its affiliates' employees, contractors, directors, suppliers and representatives from all liabilities, claims, and expenses, including reasonable attorneys' fees, that arise from (i) User's use or misuse of the Service.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:21:03",
+            "point_link": "https://edit.tosdr.org/points/23877",
+            "approval_status": "APPROVED",
+            "clause_text": "You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed.\nIf you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.",
+            "point_source": "https://brilliant.org/cookie-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23842",
+            "approval_status": "APPROVED",
+            "clause_text": "By subscribing, User authorizes Brilliant to charge User's credit card, debit card or other payment method at such time and again at the beginning of any subsequent subscription period, including any sales or similar taxes imposed on User's subscription payments.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23859",
+            "approval_status": "APPROVED",
+            "clause_text": "The Site may permit User to link to other websites or resources on the Internet, and other websites or resources may contain links to the Site.\nThese other websites are not under Brilliant's control, and User acknowledges that Brilliant is not responsible or liable for the content, functions, accuracy, legality, appropriateness or any other aspect of such websites or resources.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23841",
+            "approval_status": "APPROVED",
+            "clause_text": "All fees are final and nonrefundable (including in the event any features or functions of any service that User has subscribed to are changed, modified, diminished or removed)",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23900",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Effective Date: Jan 1, 2020",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23860",
+            "approval_status": "APPROVED",
+            "clause_text": "User further acknowledges and agrees that Brilliant shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods, information, or services available on or through any such website or resource.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can intervene in user disputes",
+            "rating": "neutral",
+            "description": "If you have a dispute with another user on this service, they can review the issue and intervene. However, they don't have an obligation to do so.",
+            "last_updated": "2023-07-11 06:20:41",
+            "point_link": "https://edit.tosdr.org/points/23867",
+            "approval_status": "APPROVED",
+            "clause_text": "Brilliant reserves the right, but has no obligation, to monitor disputes between User and other Service users.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The service can intervene in user disputes",
+                "href": "https://edit.tosdr.org/cases/276"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23837",
+            "approval_status": "APPROVED",
+            "clause_text": "Brilliant may change, suspend or discontinue the Services, including the availability of any feature, database or content, at any time.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23864",
+            "approval_status": "APPROVED",
+            "clause_text": "All provisions of this Agreement that by their nature should survive termination shall survive termination",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23852",
+            "approval_status": "APPROVED",
+            "clause_text": "Brilliant does not endorse any User Submission or any opinion, recommendation, or advice expressed therein, and Brilliant expressly disclaims any and all responsibility or liability in connection with User Submission(s).",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23862",
+            "approval_status": "APPROVED",
+            "clause_text": "IN ADDITION, BRILLIANT SHALL NOT BE LIABLE FOR ANY LOSS OR LIABILITY RESULTING, DIRECTLY OR INDIRECTLY, FROM USER'S INABILITY TO ACCESS OR OTHERWISE USE THE SITE (INCLUDING, WITHOUT LIMITATION, ANY DELAYS OR INTERRUPTIONS DUE TO ELECTRONIC OR MECHANICAL EQUIPMENT FAILURES, DENIAL OF SERVICE ATTACKS, PROCESSING FAILURES, TELECOMMUNICATIONS OR INTERNET PROBLEMS OR UTILITY FAILURES).",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23835",
+            "approval_status": "APPROVED",
+            "clause_text": "the Service are solely for User's own personal use",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:20:31",
+            "point_link": "https://edit.tosdr.org/points/23851",
+            "approval_status": "APPROVED",
+            "clause_text": "hateful, racially or ethnically offensive, excessively violent",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23858",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE (INCLUDING, WITHOUT LIMITATION, THE SITE AND ANY SOFTWARE) IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:20:31",
+            "point_link": "https://edit.tosdr.org/points/23849",
+            "approval_status": "APPROVED",
+            "clause_text": "lewd, defamatory, libelous, threatening",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23854",
+            "approval_status": "APPROVED",
+            "clause_text": "User shall not attempt to gain unauthorized access to any portion or feature of the Service, or any other systems or networks connected to the Service or to any Brilliant server, or to any of the services offered on or through the Service, by hacking, password \"mining\", or any other illegitimate means.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23853",
+            "approval_status": "APPROVED",
+            "clause_text": "User shall not use any \"deep-link\", \"page-scrape\", \"robot\", \"spider\" or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Service or any Content, or in any way reproduce or circumvent the navigational structure or presentation of the Service or any Content, to obtain or attempt to obtain any materials, documents or information through any means not purposely made available through the Service.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age (13)",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23838",
+            "approval_status": "APPROVED",
+            "clause_text": "User is at least 13 years of age",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:20:31",
+            "point_link": "https://edit.tosdr.org/points/23850",
+            "approval_status": "APPROVED",
+            "clause_text": "pornographic",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23872",
+            "approval_status": "APPROVED",
+            "clause_text": "block access to or remove content that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:20:35",
+            "point_link": "https://edit.tosdr.org/points/23855",
+            "approval_status": "APPROVED",
+            "clause_text": "User shall not use the Service or any Content for any purpose that is unlawful",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:20:35",
+            "point_link": "https://edit.tosdr.org/points/23857",
+            "approval_status": "APPROVED",
+            "clause_text": "User shall be responsible for maintaining the confidentiality of User's Brilliant password and other account information.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23869",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23896",
+            "approval_status": "APPROVED",
+            "clause_text": "The privacy and security practices of websites linked to or from the Service are not covered by this Privacy Statement, and Brilliant is not responsible for the privacy or security practices or the content of such websites.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:20:40",
+            "point_link": "https://edit.tosdr.org/points/23868",
+            "approval_status": "APPROVED",
+            "clause_text": "The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23874",
+            "approval_status": "APPROVED",
+            "clause_text": "</p> A.\nProcedure for Reporting Copyright Infringements: <p> If User believes that content residing on or accessible through the Brilliant Service infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent listed below: </p>\n<ol>\n<li>A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed;</li>\n<li>Identification of works or materials being infringed;</li>\n<li>Identification of the content that is claimed to be infringing including information regarding the location of the content that the copyright owner seeks to have removed, with sufficient detail so that Brilliant is capable of finding and verifying its existence;</li>\n<li>Contact information about the notifier including address, telephone number and, if available, e-mail address;</li>\n<li>A statement that the notifier has a good faith belief that the content is not authorized by the copyright owner, its agent, or the law.\nand</li>\n<li>A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner.</li>",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:06:08",
+            "point_link": "https://edit.tosdr.org/points/5605",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave the Services",
+            "point_source": "https://brilliant.org/cookie-policy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in California, USA and Pennsylvania, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23870",
+            "approval_status": "APPROVED",
+            "clause_text": "This Agreement shall be governed by and construed in accordance with the laws of the state of Pennsylvania, as if made within Pennsylvania between two residents thereof, and the parties submit to the exclusive jurisdiction and venue of the state and Federal courts located in San Francisco, California.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23866",
+            "approval_status": "APPROVED",
+            "clause_text": "If User has a dispute with one or more users of the Service, User shall and hereby does release Brilliant (and its officers, directors, agents, subsidiaries, joint ventures and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:38",
+            "point_link": "https://edit.tosdr.org/points/23882",
+            "approval_status": "APPROVED",
+            "clause_text": "IP address",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23861",
+            "approval_status": "APPROVED",
+            "clause_text": "INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 06:20:37",
+            "point_link": "https://edit.tosdr.org/points/23839",
+            "approval_status": "APPROVED",
+            "clause_text": "provided that, if User is located in a state in which 13 is under the age of majority, then User represents he/she has the legal consent of a legal guardian to enter this Agreement",
+            "point_source": "https://brilliant.org/terms-of-use/",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:39",
+            "point_link": "https://edit.tosdr.org/points/23885",
+            "approval_status": "APPROVED",
+            "clause_text": "We employ other companies and people to perform tasks on our behalf.\nFor example, we may decide to use a third party payment processing company to process payments you make through the Service.",
+            "point_source": "https://brilliant.org/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

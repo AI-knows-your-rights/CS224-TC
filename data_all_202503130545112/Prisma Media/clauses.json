@@ -1,0 +1,515 @@
+{
+    "meta_data": {
+        "title": "Prisma Media - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23618",
+            "approval_status": "APPROVED",
+            "clause_text": "Par exception, et conformément à la réglementation applicable, dans le cas où ces coordonnées ont été collectées dans le cadre de la vente d’un produit ou d’une prestation de service et qu’elles sont utilisées pour l’envoi de prospections destinées à promouvoir des produits ou services analogues et fournis par PRISMA MEDIA, vos coordonnées pourront être utilisées sans votre consentement.\nDe même, votre consentement ne sera pas requis en matière de prospection par téléphone ou voie postale.",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23606",
+            "approval_status": "APPROVED",
+            "clause_text": "PRISMA MEDIA se réserve le droit de suspendre ou de résilier un Compte sans délai et de refuser à l’Utilisateur l’accès à tout ou partie des Blogs, du Forum et du Site pour tout manquement aux règles éditées ci-dessus et ce sans motiver sa décision.</p>\n<p>Nos modérateurs se réservent également le droit de retirer sans préavis et sans en informer l’Utilisateur, tout ou partie des messages et ce sans avoir à motiver son action.<br>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "You may not be able to opt out of tracking",
+            "rating": "blocker",
+            "description": "Users can’t fully opt out of tracking technologies used for non essential purposes such as advertising, marketing or analytics. The user may be asked for consent for installing some tracking technologies on the device, and even if all are rejected the service will still track its visitors and ignore the choice.This case doesn’t apply to functional cookies that are necessary to provide the services.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23623",
+            "approval_status": "APPROVED",
+            "clause_text": "If the user refuses to be tracked, he is asked to register in order to view the content.\n    \n          On 2024-10-05 18:18:22 UTC, davejack (37793)  wrote:\n          Thank you because you have been willing to share information with us. we will always appreciate all you have done here because I know you are very concerned with our. [Hamilton Lindley][https://tiktok.com/@hamiltonlindley]",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "This service still tracks you even if you opted out from tracking",
+                "href": "https://edit.tosdr.org/cases/478"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23607",
+            "approval_status": "APPROVED",
+            "clause_text": "Après la résiliation ou la désactivation d’un Compte Personnel PRISMA CONNECT tel que prévu ci-dessus, ou après demande de retrait d’une Contribution, LE GROUPE PRISMA MEDIA se réserve la faculté de conserver ladite Contribution pour une période commercialement raisonnable afin de la sauvegarder, l’archiver ou la vérifier.</p>\n<p>L’archivage de ces données est effectué sur un support fiable et durable de manière à correspondre à une copie fidèle et durable, conformément à l’article 1379 du Code civil.</p>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23616",
+            "approval_status": "APPROVED",
+            "clause_text": "En téléchargeant et utilisant nos applications mobiles, des données relatives à la géolocalisation du mobile de l’Utilisateur sont collectées et peuvent être partagées avec nos partenaires dans le but de lui permettre de bénéficier d’une meilleure expérience utilisateur, en lui proposant notamment du contenu plus pertinent dans le cadre de campagnes de marketing ciblé géolocalisé.",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23631",
+            "approval_status": "APPROVED",
+            "clause_text": "IP addresses, which are pieces of data often considered PII, are shared with advertising partners.",
+            "point_source": "https://www.prismamedia.com/cookies/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23594",
+            "approval_status": "APPROVED",
+            "clause_text": "Les présentes CGU s’appliquent, en tant que de besoin, à toute déclinaison ou extension des Sites et Supports numériques sur les réseaux sociaux et/ou communautaires existants ou à venir.</p>\n<p>Les CGU pourront être modifiées à tout moment, unilatéralement par LE GROUPE PRISMA MEDIA, au gré des changements ou additions effectués, afin notamment de se conformer à toutes évolutions légales, jurisprudentielles, éditoriales et/ou techniques.\nIl est donc conseillé à l’Utilisateur ou au Visiteur de se référer avant toute &nbsp;navigation à la dernière version des CGU accessible à tout moment sur les Sites.",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23624",
+            "approval_status": "APPROVED",
+            "clause_text": "PRISMA MEDIA et ses partenaires utilisent des cookies ou technologies similaires et traitent vos données de navigation et comportementales (adresse IP, pages visitées ou encore les dates et heures de consultation) afin de nous aider à améliorer votre navigation et la rendre plus intéressante, et qui nous permettent de : </p>\n<p>\n</p>\n<ul>\n<li>Personnaliser la publicité</li>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Extra data may be collected about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23610",
+            "approval_status": "APPROVED",
+            "clause_text": "Lorsque vous vous abonnez à l’un de nos magazines afin de gérer votre commande, la livraison des magazines, le renouvellement de votre abonnement ;</li>\n<li>Lorsque vous souscrivez à l’un des services proposés sur le Site (comprenant notamment les lettres d’informations, jeux et concours ou nos communications marketing ou celles de nos partenaires) via votre Compte PRISMA CONNECT",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23632",
+            "approval_status": "APPROVED",
+            "clause_text": "afin de leur permettre de personnaliser le contenu et les publicités qui vous sont proposées en fonction de vos intérêts, tout au long de votre expérience en ligne (web, emails, apps mobiles, objets connectés, etc).",
+            "point_source": "https://www.prismamedia.com/cookies/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23614",
+            "approval_status": "APPROVED",
+            "clause_text": "Données d’identification et de contact</p>\n<ul>\n<li>Nom</li>\n<li>Prénom</li>\n<li>Pseudo</li>\n<li>Date de naissance</li>\n<li>Genre/sexe</li>\n<li>Adresse mail</li>\n<li>Téléphone</li>\n<li>Adresse postale</li>\n</ul>\n<p>\n</p>\n<p>\n</p>\n<p>Collecte directe auprès de l’Utilisateur ou collecte indirecte via les partenaires de PRISMA MEDIA</p>\n<p>Amélioration des Services</p>\n<p>Prospection commerciale par le biais de profilage</p>\n<p>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23615",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Géolocalisation (uniquement pour applications mobiles)</p>\n<ul>\n<li>Informations de navigation (Adresse IP, sites consultés, pages/contenus consultés…)</li>\n<li>Données de géolocalisation",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23622",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Les Données Personnelles seront ainsi conservées pour la période pendant laquelle vous utilisez nos Services, et supprimées au plus tard 3 (trois) ans à compter de notre dernier contact, sauf anonymisation ou obligation légale de conserver certaines données pour une durée plus longue.\n</li>\n</ul>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "Per the service's terms, you may not express negative opinions about them",
+            "rating": "bad",
+            "description": "Criticising, questioning, making objections or complaints about the Service, its staff or anything related to it is prohibited and constitutes a breach of the Terms.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23602",
+            "approval_status": "APPROVED",
+            "clause_text": "– il ne doit pas effectuer de déclaration portant atteinte à l’image et à la réputation des&nbsp;Sites et Supports numériques&nbsp;ou de tout autre support édité par LE GROUPE PRISMA MEDIA ;</p>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Per the service's terms, you may not express negative opinions about them",
+                "href": "https://edit.tosdr.org/cases/156"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23619",
+            "approval_status": "APPROVED",
+            "clause_text": "Elles pourront également être transmises aux prestataires missionnés par PRISMA MEDIA dans le cadre de ses activités et pour assurer la fourniture de ses Services.</p>\n<p>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23633",
+            "approval_status": "APPROVED",
+            "clause_text": "NOTIFY : </strong>Notify Brand Technology est une solution qui a pour objectif (i) de mesurer l’audience du site et (ii) de vous proposer des publicités et services personnalisées grâce aux cookies déposés par nos partenaires.",
+            "point_source": "https://www.prismamedia.com/cookies/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23630",
+            "approval_status": "APPROVED",
+            "clause_text": "Lors de votre navigation sur nos sites web ou lorsque vous utilisez nos applications mobiles ou à l’ouverture de l’un de nos emails",
+            "point_source": "https://www.prismamedia.com/cookies/",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23620",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>En cas de transfert de Données hors de l’Union Européenne, PRISMA MEDIA vous informera desdits transferts et prendra les mesures nécessaires pour les encadrer conformément à la réglementation en vigueur (par la signature de Clauses Contractuelles types de la Commission Européenne) et assurer la confidentialité et la sécurité de vos Données",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:17",
+            "point_link": "https://edit.tosdr.org/points/23626",
+            "approval_status": "APPROVED",
+            "clause_text": "En vertu de la réglementation en vigueur, vous bénéficiez des droits suivants à l’égard du traitement de vos Données :</p>\n<p>\n</p>\n<ul>\n<li>Un droit d’accès à l’ensemble des Données que nous traitons vous concernant .\n</li>\n</ul>\n<ul>\n<li>Un droit de rectification des Données inexactes, incomplètes, équivoques, ou périmées .\n</li>\n<li>Un droit de suppression sur l’ensemble des Données que nous traitons vous concernant, à l’exception des Données nécessaires pour défendre nos intérêts en justice ou que nous devons conserver conformément à nos obligations légales .",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23598",
+            "approval_status": "APPROVED",
+            "clause_text": "A tout moment, l’Utilisateur dispose, conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée, d’un droit d’accès, de modification, de rectification, de suppression et d’opposition au traitement des informations le concernant.\nPour exercer ces droits, il lui suffit d’écrire en envoyant un e-mail ou un courrier à cil@prismamedia.com ou PRISMA MEDIA, le Correspondant Informatique et Libertés, 13, rue Henri Barbusse – 92230 Gennevilliers.</li>\n</ol>\n<p>\n<strong>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:22",
+            "point_link": "https://edit.tosdr.org/points/23627",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Un droit à la portabilité afin de récupérer les Données que vous nous avez fournis ou de les transférer à un autre fournisseur de service",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:14",
+            "point_link": "https://edit.tosdr.org/points/23599",
+            "approval_status": "APPROVED",
+            "clause_text": ".\nLE GROUPE PRISMA MEDIA recommande aux Visiteurs de rester prudents lorsqu’ils décident d’indiquer leur adresse email, afin d’éviter d’être « spammés » notamment par des cybermarchands ou des internautes indélicats.",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23612",
+            "approval_status": "APPROVED",
+            "clause_text": "QUELLES SONT LES DONNÉES PERSONNELLES COLLECTÉES PAR PRISMA MEDIA ?</p>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23609",
+            "approval_status": "APPROVED",
+            "clause_text": "POURQUOI DES DONNEES PERSONNELLES VOUS CONCERNANT SONT-ELLES COLLECTEES ?",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23621",
+            "approval_status": "APPROVED",
+            "clause_text": "La liste des partenaires, et leur politique de confidentialité, est accessible&nbsp;ici.</p>\n<p>\n</p>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:20:14",
+            "point_link": "https://edit.tosdr.org/points/23596",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>L’Utilisateur a la possibilité, à tout moment, de se désinscrire et de supprimer son Compte Personnel PRISMA CONNECT, via le bouton “Supprimer son compte” disponible dans son espace personnel",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:20:13",
+            "point_link": "https://edit.tosdr.org/points/23608",
+            "approval_status": "APPROVED",
+            "clause_text": "mise à jour au 1er avril 2021",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23600",
+            "approval_status": "APPROVED",
+            "clause_text": "LE GROUPE PRISMA MEDIA et ou son modérateur se réservent le droit, à leur seule discrétion, de refuser ou retirer toute Contribution qui violerait les lois et règlements quels qu’ils soient sans préavis ni indemnité.",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "Political discussions or campaining are prohibited",
+            "rating": "neutral",
+            "description": "Political content in the form or pictures, discussions, or campaigning isn't allowed.",
+            "last_updated": "2023-07-11 06:20:14",
+            "point_link": "https://edit.tosdr.org/points/23603",
+            "approval_status": "APPROVED",
+            "clause_text": "– il ne doit pas exploiter les Sites à des fins politiques, religieuses ou sectaires ;",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Political discussions or campaining are prohibited",
+                "href": "https://edit.tosdr.org/cases/316"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:20:14",
+            "point_link": "https://edit.tosdr.org/points/23604",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>En outre, sont interdites toutes les Contributions&nbsp;:</p>\n<p>– contraires à l’ordre public, d’incitation à la réalisation de crimes ou de délits, d’actes de terrorisme, de provocation à la discrimination, à la haine ou à la violence en raison de la race, de l’ethnie, de la religion, incitant à l’apologie du nazisme ou à la contestation de crimes contre l’humanité ;</p>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:20:14",
+            "point_link": "https://edit.tosdr.org/points/23601",
+            "approval_status": "APPROVED",
+            "clause_text": "Tout Visiteur ou Utilisateur s’engage à se soumettre aux règles suivantes&nbsp;:</p>\n<p>– il ne doit pas harceler les autres ;",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23605",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>– à caractère pornographique, pédophile ou violente ;</p>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23597",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-22 06:53:10 UTC, veciti (33679)  wrote:\n          Wow! This could be one particular of the most helpful blogs We have ever arrive across on this subject. Basically Magnificent. I am also a specialist in this topic therefore I can understand your effortPackers and Movers Ghaziabad to Itanagar",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is a subsidiary of Prisma Media Group",
+            "rating": "neutral",
+            "description": "The service is a subsidiary of a certain company (called X in the title, to be replaced by the parent Company in each point's title). Company X’s Terms of Service may apply to the service.",
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23611",
+            "approval_status": "APPROVED",
+            "clause_text": "LE GROUPE PRISMA MEDIA<br>",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "This service is a subsidiary of Company X",
+                "href": "https://edit.tosdr.org/cases/493"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:16",
+            "point_link": "https://edit.tosdr.org/points/23617",
+            "approval_status": "APPROVED",
+            "clause_text": "<ul>\n<li>Informations de navigation (Adresse IP, sites consultés, pages/contenus consultés…)</li>\n<li>",
+            "point_source": "https://www.prismamedia.com/charte-pour-la-protection-des-donnees/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 06:20:15",
+            "point_link": "https://edit.tosdr.org/points/23595",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>La création d’un compte PRISMA CONNECT est destinée à l’usage des personnes majeures.\nElle est ouverte aux mineures sous la surveillance d’un adulte.",
+            "point_source": "https://www.prismamedia.com/cgu-prisma-connect/",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        }
+    ]
+}

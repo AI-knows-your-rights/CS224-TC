@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "10minutemail - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:49:13",
+            "point_link": "https://edit.tosdr.org/points/21360",
+            "approval_status": "APPROVED",
+            "clause_text": "Targeting and Advertising Cookies</strong>\n</p>\n<p>Type: Persistent Cookies</p>\n<p>Administered by: Third-Parties</p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21365",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share Your personal information with Service\nProviders to monitor and analyze the use of our Service, to show advertisements",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Some personal data may be kept after the end of the data retention period or a request for erasure",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21368",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Company will also retain Usage Data for internal analysis purposes.\nUsage Data is generally\nretained for a shorter period of time, except when this data is used to strengthen the security\nor to improve the functionality of Our Service, or We are legally obligated to retain this data\nfor longer time periods.</p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21366",
+            "approval_status": "APPROVED",
+            "clause_text": "to advertise on third party websites",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "Your Personal data may be sold unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21372",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not sell personal information.\nHowever, the Service Providers we partner with (for example,\nour advertising partners) may use technology on the Service that \"sells\" personal information as\ndefined by the CCPA law.</p>\n<p>If you wish to opt out of the use of your personal information for interest-based advertising\npurposes and these potential sales as defined under CCPA law, you may do so by following the\ninstructions below.",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Colorado, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:49:09",
+            "point_link": "https://edit.tosdr.org/points/21375",
+            "approval_status": "APPROVED",
+            "clause_text": "Country</strong> refers to: Colorado, United States</li>\n<li>\n<p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21359",
+            "approval_status": "APPROVED",
+            "clause_text": "Also \"Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.\"",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21367",
+            "approval_status": "APPROVED",
+            "clause_text": "For Business transfers:</strong> We may share or transfer Your personal information\nin connection with, or during negotiations of, any merger, sale of Company assets,\nfinancing, or acquisition of all or a portion of our business to another company.</li>\n<li>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:49:07",
+            "point_link": "https://edit.tosdr.org/points/21364",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share your personal information in the following situations:</p>\n<ul>\n<li>\n<strong>With Service Providers",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 04:49:07",
+            "point_link": "https://edit.tosdr.org/points/21369",
+            "approval_status": "APPROVED",
+            "clause_text": "Transfer of Your Personal Data\n<p>Your information, including Personal Data, is processed at the Company's operating offices and in\nany other places where the parties involved in the processing are located.\nIt means that this\ninformation may be transferred to — and maintained on — computers located outside of Your state,\nprovince, country or other governmental jurisdiction where the data protection laws may differ\nthan those from Your jurisdiction.</p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21363",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>\n<strong>Tracking and Performance Cookies</strong>\n</p>\n<p>Type: Persistent Cookies</p>\n<p>Administered by: Third-Parties</p>\n<p>Purpose: These Cookies are used to track information about traffic to the Website and how\nusers use the Website.",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2021-05-30 11:30:40",
+            "point_link": "https://edit.tosdr.org/points/21362",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://10minutemail.com/faq.html",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:07",
+            "point_link": "https://edit.tosdr.org/points/21371",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You have the right under this Privacy Policy, and by law if You are within the EU, to:</p>\n<ul>\n<li>\n<strong>Request access to Your Personal Data.</strong> The right to access, update or delete\nthe information We have on You.",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 04:49:07",
+            "point_link": "https://edit.tosdr.org/points/21370",
+            "approval_status": "APPROVED",
+            "clause_text": "t\n<p>Under certain circumstances, the Company may be required to disclose Your Personal Data if\nrequired to do so by law or in response to valid requests by public authorities (e.g.\na court or\na government agency).",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:02",
+            "point_link": "https://edit.tosdr.org/points/21356",
+            "approval_status": "APPROVED",
+            "clause_text": "Under GDPR (General Data Protection Regulation), You can be referred to as the Data\nSubject or as the User as you are the individual using the Service.</p>\n</li>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:49:03",
+            "point_link": "https://edit.tosdr.org/points/21357",
+            "approval_status": "APPROVED",
+            "clause_text": "or the purpose of the CCPA (California Consumer Privacy Act),",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (March 2020)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:49:03",
+            "point_link": "https://edit.tosdr.org/points/21355",
+            "approval_status": "APPROVED",
+            "clause_text": "Last updated: March 23, 2020</p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:49:07",
+            "point_link": "https://edit.tosdr.org/points/21361",
+            "approval_status": "APPROVED",
+            "clause_text": "However, if You do not accept Cookies, You may not be able to use some parts of our Service.</p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:02",
+            "point_link": "https://edit.tosdr.org/points/21358",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Usage Data may include information such as Your Device's Internet Protocol address (e.g.\nIP\naddress),",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 04:49:09",
+            "point_link": "https://edit.tosdr.org/points/21374",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may update our Privacy Policy from time to time.\nWe will notify You of any changes by posting\nthe new Privacy Policy on this page.</p>\n<p>We will let You know via email and/or a prominent notice on Our Service, prior to the change\nbecoming effective and update the \"Last updated\" date at the top of this Privacy Policy.</p>\n<p>You are advised to review this Privacy Policy periodically for any changes.\nChanges to this\nPrivacy Policy are effective when they are posted on this page.</p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21373",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Service does not respond to Do Not Track signals.</p>\n<p>",
+            "point_source": "https://10minutemail.com/privacy.html",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        }
+    ]
+}

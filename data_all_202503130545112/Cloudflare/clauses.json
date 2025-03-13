@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "Cloudflare - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:19:45",
+            "point_link": "https://edit.tosdr.org/points/23284",
+            "approval_status": "APPROVED",
+            "clause_text": "The Privacy Policy does not explain until when log files are kept.",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:08:42",
+            "point_link": "https://edit.tosdr.org/points/12638",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests.",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:03:02",
+            "point_link": "https://edit.tosdr.org/points/7101",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we may use cookies to understand what pages you browsed before submitting a sales request form.",
+            "point_source": "https://www.cloudflare.com/cookie-policy/",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:03:08",
+            "point_link": "https://edit.tosdr.org/points/7090",
+            "approval_status": "APPROVED",
+            "clause_text": "THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS",
+            "point_source": "https://www.cloudflare.com/terms/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:03:09",
+            "point_link": "https://edit.tosdr.org/points/7091",
+            "approval_status": "APPROVED",
+            "clause_text": "AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.</p>",
+            "point_source": "https://www.cloudflare.com/terms/",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:06:29",
+            "point_link": "https://edit.tosdr.org/points/12637",
+            "approval_status": "APPROVED",
+            "clause_text": "URLs of referring pages",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:34:31",
+            "point_link": "https://edit.tosdr.org/points/7097",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may include tracking pixels, which are small graphic images, in our marketing communications to determine engagement.",
+            "point_source": "https://www.cloudflare.com/cookie-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:08:44",
+            "point_link": "https://edit.tosdr.org/points/12652",
+            "approval_status": "APPROVED",
+            "clause_text": "Process and deliver contest or sweepstakes entries and rewards;</p>\n</li>\n<li>\n<p>Monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes;</p",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:19:45",
+            "point_link": "https://edit.tosdr.org/points/23283",
+            "approval_status": "APPROVED",
+            "clause_text": "To facilitate our global operations, we may transfer and access such information from around the world",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:03:04",
+            "point_link": "https://edit.tosdr.org/points/7107",
+            "approval_status": "APPROVED",
+            "clause_text": "You will retain ownership of your Content, however, any use of your Content by Cloudflare may be without any compensation paid to you.",
+            "point_source": "https://www.cloudflare.com/website-terms/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:15:16",
+            "point_link": "https://edit.tosdr.org/points/19229",
+            "approval_status": "APPROVED",
+            "clause_text": "Cloudflare places Strictly Necessary cookies both on Cloudflare Websites as well as on our Customers’ websites.</p>\n<p>For example, when you visit our Websites or our Customers’ websites, as part of our Services, we may place \"_cfduid\" cookies, bot detection cookies (such as \"_cf_bm\" and cookies for CAPTCHA), and a load balancing cookie (_cflb) on the computers of visitors to our Websites and of our End Users.\nWe do this in order to identify malicious visitors to our Websites and our Customers’ websites, to assist with web-traffic filtration, and to reduce the chance of blocking legitimate users.\nYou can learn more about these cookies here.\nYou cannot turn off Strictly Necessary cookies.</p>\nFunctional Cookies.\n<p>Functional cookies allow us to remember choices you make about the kind of experience you want on our Websites and to provide you with a more personalized experience.\nFor example, a functional cookie is required to remember which language you prefer.\nYou may choose to opt out of these cookies, but if you do, various functions of the Websites or Services may be unavailable to you or may not work as intended.\n</p>\nPerformance.\n<p>Performance cookies help us learn how you use our Websites to help improve their performance and design.\nThese cookies provide us with aggregated statistical information such as number of page visits, page load speeds, how long a user spends on a particular page, and the types of browsers or devices used to access our Websites.",
+            "point_source": "https://www.cloudflare.com/cookie-policy/",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:06:22",
+            "point_link": "https://edit.tosdr.org/points/12650",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE USE INFORMATION WE COLLECT",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:08:42",
+            "point_link": "https://edit.tosdr.org/points/12642",
+            "approval_status": "APPROVED",
+            "clause_text": "Where we rely on our legitimate interests to process your personal data, you have the right to object.</p>\n<p>If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at privacyquestions@cloudflare.com.",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:08:41",
+            "point_link": "https://edit.tosdr.org/points/12633",
+            "approval_status": "APPROVED",
+            "clause_text": "INFORMATION WE COLLECT",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:04:14",
+            "point_link": "https://edit.tosdr.org/points/12626",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 2: 2020-12-13 06:03:29 UTC by Dr_Jeff (20149)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2020-12-13 06:03:29 UTC by Dr_Jeff (20149)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2020-12-13 06:03:29 UTC by Dr_Jeff (20149)  Staff\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  APPROVED",
+            "point_source": "https://www.cloudflare.com/cookie-policy/",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:13",
+            "point_link": "https://edit.tosdr.org/points/7085",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify, defend and hold us harmless from and against any and all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys’ fees and costs) arising out of or in connection with any claim brought against us by a third party relating to your Modifications.",
+            "point_source": "https://www.cloudflare.com/terms/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:34:26",
+            "point_link": "https://edit.tosdr.org/points/7093",
+            "approval_status": "APPROVED",
+            "clause_text": "No Refunds\n<p>FEES ARE NONREFUNDABLE.\nYOU WILL BE BILLED IN FULL FOR THE SUBSCRIPTION TERM IN WHICH YOU CANCEL AND NO REFUNDS WILL BE PROVIDED FOR THE UNUSED PORTION OF SUCH SUBSCRIPTION TERM",
+            "point_source": "https://www.cloudflare.com/terms/",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:03:14",
+            "point_link": "https://edit.tosdr.org/points/7106",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT WILL THE CLOUDFLARE ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SERVICES OR ANY MATERIALS OR CONTENT ON THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE CLOUDFLARE ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.</p>\n<p>YOU AGREE THAT THE AGGREGATE LIABILITY OF THE CLOUDFLARE ENTITIES TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF RELATING TO THE USE OF OR ANY INABILITY TO USE THE SERVICES (INCLUDING ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICES) OR OTHERWISE UNDER THIS AGREEMENT, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO THE AMOUNTS YOU HAVE PAID TO CLOUDFLARE TO ACCESS AND USE THE SERVICE IN THE 12 MONTHS PRIOR TO THE CLAIM.</p>\n<p>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES.\nACCORDINGLY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU",
+            "point_source": "https://www.cloudflare.com/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:03:01",
+            "point_link": "https://edit.tosdr.org/points/7099",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that disabling cookies will reset your session, disable auto-login, and may adversely affect the availability and functionality of our Websites and the services we can provide to you.</p",
+            "point_source": "https://www.cloudflare.com/cookie-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:43",
+            "point_link": "https://edit.tosdr.org/points/12641",
+            "approval_status": "APPROVED",
+            "clause_text": "We are a conduit for information controlled by others.\nIt is our Customers and their users who are responsible for the content transmitted across our network (e.g., images, written content, graphics, etc.).",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:08:43",
+            "point_link": "https://edit.tosdr.org/points/12647",
+            "approval_status": "APPROVED",
+            "clause_text": "Cloudflare may aggregate data we acquire about our Customers, Administrators, and End Users, including the Log Data described above.\nFor example, we may assemble data to determine how Web crawlers index the Internet and whether they are engaged in malicious activity or to compile web traffic reports and statistics",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/12635",
+            "approval_status": "APPROVED",
+            "clause_text": "we gather certain information and store it in log files.\nThis information may include but is not limited to Internet Protocol (IP) addresses,",
+            "point_source": "https://www.cloudflare.com/privacypolicy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

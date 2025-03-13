@@ -1,0 +1,655 @@
+{
+    "meta_data": {
+        "title": "NordVPN - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:18:26",
+            "point_link": "https://edit.tosdr.org/points/22301",
+            "approval_status": "APPROVED",
+            "clause_text": "Access logs.\nAs most websites on the internet, our website collects access logs (such as IP address, browser type, operating system) to operate our services and ensure their secure, reliable, and robust performance.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:33:28",
+            "point_link": "https://edit.tosdr.org/points/7063",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to modify and update these Terms at our sole discretion, at any time, for any reason, and without liability.</p>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:12:57",
+            "point_link": "https://edit.tosdr.org/points/15726",
+            "approval_status": "APPROVED",
+            "clause_text": "Cookies, pixels and other similar technologies are usually small text or image files that are placed on your device when you visit our website.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:07:57",
+            "point_link": "https://edit.tosdr.org/points/15743",
+            "approval_status": "APPROVED",
+            "clause_text": "Class action waiver</p>\n<p>Where permitted under the applicable law, class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity are not allowed.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:08:34",
+            "point_link": "https://edit.tosdr.org/points/15746",
+            "approval_status": "APPROVED",
+            "clause_text": "Nord can assign its rights and obligations under these Terms to selected third parties without your consent, including but not limited to, in cases of corporate reorganization, merger, acquisitions, sale or transfer of all or substantially all of company assets.</p>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:12:23",
+            "point_link": "https://edit.tosdr.org/points/11288",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Communication data</p>\n<ul>\n<li>Email address.\nWe use your email address to: i) send you important updates and announcements related to your use of our Services.\nii) respond to your requests or inquiries.\niii) send you offers, surveys and other marketing content (you can opt-out of those at any time).</li>\n<li>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:12:55",
+            "point_link": "https://edit.tosdr.org/points/15734",
+            "approval_status": "APPROVED",
+            "clause_text": "You understand and agree that any continued use and access to the Services after any updates to these Terms are published, means that you voluntarily agree to be bound by the updated Terms.</p>\n<p>\n<strong>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/15728",
+            "approval_status": "APPROVED",
+            "clause_text": "As a result, some of these providers may process personal information.</p>\n<p>Some of our main long-term service providers:</p>\n<ul>\n<li>Live chat and support service platform – Zendesk (provided by Zendesk Inc.);</li>\n<li>Emailing service providers – Iterable (by Iterable Inc.), Sendgrid (by Twilio Inc.);</li>\n<li>Application analytics and diagnostics – Google Analytics, Firebase Analytics (provided by Google);</li>\n<li>AppsFlyer (by AppsFlyer Ltd.), Bugsnag (by Bugsnag Inc.);</li>\n<li>Conversion attribution system – Hasoffers (provided by Tune Inc.);</li>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/15741",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right to refuse service, suspend accounts or limit access to the Services in our sole discretion.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:12:55",
+            "point_link": "https://edit.tosdr.org/points/15730",
+            "approval_status": "APPROVED",
+            "clause_text": "Your personal information may be processed in any country in which we engage service providers.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 06:18:26",
+            "point_link": "https://edit.tosdr.org/points/22300",
+            "approval_status": "APPROVED",
+            "clause_text": "You hereby represent and warrant that (1) you are not located in a country that is subject to a U.S.\nGovernment embargo, or that has been designated by the U.S.\nGovernment as a “terrorist supporting” country.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:09:04",
+            "point_link": "https://edit.tosdr.org/points/15722",
+            "approval_status": "APPROVED",
+            "clause_text": "Some cookies are essential for our website to operate smoothly.\nothers are used to improve website functionality or analyze aggregated usage statistics to improve website performance (as in the case of Google Analytics cookies).",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:08:35",
+            "point_link": "https://edit.tosdr.org/points/15725",
+            "approval_status": "APPROVED",
+            "clause_text": "Although it isn't explicitely specified, NordVPN uses \"tools\" to know if you opened one of their marketing emails.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:02:59",
+            "point_link": "https://edit.tosdr.org/points/7036",
+            "approval_status": "APPROVED",
+            "clause_text": "Nord processes user data to a limited scope – for provision of the Services, processing payments for the Services, as well as the functioning of our websites and mobile applications.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The service will resist legal requests for user information where reasonably possible",
+            "rating": "good",
+            "description": "The service will attempt to protect user information to a great extent, even so far as stating that they will only follow legal requirements to disclose user information in circumstances where this cannot be reasonably resisted.",
+            "last_updated": "2023-07-11 10:12:55",
+            "point_link": "https://edit.tosdr.org/points/15731",
+            "approval_status": "APPROVED",
+            "clause_text": "In cases where, following an appropriate legal process, we are able to identify a specific person, we will provide the limited data we process per our Privacy Policy.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "The service will resist legal requests for your information where reasonably possible",
+                "href": "https://edit.tosdr.org/cases/305"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:02:58",
+            "point_link": "https://edit.tosdr.org/points/7040",
+            "approval_status": "APPROVED",
+            "clause_text": "f you’d like to edit your profile information, delete your account or data, or request to provide you with a copy of your personal information, please contact our support team.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:03:13",
+            "point_link": "https://edit.tosdr.org/points/11289",
+            "approval_status": "APPROVED",
+            "clause_text": "Being based in Panama allows us to keep no logs of users’ online activity (no IP addresses, browsing data, traffic information, etc.).",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/15727",
+            "approval_status": "APPROVED",
+            "clause_text": "You can check what cookies we use in the detailed cookie table that is accessible here.</li>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "Users are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:17",
+            "point_link": "https://edit.tosdr.org/points/7053",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you wish to claim a refund, you can do so within 30 days following your purchase of our Services.\nWe seek your full satisfaction with our Services.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:05:38",
+            "point_link": "https://edit.tosdr.org/points/15748",
+            "approval_status": "APPROVED",
+            "clause_text": "As per definitions in the CCPA, please note that Nord does not sell your personal information.</p>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 10:10:11",
+            "point_link": "https://edit.tosdr.org/points/15736",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Only basic payment information is processed through our payment service providers and payment processing partners authorized to provide services within respective country (e.g., payments for the EU are processed by Mollymind AG, registered at Riedstrasse 7, 6330 Cham, Switzerland and by Moonflash Limited, registered at Regent House, 316 Beulah Hill, London, United Kingdom, SE19 3HF.\nFor the US – Lagosec, Inc.\nregistered at 2035 Sunset Lake Rd., Suite B-2, Newark, Delaware, United States, DE 19702.\nBrazillian payments are processed by CYBERPOST INERMEDIACAO DE NEGOCIOS S.A, tax ID number (CNPJ), - 14.009.852/0001-54, registered at R Fernando Machado 73, Sala 203, Centro, Florianopolis, 88.010-510, SC).</p>\n<p>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "This service offers an anonymous payment method",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 10:09:47",
+            "point_link": "https://edit.tosdr.org/points/16035",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition to the traditional payment methods, such as credit cards, users can buy our Service with cryptocurrency.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "An anonymous payment method is offered",
+                "href": "https://edit.tosdr.org/cases/405"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/15737",
+            "approval_status": "APPROVED",
+            "clause_text": "You have a right to cancel your account at any time.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/15732",
+            "approval_status": "APPROVED",
+            "clause_text": "If you wish to unsubscribe from our communication, you can opt out at any time by clicking the unsubscribe link at the bottom of each message or contacting us at privacy@nordaccount.com.</p>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:02:59",
+            "point_link": "https://edit.tosdr.org/points/7062",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree, at your own expense, to indemnify, defend and hold harmless Nord, its parents, subsidiaries and affiliates, and their officers, directors, employees, agents, distributors and licensees, from and against any judgments, losses, deficiencies, damages, liabilities, costs, claims, demands, suits, and expenses (including, without limitation, reasonable attorneys’ fees, expert witness fees and expenses) incurred in, arising out of or in any way related to your breach of these Terms, your use of the Services, or any of your other acts or omissions.</p>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:03:18",
+            "point_link": "https://edit.tosdr.org/points/7052",
+            "approval_status": "APPROVED",
+            "clause_text": "Your service will automatically be renewed, and your chosen payment method will be charged at the end of each service period, unless you decide to cancel your automatic payments for the Services before the end of the then-current subscription.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:03:37",
+            "point_link": "https://edit.tosdr.org/points/7039",
+            "approval_status": "APPROVED",
+            "clause_text": "Some cookies are essential for our website to operate smoothly.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:05:15",
+            "point_link": "https://edit.tosdr.org/points/15723",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Last updated: October 27, 2020",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:05:15",
+            "point_link": "https://edit.tosdr.org/points/15724",
+            "approval_status": "APPROVED",
+            "clause_text": "Nord may modify the Terms from time to time.\nThe most recent version is the version that applies to your use of the Services.\nIf the changes include material changes that affect your rights or obligations, we will notify you in advance of the changes by reasonable means, which could include notification through the client applications, website or via email.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/7061",
+            "approval_status": "APPROVED",
+            "clause_text": "NEITHER NORD NOR ANY OF ITS PARENTS, SUBSIDIARIES OR AFFILIATES, NOR ANY OF THEIR EMPLOYEES, OFFICERS OR DIRECTORS, SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF DATA OR INFORMATION OF ANY KIND, LOSS OF BUSINESS, LOST PROFITS, INTERRUPTION OF BUSINESS, COST OF COVER OR ANY OTHER DAMAGES) ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT OR THE USE OR INABILITY TO USE THE SERVICES, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:03:16",
+            "point_link": "https://edit.tosdr.org/points/7054",
+            "approval_status": "APPROVED",
+            "clause_text": "We also reserve the right to modify or update the operation of the Services at our sole discretion, at any time, for any reason, and without notice or liability.\nWe may even suspend the Services entirely, in which event we will notify you in advance unless extenuating circumstances, such as safety or security concerns, prevent us from doing so.</p>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:33:22",
+            "point_link": "https://edit.tosdr.org/points/7058",
+            "approval_status": "APPROVED",
+            "clause_text": "We give no warranty or representation that the Services will be wholly free from defects, errors and bugs, such as downtime, loss of data, corrupt data, service delay, mistakes, out-of-date information, or other.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:12:57",
+            "point_link": "https://edit.tosdr.org/points/15738",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that you shall not:</p>\n<ul>\n<li>use, assist, encourage, or enable others to use the Services for any unlawful, illicit, illegal, criminal or fraudulent activities, including but not limited to port scanning, sending spam,",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:12:56",
+            "point_link": "https://edit.tosdr.org/points/15739",
+            "approval_status": "APPROVED",
+            "clause_text": "share anything that is illegal, abusive, harassing, or otherwise objectionable;",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:33:22",
+            "point_link": "https://edit.tosdr.org/points/7059",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>THE SERVICES (INCLUDING, WITHOUT LIMITATION, OUR SOFTWARE, MOBILE APPLICATIONS, SERVICES AND WEBSITE) ARE PROVIDED “AS IS” AND WITH ALL FAULTS.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:55",
+            "point_link": "https://edit.tosdr.org/points/7057",
+            "approval_status": "APPROVED",
+            "clause_text": "We may suspend your account for clarification, investigation or request you to explain your actions and provide additional information.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:02:59",
+            "point_link": "https://edit.tosdr.org/points/7045",
+            "approval_status": "APPROVED",
+            "clause_text": "is indicated at the top of the text.\nWe ask all users to ensure that they are familiar with the most current wording of the Privacy Policy.\nThe amendment of",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:12:57",
+            "point_link": "https://edit.tosdr.org/points/15735",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You are responsible for maintaining the confidentiality of your Nord account username and password and for restricting access to your account.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:04:56",
+            "point_link": "https://edit.tosdr.org/points/15745",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You may not assign these Terms or any rights or interest under these Terms or delegate any obligations to be performed under these Terms, without the Nord’s prior written consent.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:12:57",
+            "point_link": "https://edit.tosdr.org/points/15742",
+            "approval_status": "APPROVED",
+            "clause_text": "WE MAKE NO REPRESENTATION OR WARRANTY WHATSOEVER REGARDING THE COMPLETENESS, ACCURACY, ADEQUACY, SUITABILITY, FUNCTIONALITY, AVAILABILITY, OR OPERATION OF THE SERVICES.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:12:57",
+            "point_link": "https://edit.tosdr.org/points/15729",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Sometimes our service providers, for example, distributors, resellers, and app store partners, will be independent controllers of your data.\nTheir terms and conditions and privacy policies will apply to such relationships.</p>\n<p>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:12:57",
+            "point_link": "https://edit.tosdr.org/points/15744",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If any provision of the Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Terms shall otherwise remain in full force and effect and enforceable.</p>",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:02:58",
+            "point_link": "https://edit.tosdr.org/points/7044",
+            "approval_status": "APPROVED",
+            "clause_text": "Under no circumstances is Nord liable for the consequences of your unlawful activities, your willful and negligent activities that violate applicable laws or third-party rights, and any circumstances that may not have been reasonably controlled or foreseen.</p>",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:09:58",
+            "point_link": "https://edit.tosdr.org/points/15733",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Some browsers have incorporated a “do-not-track” feature that can send a signal to the websites you visit, indicating you do not wish to be tracked.\nCurrently, our systems do not recognize browser “do-not-track” requests.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:13",
+            "point_link": "https://edit.tosdr.org/points/7034",
+            "approval_status": "APPROVED",
+            "clause_text": "We use third-party service providers to help us with various operations, such as payment processing, email automation, website and app diagnostics, analytics and other.",
+            "point_source": "https://my.nordaccount.com/legal/privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Panama",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:12:58",
+            "point_link": "https://edit.tosdr.org/points/15747",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms shall be governed in all respects by the substantive laws of Panama, without regard to its choice of law provisions.",
+            "point_source": "https://my.nordaccount.com/legal/terms-of-service/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

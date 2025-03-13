@@ -1,0 +1,459 @@
+{
+    "meta_data": {
+        "title": "eBuddy - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:13:14",
+            "point_link": "https://edit.tosdr.org/points/17624",
+            "approval_status": "APPROVED",
+            "clause_text": "Private messages seem to be stored in plain text (unencrypted) in their servers.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:34:55",
+            "point_link": "https://edit.tosdr.org/points/17616",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies for the following purposes:</p>\n<ul>\n<li>to store a user's eBuddy ID log-in identity so that your session won't expire unless you actively log out;</li>\n<li>to store a user's eBuddy ID log-in identity so that the log-in box is already filled upon your next use of eBuddy;</li>\n<li>to serve you relevant advertisements based on non-personal information such as your age and gender and also to ensure you will not be served the same advertisement too often;</li>\n<li>",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:03:16",
+            "point_link": "https://edit.tosdr.org/points/17629",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy will be periodically revised and may be changed with or without notice.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:12:07",
+            "point_link": "https://edit.tosdr.org/points/17609",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy may at any time, without prior notice to you, terminate the agreement between you and eBuddy by suspending, restricting or terminating your access to the Service at any time for any reason.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:02:55",
+            "point_link": "https://edit.tosdr.org/points/17617",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service may use device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:03:46",
+            "point_link": "https://edit.tosdr.org/points/17615",
+            "approval_status": "APPROVED",
+            "clause_text": "\"eBuddy also collects “Automatically Generated Information” about your behaviour during your use of the Service. This information may include [...] the type and unique number of the device you use to access the Service\"",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:13:15",
+            "point_link": "https://edit.tosdr.org/points/17626",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In the event of a further growth and development of eBuddy it may be that one or more parts of the assets of the company are transferred to a third party or that eBuddy merges with a third party.\nAlso, in the unlikely event of a bankruptcy, insolvency or reorganization, parts of the company may be transferred to a third party.\nIn those cases, the information we have collected may also be transferred.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service uses your personal information for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 10:04:56",
+            "point_link": "https://edit.tosdr.org/points/17620",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>eBuddy will use the information it collects for the following purposes:</p>\n<ul>\n<li>to enable you to use the Service and to enhance your experience;</li>\n<li>to send information to you about other eBuddy Services, or promotional actions of eBuddy;</li>\n<li>to draw up statistical and demographic data rendered anonymous and used for performance monitoring;</li>\n<li>to serve you relevant advertising;</li>\n<li>to provide your information to third parties pursuant to legal obligations.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:05:01",
+            "point_link": "https://edit.tosdr.org/points/17618",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy may offer you targeted advertisements based on for example your age, gender and type of device.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:13:15",
+            "point_link": "https://edit.tosdr.org/points/17627",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>It may be required for technical and operational reasons that the information we collect, including your (personal) details are transferred to servers in the United States or other countries outside the European Union where the regulations in the field of privacy protection might not provide the same protection as in the European Union.\nBy using the Service you are giving your consent to this, in so far as your consent is necessary.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:07:35",
+            "point_link": "https://edit.tosdr.org/points/17605",
+            "approval_status": "APPROVED",
+            "clause_text": "Furthermore, you may not do any of the following:</p>\n<ul>\n<li>hack or gain unauthorized access to any eBuddy server, network or hardware of eBuddy or any other person or entity</li>\n<li>use the Service in any way that could overload, damage, disable, disrupt or harm the Service or any eBuddy server, or the network(s) associated to any eBuddy server or interfere with any other user’s use of the Service;</li>",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to 1000€",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:30",
+            "point_link": "https://edit.tosdr.org/points/17608",
+            "approval_status": "APPROVED",
+            "clause_text": "The total compensation to you for any direct damages as meant in this paragraph shall in no event exceed EUR 1.000,--.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:13:14",
+            "point_link": "https://edit.tosdr.org/points/17622",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy uses a Google Analytics analytics that uses cookies, which are text files placed on your computer or mobile device, to help the website analyze how users use the Service.\nThe information generated by the cookie about your use of eBuddy (including your IP address) will be transmitted to and stored by the services on their servers in the United States.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:26",
+            "point_link": "https://edit.tosdr.org/points/17628",
+            "approval_status": "APPROVED",
+            "clause_text": "You can always request to view the personal information we have collected from you and if necessary change them.\nIf you want to know which details eBuddy has recorded about you or if you want to change details which you cannot change in your account, you can contact our customer service via&nbsp;Support-xms@ebuddy.com.\nYou can also request us to remove your personal details from our servers.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 10:07:28",
+            "point_link": "https://edit.tosdr.org/points/17602",
+            "approval_status": "APPROVED",
+            "clause_text": "Any and all disputes which may arise out of and/or are in connection with this agreement or the use of the Service or visiting eBuddy shall be submitted to the competent Court of Amsterdam, the Netherlands unless another competent court has been prescribed by mandatory (international) legal rules.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:13:14",
+            "point_link": "https://edit.tosdr.org/points/17621",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy may disclose the information we collect if we believe that:</p>\n<ul>\n<li>we are obliged to do so pursuant to legal provisions.\nand/or</li>\n<li>we are forced to do so as a result of a legal case.\nand/or</li>\n<li>it is necessary for the protection of our own rights or property.\nand/or</li>\n<li>it is necessary to protect the personal safety of our users or members of the public</li>\n</ul>",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:05:30",
+            "point_link": "https://edit.tosdr.org/points/17630",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions about this Privacy Policy, please send an e-mail to&nbsp;info@ebuddy.com",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:35:44",
+            "point_link": "https://edit.tosdr.org/points/17614",
+            "approval_status": "APPROVED",
+            "clause_text": "The information collected by eBuddy",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:07:39",
+            "point_link": "https://edit.tosdr.org/points/17606",
+            "approval_status": "APPROVED",
+            "clause_text": "You are entitled to terminate the agreement between you and eBuddy at any time by discontinuing the use of the Service and/or to terminate your eBuddy ID.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:02:57",
+            "point_link": "https://edit.tosdr.org/points/17623",
+            "approval_status": "APPROVED",
+            "clause_text": "The transmission of your phone address book will be done in an encrypted manner, and the names, phone numbers and email addresses will be stored in encrypted format.</p>",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:41",
+            "point_link": "https://edit.tosdr.org/points/17161",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify, defend, and hold eBuddy and its related companies and agents, partners, officers, co-branders, and employees harmless from and against any claim or demand made by any third party due to or arising out of your use of the eBuddy Services, your connection to eBuddy, the communications and/or content shared, published and/or transmitted, your breach of the Terms of Use or Privacy Policy, or your violation of any rights of other users.\nThis indemnification shall include the reasonable attorneys fees incurred in the defense of such claim.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:35:41",
+            "point_link": "https://edit.tosdr.org/points/17159",
+            "approval_status": "APPROVED",
+            "clause_text": "Last update: May 20th, 2019",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/17607",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy does not accept any liability for damage as a result of an attributable failure in the performance of the agreement to provide the Service including, but not limited to damage resulting from or in connection with the use of the Service or the impossibility of using it and/or pursuant to an unlawful act or otherwise insofar as this is allowed under mandatory law.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Prohibits harming minors in any ways",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 10:07:29",
+            "point_link": "https://edit.tosdr.org/points/17604",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>expose any person to material that is obscene, unlawful, defamatory, libelous, hateful, racially or ethically offensive, harmful to minors",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:34:12",
+            "point_link": "https://edit.tosdr.org/points/17610",
+            "approval_status": "APPROVED",
+            "clause_text": "You are entitled to terminate the agreement between you and eBuddy at any time by discontinuing the use of the Service and/or to terminate your eBuddy ID.\nUpon termination of the agreement between you and eBuddy for any reason all licenses and rights to use the Service shall terminate and you will cease any and all use of the Service.\nAll provisions which must survive in order to give effect to their meaning shall survive any expiration or termination of the agreement between you and eBuddy including without limitation, all of your representations, warranties and indemnification obligations.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:35:41",
+            "point_link": "https://edit.tosdr.org/points/17613",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy does not warrant that the eBuddy Services will meet your requirements, will be available on a timely, uninterrupted secure or error-free basis or that the Service will operate without message or packet loss.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/17625",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>eBuddy will take reasonable technical and organizational measures to protect the information we collect against loss, misuse or any form of unlawful processing.\nInformation on eBuddy servers is stored in a secured manner and access is limited to authorized employees only.",
+            "point_source": "http://www.ebuddy.com/privacy.html",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:07:29",
+            "point_link": "https://edit.tosdr.org/points/17603",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not use the Service to do any of the following:</p>\n<ul>\n<li>send any unsolicited mass mailings (e.g., “spam” or “spim”);</li>\n<li>collect or store personal information from other users other than the information collected during the normal course of using the Service.\n(e.g.\n“phishing”);</li>",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:07:27",
+            "point_link": "https://edit.tosdr.org/points/17600",
+            "approval_status": "APPROVED",
+            "clause_text": "Subject to these Terms of Use, eBuddy hereby grants you a limited, personal, non-exclusive, non- assignable, non-transferable license to use the Service, to download and install the eBuddy Applications and access and use the Service on one of more devices for the purpose of using the Service for personal and non-commercial use.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:34:12",
+            "point_link": "https://edit.tosdr.org/points/17611",
+            "approval_status": "APPROVED",
+            "clause_text": "The eBuddy Services are provided “as-is”.\nYou agree that the use of the eBuddy Services is at your sole risk to the maximum extent permitted by law.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:11:17",
+            "point_link": "https://edit.tosdr.org/points/17612",
+            "approval_status": "APPROVED",
+            "clause_text": "eBuddy disclaims all warranties, whether statutory, express or implied with respect to the eBuddy Services including but not limited to the performance, fitness for use, merchantability, title, non-infringement, quiet enjoyment or accuracy of the Service.",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Netherlands",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:07:27",
+            "point_link": "https://edit.tosdr.org/points/17601",
+            "approval_status": "APPROVED",
+            "clause_text": "The laws of the Netherlands apply to all use of the Service as well the agreement between you and eBuddy",
+            "point_source": "http://www.ebuddy.com/terms.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

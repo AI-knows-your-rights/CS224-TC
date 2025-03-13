@@ -1,0 +1,459 @@
+{
+    "meta_data": {
+        "title": "kik-messenger - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:28:47",
+            "point_link": "https://edit.tosdr.org/points/30882",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we review the text and/or image content of your posts, replies, chat messages, and collect metadata regarding such messages that may collect the identity of the user and any users they communicate with.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30904",
+            "approval_status": "APPROVED",
+            "clause_text": "However, it is important to note that your deleted posts or contents may remain in storage in our systems for a limited period of time for legal, business, safety, or system backup reasons,",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30896",
+            "approval_status": "APPROVED",
+            "clause_text": "For the length of time reasonably needed to fulfill the purposes outlined in this Privacy Policy (including for as long as need to provide you with our Services), unless a longer retention period is required or permitted by law.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30884",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we or our advertising partners may show you content or posts from people around you or places you frequently visit,",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30891",
+            "approval_status": "APPROVED",
+            "clause_text": "With Advertisers.\nTo perform analytics and deliver relevant content and advertising, we may allow others to collect information about how you use our Services.\nFor example, these entities may use cookies, device identifiers and similar technologies to collect information about your computer or device, the content that interests you, the places you visit, and the time you spend using different parts of our Services.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Some personal data may be kept for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30905",
+            "approval_status": "APPROVED",
+            "clause_text": "As explained above, even after a deletion request, we may retain certain information as required by law, for legitimate business purposes, or for the safety of MediaLab (including its users) and others.\nWe may also retain cached or archived copies of information about you for a certain limited period of time.</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30893",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>33across</p>\n<p>Acuity ads</p>\n<p>Adcolony</p>\n<p>Adsense</p>\n<p>Adtheorent</p>\n<p>Amazon</p>\n<p>Applovin</p>\n<p>Appnexus (aka - Xandr)</p>\n<p>Beachfront</p>\n<p>BranchIO</p>\n<p>Consumable</p>\n<p>Display.io</p>\n<p>Disqus</p>\n<p>DMX</p>\n<p>Edge226</p>\n<p>EMX</p>\n<p>Emx (aka - brealtime)</p>\n<p>Facebook advertising</p>\n<p>Firebase</p>\n<p>Flurry</p>\n<p>Fyber</p>\n<p>Google ads</p>\n<p>Gumgum</p>\n<p>iab</p>\n<p>Indexexchange</p>\n<p>IndieSlang</p>\n<p>InfoLinks</p>\n<p>Initiative</p>\n<p>Inmobi</p>\n<p>Jampp</p>\n<p>Kinhr</p>\n<p>Magnite (Rubicon Project + Telaria)</p>\n<p>Mixpanel</p>\n<p>Mobfox</p>\n<p>Mobilefuse</p>\n<p>Mopub</p>\n<p>Ninth decimal</p>\n<p>Openx</p>\n<p>Pubmatic</p>\n<p>Pubnative</p>\n<p>Quantcast</p>\n<p>Reset digital</p>\n<p>Revcontent</p>\n<p>Smaato</p>\n<p>Smadex</p>\n<p>SnapDiscover (Studio 71)</p>\n<p>Splunk</p>\n<p>Stellar</p>\n<p>Stem.is</p>\n<p>Tadaq</p>\n<p>Tapjoy</p>\n<p>Trion interactive</p>\n<p>Triple_lift</p>\n<p>Tune</p>\n<p>Underdog media</p>\n<p>Unity</p>\n<p>Verizon</p>\n<p>Verizonmedia</p>\n<p>Verve</p>\n<p>Vungle</p>\n<p>Yappa</p>\n<p>Youtube ads</p>\n<p>Zergnet</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30887",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, advertisers, publishers, and other third parties may share how you interact with their ads, websites, or apps, how you use their services, or what purchases you make.\nThis information may be provided whether or not you are logged in to a MediaLab Product at the time.\nWe may combine such information with the information you have provided to us in order to provide and improve our Services.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30892",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Get From Advertisers, Third Parties, and Offline Sources.</p>\n<p>We may receive information about you from advertisers, app developers, and publishers, or other online or offline sources with whom you interact and who have the rights to provide us with your information.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30886",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we collect device type, which may include the hardware model, operating system and version, browser type and language, IP Address, plugins, app and file names and types, battery and signal strength, available storage space, unique device identifiers and mobile network information (which is treated as personal information in some jurisdictions, but which we use only to identify your geographic area and to comply with applicable laws), information you give us access to through device settings such as photos, camera, or GPS location, identifiers associate with cookies, web beacons or other technologies that may uniquely identify your device or browser.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30894",
+            "approval_status": "APPROVED",
+            "clause_text": "In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30911",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the Services following notice of the changes constitutes your acceptance of the changes,",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:28:47",
+            "point_link": "https://edit.tosdr.org/points/30883",
+            "approval_status": "APPROVED",
+            "clause_text": "If you consent to the collection of location information (e.g.\nif you permit your mobile device to send us your latitude and longitude), we will collect and use this information",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:28:51",
+            "point_link": "https://edit.tosdr.org/points/30918",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also use collected information to help advertisers measure engagement and effectiveness of their ads, and how people interact with them or their services.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30906",
+            "approval_status": "APPROVED",
+            "clause_text": "Indefinitely if it is aggregated, anonymized, and de-identified (i.e., not capable of identifying you).</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30899",
+            "approval_status": "APPROVED",
+            "clause_text": "We cannot ensure, and do not warrant or guarantee, that the information you transmit to us will remain secure, nor do we guarantee that this information will not be accessed, disclosed, altered, destroyed or used in an unauthorized manner.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30903",
+            "approval_status": "APPROVED",
+            "clause_text": "You may choose to delete your individual posts or contents at any time and we will then remove them from the Services.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30901",
+            "approval_status": "APPROVED",
+            "clause_text": "If for some reason you ever want to delete the information we have about you, simply email kikprivacy@medialab.la and request “Delete My Information.”",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30900",
+            "approval_status": "APPROVED",
+            "clause_text": "You can access and receive a copy of the information we have about you by emailing kikprivacy@medialab.la and requesting “Access My Information.”",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30895",
+            "approval_status": "APPROVED",
+            "clause_text": "Please keep in mind that if your username contains your real name or is the same as how you identify yourself on other online services, people who see it may determine your identity.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30889",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE USE YOUR INFORMATION</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:28:47",
+            "point_link": "https://edit.tosdr.org/points/30881",
+            "approval_status": "APPROVED",
+            "clause_text": "INFORMATION WE COLLECT</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30908",
+            "approval_status": "APPROVED",
+            "clause_text": "In connection with the EU General Data Protection Regulation (GDPR) applicable in the European Economic Area (EEA) and the UK-GDPR applicable in the UK, we eliminate or limit the use of cookies and similar technologies with visitors from the EEA and the UK",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30910",
+            "approval_status": "APPROVED",
+            "clause_text": "We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this Notice.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30898",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE KEEP YOUR INFORMATION SECURE",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:28:48",
+            "point_link": "https://edit.tosdr.org/points/30890",
+            "approval_status": "APPROVED",
+            "clause_text": "You may unenroll at any time by selecting “unsubscribe” in our emails.</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:28:47",
+            "point_link": "https://edit.tosdr.org/points/30878",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated: August 25, 2020</p>",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30880",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy does not apply to websites or applications maintained by third parties that we may link to or that may be accessible to you through our Services.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:28:49",
+            "point_link": "https://edit.tosdr.org/points/30907",
+            "approval_status": "APPROVED",
+            "clause_text": "Some web browsers may transmit “do not track” signals (go here to learn more).\nWeb browsers may incorporate or activate these features differently, making it unclear if users have consciously activated them.&nbsp.\nAs a result, we do not take steps to respond to such signals.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30912",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to amend this privacy notice at our discretion and at any time.\nWhen we make changes to this Privacy Policy, we will post a notice to our Services and will update the notice’s effective date.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in the United States",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:28:50",
+            "point_link": "https://edit.tosdr.org/points/30909",
+            "approval_status": "APPROVED",
+            "clause_text": "WHERE INFORMATION IS PROCESSED &amp.\nSTORED</p>\n<p>MediaLab is based in the United States and the information we collect is governed by U.S.\nlaw.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:47",
+            "point_link": "https://edit.tosdr.org/points/30885",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not permit your mobile device to provide us with location information, or location information is not available from your device for technical reasons, we may use your IP address or information about the WiFi SSID from which you access the Services to determine an approximate geographic location for your device.",
+            "point_source": "https://www.kik.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

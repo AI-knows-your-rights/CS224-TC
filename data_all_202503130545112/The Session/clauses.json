@@ -1,0 +1,81 @@
+{
+    "meta_data": {
+        "title": "The Session - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:05:18",
+            "point_link": "https://edit.tosdr.org/points/8702",
+            "approval_status": "APPROVED",
+            "clause_text": "The Session has no third-party scripts or cookies: no advertising.\nno tracking.\nno analytics.",
+            "point_source": "https://thesession.org/privacy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:05:19",
+            "point_link": "https://edit.tosdr.org/points/8701",
+            "approval_status": "APPROVED",
+            "clause_text": "When you sign up to The Session, you provide some information about yourself.\nThis information will never, <em>ever</em> be shared, sold or given away to anyone.",
+            "point_source": "https://thesession.org/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:05:19",
+            "point_link": "https://edit.tosdr.org/points/8704",
+            "approval_status": "APPROVED",
+            "clause_text": "When you sign up to The Session, you provide a name that you will be known by on the site.\nI encourage you to use your real name, but you don’t have to.</p>\n<p>You can update your username at any time from your member profile.</p>",
+            "point_source": "https://thesession.org/privacy",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:05:19",
+            "point_link": "https://edit.tosdr.org/points/8703",
+            "approval_status": "APPROVED",
+            "clause_text": "If you no longer want your past contributions attributed to you, you can contact me and request your membership be deactivated.",
+            "point_source": "https://thesession.org/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 10:05:18",
+            "point_link": "https://edit.tosdr.org/points/8705",
+            "approval_status": "APPROVED",
+            "clause_text": "My name is Jeremy.\nI run The Session.\nIf you need any help, let me know.</p>",
+            "point_source": "https://thesession.org/privacy",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        }
+    ]
+}

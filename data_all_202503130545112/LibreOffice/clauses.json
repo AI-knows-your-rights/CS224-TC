@@ -1,0 +1,249 @@
+{
+    "meta_data": {
+        "title": "LibreOffice - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:18",
+            "point_link": "https://edit.tosdr.org/points/13474",
+            "approval_status": "APPROVED",
+            "clause_text": "We use components from the Twitter service on our websites.\nTwitter is a service of Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, United States.</p>\n<p>Each time you visit our websites which contain such a component, this component causes the browser you are using to download a corresponding representation of the component of Twitter.\nThrough this process, Twitter is informed about which specific page of our website is currently being visited.</p>\n<p>We have no control over the information that Twitter collects here, nor about the amount of data collected by Twitter.\nTo the best of our knowledge, Twitter collects the URL of the respective website and the user's IP address, but it is not used for purposes other than the presentation of the Twitter component.\nFurther information can be found in the privacy policy of Twitter at http://twitter.com/privacy.</p>\n<p>You can change your privacy settings in the Account Settings at http://twitter.com/account/settings.</p>1.4.Use of YouTube components with advanced privacy mode<p>On our websites, we use components (videos) from the company YouTube, LLC 901 Cherry Ave., 94066 San Bruno, CA, a company of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.</p>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:33:15",
+            "point_link": "https://edit.tosdr.org/points/13459",
+            "approval_status": "APPROVED",
+            "clause_text": "Websites from which the user's system reaches our website;</p>\n</li>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:09:17",
+            "point_link": "https://edit.tosdr.org/points/13473",
+            "approval_status": "APPROVED",
+            "clause_text": "To our knowledge, the following are transferred to \"Google\": referrer URL, the IP address, the behaviour of the website visitors, information about the operating system, browser and duration, cookies, presentation instructions and scripts, the input behaviour of the user and mouse movements in the \"reCAPTCHA\" checkbox.</p>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/13462",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In addition, some services offered through our web servers use cookies to store custom settings across sessions.\nThese are in particular: Jitsi (the specified user name is stored), OpenGrok (search preferences), WordPress (user name, URL and email address) and EtherPad (user name and text colour assigned to it).\nIt is not necessary to provide a username in order to use these services.</p>\n<p>When accessing our website, users are informed by a banner about the use of cookies for analysis purposes, and users are referred to this privacy policy.",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2021-03-03 14:06:12",
+            "point_link": "https://edit.tosdr.org/points/15721",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.libreoffice.org/about-us/source-code/",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/13464",
+            "approval_status": "APPROVED",
+            "clause_text": "The data will be deleted as soon as it is not needed to achieve the purposes for which it was collected.\nIn the case of data collection used to providing the website, this takes place when the respective session is completed.</p>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 10:09:17",
+            "point_link": "https://edit.tosdr.org/points/13468",
+            "approval_status": "APPROVED",
+            "clause_text": "The user has the option – at any time – to revoke his consent to the processing of his personal data.\nIf the user contacts us by email, he may object to the storage of his personal data at any time.\nIn such a case, the conversation can not continue.\nAll you need to do is send an mail with relevant information to privacy@documentfoundation.org.</p>\n<p>All personal data stored in the course of communication will be deleted in this case.</p>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:14",
+            "point_link": "https://edit.tosdr.org/points/13466",
+            "approval_status": "APPROVED",
+            "clause_text": "You may demand that the controller deletes your personal information without delay, and the controller is required to delete that information immediately if one of the following reasons is true:</p>\n<ol>\n<li>\n<p>Your personal data is no longer necessary for the purposes for which it was collected or otherwise processed.</p>\n</li>\n<li>\n<p>You revoke your consent to the processing, which was based on Art.\n6 para.\n1 lit.\na or Art.\n9 para.\n2 lit.\na of the GDPR, and there is no other legal basis for processing.</p>\n</li>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2024-07-04 17:36:54",
+            "point_link": "https://edit.tosdr.org/points/36277",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service does not require you to provide your real name",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/13467",
+            "approval_status": "APPROVED",
+            "clause_text": "Details like the name (\"real name\") or further personal information is always voluntary.</p>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:06:33",
+            "point_link": "https://edit.tosdr.org/points/13471",
+            "approval_status": "APPROVED",
+            "clause_text": "you have the option to cancel the registration at any time.",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:09:17",
+            "point_link": "https://edit.tosdr.org/points/13472",
+            "approval_status": "APPROVED",
+            "clause_text": "Subscriptions to notifications or mailing lists can be terminated by the affected user at any time.",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:09:17",
+            "point_link": "https://edit.tosdr.org/points/13465",
+            "approval_status": "APPROVED",
+            "clause_text": "If cookies are disabled for our website, it may though not be possible to use all the features of our website in full",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service refers users to external documents for more information",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:09:19",
+            "point_link": "https://edit.tosdr.org/points/13470",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>On our websites, we use the \"Google Maps\" component from Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, hereafter referred to as \"Google\".</p>\n<p>Each time Google Maps is accessed, Google sets a cookie to process user settings and data when viewing the page that has the Google Maps component integrated.\nThis cookie is usually not deleted by closing the browser, but it will expire after a certain amount of time unless it is manually deleted by you.</p>\n<p>If you disagree with the processing of your data, you may disable the \"Google Maps\" service and prevent the transmission of data to Google in this way.\nTo do this, you must disable the JavaScript feature in your browser.\nHowever, please note that in this case you will not be able to use \"Google Maps\" at all, or only to a limited extent.</p>\n<p>Use of \"Google Maps\" and information obtained through \"Google Maps\" is subject to the Google Terms of Use:</p>\n<p>http://www.google.de/intl/de/policies/terms/regional.html</p>\n<p>and the additional terms and conditions for \"Google Maps\":</p>\n<p>https://www.google.com/intl/de_de/help/terms_maps.html",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/13461",
+            "approval_status": "APPROVED",
+            "clause_text": "Our website uses cookies.",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:18",
+            "point_link": "https://edit.tosdr.org/points/13463",
+            "approval_status": "APPROVED",
+            "clause_text": "We use external payment service providers whose platforms allow users to make payment transactions to us - e.g.\n(in parenthesis the link to the privacy policy): Paypal (https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=en_GB#Updated_PS), Stripe (https://stripe.com/privacy), CoinGate (https://coingate.com/privacy), BitPay (https://bitpay.com/about/privacy), Flattr (https://flattr.com/privacy), Visa (https://usa.visa.com/legal/privacy-policy.html), Mastercard (https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html).",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/13460",
+            "approval_status": "APPROVED",
+            "clause_text": "The following data is collected:</p>\n<ol>\n<li>\n<p>Information about the&nbsp;user's web&nbsp;browser and&nbsp;its&nbsp;version;</p>\n</li>\n<li>\n<p>The user's operating system;</p>\n</li>\n<li>\n<p>The user's IP address;</p>",
+            "point_source": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "meta_data": {
+        "title": "DrugBank - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:13:57",
+            "point_link": "https://edit.tosdr.org/points/17940",
+            "approval_status": "APPROVED",
+            "clause_text": "browser type, the web pages visited before and after you came to the Platform, locale preferences, identification numbers associated with your computer or mobile devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata, and other interactions with DrugBank, our Platform and Service.</p>",
+            "point_source": "https://go.drugbank.com/legal/privacy_policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:13:54",
+            "point_link": "https://edit.tosdr.org/points/17923",
+            "approval_status": "APPROVED",
+            "clause_text": "OMx may terminate Users’ access to all or any part of the Platform at any time, with or without cause, with or without notice, effective immediately for any reason deemed appropriate in our sole discretion.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17931",
+            "approval_status": "APPROVED",
+            "clause_text": "If any claim, dispute or controversy occurs between a User and OMx relating to the interpretation or implementation of any of the provisions of this Agreement, such dispute shall be resolved by private, confidential and binding arbitration.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17932",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent permitted under applicable law, and except where explicitly prohibited under statute, Users hereby waive any right they may have to commence or participate in any class action lawsuit against the University or OMx, including their officers, directors, shareholders, employees, affiliates, or agents, related to any claim, dispute or controversy arising out of or related to the Agreement.\nWhere applicable, Users hereby agree to opt out of any class proceeding against the University or OMx otherwise commenced.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17929",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the Platform and/or the Service following such changes shall constitute your affirmative acknowledgement of the Terms of Use, the modification and agreement to abide and be bound by the Terms of Use, as amended.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17936",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not use the Platform in any manner that could damage, disable, overburden or impair our servers or network, or interfere with any other party’s use and enjoyment of the Platform or the Service.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "This service provides archives of their Terms of Service so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:35:17",
+            "point_link": "https://edit.tosdr.org/points/17947",
+            "approval_status": "APPROVED",
+            "clause_text": "Change Log\n<ul>\n<li>Removed reference to sharing data via the Disqus service for comments, as this service is no longer used on DrugBank.</",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17942",
+            "approval_status": "APPROVED",
+            "clause_text": "If you want us to permanently delete your information from our servers at any time, please send an email to info@drugbank.com.\nWe will ensure your information is deleted in a reasonable time after receiving that request.",
+            "point_source": "https://go.drugbank.com/legal/privacy_policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17938",
+            "approval_status": "APPROVED",
+            "clause_text": "Additional Data We Collect",
+            "point_source": "https://go.drugbank.com/legal/privacy_policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The services will notify users if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 10:13:57",
+            "point_link": "https://edit.tosdr.org/points/17943",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event User information is disclosed as the result of any breach of security of the Platform or its servers, regardless of who is at fault, OMx will take steps to advise all known affected Users within one week of learning of the breach.</p>",
+            "point_source": "https://go.drugbank.com/legal/privacy_policy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17937",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated: June 1, 2017",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17928",
+            "approval_status": "APPROVED",
+            "clause_text": "Users are expected to periodically check the Terms of Use for any amendments, but we will take reasonable steps to notify Users of significant material changes.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "You are allowed to quote their content with attribution",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17934",
+            "approval_status": "APPROVED",
+            "clause_text": "Your access to DrugBank Content on the Platform is provided under, and subject to, a Creative Common’s Attribution-NonCommercial 4.0 International License.\nWhen using DrugBank Content in an academic publication, DrugBank is to be cited as follows:</p>\n<code>Wishart DS, Knox C, Guo AC, Shrivastava S, Hassanali M, Stothard P, Chang Z, Woolsey J.\nDrugbank: a comprehensive resource for in silico drug discovery and exploration.\nNucleic Acids Res.\n2006 Jan 1;34 (Database issue):D668-72.\n16381955.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You are allowed to quote their content with attribution",
+                "href": "https://edit.tosdr.org/cases/388"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17941",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not accept cookies, however, you may not be able to use all aspects of the Platform.",
+            "point_source": "https://go.drugbank.com/legal/privacy_policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17926",
+            "approval_status": "APPROVED",
+            "clause_text": "The University and OMx will not be liable for any damages or losses arising from your use of the Platform or arising under the Agreement.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17922",
+            "approval_status": "APPROVED",
+            "clause_text": "To the maximum extent permitted by law, Users agree to indemnify and hold harmless the University and OMx, their affiliates and their respective directors, officers, employees and agents from and against any and all claims, losses, damages, costs and expenses, including legal fees and disbursements, incurred by the University and OMx arising out of Users’ use of the Platform and the Service, including but not limited to Users’ violations of any term of the Agreement.</p>",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17925",
+            "approval_status": "APPROVED",
+            "clause_text": "The University and OMx make no representation or warranty to Users that the information provided directly or through the Platform is effective, accurate, reliable or correct.\nthat the Service will meet your requirements.\nthat the Service will be available at any particular time or location.\nthat the Service will function in an uninterrupted manner or be secure.\nthat any defects or errors will be corrected.\nor that the Service is free of viruses or other harmful components.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17924",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Platform, the DrugBank Content and the Service are provided \"as is,\" without warranty of any kind.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17927",
+            "approval_status": "APPROVED",
+            "clause_text": "Users are responsible for the security of their accounts, including the protection of passwords.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17935",
+            "approval_status": "APPROVED",
+            "clause_text": "If any portion or provision of the Agreement shall to any extent be declared illegal or unenforceable at law, then the remainder of this Agreement, or the application of such portion of provision in circumstances other than those as to which it is so declared illegal or unenforceable, shall not be affected thereby, and each portion and provision of the Agreement shall be valid and enforceable to the fullest extent permitted by law.</p>",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/17921",
+            "approval_status": "APPROVED",
+            "clause_text": "DrugBank is intended for educational and scientific research purposes only.\n<strong>NEITHER THE UNIVERSITY NOR OMX GUARANTEES OR WARRANTS THE ACCURACY OF THE DATA WITHIN THE DATABASE.\nRELIANCE ON DRUGBANK IS AT THE USER’S SOLE RISK.</strong>",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:13:56",
+            "point_link": "https://edit.tosdr.org/points/17933",
+            "approval_status": "APPROVED",
+            "clause_text": "Failure by any party to insist upon the strict performance of any of the covenants, agreements, terms, provisions or conditions contained in the Agreement or to exercise any election shall not be construed as a waiver or relinquishment of such covenant, agreement, term, provision or condition but the same shall continue and remain in full force.\nNo waiver shall be deemed to have been made unless expressed in writing.",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in the Province of Alberta",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:34:48",
+            "point_link": "https://edit.tosdr.org/points/17930",
+            "approval_status": "APPROVED",
+            "clause_text": "The Agreement and any access to or use of the Platform or the Service shall be governed by, and construed in accordance with, the laws in force in the Province of Alberta.</p>",
+            "point_source": "https://go.drugbank.com/legal/terms_of_use",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:08",
+            "point_link": "https://edit.tosdr.org/points/17939",
+            "approval_status": "APPROVED",
+            "clause_text": "We will automatically record information about your activity on the Platform.\nThis may include your internet protocol address,",
+            "point_source": "https://go.drugbank.com/legal/privacy_policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,473 @@
+{
+    "meta_data": {
+        "title": "Medscape - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:11:07",
+            "point_link": "https://edit.tosdr.org/points/16208",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Information about your use of the Services is collected as follows:</p>\n<ul>\n<li>\n<p>\n<b>Registration</b>.\nIn order to use the Services, you may be required to register an account and provide certain personal information such as your name, email address, zip/postal code, profession, occupation, specialty and depending on your country of practice, your medical license number or equivalent.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:11:08",
+            "point_link": "https://edit.tosdr.org/points/16214",
+            "approval_status": "APPROVED",
+            "clause_text": "We work with third party service providers to help us provide the Services and to otherwise assist us in the operation of the Medscape Network, including in the areas of email management and deployment, analytics, marketing, advertising, market research, sweepstakes and contest administration, identity and professional credential validation, content distribution, customer service, payment fulfillment, event logistics, website maintenance and data storage and security.\nWe may provide these service providers with personal information about users of our Services so that they can fulfill their responsibilities to us, however, we do require that they agree to limit their use of this personal information to the fulfillment of these responsibilities.</p>",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:11:07",
+            "point_link": "https://edit.tosdr.org/points/16211",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our service providers collect and store information about users' interactions with unaffiliated websites and applications that use our technologies, including cookies and similar tracking technologies.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:10:20",
+            "point_link": "https://edit.tosdr.org/points/16107",
+            "approval_status": "APPROVED",
+            "clause_text": "When you submit User Content through the Services you automatically grant to us a perpetual,",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:11:24",
+            "point_link": "https://edit.tosdr.org/points/16213",
+            "approval_status": "APPROVED",
+            "clause_text": "The information we collect includes the referring website, if applicable, the type of browser you use, the material viewed, and the time and date that you accessed the Services.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:11:08",
+            "point_link": "https://edit.tosdr.org/points/16212",
+            "approval_status": "APPROVED",
+            "clause_text": "We may obtain additional information about you from third party sources to assist us in providing the Services.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:11:08",
+            "point_link": "https://edit.tosdr.org/points/16210",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies and other tracking technologies, such as pixels, tags, web beacons and software development kits, to collect the information about your use of the Services and your device.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:10:22",
+            "point_link": "https://edit.tosdr.org/points/16114",
+            "approval_status": "APPROVED",
+            "clause_text": "Any claims arising in connection with your use of the Services must be brought within one (1) year of the date of the event giving rise to such action occurred.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "This service throttles your use",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 10:10:17",
+            "point_link": "https://edit.tosdr.org/points/16100",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at any time in our sole discretion, to limit the availability and accessibility of the Medscape Network, the Services and the Medscape Content to any person, geographic area or jurisdiction we so desire.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:11:19",
+            "point_link": "https://edit.tosdr.org/points/16207",
+            "approval_status": "APPROVED",
+            "clause_text": "By using the Services, you acknowledge that we will store, use and otherwise process your information in the United States and any other country from where the applicable Medscape Network property is operated.\nPlease be aware that the privacy laws and standards in certain countries may differ from those that apply in the country in which you reside.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:11",
+            "point_link": "https://edit.tosdr.org/points/16218",
+            "approval_status": "APPROVED",
+            "clause_text": "The links below provide information about cookie settings for some commonly used browsers:</p>",
+            "point_source": "https://www.medscape.com/public/cookies",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:10:25",
+            "point_link": "https://edit.tosdr.org/points/16117",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate the account of any user who we determine is a repeat infringer.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 10:10:30",
+            "point_link": "https://edit.tosdr.org/points/16120",
+            "approval_status": "APPROVED",
+            "clause_text": "By submitting feedback and suggestions, you grant a non-exclusive, perpetual, irrevocable, and royalty-free license to any intellectual property rights you may have in your feedback and suggestions to us to use to improve the Services.</p>",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:11:10",
+            "point_link": "https://edit.tosdr.org/points/16216",
+            "approval_status": "APPROVED",
+            "clause_text": "You can opt-out of interest-based advertising on our websites by rejecting cookies as described above and through preferences manager or, if you are located in the European Economic Area (EEA), you may also opt-out here.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:10:20",
+            "point_link": "https://edit.tosdr.org/points/16108",
+            "approval_status": "APPROVED",
+            "clause_text": "non-exclusive, worldwide, royalty-free, fully paid up, transferable, sub-licensable (through multiple tiers) license to distribute, transmit, copy, host, publicly display and perform, excerpt, index, tag, modify, adapt, sell, create derivative works from",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/16115",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, indemnify, and hold each of us and our respective officers, directors, employees, agents, licensors, and suppliers, harmless from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from, your access to or use of the Medscape Network, the Services and the Medscape Content or your violation of these Terms.</p>",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:20",
+            "point_link": "https://edit.tosdr.org/points/16106",
+            "approval_status": "APPROVED",
+            "clause_text": "exploit such User Content in any media, form or format now known or hereafter developed,",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:19",
+            "point_link": "https://edit.tosdr.org/points/16104",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Medscape Network may contain links to third-party websites or resources which are not part of the Medscape Network.\nYou agree that we are not responsible or liable for these websites and resources including, without limitation, their availability or the content and information that they provide.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:11:09",
+            "point_link": "https://edit.tosdr.org/points/16215",
+            "approval_status": "APPROVED",
+            "clause_text": "Most browser software can be set to reject all cookies, including third party cookies, however, if you choose to reject our cookies, your ability to access and use the Services will be limited.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:10:23",
+            "point_link": "https://edit.tosdr.org/points/16112",
+            "approval_status": "APPROVED",
+            "clause_text": "(a) breaches or violations of these Terms or other incorporated agreements or guidelines,",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/16113",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In no event will any of us or our respective directors, officers, employees, contractors, agents, sponsors, licensors or any other person or entity involved in creating, developing or delivering the Medscape Network, the Services or the Medscape Content be liable for any damages (including, without limitation, incidental and consequential damages, personal injury/wrongful death, lost profits, or damages resulting from lost data or business interruption) arising out of or in connection with these Terms or from the use of or inability to access or use the Medscape Network, the Services or the Medscape Content, or from any communications or interactions with other persons with whom you communicate or interact as a result of your use of the Services, whether based on warranty, contract, tort, or any other legal theory, and whether or not we, our licensors, ours suppliers, or any third parties mentioned with the Services are advised of the possibility of such damages.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:10:23",
+            "point_link": "https://edit.tosdr.org/points/16118",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right, at our sole discretion, to modify, discontinue or terminate any of the Services, the Medscape Content or these Terms, at any time and without prior notice.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:10:18",
+            "point_link": "https://edit.tosdr.org/points/16102",
+            "approval_status": "APPROVED",
+            "clause_text": "You shall not use, copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Services, Medscape Content, or Medscape Network properties, except as expressly permitted in these Terms.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:10:20",
+            "point_link": "https://edit.tosdr.org/points/16105",
+            "approval_status": "APPROVED",
+            "clause_text": "Post, upload, transmit or otherwise distribute chain letters, pyramid schemes, advertising or spam",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:10:21",
+            "point_link": "https://edit.tosdr.org/points/16110",
+            "approval_status": "APPROVED",
+            "clause_text": "THE MEDSCAPE NETWORK, PROPERTIES, SERVICES, AND MEDSCAPE CONTENT ARE PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:23",
+            "point_link": "https://edit.tosdr.org/points/16111",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You agree that we may, under certain circumstances and without prior notice, discontinue, temporarily or permanently, the Services (or any part thereof) or eliminate your account and remove any User Content that you have made available through the Services, with or without notice, for any of the following reasons (which are not intended to be exclusive):",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:10:19",
+            "point_link": "https://edit.tosdr.org/points/16103",
+            "approval_status": "APPROVED",
+            "clause_text": "You are solely responsible for maintaining the confidentiality and security of your Medscape account username and password and you may not permit another person to use your username and password to access the Services.\nYou are responsible for all activity that occurs under your account.\nIf you believe that the security of your account information has been compromised, you should immediately change your username and password through the account settings feature or notify us and we will assist you.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:10:23",
+            "point_link": "https://edit.tosdr.org/points/16116",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe in good faith any materials within the Medscape Network infringe your copyright, you may request removal of those materials (or access thereto) by contacting our copyright agent (identified below) and providing the following information:</p>\n<ol>\n<li>Identification of the copyrighted work that you believe to be infringed.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:10:19",
+            "point_link": "https://edit.tosdr.org/points/16101",
+            "approval_status": "APPROVED",
+            "clause_text": "WE MAKE NO WARRANTY AS TO THE ACCURACY, TIMELINESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE SERVICES.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:19",
+            "point_link": "https://edit.tosdr.org/points/16209",
+            "approval_status": "APPROVED",
+            "clause_text": "We also collect information about your device when you access the Services including IP address, precise location information, browser information (including referring URL), cookie information and advertising ID (which is a unique, user-resettable identification number for advertising associated with a mobile device).",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:10:23",
+            "point_link": "https://edit.tosdr.org/points/16119",
+            "approval_status": "APPROVED",
+            "clause_text": "If we modify these Terms in a material way, we will provide notice of such modification within the Medscape Network.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:11:08",
+            "point_link": "https://edit.tosdr.org/points/16217",
+            "approval_status": "APPROVED",
+            "clause_text": "Note that our websites do not respond to web browser “do not track” signals.",
+            "point_source": "https://www.medscape.com/public/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in New York",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:10:21",
+            "point_link": "https://edit.tosdr.org/points/16109",
+            "approval_status": "APPROVED",
+            "clause_text": "By accessing the Services, you agree that the statutes and laws of the state of New York, without regard to choice of laws principles, will apply to all matters relating to use of the Services.",
+            "point_source": "https://www.medscape.com/public/termsofuse",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "AirVPN - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21817",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"AIR, ITS SUPPLIERS, LICENSORS, AFFILIATES, AND PARTNERS DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR FREE OF ERRORS, AND DO NOT WARRANT THAT ANY OF THE FOREGOING WILL BE CORRECTED\"",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21820",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT WILL THE TOTAL LIABILITY OF AIR OR ITS AFFILIATES, CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT OR YOUR USE OF THE SERVICE (WHETHER IN CONTRACT, TORT INCLUDING NEGLIGENCE, WARRANTY, OR OTHERWISE), EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THE SERVICE DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21824",
+            "approval_status": "APPROVED",
+            "clause_text": "Under no circumstance does Air use cookies to track and/or profile users.",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21829",
+            "approval_status": "APPROVED",
+            "clause_text": ".<br>\n<br>Users do not need to enter any personal data to access Air services.\nUsers may optionally provide their e-mail addresses to receive courtesy e-mail pertaining to technical support.\nWhen they do so, e-mail addresses are stored in Air servers exclusively for assistance purposes.",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21827",
+            "approval_status": "APPROVED",
+            "clause_text": "Users have the right to ask for information about their data and to ask for deletion of any data pertaining to them with a simple written request by e-mail to: info (at) airvpn (dot) org.<br>\n<br>",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "An onion site accessible over Tor is provided",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2021-06-05 09:50:35",
+            "point_link": "https://edit.tosdr.org/points/21822",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "http://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion",
+            "case": {
+                "text": "An onion site accessible over Tor is provided",
+                "href": "https://edit.tosdr.org/cases/406"
+            }
+        },
+        {
+            "title": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21818",
+            "approval_status": "APPROVED",
+            "clause_text": "REIMBURSEMENTS.\nIn case you are not satisfied with the commercial Service, once you have subscribed you have the right to obtain a full reimbursement, provided that your request is sent within 30 business days since the subscription payment.",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "No third-party analytics or tracking platforms are used",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 04:49:55",
+            "point_link": "https://edit.tosdr.org/points/21825",
+            "approval_status": "APPROVED",
+            "clause_text": "Air web servers do not use third party add-ons or any other procedure that may lead to users profiling by any third party or by Air itself.",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "This service does not collect, use, or share location data",
+            "rating": "good",
+            "description": "No location-based information is tracked by the service, so that it cannot be used or shared with third parties.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21828",
+            "approval_status": "APPROVED",
+            "clause_text": "Activity traffic and/or traffic content and/or IP addresses of the customers or users are not inspected, logged or stored into any mass storage device.",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "This service does not collect, use, or share location data",
+                "href": "https://edit.tosdr.org/cases/392"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 04:49:55",
+            "point_link": "https://edit.tosdr.org/points/21823",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>Air servers and software procedures in general do not acquire personal data.\n<br>\n<br>If an AirVPN user or customer registers an account for which a valid e-mail address is provided, such e-mail address will be protected as personal data according to the aforementioned legal framework.\nAir will not treat this address to profile the user or disclose his/her identity, and will not transmit it to any third party.\nThe identical protection is enforced by default on every other field, to protect those users who should enter in their account fields any information that could be considered personal data in spite of the fact that Air does NOT require such information",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "An anonymous payment method is offered",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21826",
+            "approval_status": "APPROVED",
+            "clause_text": "Users can also choose to pay without any intermediary thanks to cryptocurrencies.",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "An anonymous payment method is offered",
+                "href": "https://edit.tosdr.org/cases/405"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21810",
+            "approval_status": "APPROVED",
+            "clause_text": "AirVPN fully complies with the European Union legal framework which protect your privacy: Directive on Data Protection (95/46/EC), Directive concerning the processing of personal data and the protection of privacy (2002/58/EC).\nand the EU General Data Protection Regulation \"GDPR\" (EU Regulation 2016/679)",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 04:49:59",
+            "point_link": "https://edit.tosdr.org/points/21830",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>Security measures are taken to protect data leakage, illegal use of data, unauthorized access to data, specifically (but not limited to):</p>\n<ul>\n<li>machines where operations which might involve personal data are protected by redundant security, including, but not limited to, responding only to private host names and rejecting connections from anything different that a tiny white list of addresses</li>\n<li>the database of the accounts is not stored in those Air servers which are dedicated to provide VPN access.\nit is stored in servers which are not accessible from the outside</li>\n<li>Air databases, according to their contextual usage, are isolated from each other</li>\n<li>in the users database all personal data that do not need a search index are encrypted</li>\n<li>physical access to the machines keeping the users database is prevented by state of the art surveillance in top rated datacenters</li>\n<li>Air uses only ciphers for which a cryptographic practical/feasible attack has not been found by the worldwide scientific community</li>",
+            "point_source": "https://airvpn.org/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21814",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify, save, and hold Air, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners harmless from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your misuse of the Service, any violation by you of this Agreement, or any breach of the representations, warranties, and covenants made by you herein.\nAir reserves the right, at your expense, to assume the exclusive defense and control of any matter for which You are required to indemnify Air, and You agree to cooperate with Air's defense of these claims.",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 04:49:55",
+            "point_link": "https://edit.tosdr.org/points/21819",
+            "approval_status": "APPROVED",
+            "clause_text": "UNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL AIR OR ITS AFFILIATES, CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES ARISING FROM ANY UNSUCCESSFUL COURT ACTION OR LEGAL DISPUTE, LOST BUSINESS, LOST REVENUES, OR LOSS OF ANTICIPATED PROFITS OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS OR DAMAGE OF ANY NATURE WHATSOEVER) ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THAT RESULT FROM YOUR USE OF OR YOUR INABILITY TO USE THE SERVICE, OR ANY OTHER INTERACTIONS WITH AIRVPN.<br>",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (September 2020)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21831",
+            "approval_status": "APPROVED",
+            "clause_text": "last update: 12/09/2020",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 04:49:53",
+            "point_link": "https://edit.tosdr.org/points/21816",
+            "approval_status": "APPROVED",
+            "clause_text": "AIR, ITS SUPPLIERS, LICENSORS, AFFILIATES, AND PARTNERS DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR FREE OF ERRORS",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21811",
+            "approval_status": "APPROVED",
+            "clause_text": "6.\nuse the Service to compromise security of, or to obtain (or try to obtain) unauthorized access to any device or system in the Internet (such attempts include port scans);<br>",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21815",
+            "approval_status": "APPROVED",
+            "clause_text": "HOWEVER, YOU EXPRESSLY AGREE THAT USE OF THE SERVICE IS AT YOUR SOLE RISK.\nTHE SERVICE, AIR AND ANY DATA AND INFORMATION, ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\", \"WITH ALL FAULTS\" BASIS",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21812",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that AirVPN operators, in their sole discretion, for any violation of the Terms of Service point 4), and without penalty, may terminate your use of the Service at any time.",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 04:49:54",
+            "point_link": "https://edit.tosdr.org/points/21813",
+            "approval_status": "APPROVED",
+            "clause_text": "How third parties handle and use your personal information related to their sites and services is governed by their security, privacy and other policies (if any) and not ours.",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is the European Court of Justice",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 04:49:55",
+            "point_link": "https://edit.tosdr.org/points/21821",
+            "approval_status": "APPROVED",
+            "clause_text": "This Agreement will be governed by and construed in accordance with the Regulation 593/2008 of the European Parliament and of the Council of the European Union and under the jurisdiction of the European Court of Justice and the courts in Italy.",
+            "point_source": "https://airvpn.org/tos/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

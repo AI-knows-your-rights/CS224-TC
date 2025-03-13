@@ -1,0 +1,557 @@
+{
+    "meta_data": {
+        "title": "Waze - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:04:44",
+            "point_link": "https://edit.tosdr.org/points/11389",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze\ndoes not normally utilize its right to monitor Content and does so only in rare cases.</p>\n<p>Waze retains sole discretion in determining which Content will be published, the duration of its\npublication, its location, how and when it appears on the Service, its design and any other matter\npertaining to the publication of Content within the Service.",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/8981",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze uses your location and route information to create a detailed route history of all of your\njourneys made when using the Service",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:07:25",
+            "point_link": "https://edit.tosdr.org/points/11970",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze may decide, at its sole discretion\nthat a sufficient reason exists for the immediate termination of your\naccount for any reason, at any time.",
+            "point_source": "https://www.waze.com/legal/copyright",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:04:44",
+            "point_link": "https://edit.tosdr.org/points/11386",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze retains the right to block your access to the Service and discontinue your use of the Service,\nat any time and for any reason Waze deems appropriate, at its sole and absolute discretion.",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14336",
+            "approval_status": "APPROVED",
+            "clause_text": "\"However, by submitting Content to Waze, you hereby grant Waze and the users of the Service an irrevocable, worldwide, perpetual, non-exclusive, royalty-free, sub-licenseable and transferable license\"",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:09:09",
+            "point_link": "https://edit.tosdr.org/points/14338",
+            "approval_status": "APPROVED",
+            "clause_text": "\"However, by submitting Content to Waze, you hereby grant Waze and the users of the Service an irrevocable, worldwide, perpetual, non-exclusive, royalty-free, sub-licenseable and transferable license\"",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:10:46",
+            "point_link": "https://edit.tosdr.org/points/14343",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze\nmay allow you to use the Services whether or not you choose to register your Account.\nIf you choose\nto use the Waze Services without registering your account you may do so by skipping the registration\nprocess.\nIf you do so:</p>\n<ul>\n<li>Waze will still link all of your information with the non-registered Account and a unique\nidentifier generated by Waze in accordance with this Privacy Policy.",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:06:52",
+            "point_link": "https://edit.tosdr.org/points/10893",
+            "approval_status": "APPROVED",
+            "clause_text": "We work with ad partners, including advertisers on our platform and entities that belong to the\nGoogle group of companies, in order to show you more relevant and useful ads based on your Waze\nactivity and information associated with your device’s identifier",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:04:20",
+            "point_link": "https://edit.tosdr.org/points/11969",
+            "approval_status": "APPROVED",
+            "clause_text": "A pixel tag</strong> is a type of technology placed on a website or within the body of an email for the\npurpose of tracking certain activity, such as views of a website or when an email is opened.\nPixel\ntags are often used in combination with cookies.</li>",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:06:50",
+            "point_link": "https://edit.tosdr.org/points/10892",
+            "approval_status": "APPROVED",
+            "clause_text": "We store data on servers located around the world and your information may be processed on servers\nlocated outside of the country where you live.",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:04:17",
+            "point_link": "https://edit.tosdr.org/points/11965",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics <p>Google Analytics is Google’s analytics tool that helps website and app owners to understand how\ntheir visitors engage with their properties.",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:20",
+            "point_link": "https://edit.tosdr.org/points/11964",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Depending on your setting, we permit third-party ad partners (see a list below) to use cookies and\nother technology from this site to market our services to you on other websites and online services\nyou visit.",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:09:09",
+            "point_link": "https://edit.tosdr.org/points/14335",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze receives no ownership rights in and to the Content that you submit.",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, users are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 10:08:36",
+            "point_link": "https://edit.tosdr.org/points/8754",
+            "approval_status": "APPROVED",
+            "clause_text": "Substantial changes will take\neffect 30 days after Waze has posted a:</p>\n<ul>\n<li>System message to users notifying them of changes to the Privacy Policy.\nand</li>\n<li>Notification on the Website’s homepage or any other relevant web pages, explaining the changes to\nthe Privacy Policy alongside a comparison of the “old” and “new” versions of the Privacy Policy.</li>",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:36",
+            "point_link": "https://edit.tosdr.org/points/8753",
+            "approval_status": "APPROVED",
+            "clause_text": "However any content that you\nchoose to share and submit for posting is neither private nor confidential and you should expect\nthat it may be made public and known to others.</strong> Information you choose to upload will be posted\nalong with your user name and other information including personal information you attached to your\npublicly available user profile.\nFor example, your reports (map and road updates, traffic congestion\nupdates, road accidents, etc.) will be posted on the Waze map along with your username.\nYou should\nnote that certain road incidents you report may include your driving path within the vicinity of\nthose incidents.\nTherefore, you must exercise caution and common sense when submitting information.\nAt the very least you should demonstrate the same degree of caution as when publishing personal\ninformation by means other than the Internet and cellular services.</p>\n<p>In any event (but except as detailed below with respect to information shared from your social\nnetwork accounts according to your privacy settings for such social network accounts), your email\naddress will not be visible to others through any reports or user posts that you share or upload.</p>\n<p>if you choose to either record your own voice onto the Service, or to use the voice command\nfeatures, Waze will collect the voice information related to such use, including voice files.\nIf,\nafter recording your own voice, you chose to share your voice recordings, other Waze users and other\npeople will be able to download and use your voice recordings.\nOnce downloaded, Waze may not have\nany control over the voice files, so you should only share content that you are comfortable being\nmade public.</p>",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:10:03",
+            "point_link": "https://edit.tosdr.org/points/14340",
+            "approval_status": "APPROVED",
+            "clause_text": "CONTACT US <p>If you have any questions about our use of cookies, please contact us at\nprivacy@waze.com.",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:02:55",
+            "point_link": "https://edit.tosdr.org/points/8751",
+            "approval_status": "APPROVED",
+            "clause_text": "When Waze shares your information <p>Waze does not sell, rent or lease your personal information to third parties.</p>",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:05:26",
+            "point_link": "https://edit.tosdr.org/points/8752",
+            "approval_status": "APPROVED",
+            "clause_text": "You can decide whether we’ll show you personalized ads or not through your in-app <strong>Privacy\nSettings",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 10:05:23",
+            "point_link": "https://edit.tosdr.org/points/8755",
+            "approval_status": "APPROVED",
+            "clause_text": "You may submit a counter\nnotification to the Copyright Agent.",
+            "point_source": "https://www.waze.com/legal/copyright",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 10:10:46",
+            "point_link": "https://edit.tosdr.org/points/14339",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Ad Partners:</p>\n<ul>\n<li>Google.</li>\n<li>Facebook.</li>\n<li>Linkedin.</li>\n<li>Snapchat.</li>\n<li>Yahoo.</li>\n<li>Twitter.</li>\n</ul>\n<p>Learn more about how you can control Advertising Cookies.",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:05:26",
+            "point_link": "https://edit.tosdr.org/points/8749",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze allows you to use the Service whether or not you choose to set up a username for yourself",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:36:14",
+            "point_link": "https://edit.tosdr.org/points/8987",
+            "approval_status": "APPROVED",
+            "clause_text": "If you would like us to delete your Account, please use the “Delete Account” function available\nunder the in-app Privacy Setting and on the Waze website.\nOn receiving such a request,\nWaze will use reasonable efforts to delete such information, however please note that information\nmay not be deleted immediately from our back-up systems.",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/14337",
+            "approval_status": "APPROVED",
+            "clause_text": "\"However, by submitting Content to Waze, you hereby grant Waze and the users of the Service an irrevocable, worldwide, perpetual, non-exclusive, royalty-free, sub-licenseable and transferable license\"",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:05:25",
+            "point_link": "https://edit.tosdr.org/points/8745",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have any questions about this Privacy Policy, or if you believe that your privacy has been\ncompromised in the course of using the Services, please contact Waze at: privacy@waze.com.\nYou may\nsend Waze other requests, responses, questions and complaints by email at: support@waze.com.</p>",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/8985",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Last modified: 17 May 2018</strong>",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:04:19",
+            "point_link": "https://edit.tosdr.org/points/11966",
+            "approval_status": "APPROVED",
+            "clause_text": "We may update this Cookie Policy from time to time.\nWe encourage you to periodically review this\nCookie Policy to stay informed about our use of cookies, the information we collect via cookies, and\nany updates in relation thereto.\nIf we make any changes to this Cookie Policy that significantly\nimpact the way we use cookies, we will endeavor to provide you with notice in advance of such change\non our website.",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:05:25",
+            "point_link": "https://edit.tosdr.org/points/8742",
+            "approval_status": "APPROVED",
+            "clause_text": "Without these cookies, the\nwebsite cannot function properly.</p>",
+            "point_source": "https://www.waze.com/legal/cookies",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:05:47",
+            "point_link": "https://edit.tosdr.org/points/8982",
+            "approval_status": "APPROVED",
+            "clause_text": "Accounts of users under the age of 16 years\nwill be canceled and deleted by Waze, upon receiving notice.",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/11388",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze may, at any time, terminate the provision of the Service in its entirety or any part thereof,\ntemporarily or permanently, at its sole discretion.",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:33:23",
+            "point_link": "https://edit.tosdr.org/points/11967",
+            "approval_status": "APPROVED",
+            "clause_text": "However, We do not\nwarrant that the Service will operate in an uninterrupted or error-free manner,",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:04:20",
+            "point_link": "https://edit.tosdr.org/points/11968",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze hereby grants you a free of charge, non-exclusive, time-limited,\nnon-transferable, non-sub-licensable, revocable license to use the Service (including the Software)\nfor non-commercial purposes,",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/8984",
+            "approval_status": "APPROVED",
+            "clause_text": "LIMITATION OF LIABILITY AND WARRANTY <p>WAZE PROVIDES THE SERVICE AND CONTENT INCLUDED THEREIN FOR USE ON AN “AS IS” AND “AS AVAILABLE”\nBASIS",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:05:26",
+            "point_link": "https://edit.tosdr.org/points/8744",
+            "approval_status": "APPROVED",
+            "clause_text": "To use our Services you must be 16 years of age or older.\nIf you are under 16, you may not download\nor use the Services.",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:10:04",
+            "point_link": "https://edit.tosdr.org/points/14342",
+            "approval_status": "APPROVED",
+            "clause_text": "\"If you believe that certain content, which appears on Waze real-time road maps (the \"Service\"), infringes upon copyrights that you own or represent, you may send Waze's designated copyright agent (\"Copyright Agent\") a written notification[...] Upon your notification, Waze may remove or disable access to any such content.\"",
+            "point_source": "https://www.waze.com/legal/copyright",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:10:46",
+            "point_link": "https://edit.tosdr.org/points/14341",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that certain content,\nwhich appears on Waze real-time road maps (the \"<b>Service</b>\"),\ninfringes upon copyrights that you own or represent, you may send Waze's\ndesignated copyright agent (\"<b>Copyright Agent</b>\") a written\nnotification, stating the location of the copyrighted work claimed to\nbe infringed, in accordance with the provisions of the Digital Millennium\nCopyright Act (\"<b>DMCA</b>\").",
+            "point_source": "https://www.waze.com/legal/copyright",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service is a subsidiary of Google",
+            "rating": "neutral",
+            "description": "The service is a subsidiary of a certain company (called X in the title, to be replaced by the parent Company in each point's title). Company X’s Terms of Service may apply to the service.",
+            "last_updated": "2023-07-11 04:49:49",
+            "point_link": "https://edit.tosdr.org/points/21771",
+            "approval_status": "APPROVED",
+            "clause_text": "Waze may also share personal information with companies or organizations connected or affiliated\nwith Waze, such as subsidiaries, sister-companies and parent companies (i.e.\nentities that belong\nto the Google group of companies);</p>\n</li>",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "This service is a subsidiary of Company X",
+                "href": "https://edit.tosdr.org/cases/493"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:05:26",
+            "point_link": "https://edit.tosdr.org/points/8748",
+            "approval_status": "APPROVED",
+            "clause_text": "Your login details are your responsibility.\nYou are fully accountable for any use or misuse of\nyour Account and personal details as a result of conveying your login details to someone else.\nYou\nmust maintain your login details in absolute confidentiality and avoid disclosing them to others.",
+            "point_source": "https://www.waze.com/legal/privacy",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:04:43",
+            "point_link": "https://edit.tosdr.org/points/11387",
+            "approval_status": "APPROVED",
+            "clause_text": "Such information is intrinsically fluctuant and may be inaccurate, incomplete or\noutdated.\nWaze does not provide any warranties to such information’s credibility or reliability",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/8983",
+            "approval_status": "APPROVED",
+            "clause_text": "Third party advertisements may appear on the Service from time to time.\nWaze\ndoes not endorse these advertisements",
+            "point_source": "https://www.waze.com/legal/tos",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

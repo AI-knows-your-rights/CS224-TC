@@ -1,0 +1,39 @@
+{
+    "meta_data": {
+        "title": "LauraKalbag - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2020-12-15 11:00:18",
+            "point_link": "https://edit.tosdr.org/points/8959",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://laurakalbag.com/i-dont-track-you/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:33:15",
+            "point_link": "https://edit.tosdr.org/points/18057",
+            "approval_status": "APPROVED",
+            "clause_text": "You also won’t find any third-party scripts, content delivery networks or third-party fonts.\nI won’t let anyone else track you either.",
+            "point_source": "https://laurakalbag.com/i-dont-track-you/",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        }
+    ]
+}

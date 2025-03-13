@@ -1,0 +1,571 @@
+{
+    "meta_data": {
+        "title": "Remind - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23403",
+            "approval_status": "APPROVED",
+            "clause_text": "Remind reserves the right (but does not have the obligation) to remove any Content from the Services at any time, for any reason (including, but not limited to, if we receive claims or allegations from individuals, companies or authorities relating to that Content or if Remind is concerned that you may have breached the foregoing restrictions), or for no reason at all.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23413",
+            "approval_status": "APPROVED",
+            "clause_text": "You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached pages, archives and storage backups or if other users have copied or stored your Content.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23424",
+            "approval_status": "APPROVED",
+            "clause_text": "IP adresses, which are often considered personal data, are shared with third-party partners that promote Remind, so likely advertisers.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:19:54",
+            "point_link": "https://edit.tosdr.org/points/23385",
+            "approval_status": "APPROVED",
+            "clause_text": "Remind reserves the right to refuse registration of or to cancel a Remind account in its sole discretion.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23432",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Social media features, such as the Facebook \"Like\" button, and widgets, such as the \"Share this\" button or interactive mini-programs that run on our site.\n</li>\n</ul>\n<p>These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.\nSocial media features and widgets are either hosted by another company or hosted directly on our Services.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "A license is kept on user-generated content even after you close your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:19:55",
+            "point_link": "https://edit.tosdr.org/points/23394",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"In order to provide you with the Services, Remind needs to access and use your User Submissions in certain ways. You hereby grant Remind a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable and transferable (only to a successor) right and license\"",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "You are tracked via device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23419",
+            "approval_status": "APPROVED",
+            "clause_text": "Certain information that is collected automatically, such as device ID",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23427",
+            "approval_status": "APPROVED",
+            "clause_text": "However, we employ other companies to perform tasks on our behalf and help us provide certain features of our Services, and may need to share your information with those companies in order to provide our Services to you.\nSome examples of services for which we use agents include sending email or SMS, analyzing data, providing user services, and searching for any security vulnerabilities.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your provided identifiable information is actively checked by the service",
+            "rating": "bad",
+            "description": "The service checks if the required identifiable information you've provided is correct, and may do so on a regular basis. The check measures could be analyzing your browser information and/or providing the identifiable information to a third-party or the authority, thus compromising your anonymity.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23417",
+            "approval_status": "APPROVED",
+            "clause_text": "The information we gather from users enables us to attempt to verify user identity",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Your provided identifiable information is actively checked by the service",
+                "href": "https://edit.tosdr.org/cases/492"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23422",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>Analytics and research<p>To help us improve and understand how people use our Services.\n</p>\n<p>For example, cookies help us test different versions of our services to see which particular features or content users prefer or to share information about our services to you as you interact online across the internet.\nWe might also optimize and improve your experience on Remind by using cookies to see how you interact with our services, such as when and how often you use them and what links you click on.\nWe may use Google Analytics to assist us with this.</p>",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user or $100",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23408",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT WILL REMIND OR ITS SUPPLIERS OR ITS SERVICE PROVIDERS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE SERVICES OR THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY: </p>\n<ul>\n<li>FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF $100 OR THE FEES PAID BY YOU TO REMIND HEREUNDER DURING THE 12-MONTH PERIOD PRECEDING THE APPLICABLE CLAIM.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23421",
+            "approval_status": "APPROVED",
+            "clause_text": "As many services do, we (or our agents) may use pixels to learn whether you've interacted with certain web or email content on our Services.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23418",
+            "approval_status": "APPROVED",
+            "clause_text": "We use the Personal Information we receive about you to provide you with the Services and also for purposes such as:</p>\n<ul>\n<li>attempting to authenticate your identity, </li>\n<li>responding to your requests for certain information, </li>\n<li>customizing the features that we make available to you, </li>\n<li>suggesting relevant services or products for you to use, </li>\n<li>improving the Services and internal operations (including troubleshooting, testing, and analyzing usage), </li>\n<li>communicating with you about new features </li>\n<li>and, most importantly, protecting our users, sending emergency messages we are directed to send to you, and working towards making sure our Services are safer and more secure.\n</li>\n</ul>",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (California, USA)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23411",
+            "approval_status": "APPROVED",
+            "clause_text": "This Agreement will be governed by and construed in accordance with the laws of the State of California without regard to the conflict of laws provisions thereof, unless a state's laws explicitly require that any legal disputes are governed by the laws of that state.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23414",
+            "approval_status": "APPROVED",
+            "clause_text": "Remind makes it easy for you to access, correct, delete, or demand deletion of your Personal Data.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:19:55",
+            "point_link": "https://edit.tosdr.org/points/23392",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain ownership of all of your User Submissions.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23428",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be notified when your Personal Information may be shared with agents or companies other than Remind and you will be given the option to prevent the sharing of this information unless Remind determines that not disclosing this to you prior to your information being shared is necessary to comply with applicable laws or legal processes or we are prohibited by law or legal processes from informing you in advance.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23415",
+            "approval_status": "APPROVED",
+            "clause_text": "Should you ever wish to leave Remind and take an electronic copy of the Personal Data and information we have collected about you, you may make that request at privacy@remindhq.com.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "You will be notified if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23431",
+            "approval_status": "APPROVED",
+            "clause_text": "If Remind knows or becomes aware of a security breach of its users' personally identifiable information, Remind will notify affected users as required by applicable laws and may post a notice on the Services as required by applicable law(s).",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23426",
+            "approval_status": "APPROVED",
+            "clause_text": "We neither rent nor sell your Personal Information to anyone.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23412",
+            "approval_status": "APPROVED",
+            "clause_text": "Individuals from the European Union (\"EU\"), European Economic Area (“EEA”) or United Kingdom (“UK”) may only use our Services after providing your freely given, informed consent for Remind to collect, transfer, store, and share your Personal Data, as that term is defined in the EU's General Data Protection Regulation.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23433",
+            "approval_status": "APPROVED",
+            "clause_text": "If you reside in California you are entitled to exercise certain rights outlined in the California Consumer Protection Act.",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23416",
+            "approval_status": "APPROVED",
+            "clause_text": "Third party providers who do help us operate our Services must adhere to privacy and security obligations in a manner consistent with Remind's policies and practices.</p>",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23388",
+            "approval_status": "APPROVED",
+            "clause_text": "Each section is summarized and explained in plain English.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23430",
+            "approval_status": "APPROVED",
+            "clause_text": "Remind's main database and all backups are encrypted at rest.\n</li>\n<li>The AWS cloud infrastructure has been designed and managed in compliance with regulations, standards, and best-practices, including HIPAA, SOC 1/SSAE 16/ISAE 3402 (formerly SAS70), SOC 2, SOC 3, PCI DSS Level 1, ISO 27001, FedRAMP, DIACAP and FISMA, ITAR, FIPS 140-2, CSA, and MPAA.\n</li>\n<li>",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23410",
+            "approval_status": "APPROVED",
+            "clause_text": "You may terminate your use of the Services or your account at any time by deleting your account in your account settings tab or by contacting us at rmd.me/help.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:19:55",
+            "point_link": "https://edit.tosdr.org/points/23393",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to provide you with the Services, Remind needs to access and use your User Submissions in certain ways.\nYou hereby grant Remind a non-exclusive",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23407",
+            "approval_status": "APPROVED",
+            "clause_text": "You will indemnify, defend and hold Remind, its parents, subsidiaries, affiliates, officers, and employees harmless (including, without limitation, from all damages, liabilities, settlements, costs and attorneys' fees) from any claim or demand made by any third party due to or arising out of your access to or use of the Services, your violation of this Agreement, or the infringement by you or any third party using your account of any intellectual property or other right of any person or entity.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 06:19:55",
+            "point_link": "https://edit.tosdr.org/points/23404",
+            "approval_status": "APPROVED",
+            "clause_text": "Under American copyright law, the Digital Millennium Copyright Act (the \"DMCA\"), online service providers such as Remind have the right, but not the obligation, to remove material that allegedly violates someone's copyright.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23409",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:55",
+            "point_link": "https://edit.tosdr.org/points/23402",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\"crawls,\" \"scrapes,\" or \"spiders\" any page, data, or portion of or relating to the Services or Content (through use of manual or automated means).",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23406",
+            "approval_status": "APPROVED",
+            "clause_text": "the Services are provided AS IS WITHOUT ANY WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED, FROM REMIND OR ANYONE ELSE.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:19:55",
+            "point_link": "https://edit.tosdr.org/points/23400",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable as reasonably determined by Remind",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:19:54",
+            "point_link": "https://edit.tosdr.org/points/23386",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be responsible for maintaining the confidentiality of your account and password.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+            "rating": "neutral",
+            "description": "You must provide your legal name and pseudonyms aren't allowed, but it makes sense for the purposes of this service.",
+            "last_updated": "2023-07-11 06:19:58",
+            "point_link": "https://edit.tosdr.org/points/23387",
+            "approval_status": "APPROVED",
+            "clause_text": "Please keep your password safe, use your real name and create your own account before using Remind.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+                "href": "https://edit.tosdr.org/cases/213"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service (including Amazon Web Services)",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23429",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Remind stores its data within an AWS region",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:19:56",
+            "point_link": "https://edit.tosdr.org/points/23405",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-01-16 11:12:22 UTC, HARRY (38767)  wrote:\n          Hi there,  You have done a great job. I will definitely digg it and in my opinion recommend to my friends. I am sure they will be benefited from this site. cash for houses Tacoma",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        },
+        {
+            "title": "Users under 18 must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 06:19:54",
+            "point_link": "https://edit.tosdr.org/points/23383",
+            "approval_status": "APPROVED",
+            "clause_text": "IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN READ THE AGREEMENT BELOW AND AGREE TO IT FOR YOU.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:19:54",
+            "point_link": "https://edit.tosdr.org/points/23384",
+            "approval_status": "APPROVED",
+            "clause_text": "We may modify this Agreement at any time, but we will do our best to bring this to your attention by posting a notice on the Services or notifying you by email or by some other means.",
+            "point_source": "https://www.remind.com/terms-of-service",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:57",
+            "point_link": "https://edit.tosdr.org/points/23420",
+            "approval_status": "APPROVED",
+            "clause_text": "When users use our mobile application, we automatically collect the Internet Protocol (IP) address,",
+            "point_source": "https://www.remind.com/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

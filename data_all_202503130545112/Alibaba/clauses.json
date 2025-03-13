@@ -1,0 +1,921 @@
+{
+    "meta_data": {
+        "title": "Alibaba - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 06:18:15",
+            "point_link": "https://edit.tosdr.org/points/22092",
+            "approval_status": "APPROVED",
+            "clause_text": "when you use services that require access to contents stored in and/or functions on your devices (including but not limited to contacts in address book, photos, videos, microphone and/or camera), we use your photos, videos, contact information in your address book, and other personal information",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "Content you post may be edited by the service for any reason",
+            "rating": "blocker",
+            "description": "This service can edit any content on the service for whatever the reason and at their sole discretion.",
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22034",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-02 11:06:36 UTC, heleca (33694)  Suspended wrote:\n          I have read all the comments and suggestions posted by the visitors for this article are very fine,We will wait for your next article so only.Thanks! what are some invention ideas",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Content you post may be edited by the service for any reason",
+                "href": "https://edit.tosdr.org/cases/407"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:18:10",
+            "point_link": "https://edit.tosdr.org/points/22037",
+            "approval_status": "APPROVED",
+            "clause_text": "Alibaba.com reserves the right in our sole discretion to remove, modify or reject any User Content (in whole or in part)",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:18:15",
+            "point_link": "https://edit.tosdr.org/points/22098",
+            "approval_status": "APPROVED",
+            "clause_text": "We will collect details of user activities, transactions and interactions on the Platform including information relating to the types and specifications of the products and services purchased, pricing and delivery information, dispute and complaint records, communications between users and any information disclosed in any discussion forum.</p>",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22093",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are using our communication tools on the Platform (particularly in case of voice communication), we may require access to your camera and/or microphone, and may conduct voice recordings",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22090",
+            "approval_status": "APPROVED",
+            "clause_text": "including name, address, phone number, email address, job title and department",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22109",
+            "approval_status": "APPROVED",
+            "clause_text": "our business partners (for example, in order for them to provide you with discounts or offers that may interest you)",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21954",
+            "approval_status": "APPROVED",
+            "clause_text": "Alibaba.com may amend any Terms at any time",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22114",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Facebook http://www.facebook.com</p>\n<p>Twitter http://www.twitter.com</p>\n<p>Google&nbsp;http://www.google.com&nbsp;&nbsp;&nbsp;</p>\n<p>Criteo https://www.criteo.com/</p>\n<p>Bing https://www.bing.com/</p>\n<p>Yahoo https://www.yahoo.com/</p>\n<p>Mailru https://mail.ru/</p>\n<p>Yandex&nbsp;https://yandex.com</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22101",
+            "approval_status": "APPROVED",
+            "clause_text": "device type, unique device identification numbers, browser type, geographic location, browsing patterns and details of how you have interacted with our Platform and the goods and services available on it.\nIn addition, we gather statistical information about the Platform and visitors to the Platform including, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your content can be licensed to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22022",
+            "approval_status": "APPROVED",
+            "clause_text": "sub-licensable (through multiple tiers)",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "You have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22045",
+            "approval_status": "APPROVED",
+            "clause_text": "All claims arising from the use of the Sites or Services must be filed within one (1) year from the date the cause of action arose or such longer period as prescribed under the applicable law governing the Terms",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22102",
+            "approval_status": "APPROVED",
+            "clause_text": "<u>Information that we receive from third parties",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22104",
+            "approval_status": "APPROVED",
+            "clause_text": "sending and serving tailored marketing and advertising that we believe will be of interest to you",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "You may be tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22110",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In addition we also use social media cookies",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22115",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use other, similar technologies from time to time, like web beacons (sometimes called \"tracking pixels\" or \"clear gifs\")",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22116",
+            "approval_status": "APPROVED",
+            "clause_text": "from which website users are redirected to our Platform were",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22118",
+            "approval_status": "APPROVED",
+            "clause_text": "The data generated by the cookie about your use of the Platform will be transmitted to Google and stored by Google on servers in the United States",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (China)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21952",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-06-06 00:35:53 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-06-06 00:35:53 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-06-06 00:35:53 UTC by private prawn (22961)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22107",
+            "approval_status": "APPROVED",
+            "clause_text": "marketing and advertising platforms, such as Google, Twitter, Facebook and Instagram",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:18:15",
+            "point_link": "https://edit.tosdr.org/points/22108",
+            "approval_status": "APPROVED",
+            "clause_text": "anonymize it",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22106",
+            "approval_status": "APPROVED",
+            "clause_text": "Third party business partners, service providers and/or affiliates of Alibaba.com engaged by us or working with us to assist us to provide services to you or who otherwise process personal information for purposes described in this Privacy Policy or notified to you when we collect your personal information",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data may be collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22095",
+            "approval_status": "APPROVED",
+            "clause_text": "This may include health data of end-users (which may include minors as applicable)",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Your provided identifiable information is actively checked by the service",
+            "rating": "bad",
+            "description": "The service checks if the required identifiable information you've provided is correct, and may do so on a regular basis. The check measures could be analyzing your browser information and/or providing the identifiable information to a third-party or the authority, thus compromising your anonymity.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22096",
+            "approval_status": "APPROVED",
+            "clause_text": "We will collect contact details and other information of users from publicly available sources for the purposes of verifying the users and performing due diligence on the users",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your provided identifiable information is actively checked by the service",
+                "href": "https://edit.tosdr.org/cases/492"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:18:16",
+            "point_link": "https://edit.tosdr.org/points/22105",
+            "approval_status": "APPROVED",
+            "clause_text": "identifying, developing and marketing and advertising products",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your use is throttled",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21955",
+            "approval_status": "APPROVED",
+            "clause_text": "Alibaba.com reserves the right, without prior notice, to restrict access to or use of certain Services",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22044",
+            "approval_status": "APPROVED",
+            "clause_text": "the amount of fees the User has paid to Alibaba.com in exchange for the access to or use of the Site or Services during the calendar year",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22113",
+            "approval_status": "APPROVED",
+            "clause_text": "Google Analytics",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Archives of their agreements are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21953",
+            "approval_status": "APPROVED",
+            "clause_text": "Old version",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22094",
+            "approval_status": "APPROVED",
+            "clause_text": "COLLECTION OF INFORMATION",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22091",
+            "approval_status": "APPROVED",
+            "clause_text": "You should exercise caution when deciding what information you submit to us for publication",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22103",
+            "approval_status": "APPROVED",
+            "clause_text": "USE OF PERSONAL INFORMATION</strong>",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 06:19:12",
+            "point_link": "https://edit.tosdr.org/points/22117",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, most advertising networks offer you a way to opt out of targeted advertising.&nbsp.\nIf you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com.\nAlternatively you can follow the applicable links of the respective third party personalization cookie provided in the table above for details of how to opt out of use of particular advertising or personalization cookies",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:18:16",
+            "point_link": "https://edit.tosdr.org/points/22121",
+            "approval_status": "APPROVED",
+            "clause_text": "VISITORS FROM THE EUROPEAN UNION",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22120",
+            "approval_status": "APPROVED",
+            "clause_text": "SECURITY MEASURES",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:34",
+            "point_link": "https://edit.tosdr.org/points/22339",
+            "approval_status": "APPROVED",
+            "clause_text": "This was previously https://edit.tosdr.org/points/22039",
+            "point_source": "https://rule.alibaba.com/rule/detail/3180.htm",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service can use your content for all their existing and future services",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22023",
+            "approval_status": "APPROVED",
+            "clause_text": "irrevocable, perpetual",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "This service can use your content for all their existing and future services",
+                "href": "https://edit.tosdr.org/cases/180"
+            }
+        },
+        {
+            "title": "Your content can be distributed through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22024",
+            "approval_status": "APPROVED",
+            "clause_text": "any form, media, or technology now known or not currently known in any manner",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22021",
+            "approval_status": "APPROVED",
+            "clause_text": "shall not be responsible or liable to anyone for such web sites",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:50:02",
+            "point_link": "https://edit.tosdr.org/points/21936",
+            "approval_status": "APPROVED",
+            "clause_text": "Updated as of&nbsp;July&nbsp;15th, 2020",
+            "point_source": "https://rule.alibaba.com/rule/detail/3180.htm",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22042",
+            "approval_status": "APPROVED",
+            "clause_text": "Any material downloaded or otherwise obtained through the Sites or Services is done at each User's sole discretion and risk",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22112",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies cannot be disabled.",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:19:16",
+            "point_link": "https://edit.tosdr.org/points/22890",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE FULL EXTENT PERMITTED BY LAW, ALIBABA.COM AND OUR AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS OR REVENUES, BUSINESS INTERRUPTION, LOSS OF BUSINESS OPPORTUNITIES, LOSS OF DATA OR LOSS OF OTHER ECONOMIC INTERESTS, WHETHER IN CONTRACT, NEGLIGENCE, TORT OR OTHERWISE, ARISING FROM THE USE OF OR INABILITY TO USE THE&nbsp.\nALIBABA.COM SUPPLEMENTAL SERVICES.",
+            "point_source": "https://rule.alibaba.com/rule/detail/3180.htm",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:10",
+            "point_link": "https://edit.tosdr.org/points/22035",
+            "approval_status": "APPROVED",
+            "clause_text": "Alibaba.com does not endorse, verify or otherwise certify the contents of any comments or other material or information (including User Content) created, submitted, posted, displayed or otherwise made by any Member",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21947",
+            "approval_status": "APPROVED",
+            "clause_text": "PERFORMANCE, ACCURACY, RELIABILITY",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "Alternative accounts are not allowed",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22025",
+            "approval_status": "APPROVED",
+            "clause_text": "one User may only register one member account on the Sites",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 04:49:59",
+            "point_link": "https://edit.tosdr.org/points/22033",
+            "approval_status": "APPROVED",
+            "clause_text": "not engage in spamming or phishing",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This service is only available for commercial use",
+            "rating": "neutral",
+            "description": "Users can’t use the Service for individual or personal purposes (unless the Service consents): it is only for business to business (B2B).",
+            "last_updated": "2023-07-11 06:19:11",
+            "point_link": "https://edit.tosdr.org/points/22874",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-09-20 21:07:46 UTC, HASEEB (32770)  wrote:\n          Thank you pertaining to sharing that excellent written content on your website. I ran into it on google. I am going to check back again once you publish much more aricles.  continued",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "This service is only available for commercial use",
+                "href": "https://edit.tosdr.org/cases/495"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21946",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SITES ARE PROVIDED \"AS IS\"",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "No guarantee is given regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21948",
+            "approval_status": "APPROVED",
+            "clause_text": "QUALITY",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22030",
+            "approval_status": "APPROVED",
+            "clause_text": "defamatory, libelous, threatening or harassing",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:18:07",
+            "point_link": "https://edit.tosdr.org/points/22031",
+            "approval_status": "APPROVED",
+            "clause_text": "sexually explicit",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22028",
+            "approval_status": "APPROVED",
+            "clause_text": "Member agrees to notify Alibaba.com immediately if you become aware of any unauthorized use of your password or your account or any other breach of security of your account.",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "This service informs you that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22020",
+            "approval_status": "APPROVED",
+            "clause_text": "You are cautioned to read such web sites' terms and conditions and/or privacy policies before using the Sites.",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "This service informs you that its Terms of Service does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/408"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:18:10",
+            "point_link": "https://edit.tosdr.org/points/22047",
+            "approval_status": "APPROVED",
+            "clause_text": "Alibaba.com’s failure to enforce any right or failure to act with respect to any breach by you under the Terms will not constitute a waiver of that right nor a waiver of Alibaba.com’s right to act with respect to subsequent or similar breaches",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:18:02",
+            "point_link": "https://edit.tosdr.org/points/21949",
+            "approval_status": "APPROVED",
+            "clause_text": "NO REPRESENTATIONS OR WARRANTIES ABOUT THE VALIDITY, ACCURACY, CORRECTNESS, RELIABILITY, QUALITY, STABILITY, COMPLETENESS OR CURRENTNESS OF ANY INFORMATION",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:18:14",
+            "point_link": "https://edit.tosdr.org/points/22111",
+            "approval_status": "APPROVED",
+            "clause_text": "We use first",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22027",
+            "approval_status": "APPROVED",
+            "clause_text": "No Member may share, assign, or permit the use of your Member account, ID or password by another person",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22026",
+            "approval_status": "APPROVED",
+            "clause_text": "solely responsible for maintaining the confidentiality and security of your Member ID",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:18:08",
+            "point_link": "https://edit.tosdr.org/points/22032",
+            "approval_status": "APPROVED",
+            "clause_text": "not engage in any other unlawful activities (including without limitation those which would constitute a criminal offence, give rise to civil liability, etc) or encourage or abet any unlawful activities",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22046",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of the Terms is held to be invalid or unenforceable, such provision shall be deleted and the remaining provisions shall remain valid and be enforced",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 06:18:16",
+            "point_link": "https://edit.tosdr.org/points/22119",
+            "approval_status": "APPROVED",
+            "clause_text": "If a minor has provided us with Personal Data without parental or guardian consent, the parent or guardian should contact&nbsp;DataProtection.AE@aliexpress.com&nbsp;(for AliExpress.com users)",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:13",
+            "point_link": "https://edit.tosdr.org/points/22100",
+            "approval_status": "APPROVED",
+            "clause_text": "IP addresses",
+            "point_source": "https://rule.alibaba.com/rule/detail/2034.htm?spm=a2700.8293689.0.0.2ce267afFZ93cT",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:19:12",
+            "point_link": "https://edit.tosdr.org/points/22891",
+            "approval_status": "APPROVED",
+            "clause_text": "Alibaba.com makes no warranty regarding the Alibaba.com Supplemental Services or any products or services supplied by the sellers under any Online Transaction, including but not limited to:</p>\n<p>&nbsp;</p>\n<p>(a)&nbsp.\nthe Alibaba.com Supplemental Services will meet your requirements",
+            "point_source": "https://rule.alibaba.com/rule/detail/3180.htm",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:18:09",
+            "point_link": "https://edit.tosdr.org/points/22041",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event that any User has a dispute with any party to a transaction, such User agrees to release and indemnify Alibaba.com (and our agents, affiliates, directors, officers and employees) from all claims, demands, actions, proceedings, costs, expenses and damages (including without limitation any actual, special, incidental or consequential damages) arising out of or in connection with such dispute or the transaction",
+            "point_source": "https://rule.alibaba.com/rule/detail/2041.htm",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        }
+    ]
+}

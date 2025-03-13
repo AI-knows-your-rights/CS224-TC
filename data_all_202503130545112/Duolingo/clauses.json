@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "Duolingo - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 04:48:04",
+            "point_link": "https://edit.tosdr.org/points/20522",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>To support and enhance the Service, we work with a variety of third party advertising networks, marketing analytics service providers and website analysis firms, such as Google, Facebook, Oath, and Unity (collectively, “<strong>Third Party Advertising Service Providers</strong>”).",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Voice data is collected and shared with third-parties",
+            "rating": "bad",
+            "description": "The service collects data and recordings of your voice when you communicate with a service verbally and may use and share them with third parties, that may use this data for marketing or advertising.",
+            "last_updated": "2023-07-11 04:48:19",
+            "point_link": "https://edit.tosdr.org/points/20731",
+            "approval_status": "APPROVED",
+            "clause_text": "To recognize speech your audio may be sent to a third party provider such as Google, Apple, or Amazon Web Services.",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "Voice data is collected and shared with third-parties",
+                "href": "https://edit.tosdr.org/cases/489"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 04:48:04",
+            "point_link": "https://edit.tosdr.org/points/20521",
+            "approval_status": "APPROVED",
+            "clause_text": "These Third Party Advertising Service Providers collect and use personal data about your visits to and use of the Website and mobile Application, as well as other websites in order to serve you with advertisements and content tailored to meet your preferences and likely interests or better understand ad effectiveness.",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 06:30:34",
+            "point_link": "https://edit.tosdr.org/points/32162",
+            "approval_status": "APPROVED",
+            "clause_text": "You represent and warrant that (1) you are not organized under the laws of, operating from, or otherwise ordinarily resident in a country or territory that is the target or comprehensive U.S.\neconomic or trade sanctions (i.e., an embargo) or (2) identified on a list of prohibited or restricted persons, such as the U.S.\nTreasury Department’s List of Specially Designated Nationals and Blocked Persons, or (3) otherwise the target of U.S.\nsanctions.</p>",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "Google Analytics is used for statistics on their website",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:47:28",
+            "point_link": "https://edit.tosdr.org/points/20119",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Google Analytics which is a web analytics tool that helps us understand how users engage with the Website.",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:28:58",
+            "point_link": "https://edit.tosdr.org/points/31019",
+            "approval_status": "APPROVED",
+            "clause_text": "Any translation of an existing Duolingo course you submit or have submitted and any new language course you submit or have submitted as a Course Contributor (collectively, “Course Contributor Materials”) are owned by you (subject of course to us retaining ownership of the existing Duolingo course you translated).",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "Duolingo claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20121",
+            "approval_status": "APPROVED",
+            "clause_text": "Residents of California have the right to:</p>\n<ul>\n<li>Know what personal information we collect about you and from where we collect it.</li>\n<li>Access a copy of the personal information we hold about you.</li>\n<li>Understand how we process your personal information and how it may be shared.</li>\n<li>Opt out of having your personal information shared with certain third parties.</li>\n<li>Request we delete your Duolingo account and personal information.</li>\n</ul>\n<p>To make such a request, please send an email to privacy@duolingo.com.</p>\n</li>",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, you are notified a week or more in advance.",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 06:28:54",
+            "point_link": "https://edit.tosdr.org/points/30972",
+            "approval_status": "APPROVED",
+            "clause_text": "By accessing or using any part of the Service, you represent that you have read, understood, and agree to be bound by these Terms and Conditions including any future modifications.\nDuolingo may amend, update or change these Terms and Conditions.\nIf we do this, we will post a notice that we have made changes to these Terms and Conditions on the Websites for at least 7 days after the changes are posted and will indicate at the bottom of the Terms and Conditions the date these terms were last revised.\nAny revisions to these Terms and Conditions will become effective the earlier of (i) the end of such 7-day period or (ii) the first time you access or use the Service after such changes.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:59",
+            "point_link": "https://edit.tosdr.org/points/31020",
+            "approval_status": "APPROVED",
+            "clause_text": "As a condition of submitting any ratings, reviews, information, data, text, photographs, audio clips, audiovisual works, translations, flashcards or other materials on the Services (“Content”), you hereby grant to Duolingo a royalty free, perpetual, irrevocable, worldwide, nonexclusive, transferable, and sublicensable license to use, reproduce, copy, adapt, modify, merge, distribute, publicly display, create derivative works from, incorporate such Content into other works.\nsublicense through multiple tiers the Content, and acknowledge that this license cannot be terminated by you once your Content is submitted to the Services.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20120",
+            "approval_status": "APPROVED",
+            "clause_text": "You may opt out of any non-essential service e-mails at any time.",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:25:21",
+            "point_link": "https://edit.tosdr.org/points/28229",
+            "approval_status": "APPROVED",
+            "clause_text": "you understand and agree that you will receive no refund or exchange of any kind, including for any unused virtual currency or other Virtual Item, any Content or data associated with your use of the Service, or for anything else.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:04",
+            "point_link": "https://edit.tosdr.org/points/20517",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service may contain links to third-party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by Duolingo.\nWe do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:27:11",
+            "point_link": "https://edit.tosdr.org/points/28230",
+            "approval_status": "APPROVED",
+            "clause_text": "You expressly acknowledge and agree that Duolingo shall not be responsible or liable, directly or indirectly, for any damage or loss arising from your use of any third-party website, service, or content.</p>",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:28:57",
+            "point_link": "https://edit.tosdr.org/points/31016",
+            "approval_status": "APPROVED",
+            "clause_text": "Duolingo may, in its sole discretion and at any time, update, change, suspend, make improvements to or discontinue any aspect of the Service, temporarily or permanently.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:28:58",
+            "point_link": "https://edit.tosdr.org/points/31018",
+            "approval_status": "APPROVED",
+            "clause_text": "(ii) to maintain the confidentiality of your password and other information related to the security of your account.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:48:04",
+            "point_link": "https://edit.tosdr.org/points/20516",
+            "approval_status": "APPROVED",
+            "clause_text": "(iv) to be fully responsible for all use of your account and for any actions that take place through your account.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service informs users that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 04:48:04",
+            "point_link": "https://edit.tosdr.org/points/20518",
+            "approval_status": "APPROVED",
+            "clause_text": "If you access any third party website, service, or content from Duolingo, you understand that these Terms and Conditions and our Privacy Policy do not apply to your use of such sites.",
+            "point_source": "https://www.duolingo.com/terms",
+            "case": {
+                "text": "This service informs you that its Terms of Service does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/408"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2021-05-14 15:25:01",
+            "point_link": "https://edit.tosdr.org/points/20519",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20118",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Do Not Track<p>The Service is not designed to respond to “do not track” signals sent by some browsers.</p>",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:05",
+            "point_link": "https://edit.tosdr.org/points/20520",
+            "approval_status": "APPROVED",
+            "clause_text": "When you enter the Website, we collect your browser type and your IP address (a unique address that identifies your computer on the Internet).\nWhen you use our mobile Application, we collect your device type, your device ID, and your IP address.",
+            "point_source": "https://www.duolingo.com/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

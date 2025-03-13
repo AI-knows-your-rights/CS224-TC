@@ -1,0 +1,165 @@
+{
+    "meta_data": {
+        "title": "Proton AG - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2025-02-18 19:33:57",
+            "point_link": "https://edit.tosdr.org/points/75724",
+            "approval_status": "APPROVED",
+            "clause_text": "Within the limits of applicable law, the Company reserves the right to review and change these Terms at any time.",
+            "point_source": null,
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2025-02-18 19:33:13",
+            "point_link": "https://edit.tosdr.org/points/75723",
+            "approval_status": "APPROVED",
+            "clause_text": "The latest Terms will apply going forward and to any dispute or issue arising after the Terms have been updated.</p>",
+            "point_source": null,
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2025-02-18 19:34:22",
+            "point_link": "https://edit.tosdr.org/points/75721",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://proton.me/legal/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2025-01-31 10:06:50",
+            "point_link": "https://edit.tosdr.org/points/75722",
+            "approval_status": "APPROVED",
+            "clause_text": "Without limitation of the foregoing, and to the extent not prohibited by law, the total liability of the Company’s parties for any reason whatsoever arising out of or related to the use of, or inability to use, your Account or the Services, or these Terms, shall not exceed $100, or the amount you paid us, if any, for use of your Account or the Services, whichever amount is greater. This liability, if any, shall be complete and exclusive. The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.",
+            "point_source": null,
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 10:04:16",
+            "point_link": "https://edit.tosdr.org/points/7959",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Today, we are happy to take&nbsp;the next step and completely open source our webmail interface.\nThis means all the ProtonMail code that runs on your computer is now available for inspection.",
+            "point_source": "https://protonmail.com/blog/protonmail-open-source/",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:11:24",
+            "point_link": "https://edit.tosdr.org/points/14751",
+            "approval_status": "APPROVED",
+            "clause_text": "The ProtonMail Service is offered by Swiss-based Proton Technologies AG.\nAll user information is processed and stored by Proton Technologies AG in Switzerland.</p>",
+            "point_source": "https://protonmail.com/law-enforcement",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 10:11:24",
+            "point_link": "https://edit.tosdr.org/points/14752",
+            "approval_status": "APPROVED",
+            "clause_text": "Any dispute arising in connection with this Agreement, which the Parties will not be able to resolve amicably, will be submitted to the exclusive jurisdiction of the courts of Geneva, subject to possible appeal to the Swiss Federal Supreme Court in Lausanne.</li>",
+            "point_source": "https://protonmail.com/dpa.html",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "This service provides an onion site accessible over Tor",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2023-04-12 10:17:57",
+            "point_link": "https://edit.tosdr.org/points/16744",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-02-22 13:55:53 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-02-22 13:55:53 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-02-22 13:55:53 UTC by AgnesDeLion (20760)  Staff\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: This service provides an onion site accessible over Tor\n          \n          \n            Previous Analysis: \n            Updated Analysis: ProtonMail is reachable at https://protonirockerxow.onion\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: This service provides an onion site accessible over Tor\n          \n          \n            Previous Analysis: \n            Updated Analysis: ProtonMail is reachable at https://protonirockerxow.onion\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: This service provides an onion site accessible over Tor\n          \n          \n            Previous Analysis: \n            Updated Analysis: ProtonMail is reachable at https://protonirockerxow.onion\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: This service provides an onion site accessible over Tor\n          \n            Previous Analysis: \n            Updated Analysis: ProtonMail is reachable at https://protonirockerxow.onion\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/",
+            "case": {
+                "text": "An onion site accessible over Tor is provided",
+                "href": "https://edit.tosdr.org/cases/406"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2020-11-25 21:10:43",
+            "point_link": "https://edit.tosdr.org/points/11626",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://protonmail.com/support/knowledge-base/two-factor-authentication/",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 10:15:40",
+            "point_link": "https://edit.tosdr.org/points/19602",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>1.1.6EU Data Protection Laws\" means EU Directive 95/46/EC, as transposed into domestic legislation of each Member State and as amended, replaced or superseded from time to time, including by the GDPR and laws implementing or supplementing the GDPR;</li>",
+            "point_source": "https://protonmail.com/dpa.html",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Users agree to comply with the law of the service's country",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 10:06:30",
+            "point_link": "https://edit.tosdr.org/points/9297",
+            "approval_status": "APPROVED",
+            "clause_text": "Using ProtonMail for activities that break Swiss law is against ProtonMail’s Terms and Conditions",
+            "point_source": "https://protonmail.com/law-enforcement",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        }
+    ]
+}

@@ -1,0 +1,557 @@
+{
+    "meta_data": {
+        "title": "Amazon AWS - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service can view your browser history",
+            "rating": "blocker",
+            "description": "The service can view your search history and the websites you visit, which is an extremely intrusive way of collecting information that may include personal and/or sensitive data.",
+            "last_updated": "2023-07-11 10:13:33",
+            "point_link": "https://edit.tosdr.org/points/17226",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Examples of information we receive from other sources include: [...] search results and links, including paid listings (such as Sponsored Links).\"",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your browsing history can be viewed by the service",
+                "href": "https://edit.tosdr.org/cases/395"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 10:13:32",
+            "point_link": "https://edit.tosdr.org/points/17214",
+            "approval_status": "APPROVED",
+            "clause_text": "Account Information:</b> If you want to add, update, or delete information related to your account, please go to the AWS Management Console.\nWhen you update or delete any information, we usually keep a copy of the prior version for our records.</li>\n<li>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:13:33",
+            "point_link": "https://edit.tosdr.org/points/17219",
+            "approval_status": "APPROVED",
+            "clause_text": "geolocation data, for example if we enable transportation services from a third party in connection with an AWS event;<br>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14300",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies and similar tools to enhance your experience, provide our services, deliver relevant advertising, and make improvements.\nApproved third parties also use these tools to help us deliver advertising and provide certain site features.</p>",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:13:32",
+            "point_link": "https://edit.tosdr.org/points/17215",
+            "approval_status": "APPROVED",
+            "clause_text": "We keep your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes), or as otherwise communicated to you.",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:13:32",
+            "point_link": "https://edit.tosdr.org/points/17217",
+            "approval_status": "APPROVED",
+            "clause_text": "The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Consumer Privacy Act, depending on how you engage with the AWS Offerings:</p>\n<ul>\n<li>Identifiers, such as your name, alias, address, phone numbers, or IP address;</li>\n<li>personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number;</li>\n<li>characteristics of protected classifications under California or US federal law, such as age or gender, for example if we conduct user surveys or analysis;<br>\n</li>\n<li>commercial information, such as purchase activity;</li>\n<li>Internet or other electronic network activity information, including content interaction information, such as content downloads, streams, and playback details;</li>\n<li>biometric information, such as your voice or appearance, for example if you choose to participate in a demonstration of a speech or image recognition service;<br>\n</li>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14309",
+            "approval_status": "APPROVED",
+            "clause_text": "\" You grant (i) us a non-exclusive, worldwide, perpetual, irrevocable, transferrable, sublicensable, royalty-free, and fully paid up license under all intellectual property rights to your Lumberyard Submissions, and (ii) other AWS customers the same rights to your Lumberyard Submissions as these Service Terms provide to the Lumberyard Materials.\"",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:13:33",
+            "point_link": "https://edit.tosdr.org/points/17218",
+            "approval_status": "APPROVED",
+            "clause_text": "your age, gender, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third party service provider;<br>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:06:47",
+            "point_link": "https://edit.tosdr.org/points/10885",
+            "approval_status": "APPROVED",
+            "clause_text": "As we continue to develop our business, we might sell or buy businesses or services.\nIn such transactions, personal information generally is one of the transferred business assets",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:08:30",
+            "point_link": "https://edit.tosdr.org/points/17223",
+            "approval_status": "APPROVED",
+            "clause_text": "Information from Other Sources <p>Examples of information we receive from other sources include:</p>\n<ul>\n<li>marketing, sales generation, and recruitment information, including your name, email address, physical address, phone number, and other similar contact information;",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:06:49",
+            "point_link": "https://edit.tosdr.org/points/10886",
+            "approval_status": "APPROVED",
+            "clause_text": "We use your personal information to recommend AWS Offerings that might be of interest to you, identify your preferences, and personalize your experience with AWS Offerings",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:13:34",
+            "point_link": "https://edit.tosdr.org/points/17224",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>the full Uniform Resource Locators (URL) clickstream to, through, and from our website (including date and time)",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14308",
+            "approval_status": "APPROVED",
+            "clause_text": "\" You grant (i) us a non-exclusive, worldwide, perpetual, irrevocable, transferrable, sublicensable, royalty-free, and fully paid up license under all intellectual property rights to your Lumberyard Submissions, and (ii) other AWS customers the same rights to your Lumberyard Submissions as these Service Terms provide to the Lumberyard Materials.\"",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service receives your percise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14302",
+            "approval_status": "APPROVED",
+            "clause_text": "\"The personal information that we may collect, or may have collected from consumers in the preceding twelve months,[...] :geolocation data\"",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:04:56",
+            "point_link": "https://edit.tosdr.org/points/11378",
+            "approval_status": "APPROVED",
+            "clause_text": "We use your personal information to market and promote AWS Offerings.\nWe might display interest-based ads for AWS Offerings.\nTo learn more, please read our Interest-Based Ads notice.",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:13:31",
+            "point_link": "https://edit.tosdr.org/points/17208",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that by using the Currency Service, information related to your payment, including your name and address, may be used by our banking partners to process your payments in jurisdictions other than the United States.</p>",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/14301",
+            "approval_status": "APPROVED",
+            "clause_text": "If you use Amazon Connect Voice ID in a jurisdiction that has legal requirements related to the collection, possession, processing, use, disclosure, storage of any biometric information or identifiers (“biometric data”)",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:06:49",
+            "point_link": "https://edit.tosdr.org/points/10887",
+            "approval_status": "APPROVED",
+            "clause_text": "Location of Personal Information <p>Amazon Web Services, Inc.\nis located in the United States, and our affiliated companies are located throughout the world",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:13:33",
+            "point_link": "https://edit.tosdr.org/points/17221",
+            "approval_status": "APPROVED",
+            "clause_text": "Performance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance.\nApproved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes.",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service's beta is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/14304",
+            "approval_status": "APPROVED",
+            "clause_text": "AWS’S AND ITS AFFILIATES’ AND LICENSORS’ AGGREGATE LIABILITY FOR ANY BETA SERVICES AND BETA REGIONS WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAY US UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM.<br>\n</p>",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:04:47",
+            "point_link": "https://edit.tosdr.org/points/11377",
+            "approval_status": "APPROVED",
+            "clause_text": "Subject to applicable law, you have the right to:</p>\n<ul>\n<li>ask whether we hold personal information about you and request copies of such personal information and information about how it is processed;</li>\n<li>request that inaccurate personal information is corrected;</li>\n<li>request deletion of personal information that is no longer necessary for the purposes underlying the processing",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/17207",
+            "approval_status": "APPROVED",
+            "clause_text": "Following closure of your AWS account, we will delete Your Content in accordance with the Documentation.</p>\n<p>",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "This service will warn users about website maintenance",
+            "rating": "good",
+            "description": "Users will be notified before their experience is impacted due to website maintenance.",
+            "last_updated": "2023-07-11 10:13:31",
+            "point_link": "https://edit.tosdr.org/points/17206",
+            "approval_status": "APPROVED",
+            "clause_text": "From time to time, we may apply upgrades, patches, bug fixes, or other maintenance to the Services and AWS Content (“Maintenance”).\nWe agree to use reasonable efforts to provide you with prior notice of any scheduled Maintenance (except for emergency Maintenance), and you agree to use reasonable efforts to comply with any Maintenance requirements that we notify you about.</p>\n<p>",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "You will be notified about website maintenance",
+                "href": "https://edit.tosdr.org/cases/159"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:13:32",
+            "point_link": "https://edit.tosdr.org/points/17213",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal Information We Collect</li>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:13:33",
+            "point_link": "https://edit.tosdr.org/points/17220",
+            "approval_status": "APPROVED",
+            "clause_text": "No sale of personal information</b>.\nIn the preceding twelve months, we have not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy Act.</p>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 10:13:31",
+            "point_link": "https://edit.tosdr.org/points/17212",
+            "approval_status": "APPROVED",
+            "clause_text": "The terms are long but suprisingly contain some jokes!",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/14307",
+            "approval_status": "APPROVED",
+            "clause_text": "\" You grant (i) us a non-exclusive, worldwide, perpetual, irrevocable, transferrable, sublicensable, royalty-free, and fully paid up license under all intellectual property rights to your Lumberyard Submissions, and (ii) other AWS customers the same rights to your Lumberyard Submissions as these Service Terms provide to the Lumberyard Materials.\"",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:10:21",
+            "point_link": "https://edit.tosdr.org/points/17222",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not allow these cookies, then some or all of these services may not function properly.</p>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:13:32",
+            "point_link": "https://edit.tosdr.org/points/17216",
+            "approval_status": "APPROVED",
+            "clause_text": "Our business changes constantly, and our Privacy Notice may also change.\nYou should check our website frequently to see recent changes.\nYou can see the date on which the latest version of this Privacy Notice was posted.\nUnless stated otherwise, our current Privacy Notice applies to all personal information we have about you and your account.\nWe stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personal information collected in the past without informing affected customers and giving them a choice.<br>",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:03:15",
+            "point_link": "https://edit.tosdr.org/points/10888",
+            "approval_status": "APPROVED",
+            "clause_text": "If we reasonably believe any of Your Content violates the law, infringes or misappropriates the rights of any third party, or otherwise violates a material term of the Agreement (including the documentation, the Service Terms, or the Acceptable Use Policy) (“Prohibited Content”), we will notify you of the Prohibited Content and may request that such content be removed from the Services or access to it be disabled.\nIf you do not remove or disable access to the Prohibited Content within 2 business days of our notice, we may remove or disable access to the Prohibited Content or suspend the Services to the extent we are not able to remove or disable access to the Prohibited Content.",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:07:18",
+            "point_link": "https://edit.tosdr.org/points/17210",
+            "approval_status": "APPROVED",
+            "clause_text": "Amazon DynamoDB Reserved Capacity is nontransferable and all amounts paid in connection with the Amazon DynamoDB Reserved Capacity are nonrefundable, except that if we terminate the Agreement",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free beta service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14305",
+            "approval_status": "APPROVED",
+            "clause_text": "AWS AND ITS AFFILIATES AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BETA SERVICES AND BETA REGIONS, INCLUDING ANY WARRANTY THAT THE BETA SERVICES AND BETA REGIONS WILL BECOME GENERALLY AVAILABLE, BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING YOUR CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED.",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "Amazon WorkMail prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:07:57",
+            "point_link": "https://edit.tosdr.org/points/17211",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to use Amazon WorkMail for sending:</p>\n<ul>\n<li>Bulk emails, such as mass marketing emails</li>\n<li>Unsolicited and unwanted emails</li>\n<li>Phishing emails<",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:04:38",
+            "point_link": "https://edit.tosdr.org/points/11376",
+            "approval_status": "APPROVED",
+            "clause_text": "AWS IS PROVIDING BETA SERVICES AND BETA REGIONS TO YOU “AS IS.”",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:13:31",
+            "point_link": "https://edit.tosdr.org/points/17209",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU ARE SOLELY RESPONSIBLE FOR APPLYING APPROPRIATE SECURITY MEASURES TO YOUR DATA AND YOUR USE OF MEDIA, APPLIANCES AND SNOWMOBILE MATERIALS, INCLUDING ENCRYPTING SENSITIVE DATA AND NOT ALLOWING UNAUTHORIZED ACCESS TO ANY MEDIA, APPLIANCE OR SNOWMOBILE MATERIALS.</p>",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 10:13:34",
+            "point_link": "https://edit.tosdr.org/points/17227",
+            "approval_status": "APPROVED",
+            "clause_text": "Bahasa Indonesia </li>\n<li> Deutsch </li>\n<li> Español </li>\n<li> Français </li>\n<li> Italiano </li>\n<li> Português </li>\n</ul>\n<ul>\n<li> Tiếng Việt </li>\n<li> Türkçe </li>\n<li> Ρусский </li>\n<li> ไทย </li>\n<li> 日本語 </li>\n<li> 한국어 </li>\n<li> 中文 (简体) </li>\n<li> 中文 (繁體)",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/14303",
+            "approval_status": "APPROVED",
+            "clause_text": "EXCEPT TO THE EXTENT PROHIBITED BY LAW, AWS AND ITS AFFILIATES AND LICENSORS DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT,",
+            "point_source": "https://aws.amazon.com/service-terms/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:33",
+            "point_link": "https://edit.tosdr.org/points/17225",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Examples of the information we automatically collect include:</p>\n<ul>\n<li>network and connection information, such as the Internet protocol (IP) address used to connect your computer or other device to the Internet and information about your Internet service provider;",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/5837",
+            "approval_status": "APPROVED",
+            "clause_text": "Third-Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf.\nExamples include: delivering AWS hardware, sending communications, processing payments, assessing credit and compliance risks, analyzing data, providing marketing and sales assistance (including advertising and event management), conducting customer relationship management, and providing training.\nThese third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes.\nFurther, they must process that information in accordance with this Privacy Notice and as permitted by applicable data protection law.",
+            "point_source": "https://aws.amazon.com/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

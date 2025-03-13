@@ -1,0 +1,431 @@
+{
+    "meta_data": {
+        "title": "Foursquare - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19470",
+            "approval_status": "APPROVED",
+            "clause_text": "If you register for an account with Foursquare, you shall provide Foursquare with accurate and complete registration information (including, but not limited to your email address and/or mobile telephone number (optional) and a password you will use to access the Service).",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:15:28",
+            "point_link": "https://edit.tosdr.org/points/19464",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have location services turned on, whenever you use our Apps on your mobile device, we collect and use your geocoordinates (e.g.\nlatitude and longitude) to tailor the Consumer Services to your current location.\nWe will only process your location with your express permission.\nIf you have persistent background location turned on, we will obtain your device’s location even if you are not using the Apps.\nYour location is never shared with others, except with your consent or as permitted under this Privacy Policy.</p>",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:15:31",
+            "point_link": "https://edit.tosdr.org/points/19457",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also collect other data you provide when you use the Consumer Services, including pictures you upload, messages you send through the Apps, searches, likes, follows, check-ins, tips, survey responses, demographic information, and any other data that you voluntarily provide to us.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19463",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event that we obtain data about you from our Enterprise Customers and third parties, we will combine all data collected about you into one single profile.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19467",
+            "approval_status": "APPROVED",
+            "clause_text": "In particular, we receive data from unaffiliated apps and websites, online advertising services, and our partners, which we may use to send you advertisements that are tailored to your interests.\nThe data collected for this purpose includes data about how you interact with the Consumer Services or with unaffiliated websites and apps, device data, and data from cookies, pixels or other similar technologies.</p>\n<p>We combine the data described above with demographic data, location and other interest-based segment data obtained from third parties, including data obtained from the Enterprise Services to provide our Products.</p>",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:15:28",
+            "point_link": "https://edit.tosdr.org/points/19459",
+            "approval_status": "APPROVED",
+            "clause_text": "and</li>\n<li>data from cookies, pixels and other technologies, such as cookie ID, advertising ID or other unique advertising ID, web beacons, and local storage.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:15:29",
+            "point_link": "https://edit.tosdr.org/points/19458",
+            "approval_status": "APPROVED",
+            "clause_text": "If you opt in to sharing your location with us, we automatically receive data about your precise location (e.g., latitude-longitude coordinates) whenever you use the Consumer Services (e.g.\nopen our mobile apps, visit our website, etc.).",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "This service uses your personal information for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 10:15:31",
+            "point_link": "https://edit.tosdr.org/points/19498",
+            "approval_status": "APPROVED",
+            "clause_text": "To Operate, Maintain and Improve The Consumer Services<p>We use your data to operate, maintain the Consumer Services, and our business, and to understand you better and personalize the Consumer Services.\nTo do so, when you download more than one App, we combine your data that we obtain in each App.\nIn addition, if you use the Consumer Services when you are not logged into your Foursquare account, when you subsequently log in to your Foursquare account, we combine data collected while you were not logged in.</p>\n<p>Some features and functionality in our Apps require that you provide your location.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:15:29",
+            "point_link": "https://edit.tosdr.org/points/19468",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition, we may use or transfer data for interest-based advertising, including cross-device linking.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Usernames can be rejected or changed for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 04:47:42",
+            "point_link": "https://edit.tosdr.org/points/20223",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Foursquare reserves the right to refuse registration of, or cancel a user name, in its sole discretion.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:33:01",
+            "point_link": "https://edit.tosdr.org/points/18431",
+            "approval_status": "APPROVED",
+            "clause_text": "On our Consumer Services, we use third-party analytics services, such as those of Google Analytics.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19483",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use technologies like cookies, pixels, web beacons, local storage and other automated technologies on our Sites, in our emails, within our Apps, and sometimes in third party apps that use our APIs or SDKs to provide you with a range of products and services.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/17167",
+            "approval_status": "APPROVED",
+            "clause_text": "You may also request a copy of your data by (a) logging into your Swarm account or (b) logging into your City Guide account (web only) and clicking on “Export My Data” in your privacy settings.</p>\n<p>You may also delete your data and",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19481",
+            "approval_status": "APPROVED",
+            "clause_text": "if we are required to do so by law or legal process (such as a court order or subpoena).",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:04:26",
+            "point_link": "https://edit.tosdr.org/points/19482",
+            "approval_status": "APPROVED",
+            "clause_text": "in response to requests by government agencies, such as law enforcement authorities.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 10:02:57",
+            "point_link": "https://edit.tosdr.org/points/19676",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-30 06:06:51 UTC, byrong (36849)  wrote:\n          Thank you for your valuable contribution to documenting Foursquare's compliance with the California Consumer Privacy Act (CCPA). Your thorough analysis helps enhance transparency and user awareness regarding privacy practices. We appreciate your dedication to improving the clarity and accessibility of terms and conditions. Your efforts are essential in promoting informed decisions and protecting user rights. Keep up the excellent work![url=https://www.vooglam.com/blogDetail/low-bridge-fit-glasses]low bridge glasses[/url]\n[url=https://www.vooglam.com/blogDetail/black-and-white-glasses]black and white glasses[/url]\n[url=https://www.vooglam.com/blogDetail/collection-magnetic-clip-on-sunglasses-for-prescription-glasses]magnetic clip-on sunglasses[/url]\n[url=https://www.vooglam.com/blogDetail/over-the-glasses-sunglasses]otg sunglasses[/url]\n[url=https://www.vooglam.com/blogDetail/what-are-mirrored-sunglasses]mirrored sunglasses[/url]\n[url=https://www.vooglam.com/blogDetail/virtual-glasses-try-on]virtually glasses try-on[/url]\n[url=https://www.vooglam.com/blogDetail/modern-trendy-mens-glasses]modern trendy mens glasses[/url]\n[url=https://www.vooglam.com/blogDetail/new-fashion-sunglasses]trendy sunglasses[/url]\n[url=https://www.vooglam.com/blogDetail/what-are-photochromic-lenses-glasses]photochromic lenses glasses[/url]\n[url=https://www.vooglam.com/blogDetail/shop-the-latest-trends-in-eyeglass-frames]trends in eyeglass frames[/url]",
+            "point_source": "https://fr.foursquare.com/legal/ccpa-consumer",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 10:15:37",
+            "point_link": "https://edit.tosdr.org/points/19610",
+            "approval_status": "APPROVED",
+            "clause_text": "12.\nMore Information for Consumers From the EEA, UK and Switzerland<p>Where GDPR applies to the processing of your Personal Data, we rely on several legal bases.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 04:47:41",
+            "point_link": "https://edit.tosdr.org/points/20224",
+            "approval_status": "APPROVED",
+            "clause_text": "We recommend, but do not require, that you use your own name as your user name (“User Name”) so your friends can recognize you more easily.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:12:54",
+            "point_link": "https://edit.tosdr.org/points/17168",
+            "approval_status": "APPROVED",
+            "clause_text": "account at any time on our Sites by clicking on the \"Delete Your Account\" link in your \"Privacy Settings\" page through your web account.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:29",
+            "point_link": "https://edit.tosdr.org/points/19465",
+            "approval_status": "APPROVED",
+            "clause_text": "To opt out of receiving marketing communications, please see the “Unsubscribe from Marketing Emails and Text Messages” section of this Privacy Policy below.</p>",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:52",
+            "point_link": "https://edit.tosdr.org/points/17162",
+            "approval_status": "APPROVED",
+            "clause_text": "You shall defend, indemnify, and hold harmless Foursquare, its subsidiaries, affiliates and each of its and its subsidiaries’, affiliates' employees, contractors, directors, suppliers and representatives from all losses, costs, actions, claims, damages, expenses (including legal costs) or liabilities, that arise from or relate to your use or misuse of, or access to, our Sites, Services, Content, Save-to Link or otherwise from your User Submissions, violation of these Terms of Use, or infringement by you, or any third party using your account, of any intellectual property or other right of any person or entity",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:15:29",
+            "point_link": "https://edit.tosdr.org/points/19469",
+            "approval_status": "APPROVED",
+            "clause_text": "If we make material changes in the way we use your data, we will notify you by posting an announcement on our Sites or Apps, or by sending you an email (if we have your email).",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:12:44",
+            "point_link": "https://edit.tosdr.org/points/17163",
+            "approval_status": "APPROVED",
+            "clause_text": "If you reject cookies, this could affect the availability and functionality of the Consumer Services.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:15:55",
+            "point_link": "https://edit.tosdr.org/points/19887",
+            "approval_status": "APPROVED",
+            "clause_text": "You acknowledge that all Content accessed by you using the Service is at your own risk and you will be solely responsible and liable for any damage or loss to you or any other party resulting therefrom.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19473",
+            "approval_status": "APPROVED",
+            "clause_text": "Failure to do so shall constitute a breach of these Terms of Use, which may result in immediate termination of your Foursquare account.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:12:29",
+            "point_link": "https://edit.tosdr.org/points/17164",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be at least 13 years of age to access of use the Services.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19477",
+            "approval_status": "APPROVED",
+            "clause_text": "Foursquare cannot guarantee the authenticity of any Content or data which users may provide about themselves.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19471",
+            "approval_status": "APPROVED",
+            "clause_text": "You are solely responsible and liable for activity that occurs on your account and shall be responsible for maintaining the confidentiality of your Foursquare password.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:12:45",
+            "point_link": "https://edit.tosdr.org/points/17166",
+            "approval_status": "APPROVED",
+            "clause_text": "At this time, we do not honor web browser Do Not Track (“DNT”) signals or other similar mechanisms.",
+            "point_source": "https://foursquare.com/legal/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:47:42",
+            "point_link": "https://edit.tosdr.org/points/20225",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are under 18 years of age (or the age of legal majority where you reside), you may only access or use the Services under the supervision of a parent of legal guardian who agrees to be bound by these Terms of Use.",
+            "point_source": "https://foursquare.com/legal/terms",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        }
+    ]
+}

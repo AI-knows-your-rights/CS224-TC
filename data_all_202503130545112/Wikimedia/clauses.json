@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "Wikimedia - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:14:37",
+            "point_link": "https://edit.tosdr.org/points/18696",
+            "approval_status": "APPROVED",
+            "clause_text": "the website that referred you to the Wikimedia Sites",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:06:25",
+            "point_link": "https://edit.tosdr.org/points/11589",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We actively collect some types of information with a variety of commonly-used technologies.\nThese generally include tracking pixels,",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:35:50",
+            "point_link": "https://edit.tosdr.org/points/840",
+            "approval_status": "APPROVED",
+            "clause_text": "If users have an issue with the terms of use, they must take action within one year.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "Content is published under a free license instead of a bilateral one",
+            "rating": "good",
+            "description": "User-generated content, such as posts or comments, is published under a free license, meaning other users can reuse it (e.g. Creative Commons license).",
+            "last_updated": "2023-07-11 06:24:45",
+            "point_link": "https://edit.tosdr.org/points/27618",
+            "approval_status": "APPROVED",
+            "clause_text": "When you submit text to which you hold the copyright, you agree to license it under:\n<ul>\n<li>Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and</li>\n<li>GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts).</li>\n</ul>\n<p>(Re-users may comply with either license or both.)</p>\n<p>",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "Content is published under a free license instead of a bilateral one",
+                "href": "https://edit.tosdr.org/cases/131"
+            }
+        },
+        {
+            "title": "The service will resist legal requests for your information where reasonably possible",
+            "rating": "good",
+            "description": "The service will attempt to protect user information to a great extent, even so far as stating that they will only follow legal requirements to disclose user information in circumstances where this cannot be reasonably resisted.",
+            "last_updated": "2021-05-09 20:58:37",
+            "point_link": "https://edit.tosdr.org/points/20136",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://wikimediafoundation.org/about/transparency/2020-1/frequently-asked-questions/",
+            "case": {
+                "text": "The service will resist legal requests for your information where reasonably possible",
+                "href": "https://edit.tosdr.org/cases/305"
+            }
+        },
+        {
+            "title": "Archives of their agreements are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:23:56",
+            "point_link": "https://edit.tosdr.org/points/26884",
+            "approval_status": "APPROVED",
+            "clause_text": "Previous versions can be found below:</b>",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:06:28",
+            "point_link": "https://edit.tosdr.org/points/11590",
+            "approval_status": "APPROVED",
+            "clause_text": "We are strongly committed to not sharing nonpublic information and Personal Information with third parties.\nIn particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your Personal Information with any third parties for marketing purposes",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 04:47:37",
+            "point_link": "https://edit.tosdr.org/points/18693",
+            "approval_status": "APPROVED",
+            "clause_text": "In the unlikely event that the ownership of the Foundation changes, we will provide you 30 days’ notice before any personal information is transferred to the new owners or becomes subject to a different privacy policy.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, users are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 10:06:34",
+            "point_link": "https://edit.tosdr.org/points/11592",
+            "approval_status": "APPROVED",
+            "clause_text": "Changes to This Privacy Policy <p>Substantial changes to this Policy will not be made until after a public comment period of at least 30 days.\n</p>",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 06:24:45",
+            "point_link": "https://edit.tosdr.org/points/27617",
+            "approval_status": "APPROVED",
+            "clause_text": "The open-source software that powers the Wikimedia Sites depends on the contributions of volunteer software developers",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:06:24",
+            "point_link": "https://edit.tosdr.org/points/11591",
+            "approval_status": "APPROVED",
+            "clause_text": "We are committed to:</b>\n</p>\n<ul>\n<li>Describing how your information may be used or shared in this Privacy Policy.</li>\n<li>Using reasonable measures to keep your information secure.</li>\n<li>Never selling your information or sharing it with third parties for marketing purposes.</li>",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:14:38",
+            "point_link": "https://edit.tosdr.org/points/18694",
+            "approval_status": "APPROVED",
+            "clause_text": "If you want to create a standard account, in most cases we require only a username and a password.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:16",
+            "point_link": "https://edit.tosdr.org/points/26881",
+            "approval_status": "APPROVED",
+            "clause_text": "we do not endorse and are not responsible or liable for their availability, accuracy, or the related content, products, or services (including, without limitation, any viruses or other disabling features), nor do we have any obligation to monitor such third-party content.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:35:49",
+            "point_link": "https://edit.tosdr.org/points/10061",
+            "approval_status": "APPROVED",
+            "clause_text": "This page was last edited on 7 June 2019, at",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:06:24",
+            "point_link": "https://edit.tosdr.org/points/11594",
+            "approval_status": "APPROVED",
+            "clause_text": "We make no warranty that our services will meet your requirements, be safe, secure, uninterrupted, timely, accurate, or error-free, or that your information will be secure.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:23:56",
+            "point_link": "https://edit.tosdr.org/points/26880",
+            "approval_status": "APPROVED",
+            "clause_text": "Transmitting chain mail, junk mail, or spam to other users.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-07-11 06:25:16",
+            "point_link": "https://edit.tosdr.org/points/27616",
+            "approval_status": "APPROVED",
+            "clause_text": "Any content you add or any change that you make to a Wikimedia Site will be publicly and permanently available.</li>\n<li>If you add content or make a change to a Wikimedia Site without logging in, that content or change will be publicly and permanently archived in the public interest.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:06:23",
+            "point_link": "https://edit.tosdr.org/points/11593",
+            "approval_status": "APPROVED",
+            "clause_text": "We provide these services on an \"as is\" and \"as available\" basis, and we expressly disclaim all express or implied warranties of all kinds, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:23:56",
+            "point_link": "https://edit.tosdr.org/points/26879",
+            "approval_status": "APPROVED",
+            "clause_text": "we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content",
+            "point_source": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:38",
+            "point_link": "https://edit.tosdr.org/points/18695",
+            "approval_status": "APPROVED",
+            "clause_text": "Finally, when you visit any Wikimedia Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location.",
+            "point_source": "https://foundation.wikimedia.org/wiki/Privacy_policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

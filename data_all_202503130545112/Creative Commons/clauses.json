@@ -1,0 +1,543 @@
+{
+    "meta_data": {
+        "title": "Creative Commons - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:36:01",
+            "point_link": "https://edit.tosdr.org/points/11678",
+            "approval_status": "APPROVED",
+            "clause_text": "Removal</em>: Creative Commons may, but is not obligated to, review Your Content and may delete or remove Your Content (without notice) from any of the Services in its sole discretion",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14633",
+            "approval_status": "APPROVED",
+            "clause_text": "This information may include but is not limited to your name, email address, phone number, mailing address, payment information, photo, geographic location, and your social media handles.\n&nbsp;We may also collect additional demographic and other information about you in connection with our conferences and events (e.g., dietary and other preferences), and the provision of this information to us by you is optional.</p>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:10:39",
+            "point_link": "https://edit.tosdr.org/points/14262",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also use tracking technologies in our license buttons and/or icons that you can embed on other sites/services to track the website addresses where they are embedded, gauge user interaction with them, and determine the number of unique viewers of them.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:36:04",
+            "point_link": "https://edit.tosdr.org/points/11680",
+            "approval_status": "APPROVED",
+            "clause_text": "Termination: Creative Commons reserves the right to modify or discontinue your account or your membership in the CCGN at any time for any reason or no reason at all.</p>",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 06:36:04",
+            "point_link": "https://edit.tosdr.org/points/11687",
+            "approval_status": "APPROVED",
+            "clause_text": "Our computer systems are currently based in the United States and the United Kingdom and the majority of our contractors are based in the United States or Canada.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:10:38",
+            "point_link": "https://edit.tosdr.org/points/14260",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of any Services after new and/or revised Terms are effective indicates that you have read, understood, and agreed to those Terms.",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14642",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We may disclose your information if required to do so by law or on a good faith belief that such disclosure is permitted by this Privacy Policy or reasonably necessary or appropriate for any of the following reasons: (a)[...]\"",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:11:14",
+            "point_link": "https://edit.tosdr.org/points/14640",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties, and use such combined information in accordance with this Privacy Policy.</p>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:35:51",
+            "point_link": "https://edit.tosdr.org/points/11675",
+            "approval_status": "APPROVED",
+            "clause_text": "We may disclose your information with third parties who perform services on our behalf, including without limitation, event management, candidate selection, marketing, customer support, data storage, data analysis and processing, and legal services.</li>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14631",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We may collect information from you in a variety of ways, such as when you:[...] (i)[...]\"",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14634",
+            "approval_status": "APPROVED",
+            "clause_text": "and (b) information related to the ways in which you interact with the Services, such as referring and exit web pages and URLs,",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:36:13",
+            "point_link": "https://edit.tosdr.org/points/11683",
+            "approval_status": "APPROVED",
+            "clause_text": "If any of Creative Commons’ assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.</li>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14630",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect information in multiple ways, including when you provide information directly to us.\nwhen we passively collect information from you, such as from your browser or device.\nand from third parties.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/10746",
+            "approval_status": "APPROVED",
+            "clause_text": "We also collect data about your use of the Services through the use of Internet server logs and online tracking technologies, like cookies and/or tracking pixels.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:36:09",
+            "point_link": "https://edit.tosdr.org/points/11676",
+            "approval_status": "APPROVED",
+            "clause_text": "We may disclose de-identified and/or aggregated data for any purpose to third parties, including advertisers, promotional partners, and/or others.</li>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:11:16",
+            "point_link": "https://edit.tosdr.org/points/14643",
+            "approval_status": "APPROVED",
+            "clause_text": "We may disclose your information with current or future affiliated companies.</li>\n</ul>\n<ul>\n<li>\n<strong>Consent.</strong> We may disclose your information to any third parties based on your consent to do so.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:11:16",
+            "point_link": "https://edit.tosdr.org/points/14644",
+            "approval_status": "APPROVED",
+            "clause_text": "In many cases, we handle information on the ground that it furthers our legitimate interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals, these include:\n<ul>\n<li>Customer service</li>\n<li>Marketing, advertising, and fundraising</li>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:35:51",
+            "point_link": "https://edit.tosdr.org/points/11674",
+            "approval_status": "APPROVED",
+            "clause_text": "As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.</p>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:14",
+            "point_link": "https://edit.tosdr.org/points/14645",
+            "approval_status": "APPROVED",
+            "clause_text": "To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking here.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:11:24",
+            "point_link": "https://edit.tosdr.org/points/14635",
+            "approval_status": "APPROVED",
+            "clause_text": "If you receive email from us (such as the CC newsletter, campaign updates, or other ongoing email communications from CC), we may use certain analytics tools, such as clear GIFs, to capture data such as whether you open our message, click on any links or banners our email contains, or otherwise interact with what we send.\nThis data allows us to gauge the effectiveness of our communications and marketing campaigns.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:36:02",
+            "point_link": "https://edit.tosdr.org/points/11682",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not take any ownership of your content when you post it on our sites.",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:11:14",
+            "point_link": "https://edit.tosdr.org/points/14632",
+            "approval_status": "APPROVED",
+            "clause_text": "We may collect information from you in a variety of ways, such as when you:",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:04:19",
+            "point_link": "https://edit.tosdr.org/points/14629",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:08:16",
+            "point_link": "https://edit.tosdr.org/points/14638",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use Your Information",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:11:14",
+            "point_link": "https://edit.tosdr.org/points/14641",
+            "approval_status": "APPROVED",
+            "clause_text": "We may disclose your information if required to do so by law or on a good faith belief that such disclosure is permitted by this Privacy Policy or reasonably necessary or appropriate for any of the following reasons:",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 10:05:37",
+            "point_link": "https://edit.tosdr.org/points/10764",
+            "approval_status": "APPROVED",
+            "clause_text": "Privacy policies should be human readable and easy to find.</li>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:36:12",
+            "point_link": "https://edit.tosdr.org/points/11679",
+            "approval_status": "APPROVED",
+            "clause_text": "You may unsubscribe from our marketing emails at any time",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:36:11",
+            "point_link": "https://edit.tosdr.org/points/11685",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent authorized by law, you agree to indemnify and hold harmless Creative Commons, its employees, officers, directors, affiliates, and agents from and against any and all claims, losses, expenses, damages, and costs, including reasonable attorneys’ fees,",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:36:13",
+            "point_link": "https://edit.tosdr.org/points/11673",
+            "approval_status": "APPROVED",
+            "clause_text": "or for any loss or damage of any kind incurred as a result of the use of any Content posted, transmitted, linked from, or otherwise accessible through or made available via the Services.",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:35:50",
+            "point_link": "https://edit.tosdr.org/points/11688",
+            "approval_status": "APPROVED",
+            "clause_text": "We encourage you to check this page periodically for updates to stay informed on how we collect, use and share your information.\nIf we make material changes to this Privacy Policy, we will provide you with notice as required by law.</p>",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:11:13",
+            "point_link": "https://edit.tosdr.org/points/14636",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:36:02",
+            "point_link": "https://edit.tosdr.org/points/11677",
+            "approval_status": "APPROVED",
+            "clause_text": "Termination\n<p>By Creative Commons: Creative Commons may modify, suspend, or terminate the operation of, or access to, all or any portion of the Services at any time for any reason",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:38",
+            "point_link": "https://edit.tosdr.org/points/14261",
+            "approval_status": "APPROVED",
+            "clause_text": "Your warranties and indemnification obligations will survive for one year after termination.</p>\n<p>",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:36:04",
+            "point_link": "https://edit.tosdr.org/points/11681",
+            "approval_status": "APPROVED",
+            "clause_text": "Please do not register for an account on our sites unless you are 18 years old.",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:36:03",
+            "point_link": "https://edit.tosdr.org/points/11684",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not (a) use any Service for any illegal purpose",
+            "point_source": "https://creativecommons.org/terms/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:07:08",
+            "point_link": "https://edit.tosdr.org/points/14637",
+            "approval_status": "APPROVED",
+            "clause_text": "For more information about how we use cookies, please see our Cookies Notice.",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/14639",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We may use the information we collect from and about you to:[...] Conduct analytics, research, and reporting, including to synthesize and derive insights from your use of our Services;\"",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:36:06",
+            "point_link": "https://edit.tosdr.org/points/11686",
+            "approval_status": "APPROVED",
+            "clause_text": "As described further below, we may collect and analyze (a) device information such as IP addresses, location information (by country and city),",
+            "point_source": "https://creativecommons.org/privacy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

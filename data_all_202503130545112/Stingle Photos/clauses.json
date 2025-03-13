@@ -1,0 +1,487 @@
+{
+    "meta_data": {
+        "title": "Stingle Photos - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22484",
+            "approval_status": "APPROVED",
+            "clause_text": "Stingle Photos has the right to suspend or terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:18:43",
+            "point_link": "https://edit.tosdr.org/points/22503",
+            "approval_status": "APPROVED",
+            "clause_text": "Stingle Photos may disclose information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order.",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Your use is throttled",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/22482",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If we determine your bandwidth usage to be significantly excessive in relation to other Stingle Photos customers, we reserve the right to suspend your account or throttle your connection until you can reduce your bandwidth consumption.</p>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22492",
+            "approval_status": "APPROVED",
+            "clause_text": "Unlike other websites we don’t run analytics",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22491",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you're just browsing the website, we don’t collect any information at all.",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "No logs are kept",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22493",
+            "approval_status": "APPROVED",
+            "clause_text": "we don’t keep any server logs",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22498",
+            "approval_status": "APPROVED",
+            "clause_text": "Generally, Stingle Photos will retain User Personal Information for as long as your account is active or as needed to provide you services.</p>\n<p>We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion.\nFor example, we don't automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely.</p>",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "User-generated content is encrypted, and this service cannot decrypt it",
+            "rating": "good",
+            "description": "Content generated by the users is end-to-end encrypted, in a way that it can't be accessed by anyone unauthorised, and even the service has no technical means to decrypt it.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22502",
+            "approval_status": "APPROVED",
+            "clause_text": "Stingle Photos by design have no visibility on your photos and videos.\nThey are encrypted on client side and only you have the keys to decrypt them.",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "User-generated content is encrypted, and this service cannot decrypt it",
+                "href": "https://edit.tosdr.org/cases/372"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22499",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share User Personal Information if we are involved in a merger, sale, or acquisition.\nIf any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of User Personal Information, and we will notify you on our website or by email before any transfer of your User Personal Information.\nThe organization receiving any User Personal Information will have to honor any promises we have made in our Privacy Statement or in our Terms of Service.</p>",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22490",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments.\nWe will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22483",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively.</li>\n<li>We offer a 30 day refund policy on all paid Services.\nIf you would like a refund, please contact us and we will be more than happy to assist.</li>\n</ul>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22497",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not share, sell, rent, or trade User Personal Information with third parties.</p>",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "Two factor authentication is provided for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22478",
+            "approval_status": "APPROVED",
+            "clause_text": "We offer tools such as two-factor authentication to help you maintain your account's security",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "No third-party analytics or tracking platforms are used",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:18:43",
+            "point_link": "https://edit.tosdr.org/points/22494",
+            "approval_status": "APPROVED",
+            "clause_text": "we don’t serve any third party content (like scripts) and we don’t run ads.</p>",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22477",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You must provide a valid email address in order to complete the signup process.\nAny other information requested is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid account, in which case additional information will be necessary for billing purposes.</p>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22496",
+            "approval_status": "APPROVED",
+            "clause_text": "Under certain international laws (including GDPR), Stingle Photos is required to notify you about the legal basis on which we process User Personal Information.",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22471",
+            "approval_status": "APPROVED",
+            "clause_text": "You may cancel this agreement and close your account at any time.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22470",
+            "approval_status": "APPROVED",
+            "clause_text": "For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.</p>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22501",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Transmission of data on Stingle Photos is encrypted using SSH, HTTPS, and SSL/TLS.\nBy design, your photos and videos information is encrypted prior to being transmitted to our servers and is therefore encrypted at rest.",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22495",
+            "approval_status": "APPROVED",
+            "clause_text": "You can unsubscribe from any type of emails at any time and we will honor your request immediately.</li>",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22485",
+            "approval_status": "APPROVED",
+            "clause_text": "ou agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys' fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Stingle Photos (1) promptly gives you written notice of the claim, demand, suit or proceeding.\n(2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Stingle Photos of all liability).\nand (3) provides to you all reasonable assistance, at your expense.</p>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (January 2020)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22474",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Effective date: January 1, 2020",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22473",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22486",
+            "approval_status": "APPROVED",
+            "clause_text": "ll provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.</p>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22488",
+            "approval_status": "APPROVED",
+            "clause_text": "that the Service will be uninterrupted, timely, secure, or error-free.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22481",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers;</li>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22480",
+            "approval_status": "APPROVED",
+            "clause_text": "While using Stingle Photos, you agree that you will not under any circumstances:</p>\n<ul>\n<li>harass, abuse, threaten, or incite violence towards any individual or group, including Stingle Photos employees, officers, and agents, or other Stingle Photos Users;</li>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22472",
+            "approval_status": "APPROVED",
+            "clause_text": "We provide our service as is",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over 13 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22475",
+            "approval_status": "APPROVED",
+            "clause_text": "A User must be at least 13 years of age",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:18:43",
+            "point_link": "https://edit.tosdr.org/points/22500",
+            "approval_status": "APPROVED",
+            "clause_text": "we will act promptly to mitigate the impact of a breach and notify any affected users.</p>",
+            "point_source": "https://stingle.org/privacy/",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22479",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>You will promptly notify Stingle Photos if you become aware of any unauthorized use of, or access to, our Service through your account, including any unauthorized use of your password or account.</li>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22476",
+            "approval_status": "APPROVED",
+            "clause_text": "You alone are responsible for your account and anything that happens while you are signed in to or using your account.\nYou are responsible for keeping your account secure.</i>",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22487",
+            "approval_status": "APPROVED",
+            "clause_text": "Stingle Photos does not warrant that the Service will meet your requirements.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Delaware (USA)",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:18:42",
+            "point_link": "https://edit.tosdr.org/points/22489",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Except to the extent applicable law provides otherwise, this Agreement between you and Stingle Photos and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of Delaware, without regard to conflict of law provisions.",
+            "point_source": "https://stingle.org/terms/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

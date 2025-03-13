@@ -1,0 +1,459 @@
+{
+    "meta_data": {
+        "title": "Bilibili - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Prohibits political discussions which are against the government-advocated value",
+            "rating": "blocker",
+            "description": "Political content, which is against the government-advocated value, in the form or pictures, discussions, or campaigning isn’t allowed. Since it encourages the promotional content of the value, the service may tolerate trolling or spamming against political rivals or enemies.",
+            "last_updated": "2023-07-11 10:09:21",
+            "point_link": "https://edit.tosdr.org/points/16983",
+            "approval_status": "APPROVED",
+            "clause_text": "4.2 禁止用户从事以下行为：</p>\n<p> 4.2.1 制作、上传、复制、传送、传播包含任何反对宪法所确定的基本原则、危害国家安全、泄露国家秘密、颠覆国家政权、破坏国家统一、破坏民族团结、损害国家荣誉和利益、煽动民族仇恨、民族歧视、破坏民族团结、破坏国家宗教政策、宣扬邪教和封建迷信、淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪、侮辱或者诽谤他人，侵害他人合法权益的等法律、行政法规禁止的内容或其他令人反感的包括但不限于资讯、资料、文字、软件、音乐、照片、图形、信息或其他资料",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Political discussions which are against the government-advocated value are prohibited",
+                "href": "https://edit.tosdr.org/cases/410"
+            }
+        },
+        {
+            "title": "This service can view your browser history",
+            "rating": "blocker",
+            "description": "The service can view your search history and the websites you visit, which is an extremely intrusive way of collecting information that may include personal and/or sensitive data.",
+            "last_updated": "2023-07-11 10:12:45",
+            "point_link": "https://edit.tosdr.org/points/15598",
+            "approval_status": "APPROVED",
+            "clause_text": "我们会基于收集的信息，对您的偏好、习惯、位置作特征分析和用户画像，以便为您提供更适合的定制化服务，例如向您展现或推荐相关程度更高（而非普遍推送）的搜索结果、视频内容、线下活动、信息流或者广告/推广信息结果。为此，我们需要收集的信息包括您的设备信息（例如硬件��号、设备MAC地址、IMEI、IDFA、IMSI、必要的软件列表）、浏览器型号、日志信息、浏览记录、点赞/分享/评论/互动的对象、搜索的字词、<strong>个人位置信息（其中精准定位信息为个人敏感信息）</strong>。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "Your browsing history can be viewed by the service",
+                "href": "https://edit.tosdr.org/cases/395"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 10:06:10",
+            "point_link": "https://edit.tosdr.org/points/17557",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>您注册并登录哔哩哔哩账号时，需要按照我们的指引完成一系列注册程序，在此过程中，您需要向我们提供以下信息：账号昵称、手机号码或电子邮箱（个人敏感信息，用于接受验证码匹配个人身份）。您只有提供真实准确的上述信息，才能成功注册哔哩哔哩账号并使用产品和/或服务的核心功能。如果您选择不提供上述为实现哔哩哔哩核心产品功能的必备信息，或将导致我们无法为您提供该核心产品功能。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:12:23",
+            "point_link": "https://edit.tosdr.org/points/16892",
+            "approval_status": "APPROVED",
+            "clause_text": "您理解并同意，哔哩哔哩有权在法律允许的最大范围内视情况决定收回账号使用权，无需另行通知用户亦无需征得用户同意。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 10:03:02",
+            "point_link": "https://edit.tosdr.org/points/17488",
+            "approval_status": "APPROVED",
+            "clause_text": "我们依照法律法规的规定，仅会将收集到的有关您的个人信息存储于中华人民共和国境内。目前我们暂时不存在跨境存储您的个人信息或向境外提供个人信息的场景。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 10:12:46",
+            "point_link": "https://edit.tosdr.org/points/15605",
+            "approval_status": "APPROVED",
+            "clause_text": "用户在使用哔哩哔哩服务的过程中，应遵守以下法律法规：</p>\n<p> 4.1.1 《中华人民共和国保守国家秘密法》；</p>\n<p> 4.1.2 《中华人民共和国著作权法》；</p>\n<p> 4.1.3 《中华人民共和国计算机信息系统安全保护条例》；</p>\n<p> 4.1.4 《计算机软件保护条例》；</p>\n<p> 4.1.5 《网络信息内容生态治理规定》</p>\n<p> 4.1.6 《信息网络传播权保护条例》</p>\n<p> 4.1.7 《中华人民共和国网络安全法》；</p>\n<p> 4.1.8 其他法律、法规、规章、条例等具有法律效力的规范。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:12:44",
+            "point_link": "https://edit.tosdr.org/points/15607",
+            "approval_status": "APPROVED",
+            "clause_text": "如就本协议内容或其执行发生任何争议，应尽量友好协商解决；协商不成时，则争议各方均一致同意将争议提交广州仲裁委员会按照其仲裁规则进行仲裁。仲裁裁决为一裁终局，对各方均有法律约束力。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service uses your personal information for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 10:12:55",
+            "point_link": "https://edit.tosdr.org/points/15720",
+            "approval_status": "APPROVED",
+            "clause_text": "我们收集和使用的您的个人信息类型包括两种：<strong>第一种：我们产品与/或服务的核心业务功能所必需的信息：此类信息为产品与/或服务正常运行的必备信息，您须授权我们收集。如您拒绝提供，您将无法正常使用我们的产品与/或服务；第二种：附加业务功能可能需要收集的信息：此信息为非核心业务功能所需的信息，您可以选择是否授权我们收集。如您拒绝提供，将导致附加业务功能无法实现或无法达到我们拟达到的效果，但不影响您对核心业务功能的正常使用。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:12:27",
+            "point_link": "https://edit.tosdr.org/points/15452",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 3: 2021-02-02 05:04:10 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 3: 2021-02-02 05:04:10 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 3: 2021-02-02 05:04:10 UTC by reikousami (22226)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: Your personal data is given to third parties\n            Updated Title: This service can share your personal information to third parties \n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n    \n        \n          \n            Previous Title: Your personal data is given to third parties\n            Updated Title: This service can share your personal information to third parties \n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n          \n            Previous Title: Your personal data is given to third parties\n            Updated Title: This service can share your personal information to third parties \n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n            Previous Title: Your personal data is given to third parties\n            Updated Title: This service can share your personal information to third parties \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Usernames can be rejected or changed for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 10:12:55",
+            "point_link": "https://edit.tosdr.org/points/15719",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Text: \"2.6 您同意并承诺不从事以下行为： 2.6.5 使用侮辱、诽谤、色情、政治等违反法律、道德及公序良俗的词语注册哔哩哔哩账号\"",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15493",
+            "approval_status": "APPROVED",
+            "clause_text": "存储期限：我们在为您提供满足产品和服务目的所必需且最短的期间内保留您的个人信息，例如：当您使用我们的注册及会员功能时，我们需要收集您的手机号码，且在您提供后并在您使用该功能期间，我们需要持续保存您的手机号码，以向您正常提供该功能、保障您的账号和系统安全。此外，我们或对您的相关信息保存至相关法律所规定的必要期限（例如《电子商务法》规定：商品和服务信息、交易信息保存时间自交易完成之日起不少于三年）。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15488",
+            "approval_status": "APPROVED",
+            "clause_text": "我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。同时，我们会与合作伙伴签署严格的保密协定，要求他们按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理您的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15492",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>您理解并知悉：我们的某些产品/服务只能通过使用Cookie或同类技术才可得到实现，如您拒绝使用或删除的，您可能将无法正常使用我们的相关产品与/或服务或无法通过我们的产品与/或服务获得最佳的服务体验，同时也可能会对您的信息保护和账号安全性造成一定的影响。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:12:44",
+            "point_link": "https://edit.tosdr.org/points/15596",
+            "approval_status": "APPROVED",
+            "clause_text": "用户使用经由哔哩哔哩服务下载或取得的任何资料，其风险由用户自行负担，因该使用而导致用户电脑系统损坏或资料流失，用户应负完全责任。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:12:43",
+            "point_link": "https://edit.tosdr.org/points/15594",
+            "approval_status": "APPROVED",
+            "clause_text": "上次版本更新时间：2020年4月8日</p>\n<p>本次版本更新时间：2020年9月1日</p>",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Prohibits harming minors in any ways",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 10:03:03",
+            "point_link": "https://edit.tosdr.org/points/17489",
+            "approval_status": "APPROVED",
+            "clause_text": "4.2 禁止用户从事以下行为： [...] 4.2.2 以任何方式危害未成年人",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:12:46",
+            "point_link": "https://edit.tosdr.org/points/15626",
+            "approval_status": "APPROVED",
+            "clause_text": "哔哩哔哩不做任何与哔哩哔哩服务、产品的安全性、可靠性、及时性和性能有关的担保。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 10:12:45",
+            "point_link": "https://edit.tosdr.org/points/15597",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Text: \"2.6 您同意并承诺不从事以下行为： 2.6.3 使用同一身份认证信息注册多个哔哩哔哩账号（包括经哔哩哔哩审核认定多个哔哩哔哩账号的实际控制人为同一人的情形）\"",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:44",
+            "point_link": "https://edit.tosdr.org/points/15606",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Text: \"4.2 禁止用户从事以下行为： 4.2.11 未经哔哩哔哩事先明确书面许可，以任何方式（包括但不限于机器人软件、蜘蛛软件、爬虫软件等任何自动程序、脚本、软件）和任何理由自行或委托他人、协助他人获取平台的服务、内容、数据\"",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:12:46",
+            "point_link": "https://edit.tosdr.org/points/15619",
+            "approval_status": "APPROVED",
+            "clause_text": "除非另有明确的书面说明，哔哩哔哩提供给您的全部产品和服务，均是在“按现状”和“按现有”的基础上提供的。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:44",
+            "point_link": "https://edit.tosdr.org/points/15590",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 2: 2021-02-02 23:15:59 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2021-02-02 23:15:59 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2021-02-02 23:15:59 UTC by reikousami (22226)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:18:35",
+            "point_link": "https://edit.tosdr.org/points/22382",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Text: \"2.5 </strong>您同意并承诺做到：</p> <p> 2.5.1 当您的账号或密码遭到未经授权的使用，或者发生任何安全问题时，您会立即有效地通知到哔哩哔哩\"",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:12:46",
+            "point_link": "https://edit.tosdr.org/points/15620",
+            "approval_status": "APPROVED",
+            "clause_text": "哔哩哔哩对于任何包含、经由或连接、下载或从任何与有关本网络服务所获得的任何内容、信息或广告，不声明或保证其正确性或可靠性",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into third-party statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:12:29",
+            "point_link": "https://edit.tosdr.org/points/15449",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 5: 2021-02-02 01:57:00 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 5: 2021-02-02 01:57:00 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 5: 2021-02-02 01:57:00 UTC by reikousami (22226)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  DRAFT\n            Updated Status:  DECLINED\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  DRAFT\n            Updated Status:  DECLINED\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  DRAFT\n            Updated Status:  DECLINED\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  DRAFT\n            Updated Status:  DECLINED",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:12:44",
+            "point_link": "https://edit.tosdr.org/points/15604",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Text: \"2. 注册账号 \n2.2 您应对注册获得的哔哩哔哩账号（以下简称“账号”）项下的一切行为承担全部责任，不得侵犯包括但不限于哔哩哔哩在内的任何主体的合法权益。\n2.4 您应妥善保管账号信息、账号密码以及其他与账号相关的信息、资料。如因您的原因，造成账号信息、资料、数据的变动、灭失或财产损失等，您应立即通知哔哩哔哩并自行承担相关法律后果。\"",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:12:59",
+            "point_link": "https://edit.tosdr.org/points/15762",
+            "approval_status": "APPROVED",
+            "clause_text": "本条款因与中华人民共和国现行法律相抵触而导致部分无效，不影响其他部分的效力。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:12:45",
+            "point_link": "https://edit.tosdr.org/points/15610",
+            "approval_status": "APPROVED",
+            "clause_text": "在您使用我们的产品与/或服务时，我们可能会使用Cookie和同类技术收集您的一些个人信息，包括：您访问网站的习惯、您的浏览信息、您的登录信息，Cookie和同类技术收集该类信息是为了您使用我们的产品与/或服务的必要、简化您重复操作的步骤（如注册、登录）、便于您查看使用历史（如视频观看历史）、向您提供更切合您个人需要的服务内容和您可能更感兴趣的内容、保护您的信息和账号安全性、提升我们的产品和服务等。",
+            "point_source": "https://www.bilibili.com/blackboard/privacy-pc.html",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service employs separate policies for different parts of the service",
+            "rating": "neutral",
+            "description": "The user may need to read additional product-specific agreements depending on the way the service is used.",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18225",
+            "approval_status": "APPROVED",
+            "clause_text": "由于哔哩哔哩的产品和服务较多，为您提供的产品和服务内容也有所不同，本协议为哔哩哔哩统一适用的一般性用户服务条款。针对哔哩哔哩的某些特定产品/服务，哔哩哔哩还将制定特定用户服务协议，以便更具体地与您约定哔哩哔哩的服务内容、服务规则等内容，您应在充分阅读并同意特定用户服务协议的全部内容后再使用该特定产品/服务。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Separate policies are employed for different parts of the service",
+                "href": "https://edit.tosdr.org/cases/200"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in People's Republic of China",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:12:46",
+            "point_link": "https://edit.tosdr.org/points/15608",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-02-03 01:35:16 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-02-03 01:35:16 UTC by reikousami (22226)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-02-03 01:35:16 UTC by reikousami (22226)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:12:43",
+            "point_link": "https://edit.tosdr.org/points/15591",
+            "approval_status": "APPROVED",
+            "clause_text": "13.1 哔哩哔哩有权依据国家政策、技术条件、产品功能等变化需要而对本协议进行修改并将修改后的协议予以发布。</p>\n<p>13.2 前述内容一经正式发布，哔哩哔哩将以适当的方式（包括但不限于弹窗、邮件、站内信、网站公告等）提醒您更新的内容，以便您及时了解本协议的最新版本。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:12:43",
+            "point_link": "https://edit.tosdr.org/points/15609",
+            "approval_status": "APPROVED",
+            "clause_text": "哔哩哔哩不保证其提供的任何产品、服务或其他材料符合用户的期望。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:12:46",
+            "point_link": "https://edit.tosdr.org/points/15615",
+            "approval_status": "APPROVED",
+            "clause_text": "《哔哩哔哩隐私政策》</strong>、<strong>《帮助中心》</strong>、<strong>《社区规则》</strong>、<strong>《小黑屋处罚条例》</strong>以及哔哩哔哩公布的其他协议规范、规则、声明、公告、政策等（以下统称“其他哔哩哔哩规则”）是本协议不可分割的组成部分，您在使用哔哩哔哩服务时应同样遵守。",
+            "point_source": "https://www.bilibili.com/protocal/licence.html",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        }
+    ]
+}

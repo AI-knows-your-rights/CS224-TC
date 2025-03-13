@@ -1,0 +1,249 @@
+{
+    "meta_data": {
+        "title": "Follow My Health - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Sensitive data is collected and shared to target advertising",
+            "rating": "blocker",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 04:47:31",
+            "point_link": "https://edit.tosdr.org/points/19572",
+            "approval_status": "APPROVED",
+            "clause_text": "PHR Data might include, but is not limited to the following: </p> <ul> <li>\n\nYour name and contact information, such as your address, phone number, or email address </li> <li> Your medical history, conditions, treatments, and medications </li> <li> Your healthcare claims, health plan account numbers, bills, and insurance information </li> <li> Demographic information, such as your age, birthdate, gender, ethnicity, and occupation </li> <li> Computer information, such as your IP address and \"cookie\" preferences",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "Sensitive data is collected and shared to target advertising",
+                "href": "https://edit.tosdr.org/cases/487"
+            }
+        },
+        {
+            "title": "You must provide your identifiable and medical information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 10:15:41",
+            "point_link": "https://edit.tosdr.org/points/19571",
+            "approval_status": "APPROVED",
+            "clause_text": "Your name and contact information, such as your address, phone number, or email address </li>\n<li> Your medical history, conditions, treatments, and medications </li>\n<li> Your healthcare claims, health plan account numbers, bills, and insurance information </li>\n<li> Demographic information, such as your age, birthdate, gender, ethnicity, and occupation </li>\n<li> Computer information, such as your IP address and \"cookie\" preferences",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:47:57",
+            "point_link": "https://edit.tosdr.org/points/20372",
+            "approval_status": "APPROVED",
+            "clause_text": "Allscripts reserves the right in its sole discretion to determine who may qualify for an account and reserves the right to reject or revoke any account at any time without liability.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The services will notify users if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19577",
+            "approval_status": "APPROVED",
+            "clause_text": "Pursuant to applicable law, Allscripts may be required to send you notice of security breaches or suspected security breaches that impact your Personal Information and PHR Data.\n</p>",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "Two factor authentication is provided for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 04:47:53",
+            "point_link": "https://edit.tosdr.org/points/20371",
+            "approval_status": "APPROVED",
+            "clause_text": "Allscripts is committed to protecting your personal information and employs a variety of security technologies and procedures to help protect your information from unauthorized access, use, and disclosure. This includes, but is not limited to, the use of firewalls, complex passwords, dual-factor authentication, various audit trails, data loss prevention, regular penetration testing, and risk assessments.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:47:54",
+            "point_link": "https://edit.tosdr.org/points/20375",
+            "approval_status": "APPROVED",
+            "clause_text": "You may delete your FollowMyHealth account at any time by accessing the My Account -&gt.\nPreferences section of FollowMyHealth.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19575",
+            "approval_status": "APPROVED",
+            "clause_text": "Allscripts uses both technical and procedural Security Measures to maintain the confidentiality, integrity, and security of the FollowMyHealth Universal Health Record and other databases, including the use of firewalls, complex passwords, dual-factor authentication, various audit trails, data loss prevention, regular penetration testing, risk assessments, and anti-virus software.\nFollowMyHealth encrypts all PHR Data during transmission between your Provider and FollowMyHealth.\nWithin FollowMyHealth, all PHR Data is encrypted at three levels: each individual has a unique encryption key.\ndemographic information is encrypted.\nand clinical data is separately encrypted.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19579",
+            "approval_status": "APPROVED",
+            "clause_text": "When Allscripts makes material changes to this Privacy Policy, we will notify you within a reasonable period of time prior to the change.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19576",
+            "approval_status": "APPROVED",
+            "clause_text": "Date last modified: November 13, 2019 </p>",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 04:47:31",
+            "point_link": "https://edit.tosdr.org/points/20129",
+            "approval_status": "APPROVED",
+            "clause_text": "(j) post \"spam,\" transmit chain letters or engage in other similar activities.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19569",
+            "approval_status": "APPROVED",
+            "clause_text": "You must provide accurate and complete registration information when you register to use the Service.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:47:52",
+            "point_link": "https://edit.tosdr.org/points/20373",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over 18 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19573",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service is not intended for use by children younger than 18 years old.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 04:47:32",
+            "point_link": "https://edit.tosdr.org/points/20127",
+            "approval_status": "APPROVED",
+            "clause_text": "(b) use the Service to violate the legal rights (including the rights of publicity and privacy) of others or to violate the laws of any jurisdiction.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19570",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for the security of your passwords and for any use of your account.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/TermsOfUse",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20126",
+            "approval_status": "APPROVED",
+            "clause_text": "Notify Allscripts immediately if you believe your password has been breached.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:47:57",
+            "point_link": "https://edit.tosdr.org/points/20370",
+            "approval_status": "APPROVED",
+            "clause_text": "However, parents or guardians may elect to establish FollowMyHealth Universal Health Records for their children through the Service as Authorized Individuals-Representative and, in doing so, expressly consent to Allscripts utilizing such information as set forth in this Privacy Policy and the Terms of Use.",
+            "point_source": "https://www.followmyhealth.com/UseDocuments/PrivacyPolicy",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        }
+    ]
+}

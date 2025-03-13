@@ -1,0 +1,389 @@
+{
+    "meta_data": {
+        "title": "Ecosia - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service can view your browser history",
+            "rating": "blocker",
+            "description": "The service can view your search history and the websites you visit, which is an extremely intrusive way of collecting information that may include personal and/or sensitive data.",
+            "last_updated": "2023-07-11 06:35:40",
+            "point_link": "https://edit.tosdr.org/points/13496",
+            "approval_status": "APPROVED",
+            "clause_text": "We also save the searches we receive to filter spam.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Your browsing history can be viewed by the service",
+                "href": "https://edit.tosdr.org/cases/395"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:35:38",
+            "point_link": "https://edit.tosdr.org/points/5975",
+            "approval_status": "APPROVED",
+            "clause_text": "We use the locational data in order to give you a better Ecosia experience or to show more relevant search results or advertising to you.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service allows tracking via third-party cookies for purposes including targeted advertising.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:32:52",
+            "point_link": "https://edit.tosdr.org/points/5980",
+            "approval_status": "APPROVED",
+            "clause_text": "Ecosia allows third-party providers to set cookies in order to check the success of Ecosia advertising campaigns.</p>",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:54",
+            "point_link": "https://edit.tosdr.org/points/5977",
+            "approval_status": "APPROVED",
+            "clause_text": "You can also register via your accounts with the third-party providers Facebook, Twitter and Google.\nWhen you register via the login details of a third-party provider, the provider will also process your personal data.\nhowever, we will not have access to this information.\nInformation collected by the commenting function is made available to us via Disqus.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:07:46",
+            "point_link": "https://edit.tosdr.org/points/17679",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the Website following the publishing of updated Terms of Service means that you accept and agree to the changes.",
+            "point_source": "https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:35:43",
+            "point_link": "https://edit.tosdr.org/points/13497",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Information stored in our cookies include: [...] Your Bing Client ID (if enabled)\"",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:09:21",
+            "point_link": "https://edit.tosdr.org/points/13498",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Information stored in our cookies include: [...] In some cases which way you have found Ecosia\" (that means Ecosia may track the referrer)",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of users' data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 10:02:57",
+            "point_link": "https://edit.tosdr.org/points/5981",
+            "approval_status": "APPROVED",
+            "clause_text": "The anonymised data are saved for as long as is necessary",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:35:52",
+            "point_link": "https://edit.tosdr.org/points/13499",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We will never share your searches with anyone except services that are directly involved in answering your search request, like Bing.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:09:21",
+            "point_link": "https://edit.tosdr.org/points/13495",
+            "approval_status": "APPROVED",
+            "clause_text": "Even if search requests are routed to the nearest server, \"generally\" implies they may be processed in any server in any country in the world.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics on non-search pages",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:09:21",
+            "point_link": "https://edit.tosdr.org/points/13500",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Ecosia does use third party tools on non-search pages where absolutely necessary to help us understand and tune our marketing campaigns.\nFor example, we may run an ad campaign on a social media site that requires us to share some data about user activity in order to help us understand how effective that campaign is.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 10:07:44",
+            "point_link": "https://edit.tosdr.org/points/17673",
+            "approval_status": "APPROVED",
+            "clause_text": "We remove parts of the IP address when we store it so they become anonymous.\nFor example 192.168.152.223 becomes 192.168.XXX.XXX</li>",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:07:44",
+            "point_link": "https://edit.tosdr.org/points/17674",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not store any personal information in the cookie.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:34:30",
+            "point_link": "https://edit.tosdr.org/points/5193",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the following rights with respect to us regarding the personal data relating to you:</p>\n<ul>\n<li>Right to information</li>\n<li>Right to correction or deletion",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 06:33:29",
+            "point_link": "https://edit.tosdr.org/points/17912",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>To access certain features of the Website you have to register by entering your email and choosing a password as part of our security procedures.",
+            "point_source": "https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 10:13:54",
+            "point_link": "https://edit.tosdr.org/points/17916",
+            "approval_status": "APPROVED",
+            "clause_text": "When you provide Feedback, you grant us, under all right, title and interest in and to the Feedback, a non-exclusive, royalty-free, worldwide, transferable, sub-licensable, irrevocable, perpetual license to use that Feedback or to incorporate it into the Website or other products or services.</p>",
+            "point_source": "https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:13:54",
+            "point_link": "https://edit.tosdr.org/points/17915",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms of Service and any dispute or claim arising out of, or related to them, shall be governed by and construed in accordance with German laws without giving effect to any choice or conflict of law provision or rule.</p>",
+            "point_source": "https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "The service deletes tracking data after a period of time and allows you to opt out",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:44",
+            "point_link": "https://edit.tosdr.org/points/17677",
+            "approval_status": "APPROVED",
+            "clause_text": "After 7 days we remove all personal information (like the IP address) from the search data we collect ourselves.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "The service deletes tracking data after a period of time and allows you to opt out",
+                "href": "https://edit.tosdr.org/cases/221"
+            }
+        },
+        {
+            "title": "info given about what personal data they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:02:51",
+            "point_link": "https://edit.tosdr.org/points/4378",
+            "approval_status": "APPROVED",
+            "clause_text": "info given about what personal data they collect\n    \n      \n        \n          \n              Version 5: 2018-08-29 14:14:26 UTC by Certusic (547) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 5: 2018-08-29 14:14:26 UTC by Certusic (547) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 5: 2018-08-29 14:14:26 UTC by Certusic (547) \n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 04:47:40",
+            "point_link": "https://edit.tosdr.org/points/20173",
+            "approval_status": "APPROVED",
+            "clause_text": "1.\nContact &amp.\ndata protection officer <p>In relation to the General Data Protection Regulation (DSGVO), the organisation responsible is:</p>\n<p>Ecosia GmbH<br> Gerichtstraße 23 13347 Berlin Germany<br> info@ecosia.org</p>\n<p>Our Data Protection Officer can be contacted at privacy@ecosia.org or our postal address with the addition of \"data protection\".",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "This service respects your browser's Do Not Track (DNT) headers",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 06:33:24",
+            "point_link": "https://edit.tosdr.org/points/7529",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have \"Do Not Track\" enabled in your browser settings we do not collect any analytics data.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:33:30",
+            "point_link": "https://edit.tosdr.org/points/13501",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not, and never will, share or sell any data we collect ourselves with any third party.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:13:54",
+            "point_link": "https://edit.tosdr.org/points/17913",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>We do not use unique event fingerprinting</li>\n<li>We send all data collected from Ecosia services over an SSL-secured connection</li>\n<li>We store all analytics data in an highly encrypted database</li>\n<li>We only keep fully anonymised search data after 7 days</li>",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:32:51",
+            "point_link": "https://edit.tosdr.org/points/5978",
+            "approval_status": "APPROVED",
+            "clause_text": "Data protection declaration version date",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:07:53",
+            "point_link": "https://edit.tosdr.org/points/17678",
+            "approval_status": "APPROVED",
+            "clause_text": "Changes to the Terms of Service and the Website<p>Ecosia is a work in progress, meaning that a lot will change in the near future.\nWe reserve the right to update the Website and these Terms of Service from time to time, at our discretion.\nWe will make sure to announce any major change in a prominent way.",
+            "point_source": "https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:06:09",
+            "point_link": "https://edit.tosdr.org/points/5192",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that you may not be able to use all functions of this website within the full scope if you deactivate cookies for our website.",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service refers users to external documents for more information",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:06:23",
+            "point_link": "https://edit.tosdr.org/points/5976",
+            "approval_status": "APPROVED",
+            "clause_text": "For more information on how Bing handles your data see their privacy policy.</p>",
+            "point_source": "https://info.ecosia.org/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        }
+    ]
+}

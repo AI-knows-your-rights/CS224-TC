@@ -1,0 +1,81 @@
+{
+    "meta_data": {
+        "title": "DuckDuckGo - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2024-04-12 13:56:21",
+            "point_link": "https://edit.tosdr.org/points/33461",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://duckduckgo.com/terms",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "You can delete your account and Duck Addresses",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-05-19 17:02:52",
+            "point_link": "https://edit.tosdr.org/points/33462",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://duckduckgo.com/email/privacy-terms",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2020-10-06 15:52:27",
+            "point_link": "https://edit.tosdr.org/points/10249",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-12 10:00:15 UTC, amnaseo (11214)  wrote:\n          This is my first time i visit here and I found so many interesting stuff in your blog especially it's discussion, thank you.فيب الرياض",
+            "point_source": "duckduckgo.com/privacy",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "This service provides an onion site accessible over Tor",
+            "rating": "good",
+            "description": "Tor is a software for anonymous communication that directs Internet traffic through an overlay network. Onion sites are only available through Tor browser and provide additional security and anonymity to users.",
+            "last_updated": "2021-11-19 16:05:15",
+            "point_link": "https://edit.tosdr.org/points/25636",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://duckduckgo.com/privacy",
+            "case": {
+                "text": "An onion site accessible over Tor is provided",
+                "href": "https://edit.tosdr.org/cases/406"
+            }
+        },
+        {
+            "title": "The service makes critical changes to its terms without user involvement",
+            "rating": "neutral",
+            "description": "They may significantly update the terms at any time and at their sole discretion, meaning for any reason and without necessarily taking into account the interests or suggestions of the users of the Service.",
+            "last_updated": "2019-06-23 01:04:02",
+            "point_link": "https://edit.tosdr.org/points/6172",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://duckduckgo.com/privacy",
+            "case": {
+                "text": "Critical changes to the terms are made without user involvement",
+                "href": "https://edit.tosdr.org/cases/120"
+            }
+        }
+    ]
+}

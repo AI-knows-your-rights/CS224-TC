@@ -1,0 +1,263 @@
+{
+    "meta_data": {
+        "title": "Météo France - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Google Ad is used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20260",
+            "approval_status": "APPROVED",
+            "clause_text": "GOOGLE AD MANAGER utilise des cookies pour recueillir des informations au sujet de vos connexions sur les sites Internet de prévisions.",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:27:48",
+            "point_link": "https://edit.tosdr.org/points/30094",
+            "approval_status": "APPROVED",
+            "clause_text": "Météo France peut être amené à transmettre vos Données personnelles aux autorités de police, aux autorités judiciaires ou administratives pour répondre à une obligation légale.</p>",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Météo France (from Goolge Analytics) tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20259",
+            "approval_status": "APPROVED",
+            "clause_text": "Session __utmz\nGoogle Analytics - Gère les informations de provenance de l'internaute : la page à partir de laquelle l'utilisateur a accédé au site, le moteur de recherche qu'il a utilisé pour y accéder ou le lien sur lequel il a cliqué, le(s) mot(s) clé(s) utilisé(s) pour la recherche et le pays à partir duquel il s'est connecté.",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20258",
+            "approval_status": "APPROVED",
+            "clause_text": "Cookies de réseaux sociaux (Facebook, Twitter, LinkedIn, Instagram, YouTube, PInterest)&nbsp;générés par les boutons de partage.",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:20:06",
+            "point_link": "https://edit.tosdr.org/points/23482",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>A ce titre, Météo-France fait appel aux services d’une régie publicitaire pour sous traiter la commercialisation d’espaces publicitaires sur le site Internet de Météo-France.\nPour ce faire, la régie est autorisée à traiter vos données d’identification du terminal (IP, MAC)</p>\n<p>Le traitement de vos données a pour finalité de réaliser un ciblage individuel permettant d’améliorer la diffusion de publicités.</p>",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:13",
+            "point_link": "https://edit.tosdr.org/points/23572",
+            "approval_status": "APPROVED",
+            "clause_text": "Dans la mesure où un de ces sous-traitants auraient accès à vos données personnelles",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:20:02",
+            "point_link": "https://edit.tosdr.org/points/23481",
+            "approval_status": "APPROVED",
+            "clause_text": "Météo-France peut être amené à transférer des données personnelles vous concernant en dehors de l’Union Européenne.",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics (AT internet; Google Analytics; Estat)",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20257",
+            "approval_status": "APPROVED",
+            "clause_text": "Des cookies de mesure d'audience (AT Internet, Google Analytics sur l'ensemble des sites, Estat uniquement sur le site de prévisions en Métropole)",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:47:59",
+            "point_link": "https://edit.tosdr.org/points/20448",
+            "approval_status": "APPROVED",
+            "clause_text": "e. Droit à l’effacement <p>Vous avez le droit de demander à Météo-France d’effacer vos données personnelles si vous vous trouvez dans une des situations suivantes :</p> <ul> <li>Vos données sont utilisées à des fins de prospection ;</li> <li>Vos données ne sont pas ou plus nécessaires au regard des objectifs pour lesquels elles ont été initialement collectées ou traitées ;</li> <li>Vos données ont été collectées lorsque vous étiez mineur dans le cadre de la société de l’information</li> <li>Vous retirez votre consentement à l’utilisation des données ;</li> <li>Vos données font l’objet d’un traitement illicite ;</li> <li>Vos données doivent être effacées pour respecter une obligation légale ;</li> <li>Vous vous êtes opposé au traitement de vos données et le responsable du fichier n’a pas de motif légitime ou impérieux de ne pas donner suite à cette demande.</li> </ul> <p> Si tel est le cas, vous pouvez effectuer une demande d’effacement de vos données personnelles en contactant le DPO de Météo-France qui traitera votre demande dans les meilleurs délais.",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "A list of all cookies set by the website is provided",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 04:47:59",
+            "point_link": "https://edit.tosdr.org/points/20451",
+            "approval_status": "APPROVED",
+            "clause_text": "A quoi servent les cookies émis sur nos sites ?",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20255",
+            "approval_status": "APPROVED",
+            "clause_text": "g.\nDroit à la portabilité des données\n<p>Pour les données à caractère personnel dont le traitement est fondé sur le consentement ou dont le traitement est effectué à l’aide de procédés automatisés, vous avez le droit à la portabilité de vos données.\nCela signifie que vous pouvez demander qu’une copie de vos données à caractère personnel vous soit adressée dans un format « structuré, couramment utilisé et lisible par la machine ».\nCette copie peut, selon votre souhait, vous être transférée directement, ou être transférée au responsable de traitement de votre choix, à condition que transfert soit techniquement possible.",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20253",
+            "approval_status": "APPROVED",
+            "clause_text": "VI.\nSÉCURITÉ\n<p>Météo-France assure la protection de vos données personnelles en mettant en œuvres des mesures techniques et organisationnelles appropriées conformément aux dispositions légales applicables.\nA cet effet, Météo-France a pris les dispositions suivantes :</p>\n<ul>\n<li>Informations sur le stockage des données</li>\n<li>Informations sur l’accès informatique</li>\n<li>Nomination d’un délégué à la protection des données</li>\n</ul>\n<p>\nAinsi que toutes les mesures qui ont pu être prises concernant la sécurité informatique, les politiques de sensibilisation s’il y a.</p>",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:48:02",
+            "point_link": "https://edit.tosdr.org/points/20450",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>- Si vous refusez les cookies internes</strong>, les principales fonctionnalités d'affichage des prévisions et de la vigilance &nbsp;météorologique, de recherche et de navigation sur les sites ne seront pas affectées mais vous ne pourrez plus bénéficier des fonctionnalités et applications suivantes&nbsp;:</p>\n<p>Sur les sites de prévisions, vous ne pourrez plus&nbsp;:</p>\n<ul>\n<li>accéder à vos villes favorites mémorisées via l'étoile&nbsp;et disponibles dans la barre des favoris&nbsp;;</li>\n<li>accéder directement aux dernières villes consultées disponibles en raccourcis ;</li>\n<li>utiliser le partage des réseaux sociaux.</li>\n</ul>\n<p>Sur le site Services,&nbsp;vous ne pourrez plus commander de produit en ligne.\nPar ailleurs :</p>\n<ul>\n<li>le système vous demandera régulièrement vos identifiants de connexion&nbsp;;</li>\n<li>votre panier ne pourra pas être sauvegardé&nbsp;;</li>\n<li>le système ne mémorisera pas l'historique des produits que vous aurez consultés.\nCes produits sont normalement affichés dans la rubrique \"Produits récemment consultés et recommandations\".",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Your personnal data may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:59",
+            "point_link": "https://edit.tosdr.org/points/20449",
+            "approval_status": "APPROVED",
+            "clause_text": "IV.\nACCÈS a.\nAccès aux Données personnelles au sein de Météo-France\n<p>\nDifférentes personnes et/ou entités travaillant au sein de Météo-France peuvent avoir accès à vos données personnelles dans le cadre de leurs missions professionnelles.\nIl s’agit essentiellement :</p>\n<ul>\n<li>du personnel Technique de Météo-France ;</li>\n<li>du personnel commercial de Météo-France ;</li>\n<li>du personnel scientifique de Météo-France ;</li>\n<li>du personnel administratif de Météo-France.</li>",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 04:48:02",
+            "point_link": "https://edit.tosdr.org/points/20447",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>a) <strong>Les cookies internes</strong> (cookies de fonctionnement), parfois nommés cookies first-party qui sont émis par Météo-France directement pour l'ensemble des sites Internet de Météo-France ;</p>",
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2021-07-05 23:01:07",
+            "point_link": "https://edit.tosdr.org/points/23573",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meteofrance.com/gestion-des-cookies",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:11",
+            "point_link": "https://edit.tosdr.org/points/22089",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Météo-France est susceptible de faire appel à des sous-traitants relativement à l’exécution d’un contrat",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:43",
+            "point_link": "https://edit.tosdr.org/points/20254",
+            "approval_status": "APPROVED",
+            "clause_text": "Adresse IP, lors de la navigation lors de l'utilisation du site Internet</li>",
+            "point_source": "https://meteofrance.com/politique-de-confidentialite",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,728 @@
+Hide navigation sidebar
+
+
+
+Hide table of contents sidebar
+
+
+
+User docs Weblate basics Registration and user profile Translating using Weblate Downloading and uploading translations Glossary Checks and fixups Searching Translation workflows Frequently Asked Questions Version control integration Weblate’s REST API Weblate Client Weblate’s Python API Application developer guide Starting with internationalization Integrating with Weblate Translating software using GNU gettext Translating documentation using Sphinx Translating HTML and JavaScript using Weblate CDN Localization libraries and packages Translation component alerts Building a translators community Managing translations Reviewing strings Promoting the translation Translation progress reporting Administrator docs Configuration instructionsToggle navigation of Configuration instructions Installing using Docker Installing on Debian and Ubuntu Installing on SUSE and openSUSE Installing on RedHat, Fedora and CentOS Installing on macOS Installing from sources Installing on OpenShift Installing on Kubernetes Weblate deployments Upgrading Weblate Backing up and moving Weblate Authentication Two-factor authentication Access control Translation projects Language definitions Continuous localization Licensing translations Translation process Checks and fixups Automatic suggestions Add-ons Translation Memory Configuration Sample configuration Management commands Announcements Component Lists Optional Weblate modules Customizing Weblate Management interface Getting support for Weblate Legal documents Contributor docs Contributing to Weblate Weblate Contributor Communication Guidelines Starting contributing code to Weblate Weblate source code Debugging Weblate Weblate internals Developing add-ons Weblate frontend Reporting issues in Weblate Weblate testsuite and continuous integration Data schemas Releasing Weblate Security and privacy Contributing to Weblate modules About Weblate License Weblate Trademark Guidelines File formats Localization file formats Android string resources Apple iOS strings App store metadata files ARB File CSV files DTD files Excel Open XML Flat XML files Fluent format Format.
+JS JSON file GNU gettext PO (Portable Object) go-i18n JSON files gotext JSON files GWT properties HTML files i18next JSON files IDML Format INI translations Inno Setup INI translations Java properties Joomla translations JSON files Laravel PHP strings Markdown files draggable/i18n lang files Mobile Kotlin resources OpenDocument Format PHP strings Qt Linguist .
+ts ResourceDictionary files .
+NET resource files (RESX, RESW) Ruby YAML files Stringsdict format Subtitle files TermBase eXchange format Text files WebExtension JSON Windows RC files XLIFF YAML files Change history Weblate 5.
+10.
+3 Weblate 5.
+10.
+2 Weblate 5.
+10.
+1 Weblate 5.
+10 Weblate 5.
+9.
+2 Weblate 5.
+9.
+1 Weblate 5.
+9 Weblate 5.
+8.
+4 Weblate 5.
+8.
+3 Weblate 5.
+8.
+2 Weblate 5.
+8.
+1 Weblate 5.
+8 Weblate 5.
+7.
+2 Weblate 5.
+7.
+1 Weblate 5.
+7 Weblate 5.
+6.
+2 Weblate 5.
+6.
+1 Weblate 5.
+6 Weblate 5.
+5.
+5 Weblate 5.
+5.
+4 Weblate 5.
+5.
+3 Weblate 5.
+5.
+2 Weblate 5.
+5.
+1 Weblate 5.
+5 Weblate 5.
+4.
+3 Weblate 5.
+4.
+2 Weblate 5.
+4.
+1 Weblate 5.
+4 Weblate 5.
+3.
+1 Weblate 5.
+3 Weblate 5.
+2.
+1 Weblate 5.
+2 Weblate 5.
+1.
+1 Weblate 5.
+1 Weblate 5.
+0.
+2 Weblate 5.
+0.
+1 Weblate 5.
+0 Weblate 4.
+x series Weblate 3.
+x series Weblate 2.
+x series Weblate 1.
+x series Weblate 0.
+x series Indices and tables Index Module Index Back to top View this page Edit this page Toggle Light / Dark / Auto color theme Toggle table of contents sidebar License¶ More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+Copyright © Michal Čihař michal@weblate.
+org This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+User docs Weblate basics Registration and user profile Translating using Weblate Downloading and uploading translations Glossary Checks and fixups Searching Translation workflows Frequently Asked Questions Version control integration Weblate’s REST API Weblate Client Weblate’s Python API Application developer guide Starting with internationalization Integrating with Weblate Translating software using GNU gettext Translating documentation using Sphinx Translating HTML and JavaScript using Weblate CDN Localization libraries and packages Translation component alerts Building a translators community Managing translations Reviewing strings Promoting the translation Translation progress reporting Administrator docs Configuration instructionsToggle navigation of Configuration instructions Installing using Docker Installing on Debian and Ubuntu Installing on SUSE and openSUSE Installing on RedHat, Fedora and CentOS Installing on macOS Installing from sources Installing on OpenShift Installing on Kubernetes Weblate deployments Upgrading Weblate Backing up and moving Weblate Authentication Two-factor authentication Access control Translation projects Language definitions Continuous localization Licensing translations Translation process Checks and fixups Automatic suggestions Add-ons Translation Memory Configuration Sample configuration Management commands Announcements Component Lists Optional Weblate modules Customizing Weblate Management interface Getting support for Weblate Legal documents Contributor docs Contributing to Weblate Weblate Contributor Communication Guidelines Starting contributing code to Weblate Weblate source code Debugging Weblate Weblate internals Developing add-ons Weblate frontend Reporting issues in Weblate Weblate testsuite and continuous integration Data schemas Releasing Weblate Security and privacy Contributing to Weblate modules About Weblate License Weblate Trademark Guidelines File formats Localization file formats Android string resources Apple iOS strings App store metadata files ARB File CSV files DTD files Excel Open XML Flat XML files Fluent format Format.
+JS JSON file GNU gettext PO (Portable Object) go-i18n JSON files gotext JSON files GWT properties HTML files i18next JSON files IDML Format INI translations Inno Setup INI translations Java properties Joomla translations JSON files Laravel PHP strings Markdown files draggable/i18n lang files Mobile Kotlin resources OpenDocument Format PHP strings Qt Linguist .
+ts ResourceDictionary files .
+NET resource files (RESX, RESW) Ruby YAML files Stringsdict format Subtitle files TermBase eXchange format Text files WebExtension JSON Windows RC files XLIFF YAML files Change history Weblate 5.
+10.
+3 Weblate 5.
+10.
+2 Weblate 5.
+10.
+1 Weblate 5.
+10 Weblate 5.
+9.
+2 Weblate 5.
+9.
+1 Weblate 5.
+9 Weblate 5.
+8.
+4 Weblate 5.
+8.
+3 Weblate 5.
+8.
+2 Weblate 5.
+8.
+1 Weblate 5.
+8 Weblate 5.
+7.
+2 Weblate 5.
+7.
+1 Weblate 5.
+7 Weblate 5.
+6.
+2 Weblate 5.
+6.
+1 Weblate 5.
+6 Weblate 5.
+5.
+5 Weblate 5.
+5.
+4 Weblate 5.
+5.
+3 Weblate 5.
+5.
+2 Weblate 5.
+5.
+1 Weblate 5.
+5 Weblate 5.
+4.
+3 Weblate 5.
+4.
+2 Weblate 5.
+4.
+1 Weblate 5.
+4 Weblate 5.
+3.
+1 Weblate 5.
+3 Weblate 5.
+2.
+1 Weblate 5.
+2 Weblate 5.
+1.
+1 Weblate 5.
+1 Weblate 5.
+0.
+2 Weblate 5.
+0.
+1 Weblate 5.
+0 Weblate 4.
+x series Weblate 3.
+x series Weblate 2.
+x series Weblate 1.
+x series Weblate 0.
+x series Indices and tables Index Module Index
+
+
+
+User docs Weblate basics Registration and user profile Translating using Weblate Downloading and uploading translations Glossary Checks and fixups Searching Translation workflows Frequently Asked Questions Version control integration Weblate’s REST API Weblate Client Weblate’s Python API Application developer guide Starting with internationalization Integrating with Weblate Translating software using GNU gettext Translating documentation using Sphinx Translating HTML and JavaScript using Weblate CDN Localization libraries and packages Translation component alerts Building a translators community Managing translations Reviewing strings Promoting the translation Translation progress reporting Administrator docs Configuration instructionsToggle navigation of Configuration instructions Installing using Docker Installing on Debian and Ubuntu Installing on SUSE and openSUSE Installing on RedHat, Fedora and CentOS Installing on macOS Installing from sources Installing on OpenShift Installing on Kubernetes Weblate deployments Upgrading Weblate Backing up and moving Weblate Authentication Two-factor authentication Access control Translation projects Language definitions Continuous localization Licensing translations Translation process Checks and fixups Automatic suggestions Add-ons Translation Memory Configuration Sample configuration Management commands Announcements Component Lists Optional Weblate modules Customizing Weblate Management interface Getting support for Weblate Legal documents Contributor docs Contributing to Weblate Weblate Contributor Communication Guidelines Starting contributing code to Weblate Weblate source code Debugging Weblate Weblate internals Developing add-ons Weblate frontend Reporting issues in Weblate Weblate testsuite and continuous integration Data schemas Releasing Weblate Security and privacy Contributing to Weblate modules About Weblate License Weblate Trademark Guidelines File formats Localization file formats Android string resources Apple iOS strings App store metadata files ARB File CSV files DTD files Excel Open XML Flat XML files Fluent format Format.
+JS JSON file GNU gettext PO (Portable Object) go-i18n JSON files gotext JSON files GWT properties HTML files i18next JSON files IDML Format INI translations Inno Setup INI translations Java properties Joomla translations JSON files Laravel PHP strings Markdown files draggable/i18n lang files Mobile Kotlin resources OpenDocument Format PHP strings Qt Linguist .
+ts ResourceDictionary files .
+NET resource files (RESX, RESW) Ruby YAML files Stringsdict format Subtitle files TermBase eXchange format Text files WebExtension JSON Windows RC files XLIFF YAML files Change history Weblate 5.
+10.
+3 Weblate 5.
+10.
+2 Weblate 5.
+10.
+1 Weblate 5.
+10 Weblate 5.
+9.
+2 Weblate 5.
+9.
+1 Weblate 5.
+9 Weblate 5.
+8.
+4 Weblate 5.
+8.
+3 Weblate 5.
+8.
+2 Weblate 5.
+8.
+1 Weblate 5.
+8 Weblate 5.
+7.
+2 Weblate 5.
+7.
+1 Weblate 5.
+7 Weblate 5.
+6.
+2 Weblate 5.
+6.
+1 Weblate 5.
+6 Weblate 5.
+5.
+5 Weblate 5.
+5.
+4 Weblate 5.
+5.
+3 Weblate 5.
+5.
+2 Weblate 5.
+5.
+1 Weblate 5.
+5 Weblate 5.
+4.
+3 Weblate 5.
+4.
+2 Weblate 5.
+4.
+1 Weblate 5.
+4 Weblate 5.
+3.
+1 Weblate 5.
+3 Weblate 5.
+2.
+1 Weblate 5.
+2 Weblate 5.
+1.
+1 Weblate 5.
+1 Weblate 5.
+0.
+2 Weblate 5.
+0.
+1 Weblate 5.
+0 Weblate 4.
+x series Weblate 3.
+x series Weblate 2.
+x series Weblate 1.
+x series Weblate 0.
+x series Indices and tables Index Module Index
+
+
+
+User docs Weblate basics Registration and user profile Translating using Weblate Downloading and uploading translations Glossary Checks and fixups Searching Translation workflows Frequently Asked Questions Version control integration Weblate’s REST API Weblate Client Weblate’s Python API Application developer guide Starting with internationalization Integrating with Weblate Translating software using GNU gettext Translating documentation using Sphinx Translating HTML and JavaScript using Weblate CDN Localization libraries and packages Translation component alerts Building a translators community Managing translations Reviewing strings Promoting the translation Translation progress reporting Administrator docs Configuration instructionsToggle navigation of Configuration instructions Installing using Docker Installing on Debian and Ubuntu Installing on SUSE and openSUSE Installing on RedHat, Fedora and CentOS Installing on macOS Installing from sources Installing on OpenShift Installing on Kubernetes Weblate deployments Upgrading Weblate Backing up and moving Weblate Authentication Two-factor authentication Access control Translation projects Language definitions Continuous localization Licensing translations Translation process Checks and fixups Automatic suggestions Add-ons Translation Memory Configuration Sample configuration Management commands Announcements Component Lists Optional Weblate modules Customizing Weblate Management interface Getting support for Weblate Legal documents Contributor docs Contributing to Weblate Weblate Contributor Communication Guidelines Starting contributing code to Weblate Weblate source code Debugging Weblate Weblate internals Developing add-ons Weblate frontend Reporting issues in Weblate Weblate testsuite and continuous integration Data schemas Releasing Weblate Security and privacy Contributing to Weblate modules About Weblate License Weblate Trademark Guidelines File formats Localization file formats Android string resources Apple iOS strings App store metadata files ARB File CSV files DTD files Excel Open XML Flat XML files Fluent format Format.
+JS JSON file GNU gettext PO (Portable Object) go-i18n JSON files gotext JSON files GWT properties HTML files i18next JSON files IDML Format INI translations Inno Setup INI translations Java properties Joomla translations JSON files Laravel PHP strings Markdown files draggable/i18n lang files Mobile Kotlin resources OpenDocument Format PHP strings Qt Linguist .
+ts ResourceDictionary files .
+NET resource files (RESX, RESW) Ruby YAML files Stringsdict format Subtitle files TermBase eXchange format Text files WebExtension JSON Windows RC files XLIFF YAML files Change history Weblate 5.
+10.
+3 Weblate 5.
+10.
+2 Weblate 5.
+10.
+1 Weblate 5.
+10 Weblate 5.
+9.
+2 Weblate 5.
+9.
+1 Weblate 5.
+9 Weblate 5.
+8.
+4 Weblate 5.
+8.
+3 Weblate 5.
+8.
+2 Weblate 5.
+8.
+1 Weblate 5.
+8 Weblate 5.
+7.
+2 Weblate 5.
+7.
+1 Weblate 5.
+7 Weblate 5.
+6.
+2 Weblate 5.
+6.
+1 Weblate 5.
+6 Weblate 5.
+5.
+5 Weblate 5.
+5.
+4 Weblate 5.
+5.
+3 Weblate 5.
+5.
+2 Weblate 5.
+5.
+1 Weblate 5.
+5 Weblate 5.
+4.
+3 Weblate 5.
+4.
+2 Weblate 5.
+4.
+1 Weblate 5.
+4 Weblate 5.
+3.
+1 Weblate 5.
+3 Weblate 5.
+2.
+1 Weblate 5.
+2 Weblate 5.
+1.
+1 Weblate 5.
+1 Weblate 5.
+0.
+2 Weblate 5.
+0.
+1 Weblate 5.
+0 Weblate 4.
+x series Weblate 3.
+x series Weblate 2.
+x series Weblate 1.
+x series Weblate 0.
+x series Indices and tables Index Module Index
+
+
+
+User docs Weblate basics Registration and user profile Translating using Weblate Downloading and uploading translations Glossary Checks and fixups Searching Translation workflows Frequently Asked Questions Version control integration Weblate’s REST API Weblate Client Weblate’s Python API Application developer guide Starting with internationalization Integrating with Weblate Translating software using GNU gettext Translating documentation using Sphinx Translating HTML and JavaScript using Weblate CDN Localization libraries and packages Translation component alerts Building a translators community Managing translations Reviewing strings Promoting the translation Translation progress reporting Administrator docs Configuration instructionsToggle navigation of Configuration instructions Installing using Docker Installing on Debian and Ubuntu Installing on SUSE and openSUSE Installing on RedHat, Fedora and CentOS Installing on macOS Installing from sources Installing on OpenShift Installing on Kubernetes Weblate deployments Upgrading Weblate Backing up and moving Weblate Authentication Two-factor authentication Access control Translation projects Language definitions Continuous localization Licensing translations Translation process Checks and fixups Automatic suggestions Add-ons Translation Memory Configuration Sample configuration Management commands Announcements Component Lists Optional Weblate modules Customizing Weblate Management interface Getting support for Weblate Legal documents Contributor docs Contributing to Weblate Weblate Contributor Communication Guidelines Starting contributing code to Weblate Weblate source code Debugging Weblate Weblate internals Developing add-ons Weblate frontend Reporting issues in Weblate Weblate testsuite and continuous integration Data schemas Releasing Weblate Security and privacy Contributing to Weblate modules About Weblate License Weblate Trademark Guidelines File formats Localization file formats Android string resources Apple iOS strings App store metadata files ARB File CSV files DTD files Excel Open XML Flat XML files Fluent format Format.
+JS JSON file GNU gettext PO (Portable Object) go-i18n JSON files gotext JSON files GWT properties HTML files i18next JSON files IDML Format INI translations Inno Setup INI translations Java properties Joomla translations JSON files Laravel PHP strings Markdown files draggable/i18n lang files Mobile Kotlin resources OpenDocument Format PHP strings Qt Linguist .
+ts ResourceDictionary files .
+NET resource files (RESX, RESW) Ruby YAML files Stringsdict format Subtitle files TermBase eXchange format Text files WebExtension JSON Windows RC files XLIFF YAML files Change history Weblate 5.
+10.
+3 Weblate 5.
+10.
+2 Weblate 5.
+10.
+1 Weblate 5.
+10 Weblate 5.
+9.
+2 Weblate 5.
+9.
+1 Weblate 5.
+9 Weblate 5.
+8.
+4 Weblate 5.
+8.
+3 Weblate 5.
+8.
+2 Weblate 5.
+8.
+1 Weblate 5.
+8 Weblate 5.
+7.
+2 Weblate 5.
+7.
+1 Weblate 5.
+7 Weblate 5.
+6.
+2 Weblate 5.
+6.
+1 Weblate 5.
+6 Weblate 5.
+5.
+5 Weblate 5.
+5.
+4 Weblate 5.
+5.
+3 Weblate 5.
+5.
+2 Weblate 5.
+5.
+1 Weblate 5.
+5 Weblate 5.
+4.
+3 Weblate 5.
+4.
+2 Weblate 5.
+4.
+1 Weblate 5.
+4 Weblate 5.
+3.
+1 Weblate 5.
+3 Weblate 5.
+2.
+1 Weblate 5.
+2 Weblate 5.
+1.
+1 Weblate 5.
+1 Weblate 5.
+0.
+2 Weblate 5.
+0.
+1 Weblate 5.
+0 Weblate 4.
+x series Weblate 3.
+x series Weblate 2.
+x series Weblate 1.
+x series Weblate 0.
+x series Indices and tables Index Module Index
+
+
+
+User docs
+
+
+
+Application developer guide
+
+
+
+Administrator docs
+
+
+
+Toggle navigation of Configuration instructions
+
+
+
+Contributor docs
+
+
+
+File formats
+
+
+
+Change history
+
+
+
+Indices and tables
+
+
+
+Back to top View this page Edit this page Toggle Light / Dark / Auto color theme Toggle table of contents sidebar License¶ More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+Copyright © Michal Čihař michal@weblate.
+org This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+Back to top View this page Edit this page Toggle Light / Dark / Auto color theme Toggle table of contents sidebar License¶ More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+Copyright © Michal Čihař michal@weblate.
+org This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+Back to top View this page Edit this page Toggle Light / Dark / Auto color theme Toggle table of contents sidebar License¶ More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+Copyright © Michal Čihař michal@weblate.
+org This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+View this page Edit this page Toggle Light / Dark / Auto color theme Toggle table of contents sidebar
+
+
+
+View this page
+
+
+
+Edit this page
+
+
+
+Toggle Light / Dark / Auto color theme
+
+
+
+Toggle Light / Dark / Auto color theme
+
+
+
+Toggle table of contents sidebar
+
+
+
+License¶ More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+Copyright © Michal Čihař michal@weblate.
+org This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+License¶ More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+Copyright © Michal Čihař michal@weblate.
+org This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+License¶
+
+
+
+More detailed licensing information is available in the Weblate source code and follows REUSE 3.
+0 specification.
+
+
+
+Copyright © Michal Čihař michal@weblate.
+org
+
+
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+
+
+
+You should have received a copy of the GNU General Public License along with this program.
+If not, see <https://www.
+gnu.
+org/licenses/>.
+
+
+
+• Weblate basics
+• Registration and user profile
+• Translating using Weblate
+• Downloading and uploading translations
+• Glossary
+• Checks and fixups
+• Searching
+• Translation workflows
+• Frequently Asked Questions
+• Version control integration
+• Weblate’s REST API
+• Weblate Client
+• Weblate’s Python API
+
+• Starting with internationalization
+• Integrating with Weblate
+• Translating software using GNU gettext
+• Translating documentation using Sphinx
+• Translating HTML and JavaScript using Weblate CDN
+• Localization libraries and packages
+• Translation component alerts
+• Building a translators community
+• Managing translations
+• Reviewing strings
+• Promoting the translation
+• Translation progress reporting
+
+• Configuration instructionsToggle navigation of Configuration instructions
+Installing using Docker
+Installing on Debian and Ubuntu
+Installing on SUSE and openSUSE
+Installing on RedHat, Fedora and CentOS
+Installing on macOS
+Installing from sources
+Installing on OpenShift
+Installing on Kubernetes
+• Installing using Docker
+• Installing on Debian and Ubuntu
+• Installing on SUSE and openSUSE
+• Installing on RedHat, Fedora and CentOS
+• Installing on macOS
+• Installing from sources
+• Installing on OpenShift
+• Installing on Kubernetes
+• Weblate deployments
+• Upgrading Weblate
+• Backing up and moving Weblate
+• Authentication
+• Two-factor authentication
+• Access control
+• Translation projects
+• Language definitions
+• Continuous localization
+• Licensing translations
+• Translation process
+• Checks and fixups
+• Automatic suggestions
+• Add-ons
+• Translation Memory
+• Configuration
+• Sample configuration
+• Management commands
+• Announcements
+• Component Lists
+• Optional Weblate modules
+• Customizing Weblate
+• Management interface
+• Getting support for Weblate
+• Legal documents
+
+• Installing using Docker
+• Installing on Debian and Ubuntu
+• Installing on SUSE and openSUSE
+• Installing on RedHat, Fedora and CentOS
+• Installing on macOS
+• Installing from sources
+• Installing on OpenShift
+• Installing on Kubernetes
+
+• Contributing to Weblate
+• Weblate Contributor Communication Guidelines
+• Starting contributing code to Weblate
+• Weblate source code
+• Debugging Weblate
+• Weblate internals
+• Developing add-ons
+• Weblate frontend
+• Reporting issues in Weblate
+• Weblate testsuite and continuous integration
+• Data schemas
+• Releasing Weblate
+• Security and privacy
+• Contributing to Weblate modules
+• About Weblate
+• License
+• Weblate Trademark Guidelines
+
+• Localization file formats
+• Android string resources
+• Apple iOS strings
+• App store metadata files
+• ARB File
+• CSV files
+• DTD files
+• Excel Open XML
+• Flat XML files
+• Fluent format
+• Format.JS JSON file
+• GNU gettext PO (Portable Object)
+• go-i18n JSON files
+• gotext JSON files
+• GWT properties
+• HTML files
+• i18next JSON files
+• IDML Format
+• INI translations
+• Inno Setup INI translations
+• Java properties
+• Joomla translations
+• JSON files
+• Laravel PHP strings
+• Markdown files
+• draggable/i18n lang files
+• Mobile Kotlin resources
+• OpenDocument Format
+• PHP strings
+• Qt Linguist .ts
+• ResourceDictionary files
+• .NET resource files (RESX, RESW)
+• Ruby YAML files
+• Stringsdict format
+• Subtitle files
+• TermBase eXchange format
+• Text files
+• WebExtension JSON
+• Windows RC files
+• XLIFF
+• YAML files
+
+• Weblate 5.10.3
+• Weblate 5.10.2
+• Weblate 5.10.1
+• Weblate 5.10
+• Weblate 5.9.2
+• Weblate 5.9.1
+• Weblate 5.9
+• Weblate 5.8.4
+• Weblate 5.8.3
+• Weblate 5.8.2
+• Weblate 5.8.1
+• Weblate 5.8
+• Weblate 5.7.2
+• Weblate 5.7.1
+• Weblate 5.7
+• Weblate 5.6.2
+• Weblate 5.6.1
+• Weblate 5.6
+• Weblate 5.5.5
+• Weblate 5.5.4
+• Weblate 5.5.3
+• Weblate 5.5.2
+• Weblate 5.5.1
+• Weblate 5.5
+• Weblate 5.4.3
+• Weblate 5.4.2
+• Weblate 5.4.1
+• Weblate 5.4
+• Weblate 5.3.1
+• Weblate 5.3
+• Weblate 5.2.1
+• Weblate 5.2
+• Weblate 5.1.1
+• Weblate 5.1
+• Weblate 5.0.2
+• Weblate 5.0.1
+• Weblate 5.0
+• Weblate 4.x series
+• Weblate 3.x series
+• Weblate 2.x series
+• Weblate 1.x series
+• Weblate 0.x series
+
+• Index
+• Module Index
+

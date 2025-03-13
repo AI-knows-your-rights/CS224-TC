@@ -1,0 +1,445 @@
+{
+    "meta_data": {
+        "title": "CNED - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Prohibits discussions which are against the government-advocated value",
+            "rating": "blocker",
+            "description": "Political content, which is against the government-advocated value, in the form or pictures, discussions, or campaigning isn’t allowed. Since it encourages the promotional content of the value, the service may tolerate trolling or spamming against political rivals or enemies.",
+            "last_updated": "2023-07-11 10:14:42",
+            "point_link": "https://edit.tosdr.org/points/18750",
+            "approval_status": "APPROVED",
+            "clause_text": "Since both \"dignité humaine\" and \"bonnes moeurs\" are vague terms that can be defined differently depending on the government-advocated value, any content could fall under this category if it expresses an undesirable opinion.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "Political discussions which are against the government-advocated value are prohibited",
+                "href": "https://edit.tosdr.org/cases/410"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 10:15:36",
+            "point_link": "https://edit.tosdr.org/points/19600",
+            "approval_status": "APPROVED",
+            "clause_text": "L'utilisateur doit fournir des informations vraies, exactes, à jour, et complètes sur son identité et son âge.\nIl s'engage notamment à ne pas créer une fausse identité de nature à induire le CNED ou les tiers en erreur et à ne pas usurper l'identité d'une autre personne.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:14:42",
+            "point_link": "https://edit.tosdr.org/points/18764",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>Les cookies utilisés à des fins publicitaires</p>\n<p>Ces cookies mémorisent un certain nombre d’informations comme les pages que vous avez visitées sur nos sites ou ceux de nos partenaires afin de vos proposer des offres personnalisées de la part du CNED (dans le cadre des bannières affichées ou de nos e-mailing par exemple).</p>\n<p>Les cookies de ciblage publicitaire permettent, par exemple :</p>\n<p>- aux régies publicitaires de présenter les publicités les plus pertinentes possibles et les plus adaptées aux centres d’intérêt du visiteur ;</p>",
+            "point_source": "https://www.cned.fr/informations-légales/cookies",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18756",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal Data of EU residents may be transferred to the USA",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:14:38",
+            "point_link": "https://edit.tosdr.org/points/18723",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Les cookies réseaux sociaux</p>\n<p>Les réseaux sociaux permettent d’enrichir l’expérience utilisateur sur le site et aident à sa promotion via les partages.</p>\n<p>&nbsp;</p>\n<p>Exemple : <em>cookie d'affichage compte Facebook CNED</em>\n</p>\n<p>- Finalité : affichage de l'actualité du CNED via sa page Facebook dédiée</p>\n<p>- Partenaire : Facebook</p>\n<p>- Durée de conservation : 13 mois</p>\n<p>- Gestion du consentement : https://www.facebook.com/policies/cookies/</p>\n<p>&nbsp;",
+            "point_source": "https://www.cned.fr/informations-légales/cookies",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of users' data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 10:14:42",
+            "point_link": "https://edit.tosdr.org/points/18763",
+            "approval_status": "APPROVED",
+            "clause_text": "Destruction, anonymisation et archivage de\nvos données</b>\n<br>\n</p>\n<p>\n</p>\n<p>A l’issue de la durée de conservation nécessaire à la finalité concernée, vos données à caractère personnel sont :</p>\n<p>- supprimées définitivement pour l’ensemble des données de votre compte « Ma classe à la maison »<br>\n</p>\n<p>- elles peuvent être archivées&nbsp.\npour la durée légale de conservation posée par le décret 2011-219 pour les données relatives aux classes virtuelles auxquelles vous avez participé.",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18753",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Qui a accès à vos données&nbsp;?</b>\n</p>\n<p>Ont accès à vos données&nbsp;:</p>\n<p> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nLes agents de l’établissement.\nDans le cadre de leurs fonctions, seuls les agents de l’établissement qui concourent à la délivrance du service ont accès à vos données.\n</p>\n<p> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nLes prestataires et sous-traitants du&nbsp;CNED, uniquement pour les opérations techniques de\nmaintenance et hébergement des solutions informatiques.",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18739",
+            "approval_status": "APPROVED",
+            "clause_text": "L'utilisateur doit fournir des informations vraies, exactes, à jour, et complètes sur son identité et son âge.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:38",
+            "point_link": "https://edit.tosdr.org/points/18722",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Les cookies de mesure d’audience </p>\n<p>Le CNED utilise ce type de cookie afin d’avoir un retour sur la fréquentation de ses sites et la façon dont ceux-ci sont utilisés.\nLes informations recueillies dans ce cadre nous permettent d’améliorer continuellement nos services, de les rendre compatibles avec les matériels utilisés, le tout afin de répondre au mieux à vos besoins.</p>\n<p>Les outils utilisés sont configurés de telle façon que le CNED n'accède qu'à des volumes de visites ou de clics sans aucune information sur un individu en particulier.</p>\n<p>&nbsp;</p>\n<p>Exemple : c<em>ookie de mesure d'audience</em>\n</p>\n<p>- Finalité : mesure d'audience</p>\n<p>- Partenaire : Google Analytics</p>\n<p>- Durée de conservation : 13 mois</p>\n<p>- Gestion du consentement : https://tools.google.com/dlpage/gaoptout?hl=fr</p>\n<p>&nbsp;",
+            "point_source": "https://www.cned.fr/informations-légales/cookies",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:15:43",
+            "point_link": "https://edit.tosdr.org/points/18761",
+            "approval_status": "APPROVED",
+            "clause_text": "Vous disposez d’un droit d’opposition, suppression, et droit à l’oubli sous réserve que l’établissement ne soit pas tenu légalement de conserver ou archiver ces données.\nCes droits peuvent être exercés dans les conditions déterminées à l’article 7.1 ci-avant ou directement auprès du DPO à l’adresse DPO@ac-cned.fr .",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18762",
+            "approval_status": "APPROVED",
+            "clause_text": "Chaque donnée est conservée pour une durée limitée correspondant à celle nécessaire pour la réalisation du traitement.",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18760",
+            "approval_status": "APPROVED",
+            "clause_text": "Sur votre espace personnel</p>\n<p>Vous pouvez également solliciter auprès du CNED une information sur l’ensemble des données dont l’établissement dispose sur vous.</p>\n<p>Le CNED dispose d’un délai de deux mois pour vous répondre suite à votre demande.</p>",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18752",
+            "approval_status": "APPROVED",
+            "clause_text": "Notamment, les données ne sont ni louées ni vendues et elles ne sont pas utilisées pour réaliser un profilage des utilisateurs ou de la prospection commerciale.<br>\n</p>",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18755",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Dans le cadre du présent service, les prestataires sont :</p>\n<p>\n</p>\n<ul>\n<li>La société Cblue pour la fourniture du site « ma classe à la maison », son hébergement et sa maintenance,</li>\n<li>La société BlackBoard pour la fourniture, la maintenance, et l’hébergement de la solution de classes virtuelles.&nbsp;</li>",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:15:56",
+            "point_link": "https://edit.tosdr.org/points/18757",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Le CNED et ses sous-traitants mettent en œuvre des mesures de sécurité physique et techniques destinées à assurer la sécurité et l’intégrité des données afin que celle-ci ne puissent faire l’objet d’extraction frauduleuse, de modification ou de suppression malveillante.\nCes mesures mises en œuvre sont proportionnées à la sensibilité des données et à l’impact que leur corruption aurait pour vous.\nParmi ces mesures ont peut citer&nbsp;:</p>\n<p> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nDes accès aux applications par authentification par un couple identifiant/mot de passe <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nDes accès aux locaux protégés par badges avec politique de gestion des accès<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nUne politique d’accès aux locaux des serveurs du CNED encore plus stricte<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nUne politique de sauvegarde des données<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nUne sécurisation des flux de données saisies en ligne en https<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nUn chiffrement des données telles que les mots de passe<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nUn encadrement contractuel du prestataire, sous-traitant avec un engagement de confidentialité <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\nUne conformité au RGS applicable aux administrations.</p>",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18765",
+            "approval_status": "APPROVED",
+            "clause_text": "Par ailleurs, le CNED décline toute responsabilité quant aux contenus des sites vers lesquels sont établis des liens hypertextes à partir du service.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "Prohibits harming minors in any ways",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18746",
+            "approval_status": "APPROVED",
+            "clause_text": "De manière générale, et sans que cette liste puisse être considérée comme exhaustive, l'utilisateur s'interdit de :<br>\n</p>\n<p>\n</p>\n<ul>\n<li>télécharger, envoyer, transmettre, transmettre par tout moyen, tout contenu qui soit illégal, nuisible, menaçant, violent, abusif, constitutif de harcèlement, diffamatoire, injurieux, obscène, pornographique, menaçant ou attentatoire à la vie privée d'autrui ou à la dignité humaine, haineux, raciste, ou autrement répréhensible ;</li>\n<li>porter atteinte d'une quelconque manière aux utilisateurs mineurs",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18759",
+            "approval_status": "APPROVED",
+            "clause_text": "Ces cookies étant nécessaires au bon fonctionnement des sites WEB sur lesquels ils se trouvent, ils ne sont pas conditionnés à votre consentement.\nNe pas les utiliser pourrait entrainer des dysfonctionnements graves des sites avec des conséquences potentiellement graves pour l’utilisateur.",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18748",
+            "approval_status": "APPROVED",
+            "clause_text": "Le CNED ne fournit aucune garantie expresse ou implicite, sans que cette énumération ne soit limitative, relative à la continuité, performance, pérennité des services.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You must create an account to use all of this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:15:57",
+            "point_link": "https://edit.tosdr.org/points/19889",
+            "approval_status": "APPROVED",
+            "clause_text": "Pour bénéficier de l'intégralité du service, la création d'un compte est requise.\nLa création du compte s'effectue par l'utilisateur.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18742",
+            "approval_status": "APPROVED",
+            "clause_text": "L'utilisateur s'interdit de détourner la finalité du service notamment pour faire de la propagande, du prosélytisme, ou de l'utiliser à des fins commerciales.</p>",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:14:39",
+            "point_link": "https://edit.tosdr.org/points/18744",
+            "approval_status": "APPROVED",
+            "clause_text": "De manière générale, et sans que cette liste puisse être considérée comme exhaustive, l'utilisateur s'interdit de :<br>\n</p>\n<p>\n</p>\n<ul>\n<li>télécharger, envoyer, transmettre, transmettre par tout moyen, tout contenu qui soit illégal, nuisible, menaçant, violent, abusif, constitutif de harcèlement, diffamatoire, injurieux",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:15:55",
+            "point_link": "https://edit.tosdr.org/points/18749",
+            "approval_status": "APPROVED",
+            "clause_text": "Le service est fourni « en l'état » et est accessible sans aucune garantie de disponibilité et de régularité.<br>\n</p>\n<p>",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18747",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>L'utilisateur reconnaît expressément au CNED la faculté de résilier de plein droit, sans mise en demeure préalable, sans préavis ni indemnité ni justification, tout ou partie du service fourni en cas de manquement aux présentes CGU ou plus généralement en cas de violation des lois et règlements en vigueur et ce sans préjudice de tous dommages et intérêts auxquels il pourrait prétendre du fait de ces manquements.</p>",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18745",
+            "approval_status": "APPROVED",
+            "clause_text": "De manière générale, et sans que cette liste puisse être considérée comme exhaustive, l'utilisateur s'interdit de :<br>\n</p>\n<p>\n</p>\n<ul>\n<li>télécharger, envoyer, transmettre, transmettre par tout moyen, tout contenu qui soit illégal, nuisible, menaçant, violent, abusif, constitutif de harcèlement, diffamatoire, injurieux, obscène, pornographique",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18741",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>L'utilisateur est seul responsable de l'utilisation de ses identifiants.\nIl s'engage à les conserver secrets et à ne pas les communiquer à des tiers.\nToute perte, détournement ou utilisation non autorisée des identifiants d'un utilisateur et leurs conséquences relèvent de la seule responsabilité de cet utilisateur.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18758",
+            "approval_status": "APPROVED",
+            "clause_text": "Ce site utilise&nbsp;:</p>\n<p> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp.\ndes cookies nécessaires au bon fonctionnement du site.",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 10:15:54",
+            "point_link": "https://edit.tosdr.org/points/19873",
+            "approval_status": "APPROVED",
+            "clause_text": "Si l'un des éléments d'identification de l'utilisateur est perdu ou volé, ce dernier doit informer sans délai le CNED qui procédera alors à l'annulation et/ou la mise à jour immédiate(s) de l'identifiant concerné.</p>",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in France",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:14:40",
+            "point_link": "https://edit.tosdr.org/points/18751",
+            "approval_status": "APPROVED",
+            "clause_text": "Les présentes CGU sont régies par le droit français.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:41",
+            "point_link": "https://edit.tosdr.org/points/18754",
+            "approval_status": "APPROVED",
+            "clause_text": "Afin de vous fournir un\nservice de qualité, le CNED recourt à deux prestataires extérieurs\n(sous-traitants au sens du règlement RGPD).",
+            "point_source": "https://college.cned.fr/theme/ecl/gdpr.php",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Users agree to comply with the French law",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 10:15:37",
+            "point_link": "https://edit.tosdr.org/points/18743",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>L'utilisateur s'engage à se conformer à l'ensemble des lois et réglementations en vigueur.",
+            "point_source": "https://college.cned.fr/theme/ecl/terms.php",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        }
+    ]
+}

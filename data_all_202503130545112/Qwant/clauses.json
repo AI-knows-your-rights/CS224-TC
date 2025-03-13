@@ -1,0 +1,543 @@
+{
+    "meta_data": {
+        "title": "Qwant - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:04:33",
+            "point_link": "https://edit.tosdr.org/points/12936",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For this purpose, as well as for the security and reliability of our partner’s services (detection of spam, automated activity, fraudulent clicks on ads…), Qwant may transfer to this partner the following pseudonymous data related to your query:</p>\n<p>– The searched keywords;</p>\n<p>– The type and version of the browser used (User Agent);</p>\n<p>– The first three bytes of your IP address;</p>\n<p>– The approximate geographical area at the origin of the search, at the scale of a region or a city;</p>\n<p>– A salted hash generated from: your IP address, your User Agent and a salt that changes at least every 3 months.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:05:57",
+            "point_link": "https://edit.tosdr.org/points/12938",
+            "approval_status": "APPROVED",
+            "clause_text": "Qwant also keeps other data related to your use of the services (associated for 7 days with a hash calculated from your IP address and the User Agent of your browser) including :</p>\n<p>– The source of the user’s visit to the site (the HTTP referrer and the search field used to trigger the request);",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:04:59",
+            "point_link": "https://edit.tosdr.org/points/12953",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In case you are not satisfied with our answer or if you don’t receive an answer, you can appeal, within one year following your written claim, to the Médicys mediation center, either by postal way (73 boulevard de Clichy 75009 Paris), or online at the www.medicys.fr platform, in order to resolve such dispute.</p>\n<p>This mediation phase shall not exceed 90 days from the date of the acknowledgement of receipt of the referral of the mediator.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:05:00",
+            "point_link": "https://edit.tosdr.org/points/12928",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>We don’t keep your search history</strong> and <strong>we don’t create an advertising profile to target you</strong>.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 10:07:38",
+            "point_link": "https://edit.tosdr.org/points/12944",
+            "approval_status": "APPROVED",
+            "clause_text": "Right to erasure and “right to be forgotten”.</strong>\n<p>This right gives you the possibility to have your data deleted as soon as possible by Qwant.</p>\n<p>Concretely, you have the possibility to delete your account by following instructions detailed here.\nAs of the request to close the account, the data you have provided will then be deleted after 7 days, subject to our legal and regulatory obligations.</p>\n<p>Similarly, you may request deletion of your job application if you no longer wish it to be processed by Qwant.\nUpon receipt of your request to close your application file, all data you have provided will then be deleted as soon as possible and within 15 days of your request at the latest.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:04:59",
+            "point_link": "https://edit.tosdr.org/points/12943",
+            "approval_status": "APPROVED",
+            "clause_text": "the right to object to processing under the conditions provided for by the regulations (article 21 of the GDPR);</p>\n<p>– the right to limit the processing of such data under the conditions provided for by the regulations (article 18 of the GDPR);</p>",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 10:05:55",
+            "point_link": "https://edit.tosdr.org/points/12933",
+            "approval_status": "APPROVED",
+            "clause_text": "A salted hash of the user’s IP address with the salt that changes ever three months at the latest (i.e.\nthe result of a mathematical formula based on this IP address, not the IP address itself);",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:05:57",
+            "point_link": "https://edit.tosdr.org/points/12932",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In order to have knowledge of the existing contents on the Web and to offer you the most relevant results, Qwant automatically indexes Web pages on which personal data of any kind is likely to be present.\nQwant retains this data until two years after the last indexing by our robots, based on our legitimate interest in having an index of publicly available content on the Web (article 6.1.f of the GDPR).",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:57",
+            "point_link": "https://edit.tosdr.org/points/12940",
+            "approval_status": "APPROVED",
+            "clause_text": "You are free to manage your account information (modify, correct, update and delete information).</p>",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 10:06:10",
+            "point_link": "https://edit.tosdr.org/points/12939",
+            "approval_status": "APPROVED",
+            "clause_text": "Qwant does not require you to register to use the search engine.\nHowever, you may wish to register to log in and personalize services.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:06:35",
+            "point_link": "https://edit.tosdr.org/points/12954",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Services and their TOS are subject to French law, wherever they may be used.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:01",
+            "point_link": "https://edit.tosdr.org/points/12942",
+            "approval_status": "APPROVED",
+            "clause_text": "right to data portability (Article 20 of the GDPR);",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:07:31",
+            "point_link": "https://edit.tosdr.org/points/12952",
+            "approval_status": "APPROVED",
+            "clause_text": "All of the processing that we have to carry out and the methods that we apply to protect your privacy are detailed in our Privacy Policy, which states in particular:</p>\n<ul>\n<li>the reasons why we collect some of your personal data and how we use it;",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:05:57",
+            "point_link": "https://edit.tosdr.org/points/12931",
+            "approval_status": "APPROVED",
+            "clause_text": "What data is processed by Qwant when you make search queries?",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "This service will warn users about website maintenance",
+            "rating": "good",
+            "description": "Users will be notified before their experience is impacted due to website maintenance.",
+            "last_updated": "2023-07-11 10:05:11",
+            "point_link": "https://edit.tosdr.org/points/12948",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You are informed that the Services are operational 24 hours a day and 7 days a week, and you recognize that this accessibility may however be interrupted in case of force majeure or technical difficulties. We shall not be held responsible for network or servers dysfunctions of any other event that is out of our control, which would impede or degrade access to our Services. We reserve the right to interrupt, suspend momentarily or modify without prior notice access to all or parts of the Services, in order to maintain or control them, or to do tests. Such interruption, suspension or modification can not be entitled to obligations or compensations. We will do our best to inform you beforehand.\"",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "You will be notified about website maintenance",
+                "href": "https://edit.tosdr.org/cases/159"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:09:15",
+            "point_link": "https://edit.tosdr.org/points/12929",
+            "approval_status": "APPROVED",
+            "clause_text": "How does Qwant protect your privacy?\n<p>When you use Qwant as a search engine, <strong>we do not set any advertising cookie</strong> on your browser, nor do we look at what you personally searched for previously.\nWhen you make a query, it is immediately pseudonymized using the methods set forth in this Privacy Policy.</p>\n<p>We also undertake to make every effort to guarantee the security and confidentiality of our users’ personal data and in particular to prevent such data from being altered, deleted or accessed by unauthorized third parties.\nThe URL of Qwant begins with “HTTPS”, which indicates to users that they are communicating their data securely through the TLS protocol.\nTechnically, the TLS guarantees visitors that their data cannot be intercepted while in transit over the network in a fraudulent or accidental manner.\nIn addition, the padlock that appears in front of the Qwant URL on most browsers certifies that you are browsing a secure site.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "you can leave at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:32:55",
+            "point_link": "https://edit.tosdr.org/points/4274",
+            "approval_status": "APPROVED",
+            "clause_text": "\"As the name says, the right to oppose allows you to oppose data processing by Qwant. You may, for instance, choose to delete your account.\"",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2018-06-26 08:51:35",
+            "point_link": "https://edit.tosdr.org/points/4280",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "Accessibility to this service is guaranteed at 99% or more",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/12946",
+            "approval_status": "APPROVED",
+            "clause_text": "You are informed that the Services are operational 24 hours a day and 7 days a week,",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "Accessibility to this service is guaranteed at 99% or more",
+                "href": "https://edit.tosdr.org/cases/158"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/12941",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In order to manage its users’ accounts and to send our newsletter (if you have chosen to subscribe), Qwant collects the following data:</p>",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:04:58",
+            "point_link": "https://edit.tosdr.org/points/12950",
+            "approval_status": "APPROVED",
+            "clause_text": "We shall not be held responsible of any attack, damage, loss, harm, counterfeiting and unfair competition action based on the use of our Services, nor of any illicit use of our Services, fraudulent use or attempts to bypass technical protection measures.</p>",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:07:40",
+            "point_link": "https://edit.tosdr.org/points/12123",
+            "approval_status": "APPROVED",
+            "clause_text": "You can remove the data from the “local storage” by deactivating cookies thanks to the settings of your browser.\nHowever, this deactivation may prevent you from accessing some features of the Services, such as saving your browsing preferences.</p>",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:07:41",
+            "point_link": "https://edit.tosdr.org/points/12121",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We offer hypertext links to other websites or other sources of information published or managed by third parties, in order to improve the relevance of your browsing.\nGiven that we can not exert control over external sources contents, you agree that we do not bear any responsibility relative to the provision of these resources, to their content, to possible collections and transmissions of personal data, cookies planting or any other similar processes done by those sites.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:06:23",
+            "point_link": "https://edit.tosdr.org/points/12947",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to interrupt, suspend momentarily or modify without prior notice access to all or parts of the Services, in order to maintain or control them, or to do tests.\nSuch interruption, suspension or modification can not be entitled to obligations or compensations.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "critical changes without user involvement",
+            "rating": "neutral",
+            "description": "They may significantly update the terms at any time and at their sole discretion, meaning for any reason and without necessarily taking into account the interests or suggestions of the users of the Service.",
+            "last_updated": "2023-07-11 06:32:56",
+            "point_link": "https://edit.tosdr.org/points/4350",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We reserve the right to modify the terms at any time so they can fit the evolutions of the services of QWANT and/or their operation.  You will be informed, by email and/or by any other appropriate means on the affected Services, of all substantial changes to the Terms, prior to their entry into force.\"",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "Critical changes to the terms are made without user involvement",
+                "href": "https://edit.tosdr.org/cases/120"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:34:06",
+            "point_link": "https://edit.tosdr.org/points/12120",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Therefore, we decline all responsibility, of any nature:in case of inaccuracy, lack of update, error or omissions in information available through the Services;\"",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:05:21",
+            "point_link": "https://edit.tosdr.org/points/12125",
+            "approval_status": "APPROVED",
+            "clause_text": "QWANT grants you, for free, a personal, non-transferable, non-exclusive worldwide license, to use the software delivered as part of our Services",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This services gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 10:06:42",
+            "point_link": "https://edit.tosdr.org/points/11624",
+            "approval_status": "APPROVED",
+            "clause_text": "However we can not guarantee that the results and the gathered information are free of any mistake or any defect",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:07:40",
+            "point_link": "https://edit.tosdr.org/points/12124",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to use the Services in an inappropriate way (for instance, by unlawfully accessing the Services, servers, computers or databases attached to the Services, by launching saturating attacks or by planting malicious or harmful material…), under penalty of prosecution.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:07:45",
+            "point_link": "https://edit.tosdr.org/points/12119",
+            "approval_status": "APPROVED",
+            "clause_text": "Therefore, we decline all responsibility, of any nature:</p>\n<ul>\n<li>in case of inaccuracy,",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "you are responsible for what you publish",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:34:11",
+            "point_link": "https://edit.tosdr.org/points/4279",
+            "approval_status": "APPROVED",
+            "clause_text": "\"If you have created a user account, you bear the sole responsibility for information that you fill in when registering or when modifying your account.\"\n\nAnd for boards (https://about.qwant.com/legal/terms-of-service/qwant-boards/):\n\n\"You acknowledge that you alone are responsible for the contents and consequences following their aggregation and their being shared on your Boards.  You agree to put the required permissions (rights, licenses, consent and/or authorization) allowing you to share other’s information.  On the other hand, you are not allowed to publish content that includes elements you are not legally authorized to possess.\"\n\n\"You will be held responsible for all content that may infringe upon the rights of others or applicable laws, including rules related to the right to one’s image and rights regarding intellectual property and shared content.\"",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:04:59",
+            "point_link": "https://edit.tosdr.org/points/12951",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to taking all necessary measures to preserve the confidentiality of your password.\nYou can read some advice on how to manage your password security on this page.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:04:58",
+            "point_link": "https://edit.tosdr.org/points/12934",
+            "approval_status": "APPROVED",
+            "clause_text": "After this period, the keywords are no longer associated to an identifier and are retained for 12 months for aggregate statistical analysis (e.g.\nto know how many times a keyword is searched over a given period of time).</p>\n<p>This processing is necessary for the performance of Qwant’s Terms of Use, on the basis of article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us), and meets Qwant’s legitimate interest (article 6.1.f of the GDPR) to secure and make its services reliable.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:04:58",
+            "point_link": "https://edit.tosdr.org/points/12945",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>When videos are embedded within search results, you can watch them without leaving Qwant.\nWe don’t retain data related to your use of the videos.\nHowever, the videos are loaded by your browser from the servers of their hosting service, which may collect some of your personal data.\nThe playing of videos obtained from the YouTube API Services is then subject to YouTube’s Terms of Service and to Google’s Privacy Policy.\nVideos obtained from the Dailymotion API are subject to Dailymotion’s Terms of Use, and to Dailymotion’s Privacy Policy.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "translated into only a few languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 06:32:51",
+            "point_link": "https://edit.tosdr.org/points/4278",
+            "approval_status": "APPROVED",
+            "clause_text": "translated into only a few languages",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:56",
+            "point_link": "https://edit.tosdr.org/points/12937",
+            "approval_status": "APPROVED",
+            "clause_text": "This data is transferred to this partner within the European Union, and may be retained in accordance with Bing’s Privacy Policy for a maximum duration of 18 months.</p>\n<p>This processing is necessary for the performance of Qwant’s Terms of Use, on the basis of article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us), and responds to the legitimate interest of Microsoft Ireland Operations Limited (article 6.1.f) to make its services secure and reliable.",
+            "point_source": "https://about.qwant.com/legal/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "court of law is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:32:52",
+            "point_link": "https://edit.tosdr.org/points/4281",
+            "approval_status": "APPROVED",
+            "clause_text": "\"The Services and their Terms are governed by French law, wherever originates the use of the Services. If friendly solutions can’t be found or are not sought, French courts within the competence of the Cour d’appel de Paris are the only courts competent to know of any litigation arose from the current Terms.\"",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:07:40",
+            "point_link": "https://edit.tosdr.org/points/12122",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be informed, by email and/or by any other appropriate means on the affected Services, of all substantial changes to the Terms, prior to their entry into force.",
+            "point_source": "https://about.qwant.com/legal/terms-of-service/qwant-search/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

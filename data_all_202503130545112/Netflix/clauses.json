@@ -1,0 +1,781 @@
+{
+    "meta_data": {
+        "title": "Netflix - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 10:09:31",
+            "point_link": "https://edit.tosdr.org/points/12995",
+            "approval_status": "APPROVED",
+            "clause_text": "If you use the Netflix app on a mobile device, tablet, or streaming media device, we may collect a resettable device identifier from your device.\nResettable device identifiers (also known as advertising identifiers) are similar to cookies and are found on many mobile devices and tablets (for example, the \"Identifier for Advertisers\" (or IDFA) on Apple iOS devices and the \"Google Advertising ID\" on Android devices), and certain streaming media devices.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/13000",
+            "approval_status": "APPROVED",
+            "clause_text": "service providers that help us determine a location based on your IP address in order to customize our service and for other uses consistent with this Privacy Statement.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:09:31",
+            "point_link": "https://edit.tosdr.org/points/13629",
+            "approval_status": "APPROVED",
+            "clause_text": "\"[...]Information you provide to us: We collect information you provide to us which includes: your name, email address, address or postal code, payment method(s), and telephone number.[...]\ninformation when you choose to provide ratings, taste preferences, account settings (including preferences set in the \"Account\" section of our website), or otherwise provide information to us through our service or elsewhere.\nInformation we collect automatically[...]\"",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:09:35",
+            "point_link": "https://edit.tosdr.org/points/13643",
+            "approval_status": "APPROVED",
+            "clause_text": "We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement.\nWe take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/12998",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Advertising cookies and resettable device identifiers:</strong> These cookies and resettable device identifiers use information about your use of this and other websites and apps, your response to ads and emails, and to deliver ads that are more relevant to you and for analytics and optimization purposes.\nThese types of ads are called \"interest-based advertising.\" The advertising cookies associated with our service belong to our Service Providers.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:09:30",
+            "point_link": "https://edit.tosdr.org/points/13006",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Promotional offers:</strong> We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties.\nIn fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service tracks you on social media and public databases.",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/13634",
+            "approval_status": "APPROVED",
+            "clause_text": "\"These sources vary over time, but could include: [...] publicly-available sources such as publicly available posts on social media platforms and information available through public databases associating IP addresses with internet service providers (ISPs).\"",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/13002",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We collect information about you and your use of our service, [...]This information includes: [...] referring source (for example, referral URLs),\"",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/13003",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect information from other companies with whom you have a relationship (“Partners”).\nThese Partners might include (depending on what services you use): your TV or internet service provider, or other streaming media device providers who make our service available on their device.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/13004",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We use information to provide, analyze, administer, enhance and personalize our services and marketing efforts,",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:12",
+            "point_link": "https://edit.tosdr.org/points/11354",
+            "approval_status": "APPROVED",
+            "clause_text": "The Netflix service may be provided through and/or utilize features (such as voice controls) operated by third party platforms, or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:04:13",
+            "point_link": "https://edit.tosdr.org/points/11355",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our Service Providers use cookies and other technologies (such as web beacons)",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/13631",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Information you provide to us: We collect information you provide to us which includes: your name, email address, address or postal code, payment method(s), and telephone number. In certain countries, we collect a government identification number for purposes such as billing and tax compliance. We collect this information in a number of ways, including when you enter it while using our service, interact with our customer service, or participate in surveys or marketing promotions.\"\n    \n          On 2024-07-13 09:48:01 UTC, gibifeb9562 (35966)  wrote:\n          I can’t really help but admire your blog, your blog is so adorable and nice ,    ChatGpt",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/13639",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>social plugins and similar technologies allow you to share information.\n</p>\n</li>\n</ul>\n<p>Social plugins and social applications are operated by the social networks themselves, and are subject to their terms of use and privacy policies.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-06-26 21:03:32",
+            "point_link": "https://edit.tosdr.org/points/34225",
+            "approval_status": "APPROVED",
+            "clause_text": ", web beacons and other technologies",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Netflix reserve the right to disclose personal info, no notification.",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:35:17",
+            "point_link": "https://edit.tosdr.org/points/1051",
+            "approval_status": "APPROVED",
+            "clause_text": "Netflix also reserves the right to disclose personal information if we reasonably believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public as required or permitted by law. In connection with any reorganization, restructuring, merger or sale, or other transferring of assets we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our privacy policy.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service uses your personal information for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/12996",
+            "approval_status": "APPROVED",
+            "clause_text": "We use these types of technologies for various reasons, like making it easy to access our services by remembering you when you return.\nto provide, analyze, understand and enhance the use of our services.\nto enforce our terms, prevent fraud.\nto improve site performance, monitor visitor traffic and actions on our site.\nand to deliver and tailor our marketing or advertising, and to understand interactions with our emails, marketing, and online ads on third party sites.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:05:22",
+            "point_link": "https://edit.tosdr.org/points/13005",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In connection with our use of these technologies, some of the websites and apps where we advertise, as well as advertising technology companies that we use to purchase, deliver, optimize, and/or measure our advertisements (collectively “Advertising Partners”), may receive limited information from us as part of our campaign targeting, measurement, and optimization (e.g., steps completed in sign-up and site visit or app open/install information).</p>",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 06:34:53",
+            "point_link": "https://edit.tosdr.org/points/13637",
+            "approval_status": "APPROVED",
+            "clause_text": "details of your interactions with our customer service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number and call recordings.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13635",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we use such information to: </p>\n<ul>\n<li>\n<p>determine your general geographic location, provide localized content, provide you with customized and personalized viewing recommendations for movies and TV shows we think will be of interest to you,",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/14311",
+            "approval_status": "APPROVED",
+            "clause_text": "Whenever in the course of sharing information we transfer personal information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this Privacy Statement and as permitted by the applicable laws on data protection.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13649",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for updating and maintaining the accuracy of the information you provide to us relating to your account.\nWe can terminate your account or place your account on hold in order to protect you, Netflix or our partners from identity theft or other fraudulent activity.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:09:31",
+            "point_link": "https://edit.tosdr.org/points/13633",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>online and offline data providers, from which we obtain aggregated demographic, interest based and online advertising related data.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:09:31",
+            "point_link": "https://edit.tosdr.org/points/13630",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Information you provide to us: We collect information you provide to us which includes: your name, email address, address or postal code, payment method(s), and telephone number. In certain countries, we collect a government identification number for purposes such as billing and tax compliance. We collect this information in a number of ways, including when you enter it while using our service, interact with our customer service, or participate in surveys or marketing promotions.\"",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Users can request access and deletion of personal info.",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:33:26",
+            "point_link": "https://edit.tosdr.org/points/757",
+            "approval_status": "APPROVED",
+            "clause_text": "With respect to your personal information, you can request access and that we correct or delete this personal information by emailing your request to pri...@netflix.com.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:06:04",
+            "point_link": "https://edit.tosdr.org/points/13632",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect this information in a number of ways, including",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 06:34:03",
+            "point_link": "https://edit.tosdr.org/points/1348",
+            "approval_status": "APPROVED",
+            "clause_text": "Your information can be transferred to a new company, but only if it complies with Netflix's Privacy Policy.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/13642",
+            "approval_status": "APPROVED",
+            "clause_text": "You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.\nif we have collected and process your personal information with your consent, then you can withdraw your consent at any time.\nwithdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.\nyou have the right to complain to a data protection authority about our collection and use of your personal information.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:06:06",
+            "point_link": "https://edit.tosdr.org/points/13641",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you are the account owner, to download a copy of your personal information go to: www.netflix.com/account/getmyinfo (you must be signed in to access the \"Account\" section), and follow the instructions.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:35",
+            "point_link": "https://edit.tosdr.org/points/13648",
+            "approval_status": "APPROVED",
+            "clause_text": "To maintain control over the account and to prevent anyone from accessing the account (which would include information on viewing history for the account), the Account Owner should maintain control over the Netflix ready devices that are used to access the service and not reveal the password or details of the Payment Method associated with the account to anyone.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, users are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 10:10:43",
+            "point_link": "https://edit.tosdr.org/points/13009",
+            "approval_status": "APPROVED",
+            "clause_text": "Changes to Terms of Use.\nNetflix may, from time to time, change these Terms of Use.\nWe will notify you at least 30 days before such changes apply to you.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:09:31",
+            "point_link": "https://edit.tosdr.org/points/13628",
+            "approval_status": "APPROVED",
+            "clause_text": "We receive and store information about you such as:",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/13627",
+            "approval_status": "APPROVED",
+            "clause_text": "For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at privacy@netflix.com.\n</p>\n<p>The data controller of your personal information is Netflix International B.V.\nPlease note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:06:06",
+            "point_link": "https://edit.tosdr.org/points/13636",
+            "approval_status": "APPROVED",
+            "clause_text": "Use of Information",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:06:04",
+            "point_link": "https://edit.tosdr.org/points/13007",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong> Netflix and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request,",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:09:36",
+            "point_link": "https://edit.tosdr.org/points/13644",
+            "approval_status": "APPROVED",
+            "clause_text": "To opt out of interest-based ads from Netflix in connection with a resettable device identifier on a mobile device, tablet, or streaming media devices, please configure the appropriate setting on your device (usually found under \"privacy\" or \"ads\" in your device's settings).\nYou may still see Netflix ads on your device, but they will not be tailored to your likely interests.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Terms and privacy policy pages are organized and formatted well.",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2018-01-16 15:26:34",
+            "point_link": "https://edit.tosdr.org/points/639",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:03:05",
+            "point_link": "https://edit.tosdr.org/points/716",
+            "approval_status": "APPROVED",
+            "clause_text": "You may cancel your Netflix membership at any time. WE DO NOT PROVIDE REFUNDS OR CREDITS FOR ANY PARTIAL-MONTH MEMBERSHIP PERIODS OR UNWATCHED MOVIES OR TV SHOWS.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/13626",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have general questions about your account or how to contact customer service for assistance, please visit our online help center at help.netflix.com.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/13638",
+            "approval_status": "APPROVED",
+            "clause_text": "If you no longer want to receive certain communications from us via email or text message, simply access the \"Communications Settings\" option in the \"Account\" section of our website and uncheck those items to unsubscribe.\nAlternatively, click the \"unsubscribe\" link in the email or reply STOP (or as otherwise instructed) to the text message.\nPlease note that you cannot unsubscribe from service-related correspondence from us, such as messages relating to your account transactions.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/12997",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies are strictly necessary to provide our website or online service.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:33:48",
+            "point_link": "https://edit.tosdr.org/points/14310",
+            "approval_status": "APPROVED",
+            "clause_text": "Payments are non-refundable and we do not provide refunds or credits for any partial - month membership periods or unwatched Netflix content.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:09:35",
+            "point_link": "https://edit.tosdr.org/points/13650",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated:</strong> December 31, 2019</p>",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:09:36",
+            "point_link": "https://edit.tosdr.org/points/13645",
+            "approval_status": "APPROVED",
+            "clause_text": "You authorize us to charge any Payment Method associated to your account in case your primary Payment Method is declined or no longer available to us for payment of your subscription fee.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/13647",
+            "approval_status": "APPROVED",
+            "clause_text": "The Netflix service and any content viewed through the service are for your personal and non-commercial use only and may not be shared with individuals beyond your household.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering or crawling is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:02",
+            "point_link": "https://edit.tosdr.org/points/10682",
+            "approval_status": "APPROVED",
+            "clause_text": "use any robot, spider, scraper or other automated means to access the Netflix service.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "This service is only available to users over 18 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:48:31",
+            "point_link": "https://edit.tosdr.org/points/20835",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be 18 years of age, or the age of majority in your province, territory or country, to become a member of the Netflix service.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:33:18",
+            "point_link": "https://edit.tosdr.org/points/12999",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we and our Service Providers may use these cookies to authenticate and identify our members when they use our websites and applications so we can provide our service to them.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:33:18",
+            "point_link": "https://edit.tosdr.org/points/13008",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision or provisions of these Terms of Use shall be held to be invalid, illegal, or unenforceable, the validity, legality and enforceability of the remaining provisions shall remain in full force and effect.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:48:31",
+            "point_link": "https://edit.tosdr.org/points/20837",
+            "approval_status": "APPROVED",
+            "clause_text": "The member who created the Netflix account and whose Payment Method is charged (the \"Account Owner\") has access and control over the Netflix account and the Netflix ready devices that are used to access our service and is responsible for any activity that occurs through the Netflix account.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/13001",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We collect information about you and your use of our service,[...] This information includes: [...] IP address (which may tell us your general location),\"\n    \n          On 2024-07-27 11:56:18 UTC, HASEEB (32770)  wrote:\n          Oh i really envy the way you post topics, how i wish i could write like that.”\\\".”` Slot Online\n\n        \n        \n      \n        \n          \n              Version 1: 2020-12-18 09:35:16 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2020-12-18 09:35:16 UTC by AgnesDeLion (20760)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2020-12-18 09:35:16 UTC by AgnesDeLion (20760)  Staff\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: This service collects your IP address for location use\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: This service collects your IP address for location use\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: This service collects your IP address for location use\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: This service collects your IP address for location use\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:09:32",
+            "point_link": "https://edit.tosdr.org/points/13640",
+            "approval_status": "APPROVED",
+            "clause_text": "At this time, we do not respond to web browser \"do not track\" signals.",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20836",
+            "approval_status": "APPROVED",
+            "clause_text": "Minors may only use the service under the supervision of an adult.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-06-26 21:00:11",
+            "point_link": "https://edit.tosdr.org/points/34224",
+            "approval_status": "APPROVED",
+            "clause_text": "IP address",
+            "point_source": "https://help.netflix.com/legal/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Netherlands",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:06:04",
+            "point_link": "https://edit.tosdr.org/points/11356",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms of Use shall be governed by and construed in accordance with the laws of the Netherlands.",
+            "point_source": "https://help.netflix.com/legal/termsofuse",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

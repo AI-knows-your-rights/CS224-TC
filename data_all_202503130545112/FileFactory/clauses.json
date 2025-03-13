@@ -1,0 +1,585 @@
+{
+    "meta_data": {
+        "title": "FileFactory - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Content you post may be edited by the service for any reason",
+            "rating": "blocker",
+            "description": "This service can edit any content on the service for whatever the reason and at their sole discretion.",
+            "last_updated": "2023-07-11 04:49:45",
+            "point_link": "https://edit.tosdr.org/points/21710",
+            "approval_status": "APPROVED",
+            "clause_text": "We may edit or delete any material We consider inappropriate at our sole discretion.</p>",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Content you post may be edited by the service for any reason",
+                "href": "https://edit.tosdr.org/cases/407"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2021-06-01 14:14:10",
+            "point_link": "https://edit.tosdr.org/points/21711",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 04:49:45",
+            "point_link": "https://edit.tosdr.org/points/21687",
+            "approval_status": "APPROVED",
+            "clause_text": "However, FileFactory.com may retain Customer data in its archives after deletion and will not be liable to Customer in any way for such retained data.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "Prices and fees may be changed at any time, without notice to you",
+            "rating": "bad",
+            "description": "The service reserves the right to change or modify its pricing and fees at any time, and such changes are effective immediately without need for further notice to the user.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21703",
+            "approval_status": "APPROVED",
+            "clause_text": "Further, you acknowledge that FileFactory.com may change subscription fees at any time without notice.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "Prices and fees may be changed at any time, without notice to you",
+                "href": "https://edit.tosdr.org/cases/497"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 04:49:45",
+            "point_link": "https://edit.tosdr.org/points/21702",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right to change this Service Agreement at any time without notice.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21714",
+            "approval_status": "APPROVED",
+            "clause_text": "In order for you to access certain premiums, services and to purchase products that we offer via the Site, we require you to provide us with certain information that personally identifies you (\"Personal Information\").\nPersonal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address).\n(2) Financial Data (such as your account or credit card number).\nand (3) Demographic Data (such as your zip code, age, and income).",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 04:49:46",
+            "point_link": "https://edit.tosdr.org/points/21708",
+            "approval_status": "APPROVED",
+            "clause_text": "If any controversy or dispute arising from or relating to this Agreement, your use of the Site, the Services provided to you by Company, or any other matter related to the relationship between you and the Company, even if arising after termination of this Agreement, cannot be resolved through mutual agreement, the sole means of resolving the controversy will be binding arbitration under the auspices of the Belize Arbitration Act.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (Belize)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21683",
+            "approval_status": "APPROVED",
+            "clause_text": "Belize has no real electronic data protection laws",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21698",
+            "approval_status": "APPROVED",
+            "clause_text": "(V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21716",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21721",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process.\n(b) protect our rights or property.\nor (c) enforce our Terms of Service.",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21709",
+            "approval_status": "APPROVED",
+            "clause_text": "CLASS ACTION WAIVER.\n<p>IN ANY DISPUTE, NEITHER AFFILIATE NOR ANY OTHER PERSON SHALL BE ENTITLED TO JOIN OR CONSOLIDATE CLAIMS BY OR AGAINST FILEFACTORY OR OTHER PERSONS, OR ARBITRATE ANY CLAIM AS A REPRESENTATIVE OR CLASS ACTION OR IN A PRIVATE ATTORNEY GENERAL CAPACITY.\nAFFILIATE ACKNOWLEDGES THAT IT IS GIVING UP ITS RIGHT TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE ACTION WITH RESPECT TO ANY SUCH CLAIM.",
+            "point_source": "https://www.filefactory.com/legal/affiliate.php",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21717",
+            "approval_status": "APPROVED",
+            "clause_text": "except that we share Contact Data and Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfilment, or data storage and security) related to our operation of the Site",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "You shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21692",
+            "approval_status": "APPROVED",
+            "clause_text": "Whether lawful or unlawful, FileFactory.com reserves the right to determine what is harmful to its Customers, operations or reputation, including any activities that restrict or inhibit any other user from using and enjoying the Service or the Internet.</p>\n<p>Please be aware FileFactory.com reserves the right to cancel any account or transmission they find in violation of any of the above policies.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "You can opt out of providing personal information to third parties",
+            "rating": "good",
+            "description": "The Service provides opt-out instructions to the share of (some) personal information with third parties.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21719",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not want us to share your Contact Data with any third parties, please email us at privacy@filefactory.com or select the \"opt out\" box on our online forms, but please understand that such a request will likely limit your ability to take advantage of all of the features and services we offer on the Site.",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "You can opt out of providing personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/337"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:44",
+            "point_link": "https://edit.tosdr.org/points/21722",
+            "approval_status": "APPROVED",
+            "clause_text": "USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION.\n<p>",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21712",
+            "approval_status": "APPROVED",
+            "clause_text": "TYPES OF INFORMATION COLLECTED",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21715",
+            "approval_status": "APPROVED",
+            "clause_text": "USES OF INFORMATION COLLECTED",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21718",
+            "approval_status": "APPROVED",
+            "clause_text": "Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy (to include the implementation and maintenance of reasonable security procedures to protect sensitive data), and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to Company.",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21720",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not wish to receive information and promotional material from us or from some of our partners, you may select the appropriate \"opt-out\" option each time we ask you for Personal Information.</p>\n</li>\n</ul>",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 04:49:41",
+            "point_link": "https://edit.tosdr.org/points/21690",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Customer shall not commit or permit wrongful or damaging acts which justify civil action including, but not limited to, posting of defamatory, scandalous, or private information about a person without their consent",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21700",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, indemnify, and hold harmless FileFactory.com, its affiliates, officers, directors, employees and agents, from and against any claims, actions or demands, including without limitation reasonable legal fees, alleging or resulting from your use of the Service, or your breach of this Agreement or other FileFactory.com policies, terms and conditions.</p>",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 04:49:46",
+            "point_link": "https://edit.tosdr.org/points/21706",
+            "approval_status": "APPROVED",
+            "clause_text": "All purchases of Services through the Site are nonrefundable prepayments for Services.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21699",
+            "approval_status": "APPROVED",
+            "clause_text": "(D) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21707",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you sign up for a FileFactory 30 day recurring Service, your subscription continues to bill monthly until you cancel it.\nTo cancel a recurring credit card subscription simply visit your Account page on FileFactory.com.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 04:49:45",
+            "point_link": "https://edit.tosdr.org/points/21701",
+            "approval_status": "APPROVED",
+            "clause_text": "You expressly understand and agree that FileFactory.com shall not be liable for any direct, indirect, incidental, special, consequential exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if we have been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Service.\n(ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service.\n(iii) unauthorised access to or alteration of your transmissions or data.\n(iv) statements or conduct of any third party on the service.\nor (v) any other matter relating to the Service.</p>",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Harming minors in any ways is prohibited",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 04:49:41",
+            "point_link": "https://edit.tosdr.org/points/21689",
+            "approval_status": "APPROVED",
+            "clause_text": "c.\nto harm minors in any way, this includes any form of child pornography.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21684",
+            "approval_status": "APPROVED",
+            "clause_text": "FileFactory.com reserves the right to change or discontinue any of the Services at any time.</p>",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21705",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon termination of this Agreement by either Customer or FileFactory.com, all of Customer rights under this Agreement, and FileFactory.com's provision of Services, will terminate immediately.</p>\n</li>\n<li>\n<p>13.2 The Sections 7 (\"Customer Data\"), 9 (\"No Warranty\"), 10 (\"Indemnity\"), 11 (\"Limitation Of Liability\") and this Section 13 will survive any termination of this Agreement.</p>",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21695",
+            "approval_status": "APPROVED",
+            "clause_text": "FILEFACTORY.COM MAKES NO WARRANTY THAT (I) THE SERVICE WILL MEET YOUR REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE,",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "No guarantee is given regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21697",
+            "approval_status": "APPROVED",
+            "clause_text": "(IV) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21693",
+            "approval_status": "APPROVED",
+            "clause_text": "(A) YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK.\nFILEFACTORY.COM SERVICES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 04:49:41",
+            "point_link": "https://edit.tosdr.org/points/21688",
+            "approval_status": "APPROVED",
+            "clause_text": "If Customer data violates the Acceptable Use Policy or DMCA Policy then such data may be removed.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "This service is only available to users over 18 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21682",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AGREE THAT BY USING THE SERVICE YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD AND THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21704",
+            "approval_status": "APPROVED",
+            "clause_text": "FileFactory.com may immediately issue a warning, suspend (i.e., lock out access and operation of Services for Customer) either temporarily or indefinitely, or terminate Customer's account and refuse to provide Services to Customer if: (a) FileFactory.com believes that Customer has violated or acted inconsistently with this Agreement, or any of our policies.\nor (b) Customer has failed to pay fees or other payments due to FileFactory.com.\nor (c) FileFactory.com is unable to verify or authenticate any information Customer provides to FileFactory.com.\nor (d) FileFactory.com believes that Customer's actions may cause legal liability for Customer, FileFactory.com's other clients, or FileFactory.com.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 04:49:41",
+            "point_link": "https://edit.tosdr.org/points/21691",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>FileFactory.com Services may be used only for lawful purposes.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:49:40",
+            "point_link": "https://edit.tosdr.org/points/21686",
+            "approval_status": "APPROVED",
+            "clause_text": "Customer will immediately notify FileFactory.com if Customer notices any activity indicating that Customer's account or data is being used without authorisation, including: (a) Customer has received confirmation of an order or orders placed using Customer's account which Customer did not place or any similar conflicting report.\nor (b) Customer becomes aware of any unauthorised use of any product or service related to its account(s).</p>",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21696",
+            "approval_status": "APPROVED",
+            "clause_text": "(III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE,",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:49:46",
+            "point_link": "https://edit.tosdr.org/points/21685",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Customer is solely responsible for maintaining the confidentiality of Customer access information, i.e.\naccount ID's and passwords of its Authorised Users, and are responsible for all activities that occur under your account.</p>",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:43",
+            "point_link": "https://edit.tosdr.org/points/21713",
+            "approval_status": "APPROVED",
+            "clause_text": "We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses.",
+            "point_source": "https://www.filefactory.com/legal/privacy.php",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 04:49:42",
+            "point_link": "https://edit.tosdr.org/points/21694",
+            "approval_status": "APPROVED",
+            "clause_text": "FILEFACTORY.COM AND ITS SUPPLIERS, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY AND NON-INFRINGEMENT OF PROPRIETARY OR THIRD PARTY RIGHTS.",
+            "point_source": "https://www.filefactory.com/legal/terms.php",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

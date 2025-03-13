@@ -1,0 +1,557 @@
+{
+    "meta_data": {
+        "title": "Symbaloo - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:23:04",
+            "point_link": "https://edit.tosdr.org/points/25972",
+            "approval_status": "APPROVED",
+            "clause_text": "Although the third-party nature of these cookies is not explicited, we can assume they don't run their own ads network.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25973",
+            "approval_status": "APPROVED",
+            "clause_text": "Device IDs are collected and might be shared with those companies, thus endangering anonymity of users, so we can consider it is personal data after all.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25939",
+            "approval_status": "APPROVED",
+            "clause_text": "By continuing to access or use the Products after those revisions become effective, you agree to be bound by the revised Terms.</p>\n<p>",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25966",
+            "approval_status": "APPROVED",
+            "clause_text": "Symbaloo has a good faith belief that special circumstances make it reasonably necessary for Symbaloo to disclose such information.\nSuch special circumstances include (i) to enforce the Symbaloo Terms of Use, (ii) to comply with a subpoena, summons, or other writ or court order in a legal proceeding, (iii) to respond to claims that the rights of third parties are violated by content appearing on Symbaloo’s products or services, and (iv) to protect the rights, property, or personal safety of Symbaloo, any of its employees or users, or the public.</p>\n<p>",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25962",
+            "approval_status": "APPROVED",
+            "clause_text": "This may include, for example, a Unique Device Identifier (“UDID”), a Google Ad ID, a Windows Advertising ID, A Unique ID for Advertisers (“IDFA”), a mobile carrier, a device type, model, and manufacturer",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your content can be licensed to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 06:23:00",
+            "point_link": "https://edit.tosdr.org/points/25948",
+            "approval_status": "APPROVED",
+            "clause_text": "By submitting, posting, or displaying Content on or through the Products, you grant to Symbaloo a worldwide, non-exclusive, royalty-free license (with the right to sublicense)",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25963",
+            "approval_status": "APPROVED",
+            "clause_text": "and depending on your mobile device settings, geographic location data such as GPS coordinates.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:24:04",
+            "point_link": "https://edit.tosdr.org/points/25970",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to provide these products, services, or features thereof, it may be necessary for either you or Symbaloo to share your personal information with this third party.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your use is throttled",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 06:23:00",
+            "point_link": "https://edit.tosdr.org/points/25941",
+            "approval_status": "APPROVED",
+            "clause_text": "Symbaloo also retains the right to create and/or modify limitations on usage or storage at its sole discretion at any time without prior notice.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25971",
+            "approval_status": "APPROVED",
+            "clause_text": "Symbaloo maintains reasonable administrative, technical and physical procedures to protect any information that may be stored in our servers, which are located in the United States and in other jurisdictions in which Symbaloo, its subsidiaries and affiliates maintain facilities.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25942",
+            "approval_status": "APPROVED",
+            "clause_text": "Full name is required for the creation of an account",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25961",
+            "approval_status": "APPROVED",
+            "clause_text": "We may analyze this data for the trends and preferences they reveal about our end-users and how our end-users use Symbaloo products or services, such as traffic, usage trends, and demographics.\nSuch analysis may be performed with third-party analytics tools",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (California, USA)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:24:04",
+            "point_link": "https://edit.tosdr.org/points/25958",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>These Terms and any action related thereto will be governed by the laws of the State of California without regard to or application of its conflict of law provisions or your state or country of residence.\nAll claims, legal proceedings, or litigation arising in connection with the Products will be brought solely in the federal or state courts located in Orange County, California, United States, and you consent to the jurisdiction of and venue in such courts and waive any objection as to inconvenient forum.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25945",
+            "approval_status": "APPROVED",
+            "clause_text": "Any feedback, comments, or suggestions that you may provide or make regarding Symbaloo and/or any of its Products is made entirely voluntary and without expectation of any obligation to you, and Symbaloo shall be free to use such feedback, comments, or suggestion as it sees fit.</p>",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25946",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain any rights you may have in such Content.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:24:04",
+            "point_link": "https://edit.tosdr.org/points/25964",
+            "approval_status": "APPROVED",
+            "clause_text": "Please keep in consideration that any information that you may disclose in any such social spaces will be viewable according to the nature of that social space, and as such may be viewable by other registered end-users, subsets of registered end-users, or non-registered end-users.\nCaution should be exercised when personal information is disclosed by end-users within these spaces.</p>",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25975",
+            "approval_status": "APPROVED",
+            "clause_text": "Symbaloo’s Use of Collected Information",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25974",
+            "approval_status": "APPROVED",
+            "clause_text": "Information Symbaloo Collects",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25965",
+            "approval_status": "APPROVED",
+            "clause_text": "Other than as specifically stated herein, the personal information that you supply to Symbaloo will not be given, rented, sold, loaned, or otherwise disclosed to any third party outside of Symbaloo or its agents",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25968",
+            "approval_status": "APPROVED",
+            "clause_text": "These third parties are only permitted access only to information that reasonably necessary for them to provide such limited services, are prohibited from using such information for any purpose other than those limited services, and are required to maintain the confidentiality of any such information which may be personal information",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25947",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>By submitting, posting, or displaying Content on or through the Products, you grant to Symbaloo a worldwide, non-exclusive, royalty-free license",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:24:04",
+            "point_link": "https://edit.tosdr.org/points/25959",
+            "approval_status": "APPROVED",
+            "clause_text": "End-users may opt out of being informed via promotional e-mail in the future by following the unsubscribed procedure indicated in the e-mail.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Your content can be distributed through any media",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25949",
+            "approval_status": "APPROVED",
+            "clause_text": "to use, host, store, copy, reproduce, process, adapt, modify, publish, transmit, create derivative works, communicate, display, and/or distribute such Content in any and all media or distribution methods as part of providing, promoting, or improving Symbaloo’s Products.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25955",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SYMBALOO ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PRODUCTS.\n(ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON,THROUGH, OR ASSOCIATED WITH THE PRODUCTS, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES.\n(iii) ANY CONTENT OBTAINED FROM THE PRODUCTS.\nOR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25976",
+            "approval_status": "APPROVED",
+            "clause_text": "This policy was most recently updated on <strong>January 10th 2018",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:23:00",
+            "point_link": "https://edit.tosdr.org/points/25938",
+            "approval_status": "APPROVED",
+            "clause_text": "We may revise these Terms from time-to-time, the most current version will always be at the referenced link.\nIf the revision, in our sole discretion, is material, we will notify you through the Products or through Email.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25940",
+            "approval_status": "APPROVED",
+            "clause_text": "Symbaloo retains the right to temporarily or permanently stop providing a Product and/or a feature within a Product to you or to Users generally, without prior notice.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25951",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>All Content, whether publicly or privately transmitted, is the sole responsibility of the person who originated that content.\nSymbaloo may or may not monitor or control the Content submitted by Users, and takes no responsibility for such Content.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25953",
+            "approval_status": "APPROVED",
+            "clause_text": "Your access to and use of the Products or any Content are at your own risk.\nYou understand and agree that the Products are provided to you on an “AS IS” and “AS AVAILABLE” basis.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25952",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to remove Content alleged to be infringing without prior notice, at our sole discretion, and without liability to you.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25967",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Symbaloo may use aggregated personal information in order to determine the demographics of our end-users and to distribute statistics or other information about Symbaloo and/or its products and services.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25950",
+            "approval_status": "APPROVED",
+            "clause_text": "We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us.\nIf you believe that your Content has been copied in a way that constitutes copyright infringement, please provide us with the following information:",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25956",
+            "approval_status": "APPROVED",
+            "clause_text": "The failure of Symbaloo to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25943",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for safeguarding any password and/or other security features that you use to access Symbaloo’s Products, and for ensuring that you exit from your user account following use of Symbaloo Products.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25957",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25944",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to notify Symbaloo of any unauthorized use of your user account or any other breach of security.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:23:01",
+            "point_link": "https://edit.tosdr.org/points/25954",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SYMBALOO ENTITIES DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.",
+            "point_source": "https://blog.symbaloo.com/terms/terms_us.html",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:23:03",
+            "point_link": "https://edit.tosdr.org/points/25969",
+            "approval_status": "APPROVED",
+            "clause_text": "Certain of Symbaloo’s products, services, or features thereof may be offered in connection with a third party partner.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:23:02",
+            "point_link": "https://edit.tosdr.org/points/25960",
+            "approval_status": "APPROVED",
+            "clause_text": "and website visitor statistics, such as IP addresses, sessions sources, and other data which tracks end-user access to Symbaloo’s products or services.",
+            "point_source": "https://blog.symbaloo.com/disclaimer/disclaimer_us.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

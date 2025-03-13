@@ -1,0 +1,557 @@
+{
+    "meta_data": {
+        "title": "Condé Nast - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30664",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service may collect such information even if the Service is not open on your Device or you're not logged in",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "Content you post may be edited by the service for any reason",
+            "rating": "blocker",
+            "description": "This service can edit any content on the service for whatever the reason and at their sole discretion.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30665",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, but undertake no duty, in our sole discretion, with or without notice, to review, edit, move, add, delete, or otherwise change any features, functionality, and/or Content available on or through, or downloadable from, the Service, including without limitation any Content in your account/profile, or any of your messages, posts, or threads.",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "Content you post may be edited by the service for any reason",
+                "href": "https://edit.tosdr.org/cases/407"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30666",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, but undertake no duty, in our sole discretion, with or without notice, to review, edit, move, add, delete, or otherwise change any features, functionality, and/or Content available on or through, or downloadable from, the Service, including without limitation any Content in your account/profile, or any of your messages, posts, or threads.",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Sensitive data is collected and shared to target advertising",
+            "rating": "blocker",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30662",
+            "approval_status": "APPROVED",
+            "clause_text": "Follows \"Categories of third parties to which we may have “sold\" the Personal Information\"",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Sensitive data is collected and shared to target advertising",
+                "href": "https://edit.tosdr.org/cases/487"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30645",
+            "approval_status": "APPROVED",
+            "clause_text": "Your geolocation data may specifically be used to show you Content (including advertising and sponsored messaging) based on geographic location.</li>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30649",
+            "approval_status": "APPROVED",
+            "clause_text": "Moreover, we rent, sell, share, and transfer Personal Information to (i) list buyers who market their goods and services (commonly known as \"list rental\").\n(ii) our advertising, marketing and sponsorship clients to market their goods and services.\n(iii) \"data coops\", which are pooled databases containing the customer information of multiple publishers to enable the marketing use of such customer information by participating publishers.\n(iv) consumer data suppliers/resellers, data enrichment providers and aggregators, and other entities in the online behavioral advertising ecosystem for purposes of OBA (as described in Section VII below), data optimization, lead generation and other data driven projects.\n(v) social media and social networking services.\nand (vi) companies that help us with our Products and Product recommendations.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30654",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our Service Providers, as well as Third Party Businesses, use Tracking Technologies on the Service for purposes of \"online behavioral advertising\" (OBA).",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:28:59",
+            "point_link": "https://edit.tosdr.org/points/30642",
+            "approval_status": "APPROVED",
+            "clause_text": "we may collect, obtain or otherwise acquire the following types of Personal Information about you, and we make and retain inferences drawn from such information:</p>\n<p>1.Identifiers, such as your name, signature, postal address, zip code, email address, telephone number, unique online identifier, IP address, User ID, and Device ID.</p>\n<p>2.Certain characteristics protected by applicable law, such as gender, marital status, nationality, and country of origin.</p>\n<p>3.Commercial information, such as purchase history.</p>\n<p>4.Internet or other electronic network activity information, such as website or app activity data, call logs, text messages, and emails.</p>\n<p>5.Geolocation data, such as the physical location of your Device.</p>\n<p>6.Audio, electronic, visual, thermal, olfactory, or similar information, such as voice recordings, video recordings, physical characteristics or description, and photos.</p>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your Personal data may be sold unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30648",
+            "approval_status": "APPROVED",
+            "clause_text": "Moreover, we rent, sell, share, and transfer Personal Information to (i) list buyers who market their goods and services (commonly known as \"list rental\").\n(ii) our advertising, marketing and sponsorship clients to market their goods and services.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30671",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, in addition to our other remedies, to terminate, discontinue, suspend and/or restrict the Service, your account/profile, your ability to access, visit and/or use the Service or any portion thereof (including any Product or Content), and/or the Agreement, including without limitation any of our purported obligations hereunder, for any or no reason, with or without notice.",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30650",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>\n<p>Marketing Communications.\nWe may also use your Personal Information to communicate with you about new features, events or Products offered by us and Third Party Businesses, including our advertising, marketing and sponsorship clients.</p>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30651",
+            "approval_status": "APPROVED",
+            "clause_text": "As our business changes, we may buy or sell various assets owned or controlled by us.\nIn the event all or a portion of the assets are sold, assigned, transferred or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy or otherwise, your Personal Information may be among the transferred assets.</li>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30652",
+            "approval_status": "APPROVED",
+            "clause_text": "In addition to Local Device Storage, we and/or Third Parties may use web beacons, web bugs, internet or pixel tags, clear gifs, digital fingerprinting (aka \"Machine Identification\") and similar technologies",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30661",
+            "approval_status": "APPROVED",
+            "clause_text": "Categories of third parties to which we may have “sold\" the Personal Informationidentifiers<ul>\n<li>Data storage and security providers</li>\n<li> Order fulfillment providers</li>\n<li>Payment processors</li>\n<li>Database management providers</li>\n<li>Advertising, marketing, social media, and advertising facilitating companies</li>\n<li>List rental providers, data coops</li>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30644",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also acquire your Personal Information offline, from third parties, or otherwise outside of the Service.\nFor example, we may purchase or otherwise acquire Personal Information from third party consumer data suppliers/resellers",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Voice data is collected and shared with third-parties",
+            "rating": "bad",
+            "description": "The service collects data and recordings of your voice when you communicate with a service verbally and may use and share them with third parties, that may use this data for marketing or advertising.",
+            "last_updated": "2023-07-11 06:26:58",
+            "point_link": "https://edit.tosdr.org/points/30641",
+            "approval_status": "APPROVED",
+            "clause_text": "Audio, electronic, visual, thermal, olfactory, or similar information, such as voice recordings, video recordings, physical characteristics or description, and photos",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Voice data is collected and shared with third-parties",
+                "href": "https://edit.tosdr.org/cases/489"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:27:13",
+            "point_link": "https://edit.tosdr.org/points/29772",
+            "approval_status": "APPROVED",
+            "clause_text": "Continued access, visitation and/or use of the Service by you, or continued receipt of a Product, will constitute your acceptance of any changes or revisions to the Privacy Policy.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 06:26:58",
+            "point_link": "https://edit.tosdr.org/points/30640",
+            "approval_status": "APPROVED",
+            "clause_text": "Geolocation data, such as the physical location of your Device.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30655",
+            "approval_status": "APPROVED",
+            "clause_text": "OBA means Online Behavioral Advertising",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30647",
+            "approval_status": "APPROVED",
+            "clause_text": "We allow access to your Personal Information by Service Providers that perform services for us",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30663",
+            "approval_status": "APPROVED",
+            "clause_text": "we may also use, transfer and otherwise process Personal Information acquired from you directly or by use of Tracking Technologies, for marketing purposes, including to serve you with Online Behavioral Advertising (OBA)",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30667",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>You agree, represent, warrant, covenant and guarantee that (i) you are not located in a country that is subject to a U.S.\nGovernment embargo, or that has been designated by the U.S.\nGovernment as a \"terrorist supporting\" country.\nand (ii) you are not listed on any U.S.\nGovernment list of prohibited or restricted parties.",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "Third party cookies are employed, but with opt out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30656",
+            "approval_status": "APPROVED",
+            "clause_text": "If you do not want OBA, you may be able to opt-out by visiting http://www.aboutads.info/, http://www.networkadvertising.org/, http://www.youronlinechoices.com/uk/ and/or by clicking the \"Ad Choices\" icon that appears in advertising served through OBA.\nPlease note that the option to opt-out applies only to tracking by Third Party Businesses across this Service and other sites, applications, destinations, and services, and not tracking among pages within the Service itself.\nThis opt-out option also only applies to cookie-based OBA.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30653",
+            "approval_status": "APPROVED",
+            "clause_text": "We and Third Party Businesses use Tracking Technologies to determine which messages have been opened by recipients",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30659",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>How We Acquire Personal Information",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30658",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>How We Use Your Personal Information",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You will be notified if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30657",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event that we believe the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you.\nIf notification is appropriate, we may notify you by e-mail, push notification, or otherwise.</p>\n</li>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30660",
+            "approval_status": "APPROVED",
+            "clause_text": "Categories of Personal Information Acquired About You</li>",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:26:16",
+            "point_link": "https://edit.tosdr.org/points/29043",
+            "approval_status": "APPROVED",
+            "clause_text": "How to Opt-Out of Marketing Messages from Us.\nIf you do not wish to receive future marketing or other commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:28:33",
+            "point_link": "https://edit.tosdr.org/points/30632",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Last Updated: January 1, 2021",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:27:13",
+            "point_link": "https://edit.tosdr.org/points/29771",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy may be modified from time to time, so check back often.\nSo that you are aware changes have been made, we will adjust the \"Last Updated\" date at the beginning of this document.\nIf we make a material change to this Privacy Policy, we will also post on the Service a notice that a change was made.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:28:35",
+            "point_link": "https://edit.tosdr.org/points/30668",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>post, upload, transmit, send or otherwise make available on or through the Service any Content that constitutes junk mail, spam, pyramid schemes, chain letters, phishing, advertising, and/or commercial offers",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30669",
+            "approval_status": "APPROVED",
+            "clause_text": "any Content that we deem to be offensive, immoral, vulgar, crude, harmful, violent, deceptive, or otherwise inappropriate;",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:26:57",
+            "point_link": "https://edit.tosdr.org/points/30634",
+            "approval_status": "APPROVED",
+            "clause_text": "pornographic, obscene",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:28:36",
+            "point_link": "https://edit.tosdr.org/points/30670",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>If you have reason to believe that your Content has been copied and/or is accessible on the Service in a way that constitutes copyright infringement, or that the Service contains links or other references to another site, application, destination or service that contains Content or activity that infringes your copyright rights, you may notify us by providing a document via fax, first class U.S.\nmail, or e-mail that includes the following information (as required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C.\nsec.\n512) to our copyright agent set forth below:<ol>",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:28:34",
+            "point_link": "https://edit.tosdr.org/points/30643",
+            "approval_status": "APPROVED",
+            "clause_text": "The information collected may include, without limitation, information about your Device, such as the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of you and/or your Device, as well as date/time stamp, IP address,",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:26:16",
+            "point_link": "https://edit.tosdr.org/points/29042",
+            "approval_status": "APPROVED",
+            "clause_text": "As a result, like many websites and online services, we do not alter our practices when the Service receives a DNT signal from a visitor's browser.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:26:58",
+            "point_link": "https://edit.tosdr.org/points/30646",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Service Providers.",
+            "point_source": "https://www.condenast.com/privacy-policy#privacypolicy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in New York, United States",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:28:33",
+            "point_link": "https://edit.tosdr.org/points/30633",
+            "approval_status": "APPROVED",
+            "clause_text": "regardless of where you access, visit and/or use the Service, such Claims shall be governed and construed in accordance with the laws of the United States, State of New York, without regard to any principles of conflict of laws.",
+            "point_source": "https://www.condenast.com/user-agreement/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

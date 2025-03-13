@@ -1,0 +1,445 @@
+{
+    "meta_data": {
+        "title": "Uber - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:14:36",
+            "point_link": "https://edit.tosdr.org/points/18664",
+            "approval_status": "APPROVED",
+            "clause_text": "We enable users to communicate with each other and Uber through Uber’s mobile apps and websites.\nFor example, we enable drivers and riders, and restaurants or delivery persons and delivery recipients, to call, text, or send other files to each other (generally without disclosing their telephone numbers to each other).\nTo provide this service, Uber receives some data regarding the calls, texts, or other communications, including the date and time of the communications and the content of the communications.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "Sensitive data is collected and shared to target advertising",
+            "rating": "blocker",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 04:47:35",
+            "point_link": "https://edit.tosdr.org/points/20152",
+            "approval_status": "APPROVED",
+            "clause_text": "Marketing communications based on political opinions.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Sensitive data is collected and shared to target advertising",
+                "href": "https://edit.tosdr.org/cases/487"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20160",
+            "approval_status": "APPROVED",
+            "clause_text": "User profile: </strong>We collect data when users create or update their Uber accounts.\nThis may include their name, email, phone number, login name and password, address, profile picture, payment or banking information (including related payment verification information), driver’s license and other government identification documents (which may indicate document numbers as well as birth date, gender, and photo).",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20148",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Uber provides data to vendors, consultants, marketing partners, research firms, and other service providers or business partners.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:14:35",
+            "point_link": "https://edit.tosdr.org/points/18662",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may also allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:33:01",
+            "point_link": "https://edit.tosdr.org/points/1463",
+            "approval_status": "APPROVED",
+            "clause_text": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:14:36",
+            "point_link": "https://edit.tosdr.org/points/18666",
+            "approval_status": "APPROVED",
+            "clause_text": "Uber may combine the data collected from these sources with other data in its possession.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 04:47:41",
+            "point_link": "https://edit.tosdr.org/points/20222",
+            "approval_status": "APPROVED",
+            "clause_text": "You and Uber agree that any dispute, claim or controversy arising out of or relating to (a) these Terms or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your access to or use of the Services at any time, whether before or after the date you agreed to the Terms, will be settled by binding arbitration between you and Uber, and not in a court of law.",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20147",
+            "approval_status": "APPROVED",
+            "clause_text": "These entities may use cookies, web beacons, SDKs, and other technologies to identify the devices used by visitors to our websites",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Uber can transfer the TOS to affiliates and successors without your consent",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:02:49",
+            "point_link": "https://edit.tosdr.org/points/1256",
+            "approval_status": "APPROVED",
+            "clause_text": "Uber can transfer the TOS to affiliates and successors without your consent.",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20149",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-12 06:43:17 UTC, bangpiano0101 (33629)  wrote:\n          Welcome to GO99, which provides the ultimate, diverse and attractive online betting experience! At GO99, we are proud to provide a safe playground. - please click here rút tiền go99",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 10:11:43",
+            "point_link": "https://edit.tosdr.org/points/18656",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use the photos submitted by users to verify their identities, such as through facial recognition technologies.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 04:47:35",
+            "point_link": "https://edit.tosdr.org/points/20151",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may use the data we collect to personalize the marketing communications (including advertisements) that we send, including based on user location, past use of Uber’s services, and user preferences and settings.</p>",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20158",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also transfer data to countries other than the one where our users live or use Uber’s services.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:36",
+            "point_link": "https://edit.tosdr.org/points/18661",
+            "approval_status": "APPROVED",
+            "clause_text": "Analyzing site traffic and trends, and generally understanding the online behaviors and interests of people who interact with our services",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:14:36",
+            "point_link": "https://edit.tosdr.org/points/18667",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Accessing data:</strong> Users can ask for an explanation of the data we collect from them and how we use it.\n<br>\n</li>\n<li>\n<strong>Receiving data:</strong> Users can ask for a copy of data that Uber collects from them with their consent or as necessary to provide our services.<br>\n</li>\n<li>\n<strong>Changing or updating data:</strong> Users can edit the name, phone number, email address, payment method, and photo associated with their account through the Settings menu in Uber’s apps or driver portal.\nThey may also ask that Uber change or update their data, including if they believe such data is inaccurate or incomplete.\n<br>\n</li>\n<li>\n<strong>Deleting data:</strong> Users may request deletion of their account at any time through the Settings &gt.\nPrivacy menus in the Uber app, or through Uber’s website (riders and delivery recipients <u>here</u>.\ndrivers and delivery persons <u>here</u>).",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (California, USA)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 04:48:03",
+            "point_link": "https://edit.tosdr.org/points/20221",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms are governed by and construed in accordance with the laws of the State of California, U.S.A., without giving effect to any conflict of law principles",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20162",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use personal data",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides information about its attitude towards ethical, social or political problems or controversies",
+            "rating": "good",
+            "description": "If a service expresses a worldview antithetical to the user’s, that is a good signal that they should not use the service. Or conversely, if the service expresses an uncommonly-held belief that the user agrees with and thinks is relevant to the service-user relationship and/or important, they may wish to use that to choose between otherwise comparable services.",
+            "last_updated": "2018-09-18 07:42:03",
+            "point_link": "https://edit.tosdr.org/points/1580",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.uber.com/de/legal/other/",
+            "case": {
+                "text": "This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",
+                "href": "https://edit.tosdr.org/cases/332"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:47:35",
+            "point_link": "https://edit.tosdr.org/points/20155",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>For California users: </strong>Information regarding Uber’s privacy practices related to the California Consumer Privacy Act (CCPA) is available here.<strong>\n<br>",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "The service claims to be LGPD compliant for Brazilian users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the Lei Geral de Proteção de Dados Pessoais.",
+            "last_updated": "2023-07-11 04:47:35",
+            "point_link": "https://edit.tosdr.org/points/20154",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<strong>For users in Brazil: </strong>Please see <u>here</u> for information regarding Uber’s privacy practices required under Brazil’s General Data Protection Law (<em>Lei Geral de Proteção de Dados - LGPD</em>).<strong>",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "The service claims to be LGPD compliant for Brazilian users",
+                "href": "https://edit.tosdr.org/cases/483"
+            }
+        },
+        {
+            "title": "You have the right to request lower Charges from Third Party Providers",
+            "rating": "neutral",
+            "description": "For a service that allows you to buy goods or services from a third party (for instance, an e-commerce platform), the service allows buyers to request a lower price from the seller.",
+            "last_updated": "2023-07-11 06:34:04",
+            "point_link": "https://edit.tosdr.org/points/1460",
+            "approval_status": "APPROVED",
+            "clause_text": "\"...you retain the right to request lower Charges from a Third Party Provider for services or goods received by you from such Third Party Provider at the time you receive such services or goods, and Charges you incur will be owed to the Third Party Provider. Uber will respond accordingly to any request from a Third Party Provider to modify the Charges for a particular service or good.\"",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "You have the right to request lower Charges from Third Party Providers",
+                "href": "https://edit.tosdr.org/cases/309"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/18653",
+            "approval_status": "APPROVED",
+            "clause_text": "October 15, 2020",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:14:37",
+            "point_link": "https://edit.tosdr.org/points/18668",
+            "approval_status": "APPROVED",
+            "clause_text": "We may occasionally update this notice.\nIf we make significant changes, we will notify users in advance of the changes through the Uber apps or through other means, such as email.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "The service can intervene in user disputes",
+            "rating": "neutral",
+            "description": "If you have a dispute with another user on this service, they can review the issue and intervene. However, they don't have an obligation to do so.",
+            "last_updated": "2023-07-11 10:11:46",
+            "point_link": "https://edit.tosdr.org/points/18665",
+            "approval_status": "APPROVED",
+            "clause_text": "including to resolve disputes between users",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "The service can intervene in user disputes",
+                "href": "https://edit.tosdr.org/cases/276"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:34:07",
+            "point_link": "https://edit.tosdr.org/points/1472",
+            "approval_status": "APPROVED",
+            "clause_text": "[Neutral]  Uber does not guarantee that their Services will work with any particular hardware or devices, and states the disclaimer that their Services may be subject to malfunctions and delays inherent with the use of the Internet and electronic communications.",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:12:14",
+            "point_link": "https://edit.tosdr.org/points/18669",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to use most aspects of the Services, you must register for and maintain an active personal user Services account",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:11:52",
+            "point_link": "https://edit.tosdr.org/points/18670",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be at least 18 years of age, or the age of legal majority in your jurisdiction (if different than 18), to obtain an Account, unless a specific Service permits otherwise.",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Users are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+            "rating": "neutral",
+            "description": "You must provide your legal name and pseudonyms aren't allowed, but it makes sense for the purposes of this service.",
+            "last_updated": "2023-07-11 10:14:37",
+            "point_link": "https://edit.tosdr.org/points/18671",
+            "approval_status": "APPROVED",
+            "clause_text": "your name",
+            "point_source": "https://www.uber.com/legal/terms/us/",
+            "case": {
+                "text": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+                "href": "https://edit.tosdr.org/cases/213"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/18657",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use the data we collect for testing, research, analysis, product development, and machine learning to improve the user experience.",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/18654",
+            "approval_status": "APPROVED",
+            "clause_text": "device IP address,",
+            "point_source": "https://privacy.uber.com/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

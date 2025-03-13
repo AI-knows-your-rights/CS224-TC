@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "Mozilla.org - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:15:00",
+            "point_link": "https://edit.tosdr.org/points/19089",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:15:00",
+            "point_link": "https://edit.tosdr.org/points/19091",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page.\nThis information helps us understand the effectiveness of our advertising campaigns and improve them.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:06:41",
+            "point_link": "https://edit.tosdr.org/points/6310",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.</li>",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 06:26:10",
+            "point_link": "https://edit.tosdr.org/points/28980",
+            "approval_status": "APPROVED",
+            "clause_text": "give us a name, street address, telephone number, email address, and resume, and sometimes additional information as well.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:16",
+            "point_link": "https://edit.tosdr.org/points/6315",
+            "approval_status": "APPROVED",
+            "clause_text": "You can control individual cookie preferences, indicate your cookie preferences to others, and opt-out of web analytics and optimization tools.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:04:22",
+            "point_link": "https://edit.tosdr.org/points/6241",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for.\nOnce we don't need it, we take steps to destroy it unless we are required by law to keep it longer.</p>",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 10:04:00",
+            "point_link": "https://edit.tosdr.org/points/6308",
+            "approval_status": "APPROVED",
+            "clause_text": "When the law requires it.\nWe follow the law whenever we receive requests about you from a government or related to a lawsuit.\nWe'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "This service respects your browser's Do Not Track (DNT) headers",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 06:36:16",
+            "point_link": "https://edit.tosdr.org/points/6313",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the Metrics section.</p>",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "The services will notify users if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/8379",
+            "approval_status": "APPROVED",
+            "clause_text": "Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2020-12-15 11:12:41",
+            "point_link": "https://edit.tosdr.org/points/9126",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "User feedback is invited regarding changes to the terms.",
+            "rating": "good",
+            "description": "The Service takes user suggestions into account to update its Terms.",
+            "last_updated": "2020-12-15 11:12:28",
+            "point_link": "https://edit.tosdr.org/points/9124",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "Your feedback is invited regarding changes to the terms.",
+                "href": "https://edit.tosdr.org/cases/119"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2020-12-15 11:12:49",
+            "point_link": "https://edit.tosdr.org/points/9127",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2020-12-15 11:12:20",
+            "point_link": "https://edit.tosdr.org/points/9123",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:15:00",
+            "point_link": "https://edit.tosdr.org/points/19090",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-04-20 20:12:27 UTC by pederdm000 (2130)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-04-20 20:12:27 UTC by pederdm000 (2130)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-04-20 20:12:27 UTC by pederdm000 (2130)  Staff\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: You cannot opt out of promotional communications\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: You cannot opt out of promotional communications\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: You cannot opt out of promotional communications\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: You cannot opt out of promotional communications\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2020-12-15 11:12:34",
+            "point_link": "https://edit.tosdr.org/points/9125",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:35:18",
+            "point_link": "https://edit.tosdr.org/points/6314",
+            "approval_status": "APPROVED",
+            "clause_text": "Note that certain features of our products and services may not function properly without the aid of cookies.\n</p",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:06:42",
+            "point_link": "https://edit.tosdr.org/points/6242",
+            "approval_status": "APPROVED",
+            "clause_text": "We may need to change this policy and our notices.\nThe updates will be posted online.\nIf the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:25",
+            "point_link": "https://edit.tosdr.org/points/14763",
+            "approval_status": "APPROVED",
+            "clause_text": "Mozilla has implemented third-party technology, Google’s Invisible reCAPTCHA, that operates in the background on some of our websites in order to identify fraudulent activity.",
+            "point_source": "https://www.mozilla.org/en-US/privacy/websites/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The service is transparent regarding government requests or inquiries that may involve user data.",
+            "rating": "neutral",
+            "description": "Weight was 30.",
+            "last_updated": "2023-07-11 10:06:41",
+            "point_link": "https://edit.tosdr.org/points/6309",
+            "approval_status": "APPROVED",
+            "clause_text": "When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so.\nNothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.</li>",
+            "point_source": "https://www.mozilla.org/en-US/privacy/",
+            "case": {
+                "text": "The service is transparent regarding government requests or inquiries that may involve your data.",
+                "href": "https://edit.tosdr.org/cases/169"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2020-12-09 09:03:55",
+            "point_link": "https://edit.tosdr.org/points/8792",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.mozilla.org/nl/privacy/",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        }
+    ]
+}

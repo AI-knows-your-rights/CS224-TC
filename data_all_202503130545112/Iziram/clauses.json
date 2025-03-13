@@ -1,0 +1,123 @@
+{
+    "meta_data": {
+        "title": "Iziram - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:11:35",
+            "point_link": "https://edit.tosdr.org/points/15086",
+            "approval_status": "APPROVED",
+            "clause_text": "No cookie is sent to a third party site, is used for advertising purposes or anything else that is not part of the functionality of the site.<br>",
+            "point_source": "https://en.iziram.fr/Legal-notices.html",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:34:35",
+            "point_link": "https://edit.tosdr.org/points/15084",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>Les données personnelles des utilisateurs ne sont utilisées\nque par nos services et à des fins purement fonctionnelles.<br>\n<br>",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:34:35",
+            "point_link": "https://edit.tosdr.org/points/15085",
+            "approval_status": "APPROVED",
+            "clause_text": "Les données personnelles des utilisateurs (Nom, courriel etc)\nsont stockées sur le serveur (hébergé en France) pour une période ne pouvant\nexcéder 2 mois.<br>",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:34:34",
+            "point_link": "https://edit.tosdr.org/points/15082",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>L’utilisateur peut, quand il le souhaite, demander au\npropriétaire de&nbsp;: changer, supprimer ou voir les données qui lui sont\npropres.<br>",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:34:35",
+            "point_link": "https://edit.tosdr.org/points/15083",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>L’utilisateur est en droit d’introduire une réclamation\nauprès de la CNIL.",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 10:09:46",
+            "point_link": "https://edit.tosdr.org/points/15080",
+            "approval_status": "APPROVED",
+            "clause_text": "Les cookies utilisés sur le domaine iziram.fr et ses\nsous-domaines sont utilisés uniquement à but fonctionnel.<br>\n<br>Aucun cookie n’est envoyé à un site tiers, n’est utilisé à\ndes fins publicitaires ou toutes autres choses ne faisant pas partie des\nfonctionnalités du site.<br>\n<br>Le présent site ou bien les sites présents sur les\nsous-domaines n’utilisent en aucun cas les cookies d’autres sites.<br>",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "This service only uses temporary session cookies",
+            "rating": "good",
+            "description": "Temporary session cookies are cookies that are deleted when you close your browser instead of remaining there until they are manually deleted (or expire). These cookies are only used for the purposes of the service and therefore disappear when it's no longer used.",
+            "last_updated": "2023-07-11 10:11:36",
+            "point_link": "https://edit.tosdr.org/points/15081",
+            "approval_status": "APPROVED",
+            "clause_text": "Les cookies utilisés ont une limite de 4 heures\nmaximum.\nAprès ce délai, ils seront automatiquement supprimés de votre machine.",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "Only temporary session cookies are used",
+                "href": "https://edit.tosdr.org/cases/125"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:52",
+            "point_link": "https://edit.tosdr.org/points/15079",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>L’hébergeur du site est l’entreprise LWS ( www.lws.fr )",
+            "point_source": "https://iziram.fr/Mentions-Legales.html",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

@@ -1,0 +1,543 @@
+{
+    "meta_data": {
+        "title": "Parler - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 10:15:35",
+            "point_link": "https://edit.tosdr.org/points/19047",
+            "approval_status": "APPROVED",
+            "clause_text": "To create an account, users don't need to give their legal names, but it's mandatory to provide a phone number for verification purposes: https://parler.com/auth/access",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19043",
+            "approval_status": "APPROVED",
+            "clause_text": "They may notify users however, but only \"as a matter of courtesy\".",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:14:58",
+            "point_link": "https://edit.tosdr.org/points/19053",
+            "approval_status": "APPROVED",
+            "clause_text": "We may access, preserve, and disclose your ,information if we believe doing so is required or appropriate to: (a) comply with law ,4,enforcement requests and legal process, such as a court order or subpoena.\n(b) respond to your ,requests.\nor (c) protect your, our, or others’ rights, property, or safety.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction (Nevada, USA) that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19041",
+            "approval_status": "APPROVED",
+            "clause_text": "The laws of the State of Nevada, excluding its choice ,of law provisions, will govern these Terms and any dispute that arises between you and ,Parler",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels and device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:14:59",
+            "point_link": "https://edit.tosdr.org/points/19049",
+            "approval_status": "APPROVED",
+            "clause_text": "Also: \"We may collect information using ,cookies, pixel tags, and similar technologies\"",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:14:58",
+            "point_link": "https://edit.tosdr.org/points/19054",
+            "approval_status": "APPROVED",
+            "clause_text": "Merger, Sale, or Other Asset Transfers.\nWe may transfer your information to service ,providers, advisors, potential transactional partners, or other third parties in connection with the ,consideration, negotiation, or completion of a corporate transaction in which we are acquired by ,or merged with another company or we sell, liquidate, or transfer all or a portion of our assets.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection (USA)",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19057",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Services are hosted in the United States and intended for visitors located within the United ,States.\nIf you choose to use our Services from the European Union or other regions of the world ,with laws governing data collection and use that may differ from U.S.\nlaw, then please note that ,you are transferring your personal information outside of those regions to the United States for ,storage and processing.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19051",
+            "approval_status": "APPROVED",
+            "clause_text": "●For marketing and advertising purposes, such as developing and providing promotional ,and advertising materials that may be relevant, valuable or otherwise of interest to you.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user or $200",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19040",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-18 08:48:31 UTC, zubairkhatri (31500)  Suspended wrote:\n          Wow, marvelous blog layout! How long have you been running a blog for? you make blogging look easy. The full look of your website is excellent, as smartly the content!  rdrobe Tube Holder",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:15:59",
+            "point_link": "https://edit.tosdr.org/points/19029",
+            "approval_status": "APPROVED",
+            "clause_text": "The licenses ,granted by you hereunder do not include any moral rights or right of attribution.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "This service does not force users into binding arbitration",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 10:14:58",
+            "point_link": "https://edit.tosdr.org/points/19042",
+            "approval_status": "APPROVED",
+            "clause_text": "All disputes related to these Terms or the Services will be brought solely in the ,state or federal courts located in Clark County, Nevada, United States, and you consent ,to personal jurisdiction and waive any objection as to inconvenient forum.\n,",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "Users can scrape the site, as long as it doesn't impact the server too much",
+            "rating": "good",
+            "description": "Automated web scraping is a method of extracting information from a website. The service authorises scraping if it doesn't impact its server(s) too much.",
+            "last_updated": "2023-07-11 10:14:58",
+            "point_link": "https://edit.tosdr.org/points/19033",
+            "approval_status": "APPROVED",
+            "clause_text": ".You may not interfere with the Services in any way, such as by accessing the ,Services through automated means in a manner that puts excessive demand on the ,Services",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "You can scrape the site, as long as it doesn't impact the server too much",
+                "href": "https://edit.tosdr.org/cases/389"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 10:14:59",
+            "point_link": "https://edit.tosdr.org/points/19055",
+            "approval_status": "APPROVED",
+            "clause_text": "The use of your information following any of these events will be governed by the provisions of ,this Privacy Policy in effect at the timeof the acquisition or merger.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:16:00",
+            "point_link": "https://edit.tosdr.org/points/19030",
+            "approval_status": "APPROVED",
+            "clause_text": "Copyright infringement is not allowed on the Services, and Parler will, in ,appropriate circumstances, terminate the account of any repeat infringer.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-12-18 17:14:35",
+            "point_link": "https://edit.tosdr.org/points/19050",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use the Information We Collect",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-12-18 17:14:35",
+            "point_link": "https://edit.tosdr.org/points/19046",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",
+            "rating": "good",
+            "description": "If a service expresses a worldview antithetical to the user’s, that is a good signal that they should not use the service. Or conversely, if the service expresses an uncommonly-held belief that the user agrees with and thinks is relevant to the service-user relationship and/or important, they may wish to use that to choose between otherwise comparable services.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19036",
+            "approval_status": "APPROVED",
+            "clause_text": "Parler endeavors to allow all free speech that is lawful and does not infringe the legal ,rights of others.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",
+                "href": "https://edit.tosdr.org/cases/332"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19045",
+            "approval_status": "APPROVED",
+            "clause_text": "We neithersell your information to third ,parties nor share your information with foreign governments except in the limited circumstances ,described in this Privacy Policy",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "Content removal from the service will be fair and proportionate.",
+            "rating": "good",
+            "description": "The Service promises to fairly terminate users accounts, only with a reason, and may give them an opportunity to explain and defend themselves.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19044",
+            "approval_status": "APPROVED",
+            "clause_text": ",We prefer that removing usersoruser-provided content bekept to the ,absolute minimum.\nWe prefer to leave decisions about what is seen and who ,is heardtoeach individual.\nIn no case will Parlerdecidewhat willcontentbe ,removed or filtered, or whose accountwill be removed, on the basis of the ,opinionexpressed within the content at issue.\nParler’s policies are, to use a ,well-known concept in First Amendment law, viewpoint-neutral.\n,Wedo not curate your feed.\nwe do not pretend to be qualified to do so.We ,believe only you are qualified to curate your feed, and sowe give you the ,tools you need to do it yourself.",
+            "point_source": "https://legal.parler.com/documents/guidelines.pdf",
+            "case": {
+                "text": "User suspension from the service will be fair and proportionate.",
+                "href": "https://edit.tosdr.org/cases/204"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:36",
+            "point_link": "https://edit.tosdr.org/points/19028",
+            "approval_status": "APPROVED",
+            "clause_text": "license (with the right to ,sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display ,and distribute your content.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:14:58",
+            "point_link": "https://edit.tosdr.org/points/19058",
+            "approval_status": "APPROVED",
+            "clause_text": "You can ,delete your account by selecting “Delete Account” under the “Settings and Privacy” section of ,the left drop-down menu of the website or app.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:14:59",
+            "point_link": "https://edit.tosdr.org/points/19056",
+            "approval_status": "APPROVED",
+            "clause_text": "You can unsubscribe from our promotional emails by adjusting your account settings or ,via the link provided in the emails.\nEven if you opt-out of receiving promotional messages from ,us, you will continue to receive administrative messages from us.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19027",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You grant to Parler a license to any content posted by you to the ,Services, including a worldwide, non-exclusive, royalty-free license (with the right to ,sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display ,and distribute your content.\"",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:14:58",
+            "point_link": "https://edit.tosdr.org/points/19059",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions, comments, or concerns about our processing activities, please email ,us at privacy@parler.comor write to us at 209 S Stephanie Street B135 Henderson, NV 89012.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "Prohibits the publishing of personally identifiable information without the owner’s consent",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19025",
+            "approval_status": "APPROVED",
+            "clause_text": "4.4The content does not include non-public personal private information belonging to ,someone else, such as another person’s birthdate, home address, or telephone ,number.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You can choose with whom you share content",
+            "rating": "good",
+            "description": "Users can decide whether or not they want their content to be shared and they can control how and with whom it is shared.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19052",
+            "approval_status": "APPROVED",
+            "clause_text": "Although this content is public by default, in the “Your Choices” section below, we describe the ,account settings and controls you can use to limit the sharingof certain information.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "You can choose with whom you share content",
+                "href": "https://edit.tosdr.org/cases/225"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:35:52",
+            "point_link": "https://edit.tosdr.org/points/19023",
+            "approval_status": "APPROVED",
+            "clause_text": "Terms of Service,11/27/2020",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:14:59",
+            "point_link": "https://edit.tosdr.org/points/19060",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that if you delete or choose not to accept cookies from our Services, you ,may not be able to utilize the features of our Services to their fullest potential.",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19035",
+            "approval_status": "APPROVED",
+            "clause_text": "Parler may remove any content and terminate your access to the Services at any ,time and for any reason to the extent Parler reasonably believes (a) you have violated ,4,these Terms or Parler’s Community Guidelines, (b) you create risk or possible legal ,exposure for Parler, or (c) you are otherwise engaging in unlawful conduct",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19039",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARD-,LESS OF THE NATURE OF THE CAUSE OF ACTION, PARLER WILL NOT BE ,LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, ,SPECIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOST PROFITS, WHETHER ,INCURRED DIRECTLY OR INDIRECTLY, OR FOR INTANGIBLE LOSSES, ARISING ,5,FROM (a) YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE ,SERVICES.\n(b) FROM THE ACTS OR OMISSIONS OF ANY OTHER PERSON ,OR THIRD PARTY, INCLUDING, WITHOUT LIMITATION, ANY DEFAMATORY, ,OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER PERSONS OR THIRD PARTIES.\n,(c) ANY CONTENT OBTAINED FROM THE SERVICES.\nOR (d) UNAUTHORIZED ,ACCESS, USE, OR ALTERATION OF YOUR CONTENT OR COMMUNICATIONS ,THROUGH THE SERVICES.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19026",
+            "approval_status": "APPROVED",
+            "clause_text": "Parler does not endorse, support, represent, or affirm the completeness, ,truthfulness, accuracy, or reliability of any of the content posted through the ,Services, nor does Parler endorse any opinions expressed through the Services.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19034",
+            "approval_status": "APPROVED",
+            "clause_text": "by spamming Parler community members.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19037",
+            "approval_status": "APPROVED",
+            "clause_text": "The Services are provided to you as-is and at your own risk.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:16:00",
+            "point_link": "https://edit.tosdr.org/points/19032",
+            "approval_status": "APPROVED",
+            "clause_text": "Your notice must include: (1) ,electronic or physical signature of the copyrighted work owner (or person authorized ,by the copyright owner), (2) a description of the copyrighted work, including the URL ,where the infringing content is available, or a copy of it, (3) contact details of the ,person submitting the notice, including email address, telephone, and mailing ,address, (4) statement in “good faith belief” that the work is not authorized by the ,copyright owner, and (5) a statement by the sender that all of the above information ,is accurate, and that the person sending the notice is either the copyright owner or is ,authorized to act on behalf of the copyright owner.\nUpon receiving a notice satisfying ,these requirements, Parler will take whatever action, in its sole discretion, it deems ,appropriate, including removal of the challenged content from the services.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "This service is only available to users over 13 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:08:10",
+            "point_link": "https://edit.tosdr.org/points/19024",
+            "approval_status": "APPROVED",
+            "clause_text": "You are at least 13 years old.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:14:56",
+            "point_link": "https://edit.tosdr.org/points/19031",
+            "approval_status": "APPROVED",
+            "clause_text": "If your ,copyright has been infringed by any content on the Services and you did not grant a ,license for this use by uploading your copyrighted work to the Services, you may ,submit a notice that meets all of the requirements of the Digital Millennium Copyright ,Act (DMCA), 17 U.S.C 512(c)(3), to our Copyright Manager at abuse@parler.comor ,209 S.\nStephanie St., B135, Henderson, NV 89012.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19038",
+            "approval_status": "APPROVED",
+            "clause_text": ",PARLER DISCLAIMS ALL EXPRESS ORIMPLIED WARRANTIES AND ,CONDITIONS, SUCH AS MERCHANTABILITY, FITNESS FOR A PARTICULAR ,PURPOSE, AND NON-INFRINGEMENT.",
+            "point_source": "https://legal.parler.com/documents/useragreement.pdf",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:57",
+            "point_link": "https://edit.tosdr.org/points/19048",
+            "approval_status": "APPROVED",
+            "clause_text": "We receive information about the device and software you ,use to access our Services, including IP address(from which location may be inferred),",
+            "point_source": "https://legal.parler.com/documents/privacypolicy.pdf",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "BlueMail - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20830",
+            "approval_status": "APPROVED",
+            "clause_text": "We may permanently or temporarily revoke or suspend your access to BlueMail without notice and liability for any reason including your violation of these Terms.",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (NY, USA)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20832",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms and the use of BlueMail services and software will be governed by the law of the State of New York, NY, USA except for its conflicts of laws principles.",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:47:40",
+            "point_link": "https://edit.tosdr.org/points/20157",
+            "approval_status": "APPROVED",
+            "clause_text": "Amazon AWS (Cloud hosting and related services)",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20826",
+            "approval_status": "APPROVED",
+            "clause_text": "Your information collected through BlueMail may be stored and processed in the United States or any other countries in which we or our affiliates operate.",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/18633",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics for Web and Mobile<p>We use web and mobile analytics software to measure traffic and usage patterns and to help us better understand the functionality of the Application on your device or general information regarding how users use the Application.",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20161",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to suspend your account, delete or disable content alleged to be infringing and/or terminate the account of a repeat infringer.</p>",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20143",
+            "approval_status": "APPROVED",
+            "clause_text": "How do we use the information we collect?",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20145",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are located in the EU, we may only do so based on legal requirements specified above of EU authorities.",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20150",
+            "approval_status": "APPROVED",
+            "clause_text": "Security is extremely important to us.\nWe use industry leading security practices to preserve the integrity of all your data.\nFor example, when you transmit sensitive information and when you send and receive emails, BlueMail encrypts the transmission of that information using secure socket layer technology (SSL).\nHowever, no method of electronic transmission or storage is 100% secure, so we cannot guarantee absolute security.",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "A free help desk is provided",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20142",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Please contact us support@bluemail.me with any questions regarding these Terms.</p>",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:47:35",
+            "point_link": "https://edit.tosdr.org/points/20146",
+            "approval_status": "APPROVED",
+            "clause_text": "If you’d rather not receive these emails, you may opt-out of receiving them by following the unsubscribe link located at the bottom of each communication or by emailing us at privacy@bluemail.me.",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Date of the last update of the agreements: May 17th, 2018",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 04:48:28",
+            "point_link": "https://edit.tosdr.org/points/20827",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Last Modified: May 17th, 2018",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 04:47:35",
+            "point_link": "https://edit.tosdr.org/points/20153",
+            "approval_status": "APPROVED",
+            "clause_text": "When you install or access the Application and set up your account,",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20829",
+            "approval_status": "APPROVED",
+            "clause_text": "send unsolicited communications, promotions or advertisements, or spam.",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:47:34",
+            "point_link": "https://edit.tosdr.org/points/20159",
+            "approval_status": "APPROVED",
+            "clause_text": "non-commercial use only (aka you cannot re-sell BlueMail).",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20828",
+            "approval_status": "APPROVED",
+            "clause_text": "BlueMail is provided on an “as-is” and “as available” basis.\nUse of BlueMail and the software is at your own risk.",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Bluemail is only available to users over 13 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:47:33",
+            "point_link": "https://edit.tosdr.org/points/20141",
+            "approval_status": "APPROVED",
+            "clause_text": "Use of BlueMail by anyone under 13 is strictly prohibited.",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service informs users that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20833",
+            "approval_status": "APPROVED",
+            "clause_text": "We may place links on the Website.\nWhen you click on a link to a third party website from our website, you will be redirected to such third party site, and your activity and use on the linked website is governed by that website’s terms of use, privacy policies and other policies, not by those of BlueMail.\nWe encourage you to review their privacy and use policies.</p>",
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "This service informs you that its Terms of Service does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/408"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2021-05-18 14:19:38",
+            "point_link": "https://edit.tosdr.org/points/20834",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://bluemail.me/privacy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 04:48:30",
+            "point_link": "https://edit.tosdr.org/points/20831",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are under the age of consent in your country to form a binding agreement, you should only use our BlueMail if you are either an emancipated minor, or have the legal consent of your parent or guardian for your use of our BlueMail.",
+            "point_source": "https://bluemail.me/tos/",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        }
+    ]
+}

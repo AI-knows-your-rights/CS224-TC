@@ -1,0 +1,95 @@
+{
+    "meta_data": {
+        "title": "jamesbush.dev - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19474",
+            "approval_status": "APPROVED",
+            "clause_text": "This site does not use cookies.",
+            "point_source": "https://jamesbush.dev/privacy.html",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:15:30",
+            "point_link": "https://edit.tosdr.org/points/19479",
+            "approval_status": "APPROVED",
+            "clause_text": "No information gathered is used for commercial purposes in any manner.</p>",
+            "point_source": "https://jamesbush.dev/privacy.html",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 10:10:15",
+            "point_link": "https://edit.tosdr.org/points/19478",
+            "approval_status": "APPROVED",
+            "clause_text": "Otherwise, no other information is collected.</p>\n<p>",
+            "point_source": "https://jamesbush.dev/privacy.html",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:10:18",
+            "point_link": "https://edit.tosdr.org/points/19480",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For privacy inquiries: contact</p>\n<p>",
+            "point_source": "https://jamesbush.dev/privacy.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 04:47:25",
+            "point_link": "https://edit.tosdr.org/points/19475",
+            "approval_status": "APPROVED",
+            "clause_text": "It does not use any analytic products.</p>",
+            "point_source": "https://jamesbush.dev/privacy.html",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:31",
+            "point_link": "https://edit.tosdr.org/points/19476",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Upon visiting the site, users' IP addresses are logged.",
+            "point_source": "https://jamesbush.dev/privacy.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

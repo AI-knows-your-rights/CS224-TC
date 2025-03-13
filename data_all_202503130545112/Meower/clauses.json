@@ -1,0 +1,375 @@
+{
+    "meta_data": {
+        "title": "Meower - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Can ban or delete your account for any reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-12-19 15:27:49",
+            "point_link": "https://edit.tosdr.org/points/35708",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2024-05-17 12:08:42",
+            "point_link": "https://edit.tosdr.org/points/35884",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30003",
+            "approval_status": "APPROVED",
+            "clause_text": ">MIT License<br>",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30020",
+            "approval_status": "APPROVED",
+            "clause_text": "We don't collect any personally identifying information.</b>",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30008",
+            "approval_status": "APPROVED",
+            "clause_text": "or content you've shared on Meower.",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2024-03-18 08:21:49",
+            "point_link": "https://edit.tosdr.org/points/35885",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "Only necessary logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:27:32",
+            "point_link": "https://edit.tosdr.org/points/30019",
+            "approval_status": "APPROVED",
+            "clause_text": "We only store information needed to make our service work.</b>\n<br>This STRICTLY includes, and IS LIMITED TO:\n<br>\n<br>a.\nUsernames and hashed passwords for authentication.\n<br>b.\nYour profile description and profile icon.\n<br>c.\nPosts, comments, messages, and/or threads you create/reply to.\n<br>d.\nBasic diagnostic data (Timestamps of logins/logouts, timestamps of failed login attempts, timestamps of moderated posts/comments/messages/threads).\n<br>e.\nYour current state of authentication",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "Your feedback is invited regarding changes to the terms.",
+            "rating": "good",
+            "description": "The Service takes user suggestions into account to update its Terms.",
+            "last_updated": "2024-05-17 12:09:12",
+            "point_link": "https://edit.tosdr.org/points/35933",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Your feedback is invited regarding changes to the terms.",
+                "href": "https://edit.tosdr.org/cases/119"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 04:48:47",
+            "point_link": "https://edit.tosdr.org/points/30022",
+            "approval_status": "APPROVED",
+            "clause_text": "It will remain FOSS (Free and Open-Source)",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "You will be notified if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30006",
+            "approval_status": "APPROVED",
+            "clause_text": "If a data breach occurs in Meower, we will notify you as soon as possible.",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30005",
+            "approval_status": "APPROVED",
+            "clause_text": "We cannot and shall not share/sell any of our collected data with outside entities.",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30010",
+            "approval_status": "APPROVED",
+            "clause_text": "Your IP address will be collected and shared with IPHub when signing up to ensure security, and will only be used for moderation purposes.\nIPHub's privacy policy can be found here.\n<br>\nAll of Meower's traffic is passed through Cloudflare for security.\nCloudflare's privacy policy is available here.",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30009",
+            "approval_status": "APPROVED",
+            "clause_text": "and/or delete your account,",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30012",
+            "approval_status": "APPROVED",
+            "clause_text": "Respect other individuals' rights and privacy",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (8 December 2023)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2024-03-19 13:11:12",
+            "point_link": "https://edit.tosdr.org/points/35934",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements (13 November 2022)",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-03-31 14:15:34",
+            "point_link": "https://edit.tosdr.org/points/29867",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30015",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.</p>",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30004",
+            "approval_status": "APPROVED",
+            "clause_text": "We don't guarantee the stability or functionality of Meower, and it may be terminated at any time without warning.</b>",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30002",
+            "approval_status": "APPROVED",
+            "clause_text": "Refrain from spamming",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:10",
+            "point_link": "https://edit.tosdr.org/points/30014",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SOFTWARE IS PROVIDED \"AS IS\",",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:27:36",
+            "point_link": "https://edit.tosdr.org/points/30016",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Refrain from spamming, scamming, impersonating, or otherwise harassing other people using our service\"",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:27:33",
+            "point_link": "https://edit.tosdr.org/points/30018",
+            "approval_status": "APPROVED",
+            "clause_text": "Breaking our Terms of Use may result in any of the following moderation actions being taken by a capable moderator:</b>\n<br>1.\nBeing kicked from Meower\n<br>2.\nBeing indefinitely banned from Meower",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30011",
+            "approval_status": "APPROVED",
+            "clause_text": "absolutely never cause pornographic or vulgar content to be shared",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Minors must have the authorization of their legal guardians to use the service",
+            "rating": "neutral",
+            "description": "Minors must have the authorization of their legal guardians to use the services. The legal guardians are responsible for the use of the service by the minor.",
+            "last_updated": "2023-07-11 06:27:32",
+            "point_link": "https://edit.tosdr.org/points/30017",
+            "approval_status": "APPROVED",
+            "clause_text": "COPPA Notice: If you are legally a minor, we are required to obtain both your consent and your parent's consent to use the service.\nIf you're over the age of (13), you are able to freely use Meower without us acquiring parental consent.</i>",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "Minors must have the authorization of their legal guardians to use the service",
+                "href": "https://edit.tosdr.org/cases/486"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:27:37",
+            "point_link": "https://edit.tosdr.org/points/30007",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>If we ever make changes to our policies, we will notify you as soon as possible.",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:27:33",
+            "point_link": "https://edit.tosdr.org/points/30021",
+            "approval_status": "APPROVED",
+            "clause_text": "WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT",
+            "point_source": "https://meower.org/legal",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

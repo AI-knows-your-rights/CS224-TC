@@ -1,0 +1,165 @@
+{
+    "meta_data": {
+        "title": "Swisscows - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20786",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not use cookies or any other tracking technologies, we do not create user profiles and we do not know who you are.",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20798",
+            "approval_status": "APPROVED",
+            "clause_text": "For data related to the search requests, Swisscows keeps for 7 days the keywords connected to your IP address and the user agent of your browser.\nThe keywords are then stored without any associated personal data.\n</p>\n<p> For data related to the HTTP connections, Swisscows stores it for 60 days.\nAfter this period there will be no evidence that a user ever visited Swisscows.",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20796",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> The personal data of users are collected and processed by Swisscows exclusively for the following purposes:",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The service will resist legal requests for your information where reasonably possible",
+            "rating": "good",
+            "description": "The service will attempt to protect user information to a great extent, even so far as stating that they will only follow legal requirements to disclose user information in circumstances where this cannot be reasonably resisted.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20792",
+            "approval_status": "APPROVED",
+            "clause_text": "Any request or demand by a government (including the US government) for disclosure of data is carefully reviewed by our lawyers.\nWe will not do so until it is proven that a current law that affects us clearly requires to do so.",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "The service will resist legal requests for your information where reasonably possible",
+                "href": "https://edit.tosdr.org/cases/305"
+            }
+        },
+        {
+            "title": "Personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20795",
+            "approval_status": "APPROVED",
+            "clause_text": "Under no circumstances will this information be shared with third parties.\n</p>",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is friendlier to user privacy protection (Switzerland)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for strong data regulations and user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20788",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> The Swisscows headquarters is located in Switzerland.\nour servers are also located there.",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Your data is processed and stored in a country that is friendlier to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/488"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20794",
+            "approval_status": "APPROVED",
+            "clause_text": "</p> When does Swisscows collect personal data and why?\n<p>",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20797",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-05-17 18:48:29 UTC by welda (22324)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-05-17 18:48:29 UTC by welda (22324)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-05-17 18:48:29 UTC by welda (22324)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: A complaint mechanism is provided for the handling of personal data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: A complaint mechanism is provided for the handling of personal data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: A complaint mechanism is provided for the handling of personal data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: A complaint mechanism is provided for the handling of personal data\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20791",
+            "approval_status": "APPROVED",
+            "clause_text": "We only allow connections to Swisscows over a secure HTTPS connection.",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20790",
+            "approval_status": "APPROVED",
+            "clause_text": "Users can unsubscribe from unsolicited emails by using the appropriately marked option in the email or by contacting us directly at support@swisscows.com.",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Third parties (Bing) are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:27",
+            "point_link": "https://edit.tosdr.org/points/20789",
+            "approval_status": "APPROVED",
+            "clause_text": "We are currently working with Bing and are very transparent about the cooperation",
+            "point_source": "https://swisscows.com/en/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

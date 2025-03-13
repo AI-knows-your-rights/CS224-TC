@@ -1,0 +1,977 @@
+{
+    "meta_data": {
+        "title": "The Walt Disney Company - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15053",
+            "approval_status": "APPROVED",
+            "clause_text": "\"In particular, we collect [...] Information sent either one-to-one or within a limited group using our message, chat, post, or similar functionality\"",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15040",
+            "approval_status": "APPROVED",
+            "clause_text": "We may monitor, screen, post, remove, modify, store and review User Generated Content or communications sent through a Disney Product, at any time and for any reason, including to ensure that the User Generated Content or communication conforms to this Agreement, without prior notice to you.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "You waive your moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 10:11:57",
+            "point_link": "https://edit.tosdr.org/points/15039",
+            "approval_status": "APPROVED",
+            "clause_text": "You also agree to waive and not to enforce any moral rights, ancillary rights or similar rights in or to the User Generated Content against us or our licensees, distributors, agents, representatives and other authorized users, and agree to procure the same agreement to waive and not to enforce from others who may possess such rights.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15075",
+            "approval_status": "APPROVED",
+            "clause_text": "for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law.</p>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15051",
+            "approval_status": "APPROVED",
+            "clause_text": "In particular, we collect:</p>\n<ul>\n<li>Registration information you provide when you create an account, enter a promotion, or link your profile on a third-party site or platform with your registration account, such as your first name and surname, country of residence, gender, date of birth, email address, username, and password;</li>\n<li>Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;</li>\n<li>Information you provide in public forums",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15054",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Information we obtain from a third party, such as a site or platform provider, about use of our applications on third-party platforms or devices;</li>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15043",
+            "approval_status": "APPROVED",
+            "clause_text": "Neither you nor Disney will seek to have a dispute heard as a class action or private attorney general action or in any other proceeding in which either party acts or proposes to act in a representative capacity.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15060",
+            "approval_status": "APPROVED",
+            "clause_text": "or other activities on our sites and applications, respond to guest surveys, visit our physical properties, call our reservation centers or other guest services phone numbers, or otherwise interact with us using one or more devices.",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15046",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that any action at law or in equity arising out of or relating to this Agreement that is not subject to arbitration shall be filed, and that venue properly lies, only in the state or federal courts located in either Los Angeles, California or the borough of Manhattan, New York, New York, United States of America and you consent and submit to the personal jurisdiction of such courts for the purposes of litigating such action.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15057",
+            "approval_status": "APPROVED",
+            "clause_text": "or connect with our wireless Internet access services and other similar technologies, including your browser or device type, unique device identifier, and IP address;</li>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15064",
+            "approval_status": "APPROVED",
+            "clause_text": "\"we may use information collected from you, or from devices associated with you, to: [...] Send you offers and promotions for our products and services or third-party products and services;\"",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15044",
+            "approval_status": "APPROVED",
+            "clause_text": "If you and Disney do not resolve a dispute by informal negotiation or in small claims court, the dispute shall be resolved by binding arbitration before a neutral arbitrator whose decision will be final except for a limited right of appeal under the U.S.\nFederal Arbitration Act.\nYOU ARE GIVING UP THE RIGHT TO LITIGATE A DISPUTE IN COURT BEFORE A JUDGE OR JURY.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:08:44",
+            "point_link": "https://edit.tosdr.org/points/15037",
+            "approval_status": "APPROVED",
+            "clause_text": "however, you grant us a non-exclusive, sublicensable, irrevocable and royalty-free worldwide license",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15068",
+            "approval_status": "APPROVED",
+            "clause_text": "When we share your personal information with third parties in connection with the sale of a business,",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:11:38",
+            "point_link": "https://edit.tosdr.org/points/14934",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for periodically reviewing this Agreement for updates and amendments.\nBy continuing to use the Disney Products you will be deemed to have agreed to and accepted any amendments.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:11:52",
+            "point_link": "https://edit.tosdr.org/points/15065",
+            "approval_status": "APPROVED",
+            "clause_text": "\"we may use information collected from you, or from devices associated with you, to: [...] Provide you with targeted advertising based on your activity on our sites and applications and on third-party sites and applications.\"",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:11:57",
+            "point_link": "https://edit.tosdr.org/points/15066",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We will not share your personal information [...] except in limited circumstances, including: [...]\nWhen you direct us to share your personal information with third-party sites or platforms, such as social networking sites.[...] When we cooperate with financial institutions to offer co-branded products or services to you\"",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 10:05:25",
+            "point_link": "https://edit.tosdr.org/points/15058",
+            "approval_status": "APPROVED",
+            "clause_text": "Call recordings when you call our reservation centers or other guest services phone numbers.</li>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:11:52",
+            "point_link": "https://edit.tosdr.org/points/15076",
+            "approval_status": "APPROVED",
+            "clause_text": "We operate globally and may transfer your personal information",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15023",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to knowingly or recklessly introduce a virus or other harmful component, or otherwise tamper with, impair or damage any Disney Product or connected network, or interfere with any person or entity’s use or enjoyment of any Disney Product.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:11:40",
+            "point_link": "https://edit.tosdr.org/points/14935",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that any information you provide and maintain is accurate, current and complete, including your contact information for notices and other communications from us and your payment information.\nYou agree not to impersonate or misrepresent your affiliation with any person or entity, including using another person’s username, password or other account information, or another person’s name or likeness, or provide false details for a parent or guardian.\nYou agree that we may take steps to verify the accuracy of information you provide, including contact information for a parent or guardian.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to $1,000",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15030",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT SHALL OUR TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION EXCEED ONE THOUSAND U.S.\nDOLLARS (US $1,000).",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15056",
+            "approval_status": "APPROVED",
+            "clause_text": "Activity information about your use, and the use by any person(s) you authorize through your account, of our sites and applications, such as the content you view or post, how often you use our services, and your preferences;</li>\n<li>Usage, viewing, technical, and device data when you visit our sites, use our applications on third-party sites or platforms, or open emails we send,",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "The service allows you to opt out of providing personal information to third parties",
+            "rating": "good",
+            "description": "The Service provides opt-out instructions to the share of (some) personal information with third parties.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15071",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Choosing whether we share your personal information",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "You can opt out of providing personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/337"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15069",
+            "approval_status": "APPROVED",
+            "clause_text": "to comply with legal process, or in other cases if we believe in good faith that disclosure is required by law.</li>\n</ul>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "You can delete your content from this service",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15073",
+            "approval_status": "APPROVED",
+            "clause_text": "Requesting removal of your personal information from a public forum on one of our sites or application",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-09-12 18:35:31",
+            "point_link": "https://edit.tosdr.org/points/15031",
+            "approval_status": "APPROVED",
+            "clause_text": "Our long-standing company policy does not allow us to accept or consider unsolicited creative ideas, suggestions or materials.\nIn connection with anything you submit to us – whether or not solicited by us – you agree that creative ideas, suggestions or other materials you submit are not being made in confidence or trust and that no confidential or fiduciary relationship is intended or created between you and us in any way, and that you have no expectation of review, compensation or consideration of any type.</p>\n<p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:11:56",
+            "point_link": "https://edit.tosdr.org/points/15059",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE COLLECT YOUR INFORMATION",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15074",
+            "approval_status": "APPROVED",
+            "clause_text": "and</li>\n<li>Requesting access to the personal information we hold about you and that we amend or delete it.</li>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, users are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 10:11:39",
+            "point_link": "https://edit.tosdr.org/points/14933",
+            "approval_status": "APPROVED",
+            "clause_text": "We may need to make changes to any portion of this Agreement from time to time and for many reasons, including to reflect updates to the Disney Products or changes in law.\nIf we make a material change to this Agreement, it will be effective thirty (30) days following either our dispatch of a notice to you or our posting of the amended terms through the Disney Products, the third party that makes Disney Products available to you, or at disneytermsofuse.com.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "The service reviews its privacy policy on a regular basis",
+            "rating": "good",
+            "description": "Users know the date the privacy policy was last updated and can thus infer the next time it will be reviewed. This gives users more certainty about how long they can trust the current policy to apply.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15077",
+            "approval_status": "APPROVED",
+            "clause_text": "From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes.",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "The service reviews its privacy policy on a regular basis",
+                "href": "https://edit.tosdr.org/cases/301"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15052",
+            "approval_status": "APPROVED",
+            "clause_text": "TYPES OF INFORMATION WE COLLECT",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15078",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have a comment or question about this privacy policy, please contact Guest Services.</p>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:34:15",
+            "point_link": "https://edit.tosdr.org/points/15062",
+            "approval_status": "APPROVED",
+            "clause_text": "USE OF YOUR INFORMATION BY THE WALT DISNEY FAMILY OF COMPANIES",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15072",
+            "approval_status": "APPROVED",
+            "clause_text": "Controlling targeted advertising from many ad networks and partners.\ndata exchanges.\nand marketing analytics and digital advertising and marketing service providers (by visiting the Digital Advertising Alliance);</li>\n<li>Choosing to control targeted advertising you receive within applications by using the settings and choices made available to you through your device(s), for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads;</li>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15067",
+            "approval_status": "APPROVED",
+            "clause_text": "When companies perform services on our behalf, like package delivery, marketing and advertising, and &nbsp;customer service.\nhowever, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law.",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:11:56",
+            "point_link": "https://edit.tosdr.org/points/15070",
+            "approval_status": "APPROVED",
+            "clause_text": "We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information.\nIn accordance with applicable law, your controls and choices may include:</p>\n<ul>\n<li>Correcting, updating, and deleting your registration account (Logout);",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:34:15",
+            "point_link": "https://edit.tosdr.org/points/15036",
+            "approval_status": "APPROVED",
+            "clause_text": "however, you grant us a non-exclusive, sublicensable, irrevocable and royalty-free worldwide license",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:11:47",
+            "point_link": "https://edit.tosdr.org/points/15021",
+            "approval_status": "APPROVED",
+            "clause_text": "You can opt out of promotional communications by following the “Unsubscribe” directions for emails, through the settings of the Disney Product, or, if via text message, by responding STOP.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:06:45",
+            "point_link": "https://edit.tosdr.org/points/14929",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Last Updated:&nbsp.\nJune 9, 2020</strong>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15024",
+            "approval_status": "APPROVED",
+            "clause_text": "Some Disney Products require paid subscriptions and the acceptance of supplemental terms to access.\n<strong>By signing up for a subscription, you agreed that your subscription will be automatically renewed and, unless you cancel your subscription, you authorized us to charge your payment method for the renewal term.</strong>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15025",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Unless otherwise disclosed when you subscribe, you have the right to cancel your Disney Product subscription .\nWhen a subscription is canceled, you will not receive a prorated refund, but you will continue to have access to the Disney Products until the end of the term during which you canceled the subscription.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15029",
+            "approval_status": "APPROVED",
+            "clause_text": "WE SHALL NOT BE LIABLE TO YOU FOR INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS AND PROPERTY DAMAGE, EVEN IF WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, NOR SHALL WE BE HELD LIABLE FOR DELAY OR FAILURE IN PERFORMANCE RESULTING FROM CAUSES BEYOND OUR REASONABLE CONTROL.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15038",
+            "approval_status": "APPROVED",
+            "clause_text": "you grant us a non-exclusive, sublicensable, irrevocable and royalty-free worldwide license under all copyrights, trademarks, patents, trade secrets, privacy and publicity rights and other intellectual property rights for the full duration of those rights to use, reproduce, transmit, print, publish, publicly display, exhibit, distribute, redistribute, copy, index, comment on, modify, transform, adapt, translate, create derivative works based upon, publicly perform, publicly communicate, make available, and otherwise exploit such User Generated Content, in whole or in part, in all media formats and channels now known or hereafter devised (including in connection with the Disney Products and on third-party websites, services, applications, and/or platforms)",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15020",
+            "approval_status": "APPROVED",
+            "clause_text": "The Disney Products are constantly evolving and will change over time.\nWe reserve the right to make such changes or, if necessary, discontinue Disney Products.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15048",
+            "approval_status": "APPROVED",
+            "clause_text": "you agree to indemnify and hold us harmless from any claims or expenses (including attorneys’ fees) by any third party arising out of or in connection with our use and exploitation of your User Generated Content resulting from your breach of this Agreement.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15047",
+            "approval_status": "APPROVED",
+            "clause_text": "The provisions of this Agreement which by their nature should survive the termination of this Agreement shall survive such termination, including but not limited to the restrictions, disclaimers, limitations, our rights to use submitted content, and rules regarding dispute resolution in Section 2, 3, 6, 7 and 8 as well as the general provisions in this Section 9.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15041",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not responsible for, and do not endorse or guarantee, the opinions, views, advice or recommendations posted or sent by users.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:51",
+            "point_link": "https://edit.tosdr.org/points/15063",
+            "approval_status": "APPROVED",
+            "clause_text": "Other members of The Walt Disney Family of Companies may access your information where they perform services on behalf of the data controllers (as data processors) and, unless prohibited under applicable law, for use on their own behalf (as data controllers) for the purposes described in this policy.",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:11:40",
+            "point_link": "https://edit.tosdr.org/points/14942",
+            "approval_status": "APPROVED",
+            "clause_text": "If a Disney Product, or third party providing Disney Products subject to this Agreement, is configured to enable the use of software, content, virtual items or other materials owned or licensed by us, we grant you a limited, non-exclusive, non-sublicensable, non-transferable license to access and use in the United States such software, content, virtual item or other material for your personal, noncommercial use only,",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:42",
+            "point_link": "https://edit.tosdr.org/points/14943",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>x.\naccess, monitor or copy, or permit another person or entity to access, monitor or copy, any element of the Disney Products using a robot, spider, scraper or other automated means or manual process without our express written permission;</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:08:19",
+            "point_link": "https://edit.tosdr.org/points/15027",
+            "approval_status": "APPROVED",
+            "clause_text": "THE DISNEY PRODUCTS ARE PROVIDED “AS IS” AND “AS AVAILABLE.”",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:07:16",
+            "point_link": "https://edit.tosdr.org/points/15033",
+            "approval_status": "APPROVED",
+            "clause_text": "you may not submit or upload User Generated Content that is defamatory, harassing, threatening,",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15034",
+            "approval_status": "APPROVED",
+            "clause_text": "\"you may not submit or upload User Generated Content that is defamatory, harassing, threatening, bigoted, hateful, violent\"",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:40",
+            "point_link": "https://edit.tosdr.org/points/14941",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate or suspend your access to any Disney Products, and/or terminate this Agreement subject to the survival of terms as provided below, if required by law, or if we have objective reason to believe you have used the Disney Products in violation of any provision of this Agreement or any supplemental terms, and/or if you engage in or encourage infringement or any other illegal conduct as it relates to your use of the Disney Products.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15035",
+            "approval_status": "APPROVED",
+            "clause_text": "\"you may not submit or upload User Generated Content that is [...] obscene, pornographic\"",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:11:57",
+            "point_link": "https://edit.tosdr.org/points/15042",
+            "approval_status": "APPROVED",
+            "clause_text": "Notifications of claimed copyright infringement and counter notices must be sent to our designated agent:</p>\n<p>Attn: TWDC Designated Agent<br>\nThe Walt Disney Company<br>\n500 South Buena Vista Street<br>\nBurbank, California 91521, USA<br>\nPhone: +1 818-560-1000<br>\nFax: +1 818-560-4299<br>\nEmail: designated.agent@dig.twdc.com</p>\n<p>We are only able to accept notices in the languages in which this Agreement is made available by us.</p>\n<p>We will respond expeditiously to claims of copyright infringement committed using the Disney Products that are reported to our designated copyright agent, in accordance with the U.S.\nDigital Millennium Copyright Act of 1998 (“<strong>DMCA</strong>”) or, as applicable, other laws.\nWith respect to Disney Products hosted in the United States, these notices must include the required information set forth in the DMCA and described in detail here.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:11:40",
+            "point_link": "https://edit.tosdr.org/points/14939",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that you will not share your account or account information with others.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:11:40",
+            "point_link": "https://edit.tosdr.org/points/14940",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for taking reasonable steps to maintain the confidentiality of your username and password, and you are responsible for all activities under your account that you can reasonably control.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:11:39",
+            "point_link": "https://edit.tosdr.org/points/14944",
+            "approval_status": "APPROVED",
+            "clause_text": "xii.\nuse the Disney Products in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this Agreement.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:08:56",
+            "point_link": "https://edit.tosdr.org/points/15061",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect information through a variety of technologies, such as cookies,",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:11:50",
+            "point_link": "https://edit.tosdr.org/points/15049",
+            "approval_status": "APPROVED",
+            "clause_text": "No waiver of any provision of this Agreement by us shall be deemed a further or continuing waiver of such provision or any other provision, and our failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 10:06:45",
+            "point_link": "https://edit.tosdr.org/points/14928",
+            "approval_status": "APPROVED",
+            "clause_text": "English – Disney Terms of Use – United States<p>\n</p>Home / English – Disney Terms of Use – United States <p>Spanish",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:11:48",
+            "point_link": "https://edit.tosdr.org/points/15045",
+            "approval_status": "APPROVED",
+            "clause_text": "This Agreement is governed by and construed in accordance with the laws of the State of New York and the laws of the United States, without giving effect to any conflict of law principles.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:49",
+            "point_link": "https://edit.tosdr.org/points/15055",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Location information, including location information provided by a mobile or other device interacting with one of our sites, applications, or physical properties (including through beacon technologies), or associated with your IP address or other online or device identifier, where we are permitted by law to process this information;</li>\n<li>",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:11:56",
+            "point_link": "https://edit.tosdr.org/points/15028",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>WE ARE NOT RESPONSIBLE FOR ANY LACK OF FUNCTIONALITY OR FAILURE TO PROVIDE ANY PART OF THE DISNEY PRODUCT(S), OR ANY LOSS OF CONTENT OR DATA THAT IS DUE TO: YOUR EQUIPMENT, DEVICES, OPERATING SYSTEM OR INTERNET CONNECTION.\nOR YOUR FAILURE TO COMPLY WITH SPECIFIED COMPATIBILITY REQUIREMENTS.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:11:39",
+            "point_link": "https://edit.tosdr.org/points/14932",
+            "approval_status": "APPROVED",
+            "clause_text": "More specific and/or supplemental terms and conditions may apply to some Products, including but not limited to, a particular contest, software, application, promotional code, service or other activity.\navailability of certain merchandise, content, programs, or other activities.\nconditions or other limitations to the Disney Products for users under certain ages.\nand/or specific terms or restrictions that may accompany certain territories, programs, content, products, websites, applications or other software.",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:11:47",
+            "point_link": "https://edit.tosdr.org/points/15026",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to utilize third party payment card updating services to obtain current expiration dates on credit cards and debit cards.</p>",
+            "point_source": "https://disneytermsofuse.com/english/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:11:56",
+            "point_link": "https://edit.tosdr.org/points/15050",
+            "approval_status": "APPROVED",
+            "clause_text": "The terms apply to the Walt Disney Company as well as to all its subsidiary companies, including ABC News, ESPN, Pixar, Freeform, Lucasfilm, Marvel, National Geographic.\n    \n          On 2024-06-20 11:52:56 UTC, CGomez012 (29761)  Suspended wrote:\n          The Walt Disney Family of Companies, including subsidiary and affiliated entities, encompasses various products and services under renowned brand names. Disney's influence spans globally from magical theme parks to beloved animated films and innovative media platforms. Amidst this expansive network, Chauffeur Hire Essex stands out as a reliable service provider, offering premier transportation solutions. Whether visiting a theme park or attending a premiere, their commitment to quality ensures every journey is as memorable as the destinations themselves.",
+            "point_source": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        }
+    ]
+}

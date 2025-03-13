@@ -1,0 +1,749 @@
+{
+    "meta_data": {
+        "title": "Shopify - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:33:20",
+            "point_link": "https://edit.tosdr.org/points/18303",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Shopify does not pre-screen Materials and it is in our sole\ndiscretion to refuse or remove any Materials from the Service,\nincluding your Store.</li>",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service still tracks you even if you opted out from tracking",
+            "rating": "blocker",
+            "description": "Users can’t fully opt out of tracking technologies used for non essential purposes such as advertising, marketing or analytics. The user may be asked for consent for installing some tracking technologies on the device, and even if all are rejected the service will still track its visitors and ignore the choice.This case doesn’t apply to functional cookies that are necessary to provide the services.",
+            "last_updated": "2023-07-11 10:14:16",
+            "point_link": "https://edit.tosdr.org/points/18270",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Limit tracking\" does not mean \"stop tracking\". It means they still track you, but might not gather as much information",
+            "point_source": "https://help.shopify.com/en/manual/your-account/privacy/cookies",
+            "case": {
+                "text": "This service still tracks you even if you opted out from tracking",
+                "href": "https://edit.tosdr.org/cases/478"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18224",
+            "approval_status": "APPROVED",
+            "clause_text": "we will collect information such as your name\n(if you are a sole proprietor), your business or trade name,\nyour address, email, phone number, business identification or\nregistration number, and certain other information that we\nrequire.\nWe may also collect personal information (including\nname, birthdate, and government-issued identification number)\nabout your beneficial owners or principals.</p>",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18213",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-03 04:50:41 UTC, Gabrielle (28156)  Suspended wrote:\n          This is actually the kind of information I have been trying to find. Thank you for writing this informationVISA INDIEN URGENT",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service may sell your data unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 06:32:56",
+            "point_link": "https://edit.tosdr.org/points/18271",
+            "approval_status": "APPROVED",
+            "clause_text": "customers in California should be able to opt-out of the sale of their data",
+            "point_source": "https://help.shopify.com/en/manual/your-account/privacy/cookies",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:09:41",
+            "point_link": "https://edit.tosdr.org/points/18232",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-04 10:17:39 UTC, basit666655 (25607)  Suspended wrote:\n          Great job for publishing such a beneficial web site. Your web log isn’t only useful but it is additionally really creative tooPedido de visto de Turquia online",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:14:08",
+            "point_link": "https://edit.tosdr.org/points/18308",
+            "approval_status": "APPROVED",
+            "clause_text": "these cookies can track your device’s visits to our website and\nother sites",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:14:15",
+            "point_link": "https://edit.tosdr.org/points/18276",
+            "approval_status": "APPROVED",
+            "clause_text": "we use pixels and tags from the following third parties,\nwhich may in turn place cookies",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18253",
+            "approval_status": "APPROVED",
+            "clause_text": "may be assigned by us\nwithout consent or other restriction",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:14:15",
+            "point_link": "https://edit.tosdr.org/points/18278",
+            "approval_status": "APPROVED",
+            "clause_text": "Finally, Social and Content cookies are placed by many social media\nplugins (for example the Facebook ’like’ button), and other tools meant\nto provide or improve the content on a website (for example services\nthat allow the playing of video files, or that create comments\nsections).",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:14:14",
+            "point_link": "https://edit.tosdr.org/points/18256",
+            "approval_status": "APPROVED",
+            "clause_text": "additional services</li>\n<li>assisting with marketing, advertising, or other communications",
+            "point_source": "https://www.shopify.com/legal/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18212",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-03 05:02:14 UTC, Gabrielle (28156)  Suspended wrote:\n          nice post, keep up with this interesting work. It really is good to know that this topic is being covered also on this web site so cheers for taking time to discuss thisNotfallvisum für Indien",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18226",
+            "approval_status": "APPROVED",
+            "clause_text": "By accepting the terms of this Agreement, you are providing us\nwith authorization to retrieve information about you by using\nthird parties, including credit bureaus and other information\nproviders.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "If you live in the European Economic Area, your data is processed and stored in countries that are less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18210",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-04-04 23:09:06 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-04-04 23:09:06 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-04-04 23:09:06 UTC by private prawn (22961)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: Your data is processed and stored in a country that is less friendly to user privacy protection\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: Your data is processed and stored in a country that is less friendly to user privacy protection\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: Your data is processed and stored in a country that is less friendly to user privacy protection\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: Your data is processed and stored in a country that is less friendly to user privacy protection\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18242",
+            "approval_status": "APPROVED",
+            "clause_text": "ANY DEFECTS OR ERRORS\nWILL BE CORRECTED.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:14:16",
+            "point_link": "https://edit.tosdr.org/points/18272",
+            "approval_status": "APPROVED",
+            "clause_text": "Data sharing with ad networks\n<p>To improve your marketing campaigns, your customer data is used to optimize and personalize the ads targeting existing and prospective customers.",
+            "point_source": "https://help.shopify.com/en/manual/your-account/privacy/cookies",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:14:15",
+            "point_link": "https://edit.tosdr.org/points/18227",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that Shopify is permitted to contact and share\ninformation about you and your application (including whether\nyou are approved or declined), your Shopify Payments Account,\nand the Processor Account with the Processor and other third\nparties in order to perform the Payments Services.\nThis includes\nsharing information: (i) about Transactions for regulatory or\ncompliance purposes.\n(ii) for use in connection with the\nmanagement and maintenance of the Payments Services.\n(iii) to\ncreate and update our and their customer records about you, and\nto assist us and them in better serving you.\nand, (iv) to\nconduct our and their risk management process.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18246",
+            "approval_status": "APPROVED",
+            "clause_text": "UNDER NO\nCIRCUMSTANCES WILL ANY OF THE DISCLAIMING ENTITIES BE\nRESPONSIBLE FOR ANY DAMAGE, LOSS OR INJURY RESULTING FROM\nHACKING, TAMPERING OR OTHER UNAUTHORIZED ACCESS OR USE OF THE\nPAYMENTS SERVICES OR YOUR SHOPIFY PAYMENTS ACCOUNT, OR THE\nINFORMATION CONTAINED THEREIN.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:09:33",
+            "point_link": "https://edit.tosdr.org/points/18258",
+            "approval_status": "APPROVED",
+            "clause_text": "This data may be subject to the laws of the countries where we send it.",
+            "point_source": "https://www.shopify.com/legal/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:16",
+            "point_link": "https://edit.tosdr.org/points/18280",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note\nthat some of these third party services place cookies that are also used\nfor things like behavioural advertising, analytics, and/or market\nresearch.",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18248",
+            "approval_status": "APPROVED",
+            "clause_text": "WITHOUT LIMITING THE FOREGOING PROVISIONS OF THIS SECTION D8,\nTHE DISCLAIMING ENTITIES’ CUMULATIVE LIABILITY TO YOU SHALL BE\nLIMITED TO DIRECT DAMAGES, AND IN ALL EVENTS SHALL NOT EXCEED IN\nTHE AGGREGATE THE AMOUNT OF FEES PAID BY YOU TO SHOPIFY DURING\nTHE THREE (3) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT\nGIVING RISE TO THE CLAIM FOR LIABILITY.</p>\n<p>THIS LIMITATION OF LIABILITY SECTION APPLIES REGARDLESS OF THE\nLEGAL THEORY ON WHICH THE CLAIM IS BASED, INCLUDING, WITHOUT\nLIMITATION, CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT\nLIABILITY, OR ANY OTHER BASIS.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18283",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain ownership over all Materials that you upload to the Store.",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:14",
+            "point_link": "https://edit.tosdr.org/points/18255",
+            "approval_status": "APPROVED",
+            "clause_text": "If a third party requests your personal information, we will refuse to share it unless you give us permission or we are legally required.",
+            "point_source": "https://www.shopify.com/legal/privacy",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 10:14:14",
+            "point_link": "https://edit.tosdr.org/points/18235",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-04 10:21:30 UTC, basit666655 (25607)  Suspended wrote:\n          I would like to say that this blog really convinced me to do it! Thanks, very good postPersyaratan Visa Turki",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18250",
+            "approval_status": "APPROVED",
+            "clause_text": "Where permitted by law, we will make reasonable efforts to\nprovide you notice of such Legal Process by sending a copy to\nthe email address we have on file for you.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "You may have the right to request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18257",
+            "approval_status": "APPROVED",
+            "clause_text": "You are not guaranteed to have this right",
+            "point_source": "https://www.shopify.com/legal/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The cookies used by this service do not contain information that would personally identify you",
+            "rating": "good",
+            "description": "The cookies used only collect anonymous, aggregated data that cannot be linked to a unique identity.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18307",
+            "approval_status": "APPROVED",
+            "clause_text": "These cookies\nonly gather information for statistical purposes and only use\npseudonymous cookie identifiers that do not directly identify you.",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "The cookies used by this service do not contain information that would personally identify you",
+                "href": "https://edit.tosdr.org/cases/374"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:14:16",
+            "point_link": "https://edit.tosdr.org/points/18274",
+            "approval_status": "APPROVED",
+            "clause_text": "When merchants use our platform to power their online stores, we place\nthe following cookies for visitors of their stores:</p>\n<p>\n<strong>Cookies Necessary for the Functioning of the Store</strong>:</p> NameFunction_abUsed in connection with access to admin._secure_session_idUsed in connection with navigation through a storefront.CartUsed in connection with shopping cart.cart_currencyUsed in connection with shopping cart.cart_sigUsed in connection with checkout.cart_tsUsed in connection with checkout.cart_verUsed in connection with shopping cart.checkoutUsed in connection with checkout.checkout_tokenUsed in connection with checkout.cookietestUsed in connection with navigation through a storefront.master_device_idUsed in connection with merchant login.previous_checkout_tokenUsed in connection with checkout.dynamic_checkout_shown_on_cartUsed in connection with checkout.previous_stepUsed in connection with checkout.remember_meUsed in connection with checkout.Secure_customer_sigUsed in connection with customer login.storefront_digestUsed in connection with customer login._shopify_countryUsed in connection with checkout._shopify_mUsed for managing customer privacy settings._shopify_tmUsed for managing customer privacy settings._shopify_twUsed for managing customer privacy settings._storefront_uUsed to facilitate updating customer account information._tracking_consentTracking preferences.tracked_start_checkoutUsed in connection with checkout.keep_aliveUsed in connection with buyer localization.\n<p>\n<strong>Reporting and Analytics</strong>\n</p> NameFunction_landing_pageTrack landing pages._orig_referrerTrack landing pages._sShopify analytics._shopify_dShopify analytics._shopify_fsShopify analytics._shopify_sShopify analytics._shopify_sa_pShopify analytics relating to marketing &amp.\nreferrals._shopify_sa_tShopify analytics relating to marketing &amp.\nreferrals._shopify_yShopify analytics._yShopify analytics.\n<p>Shopify’s websites</p>\n<p>When visitors load Shopify’s websites, we generally place the following\nShopify cookies:</p>\n<p>\n<strong>Cookies Necessary for the Functioning of the Sites</strong>\n</p> NameFunction_Brochure_sessionUsed in connection with browsing through site.\n<p>\n<strong>Reporting and Analytics</strong>\n</p> NameFunction_landing_pageTracks landing pages._orig_referrerTracks landing pages._sShopify analytics._shopify_fsShopify analytics._shopify_sShopify analytics._shopify_sa_tShopify analytics relating to marketing &amp.\nreferrals._shopify_uniqShopify analytics._shopify_yShopify analytics._yShopify analytics.ab_test_*Shopify analytics.cart_sigShopify analytics.ki_rShopify analytics.ki_tShopify analytics.*_assignmentShopify analytics.",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:55",
+            "point_link": "https://edit.tosdr.org/points/18304",
+            "approval_status": "APPROVED",
+            "clause_text": "You are not guaranteed to be able to export your data, but you may have the ability depending on your use.",
+            "point_source": "https://www.shopify.com/legal/privacy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/18287",
+            "approval_status": "APPROVED",
+            "clause_text": "Once provided with a notice of takedown, the merchant\ncan reply with a counter notification using our form if they object\nto the complaint.",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:09:37",
+            "point_link": "https://edit.tosdr.org/points/18208",
+            "approval_status": "APPROVED",
+            "clause_text": "Shopify will use its commercially\nreasonable efforts to provide you with customer support to help\nresolve issues relating to the Payments Services.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "Prohibits the publishing of personally identifiable information without the owner’s consent",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18215",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-03 05:37:30 UTC, Gabrielle (28156)  Suspended wrote:\n          Hey, this day is too much good for me, since this time I am reading this enormous informative article here at my home. Thanks a lot for massive hard workFORMULARIO DE SOLICITUD DE VISA INDIA",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/6885",
+            "approval_status": "APPROVED",
+            "clause_text": "You\nagree to indemnify and hold us and (as applicable) our parent,\nsubsidiaries, affiliates, Shopify partners, officers, directors,\nagents, employees, and suppliers harmless from any claim or demand,\nincluding reasonable attorneys’ fees, made by any third party due\nto or arising out of your breach of these Terms of Service or the\ndocuments it incorporates by reference (including the AUP), or your\nviolation of any law or the rights of a third party.</li>",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:35:35",
+            "point_link": "https://edit.tosdr.org/points/6684",
+            "approval_status": "APPROVED",
+            "clause_text": "Shopify does not provide refunds.</li>",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:09:26",
+            "point_link": "https://edit.tosdr.org/points/18245",
+            "approval_status": "APPROVED",
+            "clause_text": "ANY\nHYPERLINKED WEBSITE OR SERVICE",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18244",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-04 13:05:25 UTC, Gabrielle (28156)  Suspended wrote:\n          Wow. Just one word for them Splendid!! I have seen many sites in my whole life but have never seen anything like this! It is amazingly beautiful! You should also consider them. IOP Programs in Georgia",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:09:19",
+            "point_link": "https://edit.tosdr.org/points/18234",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-03 10:27:40 UTC, Gabrielle (28156)  Suspended wrote:\n          Thank you a bunch for sharing this with all of us you actually realize what you are talking about! Bookmarked. Please also seek advice from my site =). We could have a hyperlink change contract between usИНДИЙСКА ВИЗА ЗА ЙОГА",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18306",
+            "approval_status": "APPROVED",
+            "clause_text": "Please keep in mind\nthat removing or blocking cookies can negatively impact your user\nexperience and parts of our website may no longer be fully accessible.",
+            "point_source": "https://www.shopify.com/legal/cookies",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18247",
+            "approval_status": "APPROVED",
+            "clause_text": "USER CONTENT OR THE DEFAMATORY,\nOFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY.</p>",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18239",
+            "approval_status": "APPROVED",
+            "clause_text": "(III) THE PAYMENTS SERVICES WILL BE AVAILABLE AT ANY PARTICULAR\nTIME OR LOCATION.\n(IV) THE PAYMENTS SERVICES WILL FUNCTION IN AN\nUNINTERRUPTED MANNER OR BE SECURE.",
+            "point_source": "https://www.shopify.com/legal/terms-payments-us",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This services gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 10:14:23",
+            "point_link": "https://edit.tosdr.org/points/18432",
+            "approval_status": "APPROVED",
+            "clause_text": "Shopify does not warrant that the quality of any products,\nservices, information, or other materials purchased or obtained by\nyou through the Services will meet your expectations, or that any\nerrors in the Services will be corrected.",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:36:09",
+            "point_link": "https://edit.tosdr.org/points/6886",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Your use of the Services is at your sole risk.\nThe Services are\nprovided on an “as is” and “as available” basis",
+            "point_source": "https://www.shopify.com/legal/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18216",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18237",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18236",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:14:15",
+            "point_link": "https://edit.tosdr.org/points/18285",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18228",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18240",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18251",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:14:14",
+            "point_link": "https://edit.tosdr.org/points/18252",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "This service informs users that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 10:14:14",
+            "point_link": "https://edit.tosdr.org/points/18254",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18229",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18241",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:14:12",
+            "point_link": "https://edit.tosdr.org/points/18217",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "The court of law governing the terms is in Delaware, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:14:13",
+            "point_link": "https://edit.tosdr.org/points/18249",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:16",
+            "point_link": "https://edit.tosdr.org/points/18269",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:10:53",
+            "point_link": "https://edit.tosdr.org/points/6324",
+            "approval_status": null,
+            "clause_text": null,
+            "point_source": null
+        }
+    ]
+}

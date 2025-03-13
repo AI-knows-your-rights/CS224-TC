@@ -1,0 +1,389 @@
+{
+    "meta_data": {
+        "title": "MyAnimeList - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:23:54",
+            "point_link": "https://edit.tosdr.org/points/26827",
+            "approval_status": "APPROVED",
+            "clause_text": "Company has the right to monitor the Service, including the chat rooms",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:23:54",
+            "point_link": "https://edit.tosdr.org/points/26830",
+            "approval_status": "APPROVED",
+            "clause_text": "our third party partners may use cookies to determine whether we've shown an ad and how it performed, or collect information about how you interact with ads.",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:25:34",
+            "point_link": "https://edit.tosdr.org/points/26842",
+            "approval_status": "APPROVED",
+            "clause_text": "You do not need to provide information directly to us in order to view the Sites.\nHowever, when you use certain functions on the Sites, such as accessing certain features or content, registering for certain services, setting up a profile or contacting the Sites directly, you may provide us or we may ask for personally identifiable information or other information, which may include:</p>\n<ul>\n<li>contact information, such as name, email address, postal address and phone number;</li>\n<li>username and password for your account;</li>\n<li>information posted in community discussions and other interactive online features;</li>\n<li>information you may decide to provide on your profile or through your account, such as photographs, friends, biographies, anime or manga related lists and favorites, comments, posts, reviews, ratings, recommendations and other information or content you may provide through your account or on your profile.\n</li>\n<li>search queries conducted on the Sites.\nand</li>\n<li>correspondence you send to us.",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:21:50",
+            "point_link": "https://edit.tosdr.org/points/6646",
+            "approval_status": "APPROVED",
+            "clause_text": "These third parties may collect information about you and your online activities, either on the Sites or on other websites, through cookies, web beacons, and other technologies to understand your interests and tailor certain advertisements to your interests.</p>\n<p",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:23:55",
+            "point_link": "https://edit.tosdr.org/points/26844",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share information about you in the event that the Sites are acquired by a third party or third parties, or as part of a sale, merger, bankruptcy or change in control, or in preparation for any of these events.",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:21:52",
+            "point_link": "https://edit.tosdr.org/points/24913",
+            "approval_status": "APPROVED",
+            "clause_text": "Performance, analytics and research Cookies help us research and measure the effectiveness of our interactive online features, content, advertisements, and other communications.\nWe also use cookies to track our website and application analytics and use.\nPerformance-gauging cookies we may use reveal how you use our websites and applications, such as which content is the most popular, how much time users are spending there, and what advertising is relevant to you.\nThese cookies help us provide an optimized experience (and we may engage third parties to carry out this analysis, and they may set their own \"third party\" cookies).",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:23:43",
+            "point_link": "https://edit.tosdr.org/points/26828",
+            "approval_status": "APPROVED",
+            "clause_text": "How we use the information that we collect",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 06:21:51",
+            "point_link": "https://edit.tosdr.org/points/24915",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>To opt out of having information collected by non-affiliated third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit http://www.aboutads.info/choices&nbsp.\nif you are located in the United States, www.youronlinechoices.com if you are located in Europe, youradchoices.ca/choices if you are located in Canada, or www.youronlinechoices.com.au if you are located in Australia.",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "A free help desk is provided",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:21:05",
+            "point_link": "https://edit.tosdr.org/points/24918",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions about this Privacy Policy, please contact us at legal@mail.myanimelist.net.",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:09",
+            "point_link": "https://edit.tosdr.org/points/5137",
+            "approval_status": "APPROVED",
+            "clause_text": "Indemnity <p>You agree to defend, indemnify and hold harmless Company and its subsidiaries, agents, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from:</p>\n<ul>\n<li>Your use of and access to the Service, including any data or work transmitted or received by you.\n</li>\n<li>Your violation of any term of this Agreement, including without limitation, your breach of any of the representations and warranties above.\n</li>\n<li>Your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights.\n</li>\n<li>Your violation of any law, rule or regulation of the United States or any other country.\n</li>\n<li>Any claim or damages that arise as a result of any of your User Content or any that are submitted via your account or profile.\nor </li>\n<li>Any other party's access and use of the Service with your unique username, password or other appropriate security code",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:04:54",
+            "point_link": "https://edit.tosdr.org/points/6642",
+            "approval_status": "APPROVED",
+            "clause_text": "Your subscription will automatically continue on a monthly basis, and you will continue to be charged on a monthly basis at the then-current price (including any applicable taxes), until you cancel your subscription or we terminate it.",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:21:52",
+            "point_link": "https://edit.tosdr.org/points/24917",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>Update to our Privacy Policy</b>\n<br> We have recently updated our privacy policy, which will be implemented from March 19, 2021 onwards.<br>",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:33:47",
+            "point_link": "https://edit.tosdr.org/points/6641",
+            "approval_status": "APPROVED",
+            "clause_text": "LAST UPDATED: October 9, 2020</p",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:21:51",
+            "point_link": "https://edit.tosdr.org/points/24914",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>However, please note that if you do not accept cookies, you may not be able to view or use parts of our website or other online services due to limited functionality.",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:23:53",
+            "point_link": "https://edit.tosdr.org/points/26829",
+            "approval_status": "APPROVED",
+            "clause_text": "Any interruption or cessation of transmission to or from the Service.",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:23:54",
+            "point_link": "https://edit.tosdr.org/points/26826",
+            "approval_status": "APPROVED",
+            "clause_text": "You also agree not to use or launch any automated system, including without limitation, \"offline readers,\" \"spiders,\" \"robots,\" etc.",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18222",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-04-30 15:41:52 UTC, balay (32946)  wrote:\n          I do consider all of the concepts you’ve introduced on your post. They’re very convincing and will certainly work. Nonetheless, the posts are too short for starters. Could you please lengthen them a bit from next time? Thanks for the post. Pristina Hotels 메이저사이트",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:21:52",
+            "point_link": "https://edit.tosdr.org/points/24916",
+            "approval_status": "APPROVED",
+            "clause_text": "Please remember that we do not have access to, or control over, non-affiliated third party advertisers' or service providers' cookies, and the information practices of such third parties are not covered by this Cookie Policy or our Privacy Policy.",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:03:31",
+            "point_link": "https://edit.tosdr.org/points/7438",
+            "approval_status": "APPROVED",
+            "clause_text": "Our failure to exercise or enforce any right or provision of these Terms of Use will not operate as a waiver of such right or provision.",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:21:57",
+            "point_link": "https://edit.tosdr.org/points/24919",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy is applicable only to the Sites and does not extend to information collected by any other websites or applications or to the practices or procedures of companies that the Company does not control.\nNote that the Sites may contain links to other websites, such as ad banners linking to another website.\nIn such cases, this Privacy Policy does not apply to information collected on that website (or other websites).\nWe are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit or application that you use.</p>",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18220",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of these Terms of Use is, for any reason, held to be illegal, invalid or unenforceable, you and the Company agree that the rest of the Terms of Use will remain in full force and effect, the provision in question may be replaced by the lawful provision that most nearly embodies the original intention of the parties, and that these Terms of Use shall in any event otherwise remain valid and enforceable.",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:14:14",
+            "point_link": "https://edit.tosdr.org/points/18223",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Text: \"Without limiting the foregoing, and to the extent allowed by applicable law, Company assumes no liability or responsibility, including but not limited to, for any of the following: [...] Errors, mistakes, or inaccuracies of content.\"",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:21:51",
+            "point_link": "https://edit.tosdr.org/points/24910",
+            "approval_status": "APPROVED",
+            "clause_text": "Some cookies we use are strictly necessary to enable us to provide our website and application services to you (such as cookies that provide your log-in status when that account ID is linked to functionality on our website).</p>",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:21:57",
+            "point_link": "https://edit.tosdr.org/points/25011",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-08-28 11:50:58 UTC by Aayan (21799) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-08-28 11:50:58 UTC by Aayan (21799) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-08-28 11:50:58 UTC by Aayan (21799) \n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: You must report to the service any unauthorized use of your account or any breach of security\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: You must report to the service any unauthorized use of your account or any breach of security\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: You must report to the service any unauthorized use of your account or any breach of security\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: You must report to the service any unauthorized use of your account or any breach of security\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:21:50",
+            "point_link": "https://edit.tosdr.org/points/14016",
+            "approval_status": "APPROVED",
+            "clause_text": "the Sites do not currently respond to DNT",
+            "point_source": "https://myanimelist.net/about/privacy_policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:51",
+            "point_link": "https://edit.tosdr.org/points/24909",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies (like many online service providers), including third-party cookies, for a number of reasons, like to recognize you when you visit our website or applications, remember your preferences, give you a personalized experience consistent with your browser settings and to make your interactions with MyAnimeList faster and more secure.",
+            "point_source": "https://myanimelist.net/about/cookie_policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:22:37",
+            "point_link": "https://edit.tosdr.org/points/25581",
+            "approval_status": "APPROVED",
+            "clause_text": "When we amend these Terms of Use, we will provide notice to you.\nWe may provide you notice of amended Terms of Use by sending an email to the email address associated with your MyAnimeList user account (if you have chosen to provide an email address) or by otherwise providing notice through our Service.",
+            "point_source": "https://myanimelist.net/about/terms_of_use",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

@@ -1,0 +1,837 @@
+{
+    "meta_data": {
+        "title": "Enpass - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/13747",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Without limiting the foregoing\" means that they reserve the right to delete content for any other reason they deem valid (or none).",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "The service may sell your data unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13732",
+            "approval_status": "APPROVED",
+            "clause_text": "You Have the Right Not to Have Your Personal Information Sold</b>\n<p>\n<b>With the exception defined in Disclosures to Successors, we never sell your PD.</b> If you wish to make this request, please email us at support@enpass.io.</p>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13763",
+            "approval_status": "APPROVED",
+            "clause_text": "The legal proceedings are only valid in an individual form, which means no class actions are valid.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:09:40",
+            "point_link": "https://edit.tosdr.org/points/13723",
+            "approval_status": "APPROVED",
+            "clause_text": "You may share your information with third parties such as Facebook.com, Twitter.com, YouTube.com, Instagram.com, and Google.com.\nIf you decide to login to our Platform using these third parties or other social media websites, you are agreeing to let us use and store your profile information from those websites to make better use of any social media features on our Platform.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:34:35",
+            "point_link": "https://edit.tosdr.org/points/12861",
+            "approval_status": "APPROVED",
+            "clause_text": "Any cause of action by you with respect to our Platform must be instituted within one (1) year after the cause of action arose or be for ever waived and barred.</p>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:09:41",
+            "point_link": "https://edit.tosdr.org/points/13721",
+            "approval_status": "APPROVED",
+            "clause_text": "We use a service from www.en.gravatar.com that allows you to have an image that represents you when you are online.\nIt is a picture that appears next to your name when you interact with different Gravatar-enabled websites and mobile apps.\nTo make this happen a tracking mechanism is used that follows you on the Internet.</p>\nCross-Device Tracking\n<p>We may track your behavior from device to device by gathering the following data</p>\n<ul>\n<li>Device name</li>\n<li>Install ID (UDID)</li>\n<li>Device type</li>\n<li>Installed OS and version",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13724",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-04-30 11:45:09 UTC, vobase (34120)  wrote:\n          I  besides   believe   therefore , perfectly  composed  post! . Nhà cái FB88",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/13725",
+            "approval_status": "APPROVED",
+            "clause_text": "We may be legally required to disclose your PD if such disclosure is (a) required by subpoena, law, or other legal processes.\n(b) necessary to assist law enforcement officials or government enforcement agencies.\n(c) necessary to investigate violations of or otherwise enforce our terms and conditions.\n(d) necessary to protect us from legal action or claims from third parties, including you and/or other users.\nor (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.</p>\n<p>\n<b>PLEASE NOTE THAT IN ANY CASE YOUR SECURED DATA LIKE YOUR MASTER PASSWORD AND ANY DATA SAVED IN ENPASS CAN’T BE ACCESSED BY ANYONE.</b>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13726",
+            "approval_status": "APPROVED",
+            "clause_text": "If our business is sold or merges in whole or in part with another business that would become responsible for providing our Platform to you, we retain the right to transfer your PD to the new business.\nThe new business would retain the right to use your PD according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business.\nWe also retain the right to transfer your PD if our company files for bankruptcy and some or all of our assets are sold to another individual or business.</p>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:09:45",
+            "point_link": "https://edit.tosdr.org/points/13760",
+            "approval_status": "APPROVED",
+            "clause_text": "Any legal controversy or claim arising from or relating to this Agreement and/or our Platform, excluding legal action taken by us to collect or recover damages for or obtain any injunction relating to – intellectual property and our Platform, will be settled solely by binding arbitration following the commercial arbitration rules of the American Arbitration Association.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:33:29",
+            "point_link": "https://edit.tosdr.org/points/13759",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of our Platform after any change to these Terms of Use will constitute your acceptance of such change.\nIf you do not agree with the changes to these Terms of Use, you can choose to discontinue the use of our Platform.</p>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13722",
+            "approval_status": "APPROVED",
+            "clause_text": "Our discussion forums use a third-party software “CleanTalk” to reject spam postings, and your PD will be shared with them while creating an account.\nRead their privacy policy here.</p>\n<p>Also, we may provide us with your PD when you comment on our blog posts running on WordPress.\nThere we use a service called “Akismet” for spam-filtration and they may have your PD.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your biometric data is collected",
+            "rating": "bad",
+            "description": "This service can collect or use your biometric data. This includes but is not limited to facial recognition, fingerprints, and iris scans. Although this feature can sometimes be convenient to the user, providing this type of information to the service could open your personal data to being sold or stolen.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13736",
+            "approval_status": "APPROVED",
+            "clause_text": "You may use any biometrics like the face or fingerprint recognition to access your data without the need to actually providing your master password in our apps.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Your biometric data is collected",
+                "href": "https://edit.tosdr.org/cases/397"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:06:32",
+            "point_link": "https://edit.tosdr.org/points/13752",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>In the sole judgment of Enpass Technologies Inc is objectionable or restricts or inhibits any other person from using or enjoying our Platform,",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13731",
+            "approval_status": "APPROVED",
+            "clause_text": "PD that we collect from you may be stored, processed, and transferred among any countries in which we operate.\nThe European Union has not found the United States and some other countries to have an adequate level of protection of PD under Article 45 of the GDPR.\nOur company relies on derogations for specific situations as defined in Article 49 of the GDPR.\nIf you are a European Union customer or user, with your consent your PD may be transferred to the United States or other countries outside the European Union when you request information from us.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:33:14",
+            "point_link": "https://edit.tosdr.org/points/12432",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Our Platform uses analytics and crash reporting services from several companies to collect information about the use of our Platform.\nAnalytics plants a permanent cookie on your web browser to identify you as a unique user the next time you use our Platform.\nAnalytics collects information such as how often users visit our Platform, what pages they visit, when they do so, and their IP addresses.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13745",
+            "approval_status": "APPROVED",
+            "clause_text": "NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, ENPASS TECHNOLOGIES INC’s LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO US FOR SERVICES ACCESSED DURING THE PREVIOUS MONTH OF YOUR MEMBERSHIP PRIOR TO THE EVENT GIVING RISE TO LIABILITY.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "EU Residents can request access and deletion of personal data.",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13733",
+            "approval_status": "APPROVED",
+            "clause_text": "This is only limited to EU residents since these are rights granted by the GDPR.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13755",
+            "approval_status": "APPROVED",
+            "clause_text": "Your rights under these Terms of Use will terminate without our notice if you fail to comply with any term of these Terms of Use.\nUpon termination, you will stop representing yourself as a registered Member.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:09:40",
+            "point_link": "https://edit.tosdr.org/points/13728",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to revoke your consent for us to use your PD at any time.\nSuch opt-out will not affect disclosures otherwise permitted by law including but not limited to disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law.</p>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:34:41",
+            "point_link": "https://edit.tosdr.org/points/13716",
+            "approval_status": "APPROVED",
+            "clause_text": "AND HOW WE COLLECT IT",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "User-generated content is encrypted, and this service cannot decrypt it",
+            "rating": "good",
+            "description": "Content generated by the users is end-to-end encrypted, in a way that it can't be accessed by anyone unauthorised, and even the service has no technical means to decrypt it.",
+            "last_updated": "2023-07-11 10:09:41",
+            "point_link": "https://edit.tosdr.org/points/13737",
+            "approval_status": "APPROVED",
+            "clause_text": "To use our apps you will have to create a master password.\nIt is used to generate the encryption keys to encrypt your data when using our apps.\nWithout it, you can’t access your data.\nIf you forget or lose your master password, all your data will be lost forever and cannot be recovered.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "User-generated content is encrypted, and this service cannot decrypt it",
+                "href": "https://edit.tosdr.org/cases/372"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13727",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We retain information that we collect from you (including your PD) only for as long as we need it for legal, business, or tax purposes.\nYour information may be retained in electronic, paper, or a combination of both forms.\nWhen your information is no longer needed, we will destroy, delete, or erase it.</p>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "EU Residents can retrieve an archive of their data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13734",
+            "approval_status": "APPROVED",
+            "clause_text": "This only applies to EU residents since these are rights granted by the GDPR.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:08:17",
+            "point_link": "https://edit.tosdr.org/points/12431",
+            "approval_status": "APPROVED",
+            "clause_text": "INFORMATION WE COLLECT",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13753",
+            "approval_status": "APPROVED",
+            "clause_text": "By posting, displaying, transmitting, performing, or otherwise distributing information or other content (“Member Content”) to our Platform, you are granting Enpass Technologies Inc, its officers, directors, employees, agents, consultants, representatives, and affiliates, a license to use the Member Content in connection with the operation of the business of Enpass Technologies Inc, its directors, employees, officers, affiliates, representatives, consultants, and agents, including, without limitation, a right to distribute, copy, transmit, publicly display, reproduce, translate, edit, and reformat Member Content.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13730",
+            "approval_status": "APPROVED",
+            "clause_text": "You may receive email communications from us regarding changes to our services, promotional materials and important security-related events.\nYou can any time opt-out of the receipt of email communications for marketing and promotional material by writing to us at support@enpass.io.\nIn the event you unsubscribe from receiving emails regarding marketing and promotional material, we may still send email to you with a one-time password, any security issue related information, purchase confirmation or customer support matter.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:01",
+            "point_link": "https://edit.tosdr.org/points/12439",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-24 08:26:21 UTC, sowaro4784 (31933)  wrote:\n          At this point you'll find out what is important, it all gives a url to the appealing page:\tonline accountants",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:09:40",
+            "point_link": "https://edit.tosdr.org/points/12436",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Platform may contain links to other websites.\nThese websites are not under our control and are not subject to our privacy notice.\nThese websites will likely have their own privacy notices.\nWe have no responsibility for these websites and we provide links to these websites solely for your convenience.\nYou acknowledge that your use of and access to these websites are solely at your risk.\nIt is your responsibility to check the privacy notices of these websites to see how they treat your PD.</p>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:08:20",
+            "point_link": "https://edit.tosdr.org/points/12444",
+            "approval_status": "APPROVED",
+            "clause_text": "WE AND ALL OUR AFFILIATES ARE NOT LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, LITIGATION, OR THE LIKE), WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:09:40",
+            "point_link": "https://edit.tosdr.org/points/13735",
+            "approval_status": "APPROVED",
+            "clause_text": "Effective Date: May 28, 2020",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13743",
+            "approval_status": "APPROVED",
+            "clause_text": "WITHOUT LIMITING THE FOREGOING, YOU UNDERSTAND AND AGREE THAT YOU DOWNLOAD OR OTHERWISE OBTAIN CONTENT AND RELATED SOFTWARE FROM OR THROUGH OUR PLATFORM AT YOUR OWN RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR YOUR USE THEREOF AND ANY DAMAGES TO YOUR MOBILE DEVICE OR COMPUTER SYSTEM, LOSS OF DATA, OR OTHER HARM OF ANY KIND THAT MAY RESULT.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13741",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Platform may publish content supplied by third parties, Users, advertisers, merchants, and sponsors.\nEnpass Technologies Inc has no editorial control over such content.\nAny opinions or other information or content expressed or made available by third parties, including information providers and Users of our Platform, are those of the respective author(s) and not of Enpass Technologies Inc.\nWe do not guarantee the accuracy or completeness, nor the legality of any content provided by any of these parties.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13738",
+            "approval_status": "APPROVED",
+            "clause_text": "Some features of our Platform are available on a subscription basis.\nAt the end of each billing cycle, your subscription may automatically renew under the same conditions.\nYou can cancel your subscription renewal from where you were billed.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:29",
+            "point_link": "https://edit.tosdr.org/points/13756",
+            "approval_status": "APPROVED",
+            "clause_text": "Certain provisions of this Agreement, including, but not limited to, copyrights, indemnity, trademarks, limitation of liability, warranty, and jurisdictional issues will survive the termination of this Agreement.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13742",
+            "approval_status": "APPROVED",
+            "clause_text": "Enpass Technologies Inc is not responsible or liable in any manner for any Content posted on our Platform, whether posted or caused by Members of our Platform, or by Enpass Technologies Inc.\nAlthough we provide rules for Member conduct and postings, we cannot completely control and are not responsible for what Members post, transmit, or share on our Platform, and are not responsible for any offensive, inappropriate, obscene, unlawful, or otherwise objectionable content you may encounter using our Platform.\nEnpass Technologies Inc is not responsible for the online or offline conduct of any User of our Platform.</p>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:08:18",
+            "point_link": "https://edit.tosdr.org/points/12443",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not represent or otherwise warrant that our Platform will be error-free or free from viruses or other harmful components.\nWe do not represent or otherwise warrant that the information available on or through our Platform will always be correct, accurate, timely, or otherwise reliable.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:08:26",
+            "point_link": "https://edit.tosdr.org/points/13751",
+            "approval_status": "APPROVED",
+            "clause_text": "Contains any unsolicited or unauthorized advertising, solicitations, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation</li>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13739",
+            "approval_status": "APPROVED",
+            "clause_text": "No part of our Platform may be reproduced in any form or incorporated into any information retrieval system, electronic or mechanical, other than for your personal use.\nWhile using our Platform, you cannot redistribute your license (“Premium”, “Pro”, “Lite”) to anyone in any way that can make them use the features bound to your account.\nUnless otherwise specified, the developer tools and components, download areas, communication forums, and product information are for your personal and non-commercial use.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/13750",
+            "approval_status": "APPROVED",
+            "clause_text": "\"As a Member, you agree not to use our Platform to do any of the following: Upload, post, or otherwise transmit any Member Content that: Violates any local, state, federal, or international laws Infringes on any patent, trademark, trade secret, copyright, or other proprietary rights of any party Harms, threatens, defames, promotes violence or illegal activities, or is otherwise vulgar, obscene, abusive, harassing, tortuous, libelous, invasive of another’s privacy, hateful, or racially, ethically, or otherwise objectionable\"\n    \n      \n        \n          \n              Version 1: 2021-01-03 04:12:27 UTC by Dr_Jeff (20149)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-01-03 04:12:27 UTC by Dr_Jeff (20149)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-01-03 04:12:27 UTC by Dr_Jeff (20149)  Staff\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: Users agree not to submit libelous, harassing or threatening content\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: Users agree not to submit libelous, harassing or threatening content\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: Users agree not to submit libelous, harassing or threatening content\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: Users agree not to submit libelous, harassing or threatening content\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 10:09:43",
+            "point_link": "https://edit.tosdr.org/points/13748",
+            "approval_status": "APPROVED",
+            "clause_text": "Harms, threatens, defames, promotes violence or illegal activities,",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:08:17",
+            "point_link": "https://edit.tosdr.org/points/12441",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>THE INFORMATION, CONTENT, AND DOCUMENTS FROM OR THROUGH OUR PLATFORM ARE PROVIDED ‘AS-IS’, ‘AS AVAILABLE’, WITH ‘ALL FAULTS’,",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13740",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Our Platform is intended solely for Users who are at least (16) years of age or older.\nAny registration by, use of, or access to our Platform by anyone under that age is unauthorized, unlicensed, and in violation of these Terms of Use.\nBy using our Platform, you represent and warrant that you are (16) years of age or older and agree to abide by all the Terms of Use of this Agreement.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13746",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You warrant that you will not use our Platform to infringe on the intellectual property rights of others in any way.\nIn accordance with the DMCA and other applicable law, we have adopted a policy of terminating Members whom we deem, in our sole discretion, to be infringers of others’ intellectual property rights.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/13749",
+            "approval_status": "APPROVED",
+            "clause_text": "\"As a Member, you agree not to use our Platform to do any of the following: Upload, post, or otherwise transmit any Member Content that: Violates any local, state, federal, or international laws Infringes on any patent, trademark, trade secret, copyright, or other proprietary rights of any party\nHarms, threatens, defames, promotes violence or illegal activities, or is otherwise vulgar, obscene,\"",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:09:49",
+            "point_link": "https://edit.tosdr.org/points/13757",
+            "approval_status": "APPROVED",
+            "clause_text": "Should any part of this Agreement be held invalid or unenforceable, that portion will be construed consistent with applicable law and the remaining portions will remain in full force and effect.\nTo the extent that any Content is in conflict or inconsistent with this Agreement, this Agreement will take precedence.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:06:32",
+            "point_link": "https://edit.tosdr.org/points/13754",
+            "approval_status": "APPROVED",
+            "clause_text": "Enpass Technologies Inc has no control over the legal documents and privacy practices of third-party websites.\nyou access any third-party websites at your own risk.\nWe recommend that you review the privacy notice and Terms of Use of those websites to fully understand what information is collected and how it is used.</p>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:09:41",
+            "point_link": "https://edit.tosdr.org/points/13718",
+            "approval_status": "APPROVED",
+            "clause_text": "We use all this information to analyze trends among our users to help improve our Platform.</p>",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:09:41",
+            "point_link": "https://edit.tosdr.org/points/13719",
+            "approval_status": "APPROVED",
+            "clause_text": "When you enter and use our Platform and agree to accept cookies, some of these cookies may contain your PD.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:09:42",
+            "point_link": "https://edit.tosdr.org/points/13744",
+            "approval_status": "APPROVED",
+            "clause_text": "ENPASS TECHNOLOGIES INC DOES NOT REPRESENT OR WARRANT THAT OUR CONTENT, PLATFORM, OR ANY SOFTWARE FOUND WITHIN ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE.</p>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/13758",
+            "approval_status": "APPROVED",
+            "clause_text": "Our failure to enforce any provision of this Agreement will not be deemed a waiver of such a provision, nor of the right to enforce such a provision.\nOur rights under this Agreement will survive any termination of this Agreement.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 06:33:01",
+            "point_link": "https://edit.tosdr.org/points/12440",
+            "approval_status": "APPROVED",
+            "clause_text": "You cannot distribute your license to any other User to use related features without them registering with us.\nDoing so will be treated as a breach of this Agreement leading to the permanent termination of your account.</p>",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:09:41",
+            "point_link": "https://edit.tosdr.org/points/13729",
+            "approval_status": "APPROVED",
+            "clause_text": "Some web browsers have settings that enable you to request that we do not track your movement within our Platform.\nOur Platform does not obey such settings when transmitted to and detected by our Platform.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:08:17",
+            "point_link": "https://edit.tosdr.org/points/12442",
+            "approval_status": "APPROVED",
+            "clause_text": "ALL EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED (INCLUDING, BUT NOT LIMITED TO, THE DISCLAIMER OF ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Users agree to comply with the law of the service's country",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/13762",
+            "approval_status": "APPROVED",
+            "clause_text": "Also, you agree to submit to the personal jurisdiction and venue of such courts.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Delaware, USA.",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/13761",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This Agreement will be treated as if it were executed and performed in Wilmington, Delaware, and will be governed by and construed in accordance with the laws of the state of Delaware without regard to conflict of law provisions.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:06",
+            "point_link": "https://edit.tosdr.org/points/13717",
+            "approval_status": "APPROVED",
+            "clause_text": "This information may also include the IP address of your computer/the proxy server you use to access the Internet",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:04",
+            "point_link": "https://edit.tosdr.org/points/13715",
+            "approval_status": "APPROVED",
+            "clause_text": "Enpass Technologies Inc and its business partners believe in high standards when protecting the information provided by our users and customers.",
+            "point_source": "https://www.enpass.io/privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:05:51",
+            "point_link": "https://edit.tosdr.org/points/12807",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to change these Terms of Use at any time.\nWe will also post these changes on our Platform.\nThese changes will become effective immediately.",
+            "point_source": "https://www.enpass.io/terms-of-use/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

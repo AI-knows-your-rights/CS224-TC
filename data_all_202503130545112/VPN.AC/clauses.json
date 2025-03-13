@@ -1,0 +1,249 @@
+{
+    "meta_data": {
+        "title": "VPN.AC - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19426",
+            "approval_status": "APPROVED",
+            "clause_text": "Note that we do not log or monitor actual VPN activity of users while using our service.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:16:01",
+            "point_link": "https://edit.tosdr.org/points/19942",
+            "approval_status": "APPROVED",
+            "clause_text": "These connection logs are stored on an encrypted server and are erased permanently on a daily basis.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "The service will resist legal requests for user information where reasonably possible",
+            "rating": "good",
+            "description": "The service will attempt to protect user information to a great extent, even so far as stating that they will only follow legal requirements to disclose user information in circumstances where this cannot be reasonably resisted.",
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19418",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not cooperate with any requests for information unless we are ordered by a court of competent jurisdiction.",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "The service will resist legal requests for your information where reasonably possible",
+                "href": "https://edit.tosdr.org/cases/305"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19424",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not give/transfer any personal data to any 3rd parties unless required by law.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:15:28",
+            "point_link": "https://edit.tosdr.org/points/19428",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>We do not give your personal info to any third parties.",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "No third-party analytics or tracking platforms are used",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/19943",
+            "approval_status": "APPROVED",
+            "clause_text": "Note that we don't use any 3rd party website statistics tools like Google Analytics or similar.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "This service only uses temporary session cookies",
+            "rating": "good",
+            "description": "Temporary session cookies are cookies that are deleted when you close your browser instead of remaining there until they are manually deleted (or expire). These cookies are only used for the purposes of the service and therefore disappear when it's no longer used.",
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19427",
+            "approval_status": "APPROVED",
+            "clause_text": "cookies are used on our website for functionality purposes, such as being able to login to Client Area, placing orders and to record affiliate sign-ups.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "Only temporary session cookies are used",
+                "href": "https://edit.tosdr.org/cases/125"
+            }
+        },
+        {
+            "title": "This service offers an anonymous payment method",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19419",
+            "approval_status": "APPROVED",
+            "clause_text": "Bitcoin refunds are made in Bitcoin, not the USD/EUR/GBP/other currency equivalent.",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "An anonymous payment method is offered",
+                "href": "https://edit.tosdr.org/cases/405"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19422",
+            "approval_status": "APPROVED",
+            "clause_text": "We make use of several security measures to safeguard the data of our users, such as and not limited to: full disk encryption, forced TLS (HTTPS) for all website access, remote access to servers permited only to a very limited number of employees.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19416",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right to suspend or terminate the privileges of users who commit violations of our policies and service agreements",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19423",
+            "approval_status": "APPROVED",
+            "clause_text": "Latest policy update: 25/05/2018",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service has a no refund policy with some exceptions",
+            "rating": "neutral",
+            "description": "Payments can be refunded if some requirements are fulfilled.",
+            "last_updated": "2023-07-11 10:16:01",
+            "point_link": "https://edit.tosdr.org/points/19944",
+            "approval_status": "APPROVED",
+            "clause_text": "REFUNDS <p> We offer a 7-days money back guarantee.\nIf you are not satisfied with our VPN service or you can't use our service for technical reasons, notify us within the first 7 days after your account activation/last payment, and you will be given a 100% refund of the paid amount.\n<br>If a refund is due, you will be notified by e-mail.\nThe refund process can take up to 15 days (usually less than a day) after cancellation of your account to receive your refund depending on payment form used.\nIf you have not received your refund after 15 days, please inform us.\n<br> We do not refund orders from users suspended for breaching our policies.\n<br> No refunds (full or partial) are provided after the 7 days since last payment for any reasons.\n<br> No refunds are provided for the reason of potentially changing a discount/voucher code.\n<br> Refund requests must be based on valid reasons.\nWe do not refund orders for vague reasons like \"it doesn't work\" without providing us details and letting us help.\nFor example, if the customer doesn't use the correct VPN account credentials, first we need to make sure that the credentials are correct.\n<br> Issuing a 2nd refund for any reason is not possible",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "This service has a no refund policy with some exceptions",
+                "href": "https://edit.tosdr.org/cases/398"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19415",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Send SPAM messages (both e-mail spam, bulk mail and web spam)</li>",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19420",
+            "approval_status": "APPROVED",
+            "clause_text": "Therefore, our VPN Service is provided \"as is\" without any guarantees, conditions or warranties as to its quality or suitability for any particular purpose",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19414",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Illegal or unauthorized access to other computers or networks (hacking activities)</li>\n<li>Scan ports or networks</li>\n<li>Distribute Internet viruses, worms, trojans, malware, rootkits or other destructive activities</li>\n<li>Launch DoS/DDoS attacks, attract DDoS against our VPN servers</li>\n<li>Participate in fraud and phishing activities</li>\n<li>Transmit child pornography materials</li>\n<li>Transmit any copyrighted, trademark, or patented content</li>\n<li>Promote or provide instructional information about terrorism or other illegal activities",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Romania",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:15:26",
+            "point_link": "https://edit.tosdr.org/points/19421",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms will be governed by and construed in accordance with the laws of Romania, without giving effect to any principles of conflicts of laws.</p>\n<",
+            "point_source": "https://vpn.ac/tos",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:27",
+            "point_link": "https://edit.tosdr.org/points/19425",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>IP addresses are collected within service connection logs for the following purposes: service functionality, troubleshooting and security.\nVPN service connection logs include IP addresses, start and end time of VPN connections, amount of data transfered.",
+            "point_source": "https://vpn.ac/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,473 @@
+{
+    "meta_data": {
+        "title": "Line Corporation - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "In some countries, your identity is used in ads that are shown to other users",
+            "rating": "blocker",
+            "description": "Ads shown to other users may include a reference to you as an implied endorsement.\nMight give away information about your own personal lifestyle to strangers.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23692",
+            "approval_status": "APPROVED",
+            "clause_text": "Applies to: Japan, Taiwan, Thailand, Indonesia",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your identity is used in ads that are shown to other users",
+                "href": "https://edit.tosdr.org/cases/327"
+            }
+        },
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:20:22",
+            "point_link": "https://edit.tosdr.org/points/23683",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>In principle, we will not use private posts, as such messages exchanged between users, for any purpose other than distributing such posts.\nHowever, in certain countries or regions (*1) for specific services, we may use a part of such information upon obtaining your additional consent for the provision and maintenance of services, development and improvement of services, prevention of unauthorized use, and provision of optimized contents including ads.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "In some countries, sensitive data is collected and shared to target advertising",
+            "rating": "blocker",
+            "description": "Sensitive data refers to information requiring special protection, such as health data, political and religious beliefs, ethnic origins, sexual life and financial information. The service collects and shares this data with third parties for advertising or marketing.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23682",
+            "approval_status": "APPROVED",
+            "clause_text": "Applies to Japan, Taiwan, Thailand, Indonesia.\nPersonal messages can (and often does) include sensitive information.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Sensitive data is collected and shared to target advertising",
+                "href": "https://edit.tosdr.org/cases/487"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 06:18:17",
+            "point_link": "https://edit.tosdr.org/points/22182",
+            "approval_status": "APPROVED",
+            "clause_text": "Users must register true, accurate and complete information, and must revise the same to keep such information up-to-date at all times.",
+            "point_source": "https://terms.line.me/line_terms?lang=en",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "In some countries, this service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:20:27",
+            "point_link": "https://edit.tosdr.org/points/23684",
+            "approval_status": "APPROVED",
+            "clause_text": "Applies to: Japan, Taiwan, Thailand, Indonesia",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not essential to its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23700",
+            "approval_status": "APPROVED",
+            "clause_text": "When our business partner is equipped with an additional service such as the LINE App login function, your Internal Identifier, profile information, email address or phone number may be shared with the business partner once you use such additional service.\nIn the foregoing case, we will ask for your permission regarding the provision of Personal Data.<br>",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:20:27",
+            "point_link": "https://edit.tosdr.org/points/23681",
+            "approval_status": "APPROVED",
+            "clause_text": "Including all metadata.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites and apps",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 06:20:27",
+            "point_link": "https://edit.tosdr.org/points/23678",
+            "approval_status": "APPROVED",
+            "clause_text": "Information such as the access history (including date and time of access, URL, etc.) of the website that you accessed from your browser.<br>For example, if our business partner has introduced our tracking service to display ads on our Services only to users who visited a specific page of a website operated by that business partner, we will collect the access history of that business partner’s website, and use such information for the optimal ad distribution on our Services.\nIn order to perform the foregoing optimal ad distribution, we may use cookies and associate your access history with the ad identifier or Internal Identifier.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "Extra data may be collected about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 06:20:22",
+            "point_link": "https://edit.tosdr.org/points/23679",
+            "approval_status": "APPROVED",
+            "clause_text": "If you choose to participate in surveys or promotional events, we may ask you to provide information such as your name, address, phone number, email address, gender, and date of birth in order to verify your identity, enable you to participate in a drawing, and to deliver any prizes you may win.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "In some countries, your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:20:27",
+            "point_link": "https://edit.tosdr.org/points/23699",
+            "approval_status": "APPROVED",
+            "clause_text": "Applies to: Japan, Taiwan, Thailand, Indonesia",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23686",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may collect your Personal Data from our business partners.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting and device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23685",
+            "approval_status": "APPROVED",
+            "clause_text": "Also: \"We may use cookies and similar web tracking technologies (web beacon, pixel etc.) \"",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23698",
+            "approval_status": "APPROVED",
+            "clause_text": "If there is any transaction between companies pertaining to our business to which this Policy is applicable, such as acquisition, merger or change of business entity, Personal Data may also be transferred to the successor of the business to the extent permitted under Applicable Laws.</p>",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23702",
+            "approval_status": "APPROVED",
+            "clause_text": "Simply by reading the Privacy Policy it is clear that Japan as weak privacy laws: \"As of January 23, 2019, the European Commission has determined that Japan has secured sufficient protection standards regarding Personal Data\"",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "Your personal information is used for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23689",
+            "approval_status": "APPROVED",
+            "clause_text": "The list of purposes continues following this quote, but I didn't want to highlight all of it.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23705",
+            "approval_status": "APPROVED",
+            "clause_text": "We may continue to retain Personal Data in a format in which individuals cannot be identified after the lapse of the storage period prescribed pursuant to Applicable Laws and our internal rules.</p>",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23693",
+            "approval_status": "APPROVED",
+            "clause_text": "The recipients of Personal Data that we provide include third parties such as our subcontractors, subsidiaries, and affiliates located in countries or regions other than where you are residing",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your personal data is used for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23688",
+            "approval_status": "APPROVED",
+            "clause_text": "We will use Personal Data for the following purposes:<br>● Provision and maintenance of services;<br>● Development and improvement of services and contents;<br>● Prevention of unauthorized use such as unauthorized access.\nand/or<br>● Provision of contents optimized for you.</p>\n<p>We use Personal Data to provide our Services to users, for utilization in research and development to provide safer and better services, and to provide services that are strongly linked to users, including ads.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your provided identifiable information is actively checked by the service",
+            "rating": "bad",
+            "description": "The service checks if the required identifiable information you've provided is correct, and may do so on a regular basis. The check measures could be analyzing your browser information and/or providing the identifiable information to a third-party or the authority, thus compromising your anonymity.",
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23690",
+            "approval_status": "APPROVED",
+            "clause_text": "To verify your identity, through comparison with your registered information, when you log onto the LINE App or succeed your Account in changing your device;<br>",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Your provided identifiable information is actively checked by the service",
+                "href": "https://edit.tosdr.org/cases/492"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:15:32",
+            "point_link": "https://edit.tosdr.org/points/19520",
+            "approval_status": "APPROVED",
+            "clause_text": "Of the many LINE data centers located around the world,",
+            "point_source": "https://linecorp.com/en/security/article/113",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23708",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to improve our Services, we use Google Analytics to measure our Services such as our website.\nGoogle may set cookies or read existing cookies to collect data.\nAt such time, information such as the URL of the page that you accessed and IP address will be automatically sent to Google.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:27",
+            "point_link": "https://edit.tosdr.org/points/23704",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent permitted under Applicable Laws, regarding your Personal Data that we process, you have the right to access, the right to rectification, the right to erasure",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:20:21",
+            "point_link": "https://edit.tosdr.org/points/23707",
+            "approval_status": "APPROVED",
+            "clause_text": "you also have the right to object to the processing of your Personal Data that we process in certain cases.<br>",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23706",
+            "approval_status": "APPROVED",
+            "clause_text": "the right to data portability,",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:20:24",
+            "point_link": "https://edit.tosdr.org/points/23697",
+            "approval_status": "APPROVED",
+            "clause_text": "The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:20:23",
+            "point_link": "https://edit.tosdr.org/points/23701",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>For example, we are taking the following measures.</p>\n<p>● Provision of encryption feature of messages<br>● Strict access control based on a need-to-know basis<br>● 24/7 security monitoring<br>● External authentication for objectively evaluating our security measures<br>● R&amp;D of new security technologies</p>\n<p>Furthermore, we will never provide any means for fraudulently accessing Personal Data to a third party.<br>For details regarding our security measures, please also read “Security &amp.\nPrivacy”",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:15:32",
+            "point_link": "https://edit.tosdr.org/points/19517",
+            "approval_status": "APPROVED",
+            "clause_text": "4.3.Any User who has registered for the Services may delete such User’s account and cancel the Services at any time",
+            "point_source": "https://terms.line.me/line_terms?lang=en",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You should revisit the privacy policy periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:20:26",
+            "point_link": "https://edit.tosdr.org/points/23709",
+            "approval_status": "APPROVED",
+            "clause_text": "We may modify this Policy.\nThe latest version of the Policy will always be posted on this site, and we encourage you to review the contents of the latest version of the Policy carefully.<br>When we make any material changes to this Policy, we will notify you through reasonable means.</p>",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:15:32",
+            "point_link": "https://edit.tosdr.org/points/19519",
+            "approval_status": "APPROVED",
+            "clause_text": "6.3.LINE reserves the right to modify, at LINE's discretion, all or part of the Services as LINE determines necessary anytime without any prior notice to Users.",
+            "point_source": "https://terms.line.me/line_terms?lang=en",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:15:32",
+            "point_link": "https://edit.tosdr.org/points/19516",
+            "approval_status": "APPROVED",
+            "clause_text": "4.1.When using the Services, Users may need to set up an account by registering certain information.",
+            "point_source": "https://terms.line.me/line_terms?lang=en",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:15:32",
+            "point_link": "https://edit.tosdr.org/points/19518",
+            "approval_status": "APPROVED",
+            "clause_text": "4.4.LINE reserves the right to delete any account that has been inactive for a period of one (1) year or more since its last activation, without any prior notice to the applicable",
+            "point_source": "https://terms.line.me/line_terms?lang=en",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:20:25",
+            "point_link": "https://edit.tosdr.org/points/23695",
+            "approval_status": "APPROVED",
+            "clause_text": "We may subcontract certain services required for providing our Services (e.g.: building and operation of infrastructure, settlement, shipping, customer support, etc.) to a third party.",
+            "point_source": "https://line.me/en/terms/policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:15:33",
+            "point_link": "https://edit.tosdr.org/points/19515",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>LINE may modify these Terms and Conditions when LINE deems it to be necessary, within the scope of the purposes of the Services.\nIn such case, LINE will indicate the contents of the modified version of these Terms and Conditions, as well as the effective date of the modification, on the Services or on LINE’s website, or will publicize the same to Users by notifying Users in the manner prescribed by LINE.The modified version of these Terms and Conditions shall become effective as of the effective date thereof.<br>",
+            "point_source": "https://terms.line.me/line_terms?lang=en",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

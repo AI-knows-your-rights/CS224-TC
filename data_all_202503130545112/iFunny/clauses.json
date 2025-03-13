@@ -1,0 +1,1131 @@
+{
+    "meta_data": {
+        "title": "iFunny - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15543",
+            "approval_status": "APPROVED",
+            "clause_text": "We may store and process your private communications and data related to them to scan for malicious content, to detect spam or prohibited images, to review content for violations of our terms of use agreement, or to respond to legal process or law enforcement inquiries.</li>",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "You waive your moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15501",
+            "approval_status": "APPROVED",
+            "clause_text": "In submitting User Engagement to the Services, you agree to waive all moral rights in or to your User Engagement across the world, whether you have or have not asserted moral rights.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:12:30",
+            "point_link": "https://edit.tosdr.org/points/15480",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny reserves the right to remove any Content and/or User Engagement from the Services for any reason, without prior notice.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15505",
+            "approval_status": "APPROVED",
+            "clause_text": "Content and/or User Engagement removed from the Services may continue to be stored by iFunny, including, without limitation, in order to comply with certain legal obligations, but may not be retrievable without a valid court order.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15544",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use your sensitive personal information, such as your precise geolocation or the contents of your messages or text messages, to communicate with you, to connect you with friends or other users, to tailor our services to your geographic location, to respond to law enforcement requests, or to provide you with content that is relevant to your geographic location.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service can share your personal information with third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:12:40",
+            "point_link": "https://edit.tosdr.org/points/15554",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data is disclosed to advertising third parties, not necessarily involved in the operation of iFunny.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:12:28",
+            "point_link": "https://edit.tosdr.org/points/15462",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny reserves the right to amend this Agreement at any time and without notice, and it is your responsibility to review this Agreement for any changes.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:12:37",
+            "point_link": "https://edit.tosdr.org/points/15547",
+            "approval_status": "APPROVED",
+            "clause_text": "We may collect your IP address, your application bundle ID, your advertising or creative ID, your iFunny user ID, your device IDs, your geographical location, your phone numbers, pages visited, referring web page, mobile phone model, search terms, cookie data, Google Advertising IDs, and Apple Advertising IDs.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:12:40",
+            "point_link": "https://edit.tosdr.org/points/15582",
+            "approval_status": "APPROVED",
+            "clause_text": "or for the purposes of satisfying any legal, accounting, or reporting requirements.</p>",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:34:29",
+            "point_link": "https://edit.tosdr.org/points/15481",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny may terminate a User's access to the Services at any time, for any reason.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service may sell your data unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 10:12:30",
+            "point_link": "https://edit.tosdr.org/points/15479",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also share or sell your data with certain third parties to aid us in operating the iFunny website or mobile applications.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "This service can block or censor user communications",
+            "rating": "bad",
+            "description": "The service reserves the right, for any or no reason, to refuse to post or reject user communications.",
+            "last_updated": "2023-07-11 10:12:33",
+            "point_link": "https://edit.tosdr.org/points/15519",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny may, but has no obligation to, remove, edit, block, and/or monitor User Engagement or accounts containing User Engagement that iFunny determines in its sole discretion violates this Agreement.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "User-generated content can be blocked or censored for any reason",
+                "href": "https://edit.tosdr.org/cases/379"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15497",
+            "approval_status": "APPROVED",
+            "clause_text": "After a modification, replacement, or amendment of the terms of this Agreement, your continued use of the Services constitutes your agreement to said modification, replacement, or amendment.</p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:12:40",
+            "point_link": "https://edit.tosdr.org/points/15555",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also share your personal data with government or law enforcement agencies when we are required to report our data processing activities",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:12:39",
+            "point_link": "https://edit.tosdr.org/points/15557",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Finally, we may share your personal data to a third party if we sell, transfer, or merge any part of our business or assets.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:12:35",
+            "point_link": "https://edit.tosdr.org/points/15535",
+            "approval_status": "APPROVED",
+            "clause_text": "You and iFunny agree that any dispute, claim, or controversy arising out of or in relation to this Agreement or the applicability, breach, termination, validity, enforcement, or interpretation thereof, or to the purchase of or use of In-App Purchases purchased through the Services, will be settled by binding individual arbitration.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 06:35:13",
+            "point_link": "https://edit.tosdr.org/points/15546",
+            "approval_status": "APPROVED",
+            "clause_text": "referring web page",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:35:13",
+            "point_link": "https://edit.tosdr.org/points/15550",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also, from time to time, receive data from third parties including analytics providers or advertising networks such as Google, Facebook, or Apple.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15536",
+            "approval_status": "APPROVED",
+            "clause_text": "You and iFunny acknowledge and agree that each are waiving the right to a trial by jury as to all arbitrable disputes.</p>\n<p>You and iFunny acknowledge and agree that, to the fullest extent permitted under the law, each are waiving the right to participate as a plaintiff or class member in any class action lawsuit, class arbitration, or private attorney general action.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15500",
+            "approval_status": "APPROVED",
+            "clause_text": "irrevocable, worldwide, and perpetual license",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:12:28",
+            "point_link": "https://edit.tosdr.org/points/15466",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AND IFUNNY AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE IFUNNY SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.\nOTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15529",
+            "approval_status": "APPROVED",
+            "clause_text": "(vi) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15545",
+            "approval_status": "APPROVED",
+            "clause_text": "We may collect technical data about your use of the iFunny website or mobile applications, such as your IP address, your device IDs, your IP address, the mobile application’s bundle ID, the ad or creative ID,",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:12:38",
+            "point_link": "https://edit.tosdr.org/points/15551",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may send you marketing communications if you have asked us for information concerning our services or if you have agreed to, and have not opted out from, receiving marketing communications.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service receives your percise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:12:33",
+            "point_link": "https://edit.tosdr.org/points/15521",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny may provide you with the ability to share your geographical location with iFunny and other users of the Services when using the Services.\nYou may also accept or reject any requests from users of the Services to obtain your geographical location through the Services.\nIf you share your geographical location with your subscribers, you understand and agree that your geographical location may appear on a map and that subscribers to your iFunny account may be able to determine your exact, physical location.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:12:27",
+            "point_link": "https://edit.tosdr.org/points/15464",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use your data to provide advertisements to you, to determine the relevance of advertisements, to measure the effectiveness of advertisements, to detect fraudulent advertisements or impressions, and to help make those advertisements more relevant to your preferences.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:12:38",
+            "point_link": "https://edit.tosdr.org/points/15553",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we may share your personal data with third parties, such as analytics providers, to utilize their software tools and measure the effectiveness of our advertisements.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:38",
+            "point_link": "https://edit.tosdr.org/points/15509",
+            "approval_status": "APPROVED",
+            "clause_text": "Although iFunny will not be liable for any losses caused by any unauthorized use of your account, you may be liable for the losses of iFunny or others due to such unauthorized use.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:12:35",
+            "point_link": "https://edit.tosdr.org/points/15515",
+            "approval_status": "APPROVED",
+            "clause_text": "You must not attempt to restrict another User from using or enjoying the Services and you must not encourage or facilitate violations of this Agreement or any other iFunny terms.</p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:12:39",
+            "point_link": "https://edit.tosdr.org/points/15560",
+            "approval_status": "APPROVED",
+            "clause_text": "We may transfer your personal data to countries outside of the European Union, which may not offer the same level of protection.\nMany of our third-party service providers are located within the United States and their processing of personal data will involve a transfer of data outside of the European Union.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to $100",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15531",
+            "approval_status": "APPROVED",
+            "clause_text": "THE MAXIMUM TOTAL LIABILITY OF THE IFUNNY PARTIES TO YOU FOR ANY CLAIM UNDER THIS AGREEMENT, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS $100.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:12:37",
+            "point_link": "https://edit.tosdr.org/points/15549",
+            "approval_status": "APPROVED",
+            "clause_text": "We may use persistent cookies when we utilize Google Analytics or other analytics providers, which are intended to track the origin and behavior of traffic to the iFunny website and mobile applications.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 10:09:22",
+            "point_link": "https://edit.tosdr.org/points/15563",
+            "approval_status": "APPROVED",
+            "clause_text": "Whenever personal data is transferred outside of the European Union, we do our best to ensure a similar degree of security by transferring your personal data to countries that the European Commission has approved as providing an adequate level of protection",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15542",
+            "approval_status": "APPROVED",
+            "clause_text": "You don’t have to create an account to use many of the iFunny website and mobile application features, such as viewing posts",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:50",
+            "point_link": "https://edit.tosdr.org/points/15556",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We may also share your personal data with government or law enforcement agencies when we are required to report our data processing activities, upon receipt of an exigent circumstances request, upon receipt of a duly authorized subpoena or court order, or where doing so is necessary to protect our users, our employees, our contractors, third parties, or property.\"",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:12:42",
+            "point_link": "https://edit.tosdr.org/points/15581",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We will only retain your personal data or sensitive personal data for so long as necessary to fulfill the purposes for which it is collected under this Privacy Policy",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:12:33",
+            "point_link": "https://edit.tosdr.org/points/15520",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny will also terminate a User's access to the Services, if they are determined to be a repeat infringer.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "EU citizens can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:12:39",
+            "point_link": "https://edit.tosdr.org/points/15559",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have registered an account with us and are a citizen of the European Union, we provide you with account settings that let you modify, correct, or delete the personal data that you have provided to us that is associated with your account.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Promises will be kept after a merger or acquisition",
+            "rating": "good",
+            "description": "If the service gets acquired or needs to transfer personal data after a merger, bankruptcy, reorganisation or sale of the services, the data will still be processed in a manner that honours the promises made in the agreements.",
+            "last_updated": "2023-07-11 10:12:39",
+            "point_link": "https://edit.tosdr.org/points/15558",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Finally, we may share your personal data to a third party if we sell, transfer, or merge any part of our business or assets.\nIn the event that we share your personal data in the sale, transfer, or merger of any part of our business or assets, this Privacy Policy will continue to apply to your personal data when transferred to the new entity.</p>Management, Protection, and Retention of Your Personal Data",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Promises will be kept after a merger or acquisition",
+                "href": "https://edit.tosdr.org/cases/321"
+            }
+        },
+        {
+            "title": "The services may notify users if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 10:12:41",
+            "point_link": "https://edit.tosdr.org/points/15579",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny promises to notify, however, only if they're legally required to do so.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15541",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have any questions about our privacy policy, how we collect data from you, how we use your data, or how you can control your privacy settings, you can contact us at any time at support@ifunny.co",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "You can generally opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:12:43",
+            "point_link": "https://edit.tosdr.org/points/15585",
+            "approval_status": "APPROVED",
+            "clause_text": "You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15539",
+            "approval_status": "APPROVED",
+            "clause_text": "If you prefer to protect your privacy while using the iFunny website and mobile applications, we recommend that you use the service under a pseudonym.</p>",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:31",
+            "point_link": "https://edit.tosdr.org/points/15498",
+            "approval_status": "APPROVED",
+            "clause_text": "to use your User Engagement for the customary and intended purposes of the Services.\nThese purposes may include providing you or third parties with the Services, backing up or archiving the Services, and selling or transferring the Services to a third party.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/15499",
+            "approval_status": "APPROVED",
+            "clause_text": "\"User Engagement\" collectively refers to User Submissions and User Comments.</p>3.&nbsp;The Services<p>3.1 iFunny may provide Users with the ability to upload or transmit content to or through the Services, including, but not limited to, User Engagement.\nWhen you submit User Engagement to the Services, you grant iFunny a non-exclusive,",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:12:37",
+            "point_link": "https://edit.tosdr.org/points/15552",
+            "approval_status": "APPROVED",
+            "clause_text": "You may ask us to stop sending you marketing messages at any time by logging into your account to adjust your marketing preferences or by following the opt-out link in any marketing message sent to you.\nIn the event we sent you marketing text messages at your request, you may opt-out of receiving marketing text messages by texting STOP in response to any text message received from iFunny.</p>",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/15532",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, indemnify and hold harmless the iFunny Parties from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including, but not limited to, attorney's fees) arising out of or in any way connected with: (i) your User Engagement or your use of and access to the iFunny Services.\n(ii) your breach or alleged breach of this Agreement.\n(iii) your violation or alleged violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right.\n(iv) your violation or alleged violation of any laws, rules, regulations, codes, statutes, ordinances or orders.\n(v) any claim that your User Engagement caused damage to a third party.\nor (vi) any misrepresentation made by you.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15502",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny is not responsible for any User Engagement, third-party content, syndicated content, services, advertisements, and/or links that may be contained on the Services.\nThe Services may contain links to third party websites that are not owned or controlled by iFunny.\niFunny has no control over, and assumes no responsibility for, the content, services, privacy policies, terms of use, or practices of any third-party websites or services.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:09:05",
+            "point_link": "https://edit.tosdr.org/points/15460",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated: 24 March 2020<p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15523",
+            "approval_status": "APPROVED",
+            "clause_text": "All In-App purchases are non-refundable and non-transferrable.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15522",
+            "approval_status": "APPROVED",
+            "clause_text": "If your In-App Purchase is a recurring subscription, you understand and agree that your Store Account will be billed continuously in the agreed amount until you cancel your subscription consistent with the terms applicable to your Store Account.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15530",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL THE IFUNNY PARTIES BE LIABLE TO YOU FOR ANY LOSS OR DAMAGES OF ANY KIND (INCLUDING, WITHOUT LIMITATION, FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER) THAT ARE DIRECTLY OR INDIRECTLY RELATED TO ANY: (i) THE SERVICES.\n(ii) THE CONTENT.\n(iii) IN-APP PURCHASES.\n(iv) USER ENGAGEMENT.\n(v) YOUR USE OF, INABILITY TO USE, OR THE PERFORMANCE OF THE IFUNNY SERVICES.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can intervene in user disputes",
+            "rating": "neutral",
+            "description": "If you have a dispute with another user on this service, they can review the issue and intervene. However, they don't have an obligation to do so.",
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15504",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny reserves the right, but has no obligation, to monitor or become involved in disputes between you and other Users.</p>\n<p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service can intervene in user disputes",
+                "href": "https://edit.tosdr.org/cases/276"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:35:03",
+            "point_link": "https://edit.tosdr.org/points/15506",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny will not be liable to you for any modification, suspension, or discontinuation of the iFunny Services or the loss of any Content or User Engagement.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:33",
+            "point_link": "https://edit.tosdr.org/points/15518",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny does not endorse any User Engagement or any opinion, recommendation, or advice expressed therein, and iFunny expressly disclaims any and all liability in connection with User Engagement.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:37",
+            "point_link": "https://edit.tosdr.org/points/15533",
+            "approval_status": "APPROVED",
+            "clause_text": "This defense and indemnification obligation will survive this Agreement and your use of iFunny Services.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:40",
+            "point_link": "https://edit.tosdr.org/points/15578",
+            "approval_status": "APPROVED",
+            "clause_text": "We allow access to your personal data only by employees and service providers who have a need to know or access your personal data on our instructions.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15527",
+            "approval_status": "APPROVED",
+            "clause_text": "IFUNNY AND ITS SUBSIDIARIES, AFFILIATES, \"SISTER ENTITIES\", OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS (COLLECTIVELY, the \"IFUNNY PARTIES\") MAKE NO WARRANTIES OR REPRESENTATIONS THAT: (i) THE SERVICES WILL MEET YOUR REQUIREMENTS.\n(ii) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:12:29",
+            "point_link": "https://edit.tosdr.org/points/15514",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree not to use the Services for any commercial purpose or use, either direct or indirect, without the prior written authorization of iFunny.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15513",
+            "approval_status": "APPROVED",
+            "clause_text": "You must not post spam.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:12:35",
+            "point_link": "https://edit.tosdr.org/points/15510",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You must not post abusive, obscene, threatening, harassing, defamatory, libelous, offensive, violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic, or sexually suggestive User Engagement via the Services\"",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15525",
+            "approval_status": "APPROVED",
+            "clause_text": "YOUR USE OF THE SERVICES IS AT YOUR OWN RISK.\nTHE SERVICES, INCLUDING, WITHOUT LIMITATION, THE WEBSITES, CONTENT, IN-APP PURCHASES, USER ENGAGEMENT, ANY PRODUCTS OR SERVICES AVAILABLE ON THE SERVICES AND ALL THE MATERIALS, INFORMATION, SOFTWARE, AND FACILITIES, AND OTHER CONTENT THEREIN, IS PROVIDED ON AN \"AS IS\", \"AS AVAILABLE,\" AND \"WITH ALL FAULTS\" BASIS.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15512",
+            "approval_status": "APPROVED",
+            "clause_text": "or User Engagement that encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15503",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny prohibits crawling, scraping, caching or otherwise accessing any Content or User Engagement on the iFunny Service via automated means, except as may be the result of standard search engine protocols or technologies used by a search engine with iFunny's express consent.</p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:33",
+            "point_link": "https://edit.tosdr.org/points/15516",
+            "approval_status": "APPROVED",
+            "clause_text": "If iFunny suspects that you have violated any provision of this Agreement, iFunny may also seek any other available legal remedy.\nYour rights under this Agreement will terminate automatically if you breach any part of this Agreement.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:12:29",
+            "point_link": "https://edit.tosdr.org/points/15463",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Services are only available to individuals either above the age of majority in your nation, state, province, territory, or city or the age of eighteen (18) and older, whichever is greater.\nIndividuals under the age of 18 are expressly prohibited from creating a user account or otherwise using the Services.\nIf you are located in the European Union, you warrant and agree that you are of the age a majority under the laws of your country and that you are authorized by law or parental consent to create an account or otherwise use the Services.\nIf you are under the age of 13, you are expressly prohibited from using the Services.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:09:51",
+            "point_link": "https://edit.tosdr.org/points/15511",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You must not post abusive, obscene, threatening, harassing, defamatory, libelous, offensive, violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic, or sexually suggestive User Engagement via the Services\"",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15517",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny does not permit copyright infringing activities and infringement of intellectual property rights on its Services, and iFunny will remove all Content and User Engagement if properly notified that such Content or User Engagement infringes on another's intellectual property rights.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15538",
+            "approval_status": "APPROVED",
+            "clause_text": "No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and iFunny's failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.</p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:12:34",
+            "point_link": "https://edit.tosdr.org/points/15528",
+            "approval_status": "APPROVED",
+            "clause_text": "(iv) THE RESULTS THAT MAY BE OBTAINED FROM YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:09:20",
+            "point_link": "https://edit.tosdr.org/points/15537",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of this Agreement is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect.</p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:12:32",
+            "point_link": "https://edit.tosdr.org/points/15507",
+            "approval_status": "APPROVED",
+            "clause_text": "iFunny provides you with a limited, non-exclusive, non-sublicensable, non-assignable, and revocable license to use the Services for their customary and intended purposes.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:12:27",
+            "point_link": "https://edit.tosdr.org/points/15465",
+            "approval_status": "APPROVED",
+            "clause_text": "You must not use the Services for any illegal or unauthorized purpose.\nYou agree to comply with all laws, rules and regulations (e.g., federal, state, local and provincial) applicable to your use of the Services and your User Engagement, including, but not limited to, copyright laws and export laws.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:12:35",
+            "point_link": "https://edit.tosdr.org/points/15524",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you are a copyright owner or an agent thereof and believe that any User Engagement or other content infringes upon your copyrights, you may submit a notification pursuant by providing iFunny's Copyright Agent with the following information in writing:</p>",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:12:37",
+            "point_link": "https://edit.tosdr.org/points/15548",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may also collect data from you through the use of cookies and other technologies.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:12:39",
+            "point_link": "https://edit.tosdr.org/points/15562",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not control these third-party links and you are advised their respective privacy policies.</p>",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15540",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>When you use the iFunny website and mobile applications, even if you are just browsing, we may collect some basic data from you such as the type of mobile device that you are using, your geographical location, and your IP address.",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:12:30",
+            "point_link": "https://edit.tosdr.org/points/15482",
+            "approval_status": "APPROVED",
+            "clause_text": "Our websites are not currently set up to respond to browser do-not-track signals",
+            "point_source": "https://ifunny.co/privacy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Nicosia, Cyprus",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:12:36",
+            "point_link": "https://edit.tosdr.org/points/15534",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You agree any and all claims arising out of or related to your use of the Website shall be exclusively brought in Nicosia, Cyprus.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:12:33",
+            "point_link": "https://edit.tosdr.org/points/15526",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, IFUNNY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.",
+            "point_source": "https://ifunny.co/app/terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

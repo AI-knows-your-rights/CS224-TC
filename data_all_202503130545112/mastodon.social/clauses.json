@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "mastodon.social - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:14:47",
+            "point_link": "https://edit.tosdr.org/points/18854",
+            "approval_status": "APPROVED",
+            "clause_text": "Please keep in mind that the operators of the server and any receiving server may view such messages</em>, and that recipients may screenshot, copy or otherwise re-share them.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 04:49:05",
+            "point_link": "https://edit.tosdr.org/points/21347",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If we decide to change our privacy policy, we will post those changes on this page.</p>",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:04:30",
+            "point_link": "https://edit.tosdr.org/points/8124",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p>",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21346",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.</p>",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:49:05",
+            "point_link": "https://edit.tosdr.org/points/21345",
+            "approval_status": "APPROVED",
+            "clause_text": "This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "You shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 04:49:02",
+            "point_link": "https://edit.tosdr.org/points/21353",
+            "approval_status": "APPROVED",
+            "clause_text": "or to impede other users from utilizing the service",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/8362",
+            "approval_status": "APPROVED",
+            "clause_text": "We will make a good faith effort to:</p>\n<ul>\n<li>Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.</",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 04:49:06",
+            "point_link": "https://edit.tosdr.org/points/21349",
+            "approval_status": "APPROVED",
+            "clause_text": "Source code available at https://github.com/tootsuite/mastodon",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:49:05",
+            "point_link": "https://edit.tosdr.org/points/21348",
+            "approval_status": "APPROVED",
+            "clause_text": "What information do we collect?",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",
+            "rating": "good",
+            "description": "If a service expresses a worldview antithetical to the user’s, that is a good signal that they should not use the service. Or conversely, if the service expresses an uncommonly-held belief that the user agrees with and thinks is relevant to the service-user relationship and/or important, they may wish to use that to choose between otherwise comparable services.",
+            "last_updated": "2023-07-11 04:49:01",
+            "point_link": "https://edit.tosdr.org/points/21352",
+            "approval_status": "APPROVED",
+            "clause_text": "No racism, sexism, homophobia, transphobia, xenophobia, casteism<br>",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "This service offers a symbolic but nonbinding statement about a matter of opinion, ethics, society, or politics",
+                "href": "https://edit.tosdr.org/cases/332"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/8361",
+            "approval_status": "APPROVED",
+            "clause_text": "You may enable two-factor authentication to further secure access to your account.</",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:14:46",
+            "point_link": "https://edit.tosdr.org/points/18853",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:14:46",
+            "point_link": "https://edit.tosdr.org/points/18850",
+            "approval_status": "APPROVED",
+            "clause_text": "If you register on this server, you may be asked to enter a username, an e-mail address and a password.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:35:31",
+            "point_link": "https://edit.tosdr.org/points/8364",
+            "approval_status": "APPROVED",
+            "clause_text": "How do we protect your information? <p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.\nAmong other things, your browser session, as well as the traffic between your applications and the API, are secured with SSL, and your password is hashed using a strong one-way algorithm.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/8365",
+            "approval_status": "APPROVED",
+            "clause_text": "You may irreversibly delete your account at any time.</",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 04:49:05",
+            "point_link": "https://edit.tosdr.org/points/21344",
+            "approval_status": "APPROVED",
+            "clause_text": "Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox)",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:14:08",
+            "point_link": "https://edit.tosdr.org/points/18852",
+            "approval_status": "APPROVED",
+            "clause_text": "It was last updated March 7, 2018.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 04:49:07",
+            "point_link": "https://edit.tosdr.org/points/21350",
+            "approval_status": "APPROVED",
+            "clause_text": "No spam<br>\n<i>\n</i>",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 04:49:02",
+            "point_link": "https://edit.tosdr.org/points/21354",
+            "approval_status": "APPROVED",
+            "clause_text": "Any conduct intended to stalk or harass other users,",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of untagged pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 04:49:08",
+            "point_link": "https://edit.tosdr.org/points/21351",
+            "approval_status": "APPROVED",
+            "clause_text": "Untagged nudity, pornography and sexually explicit content, including artistic depictions",
+            "point_source": "https://mastodon.social/about/more",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:04:45",
+            "point_link": "https://edit.tosdr.org/points/8363",
+            "approval_status": "APPROVED",
+            "clause_text": "Our site, products and services are all directed to people who are at least 16 years old.\nIf you are under the age of 16, per the requirements of the GDPR (General Data Protection Regulation) do not use this site.</",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:51",
+            "point_link": "https://edit.tosdr.org/points/18851",
+            "approval_status": "APPROVED",
+            "clause_text": "When you log in, we record the IP address you log in from, as well as the name of your browser application.",
+            "point_source": "https://mastodon.social/terms",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

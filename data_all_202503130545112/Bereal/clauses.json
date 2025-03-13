@@ -1,0 +1,403 @@
+{
+    "meta_data": {
+        "title": "Bereal - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 06:27:10",
+            "point_link": "https://edit.tosdr.org/points/28614",
+            "approval_status": "APPROVED",
+            "clause_text": "When creating your User Account we will ask you to provide the following information: </p>\n<ul>\n<li>your phone number .\n</li>\n<li>your name or first name;</li>\n<li>your age.\n</li>\n<li>a User name;</li>\n<li>a password.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28641",
+            "approval_status": "APPROVED",
+            "clause_text": "he name, first name, email and postal address of a physical person, his image on a photograph or a video,",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28645",
+            "approval_status": "APPROVED",
+            "clause_text": "If you wish to know more about the Data collected and the purposes of processing you can also read the details below the following table.",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28618",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We reserve the right to suspend or terminate your User Account upon notice from us and without prior notice, for any reason whatsoever",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your content can be licensed to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28628",
+            "approval_status": "APPROVED",
+            "clause_text": "reproduce and share the Content on WhatsApp, Facebook, Twitter, SnapChat and Instagram, and more generally any social network or messaging application that may be interfaced with BeReal.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28631",
+            "approval_status": "APPROVED",
+            "clause_text": "The absence of interruption, errors, security breaches,",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "This service receives your precise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:11:45",
+            "point_link": "https://edit.tosdr.org/points/28640",
+            "approval_status": "APPROVED",
+            "clause_text": "a location data,",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "Your personal information is used for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28629",
+            "approval_status": "APPROVED",
+            "clause_text": "to conduct marketing, communication or commercial promotion activities of BeReal",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:27:11",
+            "point_link": "https://edit.tosdr.org/points/28647",
+            "approval_status": "APPROVED",
+            "clause_text": "With the exception of Content that you have licensed to us in accordance with the Terms of Use, BeReal will not disclose to third parties any information or Personal Data provided by Users.\nThis information and Personal Data is used exclusively by BeReal's internal services and will not be transferred or sold to third parties without your prior express consent.</p>\n<p>b) Communication of Personal Data for external processing purposes</p>\n<p>Your information and Personal Data may, where appropriate, be transmitted to third party contractors involved in the provision of the Services (technical and hosting providers, sending notifications, publishing and sharing content, user tracking and satisfaction surveys, management of security incidents or fraudulent activity, etc.).",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28648",
+            "approval_status": "APPROVED",
+            "clause_text": "Processing Personal Data as described in the Privacy Policy may involve transferring your Data to one or more other countries, inside or outside the European Economic Area, including the United States.",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28621",
+            "approval_status": "APPROVED",
+            "clause_text": "the information provided must correspond to your own identity and must not be false or erroneous.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28644",
+            "approval_status": "APPROVED",
+            "clause_text": "The processing of your Personal Data is subject to French law, including Law No.\n78-17 of January 6, 1978 relating to computers, files and freedoms, as amended (known as the Data Protection Act) as well as the EU Regulation 2016/679 of April 27, 2016, known as the General Data Protection Regulation (GDPR).</p>",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28632",
+            "approval_status": "APPROVED",
+            "clause_text": "More generally, you acknowledge that the Internet, and any telematic network used for data transmission may involve risks related to the lack of protection of certain data against possible misuse and risks of contamination by viruses.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:27:11",
+            "point_link": "https://edit.tosdr.org/points/28635",
+            "approval_status": "APPROVED",
+            "clause_text": "EU Regulation 2016/679 of April 27, 2016, known as the General Data Protection Regulation (GDPR)",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:27:10",
+            "point_link": "https://edit.tosdr.org/points/28636",
+            "approval_status": "APPROVED",
+            "clause_text": "California Consumer Privacy Act (CCPA)",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:27:11",
+            "point_link": "https://edit.tosdr.org/points/28642",
+            "approval_status": "APPROVED",
+            "clause_text": "In case of disagreement with one or more of its conditions, the User is free not to use or no longer to use our services (especially in case of modification of the terms of the Privacy Policy).",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28627",
+            "approval_status": "APPROVED",
+            "clause_text": "Users a free, non-exclusive, 30 (thirty) year, worldwide license in any medium",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28624",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at any time and without notice, to remove or temporarily or permanently suspend access to any Content that is clearly illegal or does not comply with these Terms.</p>",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28646",
+            "approval_status": "APPROVED",
+            "clause_text": "Monitoring User Content, comments, messages and associated metadata for administrative purposes and to verify their compliance with our Terms of Service.",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28620",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to use BeReal you must create a User Account",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28626",
+            "approval_status": "APPROVED",
+            "clause_text": "calling for hatred, terrorism, violence in general or against a group of people in particular",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28619",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>To extract or use in a repeated and systematic way all or part of the visible information of the Application",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28630",
+            "approval_status": "APPROVED",
+            "clause_text": "Application and its Services are provided “as is”.\nConsequently, we do not offer you any guarantee concerning them, and in particular concerning:</p>\n<ul>\n<li>The conformity of our Services to your expectations.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28625",
+            "approval_status": "APPROVED",
+            "clause_text": "report any Content of a sexual and/or child pornographic nature",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:27:29",
+            "point_link": "https://edit.tosdr.org/points/28623",
+            "approval_status": "APPROVED",
+            "clause_text": "Use the BeReal Application in a deceptive, malicious, discriminatory, or otherwise unlawful manner, such as impersonating someone else for personal or commercial purposes.\n</li>\n<li>Harm or attempt to harm another person or group, including, but not limited to, bullying, harassment, promotion of sexual content, violence, hate speech, dissemination of false information.\n</li>\n<li>Use the Services to intentionally, recklessly or negligently upload, transmit, distribute, store or otherwise make available any Content that may infringe upon the intellectual property rights of others, or the privacy, image, dignity or honor of others, including a deceased person.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 06:25:52",
+            "point_link": "https://edit.tosdr.org/points/28622",
+            "approval_status": "APPROVED",
+            "clause_text": "You also agree to keep your User Account password confidential.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:25:53",
+            "point_link": "https://edit.tosdr.org/points/28639",
+            "approval_status": "APPROVED",
+            "clause_text": "an IP address",
+            "point_source": "https://bereal.com/en/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:25:54",
+            "point_link": "https://edit.tosdr.org/points/28637",
+            "approval_status": "APPROVED",
+            "clause_text": "Modification of the present Terms of Use</li>\n</ol>\n<p>BeReal reserves the right to modify its ToU at any time.\nIn this case, BeReal will publish the new versions of the ToU on the pages of the Application and will alert Users by means of a pop-up window that will appear when opening the Application.",
+            "point_source": "https://bereal.com/en/terms",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

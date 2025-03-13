@@ -1,0 +1,53 @@
+{
+    "meta_data": {
+        "title": "K-9 Mail - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:48:19",
+            "point_link": "https://edit.tosdr.org/points/20711",
+            "approval_status": "APPROVED",
+            "clause_text": "K-9 Mail does not automatically collect and send data to the developers of the app or any third party.",
+            "point_source": "https://k9mail.app/privacy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 04:48:19",
+            "point_link": "https://edit.tosdr.org/points/20710",
+            "approval_status": "APPROVED",
+            "clause_text": "K-9 Mail is licensed under the Apache License, Version 2.0.",
+            "point_source": "https://k9mail.app/about",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 04:48:25",
+            "point_link": "https://edit.tosdr.org/points/20709",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>K-9 Mail is an open source email client for Android with many advanced features.",
+            "point_source": "https://k9mail.app/about",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        }
+    ]
+}

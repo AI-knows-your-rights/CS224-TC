@@ -1,0 +1,361 @@
+{
+    "meta_data": {
+        "title": "Stack Overflow - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:04:51",
+            "point_link": "https://edit.tosdr.org/points/8425",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use the Stack Overflow Network, and certain of our Products and Services, we collect location information about you including your IP address, your location, browser information, and how you came to the Stack Overflow Network.",
+            "point_source": "https://stackoverflow.com/legal/privacy-policy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service allows tracking via third-party cookies for purposes including targeted advertising.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:35:37",
+            "point_link": "https://edit.tosdr.org/points/6166",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies to enable advertising with our third-party Partners",
+            "point_source": "https://stackoverflow.com/legal/cookie-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:06:54",
+            "point_link": "https://edit.tosdr.org/points/6171",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Stack Overflow reserves the right to assign our rights and obligations under these Public Network Terms (in whole or in part) without your consent to a corporate affiliate, or in connection with a merger, acquisition, corporate restructure or reorganization, or due to the sale of all or substantially all of our assets.</p>",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:34:00",
+            "point_link": "https://edit.tosdr.org/points/6133",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AGREE THAT WITH RESPECT TO ALL DISPUTES BETWEEN YOU AND STACK OVERFLOW OR ITS AFFILIATES OR ITS OFFICERS, DIRECTORS, OR EMPLOYEES (WHETHER OR NOT SUCH DISPUTE INVOLVES A THIRD PARTY) WITH REGARD TO YOUR RELATIONSHIP WITH US, INCLUDING WITHOUT LIMITATION DISPUTES RELATING TO THESE PUBLIC NETWORK TERMS, YOUR USE OF THE NETWORK OR SERVICES, AND/OR RIGHTS OF PRIVACY AND/OR PUBLICITY, YOU AND STACK OVERFLOW SHALL FIRST CONSULT WITH EACH OTHER TO ATTEMPT TO RESOLVE SUCH DISPUTE IN A MANNER SATISFACTORY TO BOTH PARTIES, AND THAT IF A RESOLUTION IS NOT REACHED WITHIN NINETY (90) DAYS, THEN THE DISPUTE SHALL BE REFERRED TO AND RESOLVED BY BINDING ARBITRATION UNDER JAMS, INC.’S RULES FOR ARBITRATION OF CONSUMER-RELATED DISPUTES AND YOU AND WE HEREBY EXPRESSLY WAIVE TRIAL BY JURY",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:06:55",
+            "point_link": "https://edit.tosdr.org/points/6169",
+            "approval_status": "APPROVED",
+            "clause_text": "We share this information with certain third-parties (e.g., talent recruiters, payment processors, and advertising providers)",
+            "point_source": "https://stackoverflow.com/legal/privacy-policy",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:34:22",
+            "point_link": "https://edit.tosdr.org/points/6134",
+            "approval_status": "APPROVED",
+            "clause_text": "Neither you nor we will participate in a class action or class-wide arbitration for any claims covered by this agreement to arbitrate.\nYOU ARE GIVING UP YOUR RIGHT TO PARTICIPATE AS A CLASS REPRESENTATIVE OR CLASS MEMBER ON ANY CLASS CLAIM YOU MAY HAVE AGAINST US INCLUDING ANY RIGHT TO CLASS ARBITRATION OR ANY CONSOLIDATION OF INDIVIDUAL ARBITRATIONS.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 06:33:59",
+            "point_link": "https://edit.tosdr.org/points/6132",
+            "approval_status": "APPROVED",
+            "clause_text": "Both you and Stack Overflow hereby irrevocably agree to the sole and exclusive personal jurisdiction of the Courts of the State of New York with respect to any action, suit, or proceeding brought by it or against it by the other party in connection with the Network or Services.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:34:49",
+            "point_link": "https://edit.tosdr.org/points/6170",
+            "approval_status": "APPROVED",
+            "clause_text": "Stack Overflow will not disclose your personal information to legal authorities except where such disclosure is by lawful request, including to meet legitimate national security or law enforcement demands (including a subpoena, court order, or other lawful legal demand by a legal authority with lawful jurisdiction).",
+            "point_source": "https://stackoverflow.com/legal/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service retains rights to your content even after you stop using your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account, since you granted them a perpetual or (in some cases) an unlimited license over that content.",
+            "last_updated": "2023-07-11 06:35:38",
+            "point_link": "https://edit.tosdr.org/points/6168",
+            "approval_status": "APPROVED",
+            "clause_text": "any content or information you share publicly is governed by the terms described below in the section titled “Content Permissions, Restrictions, and Creative Commons Licensing,” and you should be aware that once you place content in the public sphere, you willingly give up some rights and control over such content",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "This service retains rights to your content even after you stop using your account",
+                "href": "https://edit.tosdr.org/cases/173"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:19",
+            "point_link": "https://edit.tosdr.org/points/7974",
+            "approval_status": "APPROVED",
+            "clause_text": "If you decide that you do not want cookies to be set on your device by our third-party Partners, you can adjust the settings on your internet browser and choose from the available Cookies setting to best meet your preferences.\nWhile setting options may vary from browser to browser, you can generally choose to reject some or all cookies, or instead to receive a notification when a cookie is being placed on your device.\nFor more information, please refer to the user help information for your browser of choice.",
+            "point_source": "https://stackoverflow.com/legal/cookie-policy",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:04:18",
+            "point_link": "https://edit.tosdr.org/points/7969",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE COLLECT INFORMATION FROM YOU",
+            "point_source": "https://stackoverflow.com/legal/privacy-policy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:04:18",
+            "point_link": "https://edit.tosdr.org/points/7976",
+            "approval_status": "APPROVED",
+            "clause_text": "To prevent bad actors from creating a negative community experience, we have outlined what we believe to be common sense rules for community participation and reserve the right to pause or terminate your account if you engage in disruptive, abusive, or nefarious behavior outside of Stack Overflow’s Acceptable Use Policy, which is hereby incorporated into these Public Network Terms.</li>",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:04:19",
+            "point_link": "https://edit.tosdr.org/points/7968",
+            "approval_status": "APPROVED",
+            "clause_text": "Although the Network provides for anonymous and pseudonymous participation, in some instances in order to use certain Products or Services, we require account registration.",
+            "point_source": "https://stackoverflow.com/legal/privacy-policy",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:04:17",
+            "point_link": "https://edit.tosdr.org/points/7977",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to discontinue use of, or terminate, your account whenever you like, and subject to our Privacy Policy, control the use and sharing of your account information.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:34:16",
+            "point_link": "https://edit.tosdr.org/points/6126",
+            "approval_status": "APPROVED",
+            "clause_text": "You may opt-out of receiving Stack Overflow email marketing materials by using the unsubscribe link in these communications or by changing your Email Settings.",
+            "point_source": "https://stackoverflow.com/legal/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:34:01",
+            "point_link": "https://edit.tosdr.org/points/6131",
+            "approval_status": "APPROVED",
+            "clause_text": "You will indemnify and hold Stack Overflow, its directors, officers, employees, agents, consultant, contractors, partners, vendors and service providers (including, without limitation, hosting and telecommunications providers) harmless, including costs and attorneys’ fees, from any claim or demand made by any third party due to or arising out of your access to the public Network, use of Stack Overflow products or services made available on the public Network, your violation of this Agreement, or your infringement or any third party using your account, of any intellectual property right.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Blocking cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:34:28",
+            "point_link": "https://edit.tosdr.org/points/6167",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that Stack Overflow may not work properly and you may have diminished functionality if you opt-out of certain cookies.",
+            "point_source": "https://stackoverflow.com/legal/cookie-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:03:41",
+            "point_link": "https://edit.tosdr.org/points/6136",
+            "approval_status": "APPROVED",
+            "clause_text": "Last update: May",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service can use your content for all their existing and future services",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:17",
+            "point_link": "https://edit.tosdr.org/points/7970",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that any and all content, including without limitation any and all text, graphics, logos, tools, photographs, images, illustrations, software or source code, audio and video, animations, and product feedback (collectively, “Content”) that you provide to the public Network (collectively, “Subscriber Content”), is perpetually and irrevocably licensed to Stack Overflow on a worldwide, royalty-free, non-exclusive basis pursuant to Creative Commons licensing terms (CC BY-SA",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public",
+            "case": {
+                "text": "This service can use your content for all their existing and future services",
+                "href": "https://edit.tosdr.org/cases/180"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:34:19",
+            "point_link": "https://edit.tosdr.org/points/6129",
+            "approval_status": "APPROVED",
+            "clause_text": "Stack Overflow reserves the right to refuse, suspend or terminate your access to the public Network if it determines, in its sole discretion, that you have in any way violated these Public Network Terms or are otherwise ineligible to access or use the Network or Services.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:34:02",
+            "point_link": "https://edit.tosdr.org/points/4722",
+            "approval_status": "APPROVED",
+            "clause_text": "Any other downloading, copying, or storing of any public Network Content (other than Subscriber Content or content made available via the Stack Overflow API) for other than personal, noncommercial use is expressly prohibited without prior written permission from Stack Overflow or from the copyright holder identified in the copyright notice per the Creative Commons License.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:34:27",
+            "point_link": "https://edit.tosdr.org/points/6128",
+            "approval_status": "APPROVED",
+            "clause_text": "You must be at least 13 years old to access or use the Network or Services, including without limitation to complete a Stack Overflow account registration.\nBy accessing or using the Services or the Network in any manner, you represent and warrant that you are at least 13 years of age.\nIf you are under 13 years old, you may not, under any circumstances or for any reason, access or use the Services or Network in any manner, and may not provide any personal information to or on the Services or Network (including, for example, a name, address, telephone number or email address).</p>\n<p>If you are located within the European Union, you must be at least 16 years old to access or use the Network or Services, including without limitation to complete a Stack Overflow Account Registration.\nBy accessing or using the Services or the Network in any manner, you represent and warrant that you are at least 16 years of age.\nIf you are under 16 years old, you may not, under any circumstances or for any reason, access or use the Services or Network in any manner, and may not provide any personal information to or on the Services or Network (including, for example, a name, address, telephone number or email address).</p>",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:04:51",
+            "point_link": "https://edit.tosdr.org/points/8424",
+            "approval_status": "APPROVED",
+            "clause_text": "Age Eligibility <p>You must be at least 13 years old to access or use the Network or Services, including without limitation to complete a Stack Overflow account registration.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:04:19",
+            "point_link": "https://edit.tosdr.org/points/7971",
+            "approval_status": "APPROVED",
+            "clause_text": "These Public Network Terms will be governed by and construed in accordance with the applicable laws of the State of New York, without giving effect to the principles of that State regarding conflicts of laws.",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:03:32",
+            "point_link": "https://edit.tosdr.org/points/6135",
+            "approval_status": "APPROVED",
+            "clause_text": "Stack Overflow reserves the right, in its sole discretion, to modify or replace these Public Network Terms, as our business evolves over time and to better provide Services and Products to the Stack Overflow community, or to change, suspend, or discontinue the public Network and/or any Services or Products at any time by posting a notice on the public Network or by sending you notice via e-mail or by another appropriate means of electronic communication.</p>",
+            "point_source": "https://stackoverflow.com/legal/terms-of-service/public#",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

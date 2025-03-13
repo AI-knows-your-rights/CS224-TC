@@ -1,0 +1,907 @@
+{
+    "meta_data": {
+        "title": "Privacy.com - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24816",
+            "approval_status": "APPROVED",
+            "clause_text": "we have absolute discretion to remove Content at any time and for any reason without notice.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:21:50",
+            "point_link": "https://edit.tosdr.org/points/24877",
+            "approval_status": "APPROVED",
+            "clause_text": "Since \"applicable law\" changes from country to country, folks don't know how long their data is being kept. Plus, in countries where there are no laws requiring logs to be deleted, a service may keep logs for as long as they wish.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24862",
+            "approval_status": "APPROVED",
+            "clause_text": "When you open a Privacy Account, we will ask for your name, address, date of birth and other information that will allow us to identify you.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24866",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Location Data: to prevent fraudulent use of our Services;",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Some personal data may be kept for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24824",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"If these General Terms or your Privacy Account is terminated or suspended for any reason: [...] (b) we may (but have no obligation to) delete your information and account data stored on our servers\"",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:21:44",
+            "point_link": "https://edit.tosdr.org/points/24821",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate these General Terms or any Additional Terms, or suspend or terminate your Privacy Account or your access to any Service, at any time for any reason.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your content can be licensed to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 06:21:43",
+            "point_link": "https://edit.tosdr.org/points/24762",
+            "approval_status": "APPROVED",
+            "clause_text": "transferable, and sub-licensable",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:21:49",
+            "point_link": "https://edit.tosdr.org/points/24871",
+            "approval_status": "APPROVED",
+            "clause_text": "In Connection with, or during the negotiation of, any merger, sale of company stock or assets, financing, acquisition, divestiture or dissolution of all or a portion of our business.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24869",
+            "approval_status": "APPROVED",
+            "clause_text": "Beacons: small electronic images we may use in our Services and emails to deliver cookies and measure user engagement.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration or small claims court in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:21:51",
+            "point_link": "https://edit.tosdr.org/points/24854",
+            "approval_status": "APPROVED",
+            "clause_text": "All Disputes will be resolved finally and exclusively by binding individual arbitration with a single arbitrator administered by the American Arbitration Association according to this Section and the applicable arbitration rules for that forum.\nConsumer claimants (individuals whose transaction is intended for personal, family, or household use) may elect to pursue their claims in their local small-claims court rather than through arbitration so long as their matter remains in small claims court and proceeds only on an individual (non-class or non-representative) basis.\nThe Federal Arbitration Act, 9 U.S.C.\n§§ 1-16, fully applies.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:27:18",
+            "point_link": "https://edit.tosdr.org/points/29824",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued use of the Services after the posting of a Revised Version constitutes your acceptance of such Revised Version.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24855",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION AGAINST PRIVACY.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24850",
+            "approval_status": "APPROVED",
+            "clause_text": "THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "You have a reduced time period (90 days) to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24857",
+            "approval_status": "APPROVED",
+            "clause_text": "Any action or proceeding by you relating to any Dispute must commence within 90 days after the cause of action accrues.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24870",
+            "approval_status": "APPROVED",
+            "clause_text": "With third parties, within the United States and in other countries, who may access data about you to perform functions on our behalf.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your provided identifiable information is actively checked by the service",
+            "rating": "bad",
+            "description": "The service checks if the required identifiable information you've provided is correct, and may do so on a regular basis. The check measures could be analyzing your browser information and/or providing the identifiable information to a third-party or the authority, thus compromising your anonymity.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24861",
+            "approval_status": "APPROVED",
+            "clause_text": "We may make inquiries that we consider appropriate and use third party services to help us verify your identity and determine if we should open, maintain, collect or close your account.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Your provided identifiable information is actively checked by the service",
+                "href": "https://edit.tosdr.org/cases/492"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24852",
+            "approval_status": "APPROVED",
+            "clause_text": "UNDER NO CIRCUMSTANCES WILL PRIVACY BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICES OR YOUR PRIVACY ACCOUNT, OR THE INFORMATION CONTAINED THEREIN.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "You shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 06:21:46",
+            "point_link": "https://edit.tosdr.org/points/24815",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You will not upload or provide Content or otherwise post, transmit, distribute, or disseminate through the Services any material that: ... (f) in our sole judgment, is objectionable, restricts or inhibits any person or entity from using or enjoying any portion of the Services\"",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 06:21:42",
+            "point_link": "https://edit.tosdr.org/points/24755",
+            "approval_status": "APPROVED",
+            "clause_text": "During registration we will ask you for information, including your name and other personal information.\nThis information will be collected and used in accordance with our Privacy Policy.\nYou must provide accurate and complete information in response to our questions, and keep that information current.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "The service is only available to United States residents and businesses",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 06:21:42",
+            "point_link": "https://edit.tosdr.org/points/24757",
+            "approval_status": "APPROVED",
+            "clause_text": "You confirm that you are either a legal resident of the United States, a United States citizen or a business entity authorized to conduct business by the state(s) in which you operate and that you are an authorized signatory for the business you represent.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user in the past 3 months, or $500, whichever is greater",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24853",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL LIABILITY OF PRIVACY IS LIMITED TO THE GREATER OF (A) THE AMOUNT OF FEES EARNED BY US IN CONNECTION WITH YOUR USE OF THE SERVICES DURING THE THREE (3) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM FOR LIABILITY, OR (B) $500.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:48:41",
+            "point_link": "https://edit.tosdr.org/points/20999",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and gather information about our user base, such as location information based on IP addresses.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Your information is only shared with third parties when given specific consent",
+            "rating": "good",
+            "description": "The service does not share user information with any third parties unless users specifically give it permission to do so.",
+            "last_updated": "2023-07-11 06:21:49",
+            "point_link": "https://edit.tosdr.org/points/24872",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>With your consent.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Your information is only shared with third parties when given specific consent",
+                "href": "https://edit.tosdr.org/cases/296"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:21:49",
+            "point_link": "https://edit.tosdr.org/points/24875",
+            "approval_status": "APPROVED",
+            "clause_text": "You can change or correct data about yourself through your Privacy.com account at any time or by emailing us at support@privacy.com.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can delete or edit your content on this service, but it may persist in the service's archives",
+            "rating": "good",
+            "description": "You can ask the service to remove your content at any time, and it's deleted within a reasonable time.",
+            "last_updated": "2023-07-11 06:21:43",
+            "point_link": "https://edit.tosdr.org/points/24763",
+            "approval_status": "APPROVED",
+            "clause_text": "You may modify or remove your Content via your Privacy Account or by terminating your Privacy Account, but your Content may persist in historical, archived or cached copies and versions thereof available on or through the Services.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You can delete your content from this service",
+                "href": "https://edit.tosdr.org/cases/175"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 06:21:46",
+            "point_link": "https://edit.tosdr.org/points/24825",
+            "approval_status": "APPROVED",
+            "clause_text": "By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited, and without restriction, that it will not place us under any fiduciary, confidentiality or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24865",
+            "approval_status": "APPROVED",
+            "clause_text": "How we manage data from the beginning of your engagement forward;",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24867",
+            "approval_status": "APPROVED",
+            "clause_text": "With government and law enforcement where reasonably necessary to comply with applicable law, regulation, legal process, governmental request.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24864",
+            "approval_status": "APPROVED",
+            "clause_text": "Full list of data they collect: \"We Collect and Use Data:<u>Data You Provide:</u> <p> Your name, email address, phone number, birth date, last four digits of social security number, payment card and bank information as well as other information you may be asked to provide when signing-up for an account, providing identity verification or engaging in a transaction. </p> <u>Other Data:</u> <ul> <li> Transaction Data: when, where and how a transaction takes place including, but not limited to, the devices and payment methods used. </li> <li> Device Data: hardware model, operating system, unique device identifiers, mobile network data as well as other data generated by a device's interaction with our Services. </li> <li>Location Data: to prevent fraudulent use of our Services;</li> <li> User Data: browser data, Internet Protocol (\"IP\") addresses and other data describing user engagement.\"",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Two factor authentication is provided for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24822",
+            "approval_status": "APPROVED",
+            "clause_text": "These communications may be generated by automatic telephone dialing systems which will deliver prerecorded messages, including for the purposes of secondary authentication",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24823",
+            "approval_status": "APPROVED",
+            "clause_text": "You may also terminate the General Terms and Additional Terms applicable to your Privacy Account by deactivating your Privacy Account by contacting us at support@privacy.com",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24874",
+            "approval_status": "APPROVED",
+            "clause_text": "We use leading technologies such as (but not limited to) data encryption, firewalls and server authentication to protect the security of your data.\nOur staff and third parties whenever we hire them to provide support services, are required to observe our privacy standards and to allow us to audit them for compliance.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:21:49",
+            "point_link": "https://edit.tosdr.org/points/24878",
+            "approval_status": "APPROVED",
+            "clause_text": "You can opt-out of email or text messages by following instructions in these messages.\nIf you opt-out we may still send you messages regarding transactions and services related to our ongoing business relationship.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24819",
+            "approval_status": "APPROVED",
+            "clause_text": "You may opt-out of receiving communications by following the unsubscribe options we provide to you.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 06:21:42",
+            "point_link": "https://edit.tosdr.org/points/24761",
+            "approval_status": "APPROVED",
+            "clause_text": "non-exclusive",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:21:43",
+            "point_link": "https://edit.tosdr.org/points/24766",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-03 11:58:33 UTC, basit666655 (25607)  Suspended wrote:\n          You have performed a great job on this article. It’s very precise and highly qualitative. You have even managed to make it readable and easy to read. You have some real writing talent. Thank you so muchurgent emergency visa for usa",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:46",
+            "point_link": "https://edit.tosdr.org/points/24826",
+            "approval_status": "APPROVED",
+            "clause_text": "You will indemnify, defend, and hold us and our partners (and our respective employees, directors, agents, affiliates and representatives) harmless from and against any and all claims, costs, losses, damages, judgments, tax assessments, penalties, interest, and expenses (including without limitation reasonable attorneys’ fees) arising out of any claim, action, audit, investigation, inquiry, or other proceeding instituted by a person or entity that arises out of or relates to: (a) any actual or alleged breach of your representations, warranties, or obligations set forth in these General Terms or any Additional Terms.\n(b) your wrongful or improper use of the Services.\n(c) your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights.\n(d) your violation of any law, rule or regulation of the United States or any other country.\nand (e) any other party’s access and/or use of the Services with your unique name, password or other appropriate security code.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:21:49",
+            "point_link": "https://edit.tosdr.org/points/24881",
+            "approval_status": "APPROVED",
+            "clause_text": "<i>Last updated: May 24, 2018",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:21:49",
+            "point_link": "https://edit.tosdr.org/points/24882",
+            "approval_status": "APPROVED",
+            "clause_text": "Certain features of Privacy’s Services depend on cookies.\nPlease be aware that if you choose to block cookies, you may not be able to sign in or use those features, and preferences that are dependent on cookies may be lost.",
+            "point_source": "https://privacy.com/cookie-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:48:41",
+            "point_link": "https://edit.tosdr.org/points/20996",
+            "approval_status": "APPROVED",
+            "clause_text": "You can set your browser to reject cookies but our Services may not function properly in this setting.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "Your content can be distributed through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:38",
+            "point_link": "https://edit.tosdr.org/points/24760",
+            "approval_status": "APPROVED",
+            "clause_text": "in any media",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24820",
+            "approval_status": "APPROVED",
+            "clause_text": "If you link a debit or credit card to your account, you authorize us to collect Paid Service Fees by debit from your linked debit card or charge to your linked credit card.\nRegardless of payment device, we reserve the right to collect Paid Service Fees by deduction from your linked bank account.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24851",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL PRIVACY BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, INABILITY TO USE, OR UNAVAILABILITY OF THE SERVICE.\nIN ALL CASES, PRIVACY WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24827",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"In addition to any payment obligations under the Payment Terms, the following sections of these General Terms survive and remain in effect in accordance with their terms upon termination: [...] (Indemnity)\"",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:21:48",
+            "point_link": "https://edit.tosdr.org/points/24849",
+            "approval_status": "APPROVED",
+            "clause_text": "THAT THE SERVICES WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED, ERROR-FREE, WITHOUT DEFECT OR SECURE.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 06:21:43",
+            "point_link": "https://edit.tosdr.org/points/24754",
+            "approval_status": "APPROVED",
+            "clause_text": "You must open an account with us (a “Privacy Account”) to use the Services.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:21:50",
+            "point_link": "https://edit.tosdr.org/points/24845",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES ARE PROVIDED “AS IS” WITHOUT REPRESENTATION OR WARRANTY, WHETHER IT IS EXPRESS, IMPLIED, OR STATUTORY.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:42",
+            "point_link": "https://edit.tosdr.org/points/24758",
+            "approval_status": "APPROVED",
+            "clause_text": "access or monitor any material or information on any Privacy system using any manual process or robot, spider, scraper, or other automated means",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:21:42",
+            "point_link": "https://edit.tosdr.org/points/24764",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You will not upload or provide Content or otherwise post, transmit, distribute, or disseminate through the Services any material that: (a) is ... libelous, threatening, harassing, hateful, abusive\"",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:21:43",
+            "point_link": "https://edit.tosdr.org/points/24765",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You will not upload or provide Content or otherwise post, transmit, distribute, or disseminate through the Services any material that: (a) is ... pornographic\"",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service is only available to users over 18 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:21:46",
+            "point_link": "https://edit.tosdr.org/points/24828",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You represent and warrant to us that: (a) you are at least eighteen (18) years of age.\"",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "This service informs you that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 06:21:44",
+            "point_link": "https://edit.tosdr.org/points/24858",
+            "approval_status": "APPROVED",
+            "clause_text": "Such third party websites are not governed by these General Terms.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "This service informs you that its Terms of Service does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/408"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24859",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use a link to go from the Services to a third party website, our Privacy Policy is no longer in effect.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:21:44",
+            "point_link": "https://edit.tosdr.org/points/24817",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for safeguarding your password and for restricting access to the Services from your compatible devices.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Aggregate data is given to third parties",
+            "rating": "neutral",
+            "description": "The Service only shares your information in an aggregated form, which means an anonymized form\nthat can't be linked to a unique identity.",
+            "last_updated": "2023-07-11 06:21:50",
+            "point_link": "https://edit.tosdr.org/points/24873",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share data that is not personally identifiable with third parties.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Only aggregate data is given to third parties",
+                "href": "https://edit.tosdr.org/cases/191"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:21:51",
+            "point_link": "https://edit.tosdr.org/points/24860",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of these General Terms or any Additional Term is invalid or unenforceable under applicable law, then it will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:21:42",
+            "point_link": "https://edit.tosdr.org/points/24759",
+            "approval_status": "APPROVED",
+            "clause_text": "use the Services for any illegal activity or goods or in any way that exposes you, other Privacy users, our partners, or Privacy to harm.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:21:44",
+            "point_link": "https://edit.tosdr.org/points/24818",
+            "approval_status": "APPROVED",
+            "clause_text": "You will immediately notify us of any unauthorized use of your password or Privacy Account or any other breach of security.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:21:45",
+            "point_link": "https://edit.tosdr.org/points/24847",
+            "approval_status": "APPROVED",
+            "clause_text": "PRIVACY DOES NOT WARRANT OR GUARANTEE THAT THE SERVICES ARE ACCURATE, RELIABLE OR CORRECT.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 04:48:41",
+            "point_link": "https://edit.tosdr.org/points/20998",
+            "approval_status": "APPROVED",
+            "clause_text": "Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit.\nOur Services do not currently change the way they operate based upon detection of a Do Not Track or similar signal.",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:21:43",
+            "point_link": "https://edit.tosdr.org/points/24756",
+            "approval_status": "APPROVED",
+            "clause_text": "We may amend the General Terms, any Additional Terms, or our Policies, at any time with notice that we deem to be reasonable in the circumstances, by posting the revised version on our website or communicating it to you through the Services (each a “Revised Version”).",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:47",
+            "point_link": "https://edit.tosdr.org/points/24868",
+            "approval_status": "APPROVED",
+            "clause_text": "Internet Protocol (\"IP\") addresses",
+            "point_source": "https://privacy.com/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:21:04",
+            "point_link": "https://edit.tosdr.org/points/24848",
+            "approval_status": "APPROVED",
+            "clause_text": "THAT THE SERVICES WILL MEET YOUR REQUIREMENTS.",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in New York, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:18:30",
+            "point_link": "https://edit.tosdr.org/points/24856",
+            "approval_status": "APPROVED",
+            "clause_text": "These General Terms and any Dispute will be governed by New York law",
+            "point_source": "https://privacy.com/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

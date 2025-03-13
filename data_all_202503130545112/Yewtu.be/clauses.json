@@ -1,0 +1,123 @@
+{
+    "meta_data": {
+        "title": "Yewtu.be - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 06:24:33",
+            "point_link": "https://edit.tosdr.org/points/27394",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This website does not store the visitor's user-agent or IP address and does not use fingerprinting, advertisements, or tracking of any form.",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 06:24:33",
+            "point_link": "https://edit.tosdr.org/points/27400",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>No identifying information is logged, such as the visitor's cookie, user-agent, or IP address.",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 06:24:33",
+            "point_link": "https://edit.tosdr.org/points/27397",
+            "approval_status": "APPROVED",
+            "clause_text": "without an account.",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:24:33",
+            "point_link": "https://edit.tosdr.org/points/27398",
+            "approval_status": "APPROVED",
+            "clause_text": "Here are a couple lines to serve as an example:</p>\n<code>2019-01-19 16:37:47 +00:00 200 GET /api/v1/comments/xrlETJYzH-c?format=html&amp;hl=en-US 1345.88ms\n2019-01-19 16:37:53 +00:00 200 GET /vi/r5P-f5arPXE/maxres.jpg 1085.41ms\n2019-01-19 16:37:54 +00:00 200 GET /watch 7.04ms</code>",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2022-08-11 15:18:14",
+            "point_link": "https://edit.tosdr.org/points/27405",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:24:33",
+            "point_link": "https://edit.tosdr.org/points/27393",
+            "approval_status": "APPROVED",
+            "clause_text": "This data will not be intentionally shared with anyone or anything.",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:25:31",
+            "point_link": "https://edit.tosdr.org/points/27401",
+            "approval_status": "APPROVED",
+            "clause_text": "Using this feature will store a cookie in the visitor's browser containing their preferences.\nThis cookie is sent on every request and does not contain any identifying information",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:24:07",
+            "point_link": "https://edit.tosdr.org/points/27396",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This website provides links to googlevideo.com to provide audio and video playback",
+            "point_source": "https://yewtu.be/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

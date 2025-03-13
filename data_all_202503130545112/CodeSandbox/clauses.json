@@ -1,0 +1,837 @@
+{
+    "meta_data": {
+        "title": "CodeSandbox - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24673",
+            "approval_status": "APPROVED",
+            "clause_text": "Our servers keep log files",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24659",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right, at our sole discretion, to modify or replace these\nTerms at any time.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24655",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate your account immediately for any reason whatsoever, but as\nwe value our users, we will normally not do so as long as you comply with\nthese Terms.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24647",
+            "approval_status": "APPROVED",
+            "clause_text": "any errors or defects will be corrected",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "Information is gathered about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24671",
+            "approval_status": "APPROVED",
+            "clause_text": "If available from\nGitHub, we collect and store: avatar, name, first name, last name, bio, email\nand username and -id.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24660",
+            "approval_status": "APPROVED",
+            "clause_text": "By continuing to access or use our Service after the revisions to the Terms\nbecome effective, you agree to be bound by the revised terms.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24665",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We will not sell, rent or lease your personal data to anyone, except in case we sell our business or part thereof to another company.\"",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:21:39",
+            "point_link": "https://edit.tosdr.org/points/24702",
+            "approval_status": "APPROVED",
+            "clause_text": "Marketing.\nWe may use any combination of services in order to enhance what we\nknow about you for the sole purpose of providing tips on how to use CodeSandbox",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24649",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"In no event shall CodeSandbox, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from... unauthorized access, use or alteration of your transmissions or content\"",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24694",
+            "approval_status": "APPROVED",
+            "clause_text": "Your personal data may be transferred, stored and processed in the European\nEconomic Area (“EEA”), United States (“US”) or any other country in which our\nservice providers maintain facilities.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24643",
+            "approval_status": "APPROVED",
+            "clause_text": "harass or interfere with any other user’s use and enjoyment\nof the Service",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24688",
+            "approval_status": "APPROVED",
+            "clause_text": "We allow some of our service providers such as Google\nAnalytics, Amplitude, Algolia and Vero to store cookies on your device.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Third party cookies are employed, but with opt out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24689",
+            "approval_status": "APPROVED",
+            "clause_text": "We\nassume you know what cookies are and how to prevent third parties from\ninstalling cookies on your device.\nIf not, your browser settings allow you to\ndisable cookies and control acceptance levels.\nPlease reach out to us via\ndetails below if you are in doubt or seek assistance in understanding and\nchanging browser settings.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "Content is published under a free license instead of a bilateral one",
+            "rating": "good",
+            "description": "User-generated content, such as posts or comments, is published under a free license, meaning other users can reuse it (e.g. Creative Commons license).",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24624",
+            "approval_status": "APPROVED",
+            "clause_text": "if you choose certain license terms for your public Sandbox,\nthese license terms have to allow for forking.\nBasically, this means open\nsource licensing, and you decide the type of open source license.</li>",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Content is published under a free license instead of a bilateral one",
+                "href": "https://edit.tosdr.org/cases/131"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:21:31",
+            "point_link": "https://edit.tosdr.org/points/24667",
+            "approval_status": "APPROVED",
+            "clause_text": "Data types we are collecting and using",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "Archives of their agreements are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24619",
+            "approval_status": "APPROVED",
+            "clause_text": "Click here for previous versions of our Terms of Use.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can scrape the site, as long as it doesn't impact the server too much",
+            "rating": "good",
+            "description": "Automated web scraping is a method of extracting information from a website. The service authorises scraping if it doesn't impact its server(s) too much.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24642",
+            "approval_status": "APPROVED",
+            "clause_text": "interfere with,\ndisrupt, or create an undue burden on servers or networks connected to the\nService, or violate the regulations, policies or procedures of such\nnetworks.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You can scrape the site, as long as it doesn't impact the server too much",
+                "href": "https://edit.tosdr.org/cases/389"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24656",
+            "approval_status": "APPROVED",
+            "clause_text": "Some parts of the Service are only available to you if you have a\nCodeSandbox Account.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24662",
+            "approval_status": "APPROVED",
+            "clause_text": "These Terms of Use are governed by the laws of the Netherlands.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24695",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not retain your personal data for a period longer than necessary to\nfulfill the purposes described in this policy, unless we have to keep it for\nlegitimate tax, business or legal purposes.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:21:38",
+            "point_link": "https://edit.tosdr.org/points/24699",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-08-11 22:29:29 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-08-11 22:29:29 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-08-11 22:29:29 UTC by private prawn (22961)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: You can request access, correction and/or deletion of your data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: You can request access, correction and/or deletion of your data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: You can request access, correction and/or deletion of your data\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: You can request access, correction and/or deletion of your data\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24670",
+            "approval_status": "APPROVED",
+            "clause_text": "You can\nlimit or change the amount of personal data we process and store by limiting the\ndata you provide to us in your account settings or by reaching out to us.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "You maintain sole ownership of your content and no intellectual property is transferred to the service",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24622",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 2: 2021-08-10 03:16:00 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2021-08-10 03:16:00 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2021-08-10 03:16:00 UTC by private prawn (22961)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:49:25",
+            "point_link": "https://edit.tosdr.org/points/24669",
+            "approval_status": "APPROVED",
+            "clause_text": "we collect and use\nsuch data to:",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24666",
+            "approval_status": "APPROVED",
+            "clause_text": "What does CodeSandbox collect and why?",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24664",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not sell, rent or lease your personal data to anyone",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24697",
+            "approval_status": "APPROVED",
+            "clause_text": "EU General Data Protection Regulation\nalso more commonly known as GDPR",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24693",
+            "approval_status": "APPROVED",
+            "clause_text": "Sub-processors &amp.\nData locations\n<p>Syntax: (Company Name (“a.k.a.”), Location, Purpose, Link)</p>\n<ul>\n<li>Amplitude, Inc.\nUnited States.\nData Analysis.\nhttps://amplitude.com/blog/one-year-after-gdpr-amplitude-and-user-privacy;</li>\n<li>Amazon, Inc., AWS EMEA SARL.\nUnited States &amp.\nEuropean Union.\nHosting services.\nhttps://aws.amazon.com/compliance/gdpr-center/;</li>\n<li>Cloudflare, Inc.\nUnited States &amp.\nEuropean Union.\nRouting, securing and caching\nweb traffic.\nhttps://www.cloudflare.com/privacypolicy/;</li>\n<li>Google Ireland Limited (“Google Cloud Platform”).\nUnited States &amp.\nEuropean\nUnion.\nHosting services.\nhttps://policies.google.com/privacy;</li>\n<li>Google LLC, Google Ireland Limited or affiliate (“Google Analytics”).\nData\nAnalysis.\nhttps://support.google.com/analytics/answer/9019185?hl=en;</li>\n<li>Hetzner Online GmbH Gunzenhausen.\nGermany.\nHosting services.\nhttps://wiki.hetzner.de/index.php/Datenschutz-FAQ/en;</li>\n<li>Invc.me, Inc.\n(“Vero”).\nUnited States.\nBehavior based email campaigns.\nhttps://www.getvero.com/gdpr/;</li>\n<li>Mailgun, Inc.\nUnited States.\nEmail Service Provider.\nhttps://www.mailgun.com/gdpr/</li>\n<li>Stripe Payments Europe, Ltd.\nEuropean Union.\nPayment Service Provider.\nhttps://stripe.com/privacy-center/legal;</li>\n<li>The Rocket Science Group LLC (“Mailchimp”).\nUnited States.\nEmail Service\nProvider.\nhttps://mailchimp.com/gdpr/.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:21:36",
+            "point_link": "https://edit.tosdr.org/points/24691",
+            "approval_status": "APPROVED",
+            "clause_text": "We have certain practices in place to ensure our partners adhere to legal\nstandards and we typically interview new partners to get a sense of how they are\ntreating user data.\nWe have Data Processing Agreements in place with our\npartners and our sub-processors.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:21:04",
+            "point_link": "https://edit.tosdr.org/points/24657",
+            "approval_status": "APPROVED",
+            "clause_text": "If you wish to terminate your account, you may simply\ndiscontinue using the Service.</li>",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24668",
+            "approval_status": "APPROVED",
+            "clause_text": "Here are some\nexamples of how we are securing your personal data:",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24663",
+            "approval_status": "APPROVED",
+            "clause_text": "A few take-home points are good to keep in mind:",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "A free help desk is provided",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24701",
+            "approval_status": "APPROVED",
+            "clause_text": "To exercise any of the rights described above\nor in case of concerns, questions or inquiries, please email us at\nhello@codesandbox.io",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "You can choose the copyright license",
+            "rating": "good",
+            "description": "You have the right to choose or change the license over content you publish through the Service.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24623",
+            "approval_status": "APPROVED",
+            "clause_text": "it is up to you to define the license terms for Sandboxes you have\ncontrol over",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You can choose the copyright license",
+                "href": "https://edit.tosdr.org/cases/222"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:21:37",
+            "point_link": "https://edit.tosdr.org/points/24690",
+            "approval_status": "APPROVED",
+            "clause_text": "which can be opted out of at any point in time by reaching out to us or clicking\nthe unsubscribe at the bottom of every email you may receive from us.",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24633",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"this is a non-exhaustive list of what type of use we find abuse or misuse of our Service: collecting, uploading, transmitting, displaying, or distributing any user Content (i) that violates any third-party right, including any... privacy right, right of publicity\"",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24640",
+            "approval_status": "APPROVED",
+            "clause_text": "Terms of UseVersion 0.9.0 (03/01/2021)",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your content can be deleted if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 06:21:29",
+            "point_link": "https://edit.tosdr.org/points/24653",
+            "approval_status": "APPROVED",
+            "clause_text": "We may, at our sole discretion, refuse or remove your content if it violates\nany laws or our Terms of Use.</li>",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24631",
+            "approval_status": "APPROVED",
+            "clause_text": "You will be billed in advance on a recurring and periodic basis (\"Billing\nCycle\").",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Harming minors in any ways is prohibited",
+            "rating": "neutral",
+            "description": "This service prohibits harming minor in any ways. Since both “minor” and “in any ways” are vague and can be cited to restrict possibly any actions, the case is not classified as “good”.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24637",
+            "approval_status": "APPROVED",
+            "clause_text": "that is harmful to minors in any way.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Harming minors in any ways is prohibited",
+                "href": "https://edit.tosdr.org/cases/445"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24650",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>In no event shall CodeSandbox, nor its directors, employees, partners,\nagents, suppliers, or affiliates, be liable for any indirect, incidental,\nspecial, consequential or punitive damages, including without limitation,\nloss of profits, data, use, goodwill, or other intangible losses",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 06:21:35",
+            "point_link": "https://edit.tosdr.org/points/24627",
+            "approval_status": "APPROVED",
+            "clause_text": "we are not responsible or liable,\ndirectly or indirectly, for any damage or loss caused or alleged to be\ncaused by or in connection with use of or reliance on any such content,\ngoods or services available on or through any such web sites or services.</li>",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24645",
+            "approval_status": "APPROVED",
+            "clause_text": "CodeSandbox, its subsidiaries, affiliates, and its licensors do not warrant\nthat a) the Service will function uninterrupted, secure or available at any\nparticular time or location",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24639",
+            "approval_status": "APPROVED",
+            "clause_text": "You are not allowed to (i) use our Service to send unsolicited or\nunauthorized advertising, promotional materials, junk mail, spam, chain\nletters, pyramid schemes, or any other form of duplicative or unsolicited\nmessages, whether commercial or otherwise.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24644",
+            "approval_status": "APPROVED",
+            "clause_text": "Your use of the Service is at your sole risk.</li>\n<li>Any and all Content that is available via our Service is made available ‘as\nis’ and ‘as available’ as far as it concerns our relationship with you.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24634",
+            "approval_status": "APPROVED",
+            "clause_text": "that is unlawful, harassing, abusive, tortious,\nthreatening, harmful",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24636",
+            "approval_status": "APPROVED",
+            "clause_text": "promotes racism, bigotry, hatred, or physical harm of\nany kind against any group or individual",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24638",
+            "approval_status": "APPROVED",
+            "clause_text": "You are not allowed to create, transmit, upload or distribute content on/to\nour Service that contains harmful elements (such as viruses, worms, or any\nsoftware intended to damage or alter a computer system) that may cause\ndamage to us, our infrastructure, our software or hardware or that may cause\nour other users similar damage.</li>",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:30",
+            "point_link": "https://edit.tosdr.org/points/24652",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to block your account(s) temporarily or indefinite if\nwe suspect that you are acting contrary to our Terms of Use.</li>",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24635",
+            "approval_status": "APPROVED",
+            "clause_text": "pornographic",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24621",
+            "approval_status": "APPROVED",
+            "clause_text": "You must notify us\nimmediately upon becoming aware of any breach of security or unauthorized\nuse of your Account.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24654",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that content on our website violates your copyright or if you\nare a copyright owner and you believe that content on CodeSandbox violates\nyour rights, please contact us with your concerns via\nlegal@codesandbox.io",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24632",
+            "approval_status": "APPROVED",
+            "clause_text": "You are not allowed to use our Service for the creation of Content that you\n– or someone else permitted by you – intend to use in a way that does not\ncomply with the law and/or otherwise causes damage to anyone",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs you that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:21:30",
+            "point_link": "https://edit.tosdr.org/points/24628",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2021-08-10 21:02:23 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2021-08-10 21:02:23 UTC by private prawn (22961)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2021-08-10 21:02:23 UTC by private prawn (22961)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The service informs you that its privacy policy does not apply to third party websites\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The service informs you that its privacy policy does not apply to third party websites\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The service informs you that its privacy policy does not apply to third party websites\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The service informs you that its privacy policy does not apply to third party websites\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Amsterdam, The Netherlands",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24661",
+            "approval_status": "APPROVED",
+            "clause_text": "Any dispute\nbetween us regarding the Service that cannot be solved amicably, shall be\nsubmitted to the competent court of Amsterdam, the Netherlands.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24630",
+            "approval_status": "APPROVED",
+            "clause_text": "you will\nhave to comply with the payment terms of the relevant payment service\nprovider",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:34",
+            "point_link": "https://edit.tosdr.org/points/24672",
+            "approval_status": "APPROVED",
+            "clause_text": "storing personal data such\nas IP address",
+            "point_source": "https://codesandbox.io/legal/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:21:32",
+            "point_link": "https://edit.tosdr.org/points/24629",
+            "approval_status": "APPROVED",
+            "clause_text": "We use various payment service providers, depending on your subscription\nplan.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:21:33",
+            "point_link": "https://edit.tosdr.org/points/24648",
+            "approval_status": "APPROVED",
+            "clause_text": "the\nresults of using the Service will meet your requirements.",
+            "point_source": "https://codesandbox.io/legal/terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

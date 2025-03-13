@@ -1,0 +1,809 @@
+{
+    "meta_data": {
+        "title": "Zoom Video Communications - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:12:16",
+            "point_link": "https://edit.tosdr.org/points/15345",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Approximate Location </strong>(e.g.,<strong>\n</strong>nearest city or town) </p>\n<p>Automatically through your use of the Services</p>\n<ul>\n<li>Connect you to the nearest data center</li>\n<li> Comply with privacy and other laws – for example, so we can provide you with the right notices for your area </li>\n<li>Suggest choices such as language preferences</li>\n<li>Monitor performance of our data centers and networks</li>\n<li>Route support requests</li>\n</ul>\n<ul>\n<li>Contract</li>\n<li>Legitimate interests</li>\n<li>Legal obligation",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18112",
+            "approval_status": "APPROVED",
+            "clause_text": "Like many companies, we use advertising services that try to tailor online ads to your interests based on information collected via cookies and similar technologies on our Marketing Pages.\nThis is called interest-based advertising.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18117",
+            "approval_status": "APPROVED",
+            "clause_text": "We may need to retain certain information for record-keeping purposes or to complete transactions that you began prior to requesting any deletion.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service may sell your data unless you opt out",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 10:07:24",
+            "point_link": "https://edit.tosdr.org/points/18113",
+            "approval_status": "APPROVED",
+            "clause_text": "You can get more information and opt-out of the use of cookies on our Marketing Pages by clicking the Do Not Sell My Personal Information link in the footer of this webpage.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:03:43",
+            "point_link": "https://edit.tosdr.org/points/18103",
+            "approval_status": "APPROVED",
+            "clause_text": "Zoom reserves the right to require arbitration.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:03:53",
+            "point_link": "https://edit.tosdr.org/points/18110",
+            "approval_status": "APPROVED",
+            "clause_text": "Data collected through the use of cookies and pixels from tools (such as Google Analytics and </p>\n<p>Google Ads)",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:08:29",
+            "point_link": "https://edit.tosdr.org/points/18106",
+            "approval_status": "APPROVED",
+            "clause_text": "We also obtain data about you from third parties.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:08:30",
+            "point_link": "https://edit.tosdr.org/points/18108",
+            "approval_status": "APPROVED",
+            "clause_text": "Referrer URL,</li>\n<li> Exit pages",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:12:17",
+            "point_link": "https://edit.tosdr.org/points/15339",
+            "approval_status": "APPROVED",
+            "clause_text": "AGREEMENT TO ARBITRATE.\nWAIVER OF CLASS ACTION</strong>.\nIf You are located in the United States, You agree to resolve disputes only on an individual basis, through arbitration pursuant to the provisions of Exhibit A.&nbsp;<strong>The parties expressly waive any right to bring any action, lawsuit, or proceeding as a class or collective action, private attorney general action, or any other proceeding in which any party acts or proposes to act in a representative capacity",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:14:04",
+            "point_link": "https://edit.tosdr.org/points/18105",
+            "approval_status": "APPROVED",
+            "clause_text": "Requirement to File Within One Year</strong>.\nNotwithstanding any other statute of limitations, a claim or dispute under this Agreement must be filed in Small Claims Court or noticed for arbitration within one year of when it could first be filed, or such claim will be permanently barred.</li>",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:20:57",
+            "point_link": "https://edit.tosdr.org/points/24138",
+            "approval_status": "APPROVED",
+            "clause_text": "IP addresses can be considered as PII",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24140",
+            "approval_status": "APPROVED",
+            "clause_text": "or during negotiations of, any sale, merger, acquisition, restructuring, or change in control involving all or a portion of Zoom’s business or assets, including in connection with bankruptcy or similar proceedings.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:12:17",
+            "point_link": "https://edit.tosdr.org/points/15340",
+            "approval_status": "APPROVED",
+            "clause_text": "Social Media Cookies</p>\n<p>Some of our websites and Products include code snippets provided by social media companies that can sense if you are already logged into a given social media account so you can easily share Zoom content with other social media users via that account.\nThese code snippets read cookies set previously by social media company web content while you are logged in and browsing such content on those social media sites.</p>\n<p>Social media companies will not be able to sense if you are already logged into a given social media account if you&nbsp.\nturn off Advertising Cookies",
+            "point_source": "https://zoom.us/cookie-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-14 12:55:27",
+            "point_link": "https://edit.tosdr.org/points/34384",
+            "approval_status": "APPROVED",
+            "clause_text": "\"If You continue using the Services after such ten-business-day period, You will be deemed to have accepted the changes to the terms of this Agreement.\"\nNote that the ten-business-day period is missing from the current version of the terms (which should be the same as this archive which is older than TOSDR's last crawl: http://web.archive.org/web/20230702173835/https://explore.zoom.us/en/terms/).  Here is a little extra context from the current terms just in case:\n\"Changes to this Agreement do not create a renewed opportunity to opt out of arbitration (if applicable). If you continue to use the Services after the effective date of the Changes, then you agree to the revised terms and conditions. In some instances, Zoom may notify you of a Change and also may request express confirmation of your consent to a Change. If a Change requires a specific notice pursuant to applicable Law, Zoom will provide you with such notice in the manner prescribed by applicable Law, together with any required notification of your rights.\"",
+            "point_source": null,
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18111",
+            "approval_status": "APPROVED",
+            "clause_text": "Marketing, including facilitating tailoring of advertising you see when you are on other online services",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24137",
+            "approval_status": "APPROVED",
+            "clause_text": "We provide personal data to vendors and services providers to help us provide the Services and for Zoom’s business purposes.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18120",
+            "approval_status": "APPROVED",
+            "clause_text": "Zoom operates globally, which means personal data may be stored and processed (for example stored in a data center) in any country where we or our service providers have facilities or hold events.\nBy using Zoom or providing personal data for any of the purposes stated above, you acknowledge that your personal data may be transferred to or stored in the United States or in other countries around the world.\nSuch countries may have data protection rules that are different and less protective than those of your country.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "The service is only available in some countries approved by its government",
+            "rating": "bad",
+            "description": "Countries under embargo or banned by the government of the country in question cannot use the service.",
+            "last_updated": "2023-07-11 04:48:53",
+            "point_link": "https://edit.tosdr.org/points/21075",
+            "approval_status": "APPROVED",
+            "clause_text": "You represent and warrant that: (i) You and Your End Users (a) are not citizens of, or located within, a country or territory that is subject to U.S.\ntrade sanctions or other significant trade restrictions (including without limitation Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine) and that You and Your End Users will not access or use the Services, or export, re-export, divert, or transfer the Services, in or to such countries or territories.\n(b) are not persons, or owned 50% or more, individually or in the aggregate by persons, identified on the U.S.\nDepartment of the Treasury’s Specially Designated Nationals and Blocked Persons List or Foreign Sanctions Evaders Lists.\nand (c) are not persons on the U.S.\nDepartment of Commerce’s Denied Persons List, Entity List, or Unverified List, or U.S.\nDepartment of State proliferation-related lists.\n(ii) You and Your End Users located in China, Russia, or Venezuela are not Military End Users and will not put Zoom’s Services to a Military End Use, as defined in 15 C.F.R.\n744.21.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "The service is only available in some countries approved by its government",
+                "href": "https://edit.tosdr.org/cases/490"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18078",
+            "approval_status": "APPROVED",
+            "clause_text": "Zoom Video Communications, Inc.\n(“Zoom”) and our partners use cookies or similar technologies to analyze trends, administer and track users’ movements during your visit to our website",
+            "point_source": "https://zoom.us/cookie-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18097",
+            "approval_status": "APPROVED",
+            "clause_text": "IN ANY CASE, ZOOM'S, ITS AFFILIATES', SUPPLIERS' AND RESELLERS' MAXIMUM CUMULATIVE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR ANY CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SERVICES (IF ANY) IN THE TWELVE (12) MONTHS PRECEDING THE EVENT OR CIRCUMSTANCES GIVING RISE TO SUCH CLAIMS.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18082",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>How to Control Cookies</p>\n<p>You can turn Advertising Cookies and Functional Cookies off at any time by visiting our Cookie Preferences link at the footer of the page.</p>\n<p>\nYou can also control cookies by adjusting the settings within your internet browser.",
+            "point_source": "https://zoom.us/cookie-policy",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:12:16",
+            "point_link": "https://edit.tosdr.org/points/15343",
+            "approval_status": "APPROVED",
+            "clause_text": "You retain copyright and any other rights You already hold in Content which You submit, post or display on or through, the Services.</li>\n<li>\n<strong>Recordings",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "This service provides archives of their Terms of Service so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 10:02:59",
+            "point_link": "https://edit.tosdr.org/points/15337",
+            "approval_status": "APPROVED",
+            "clause_text": "Change Log <p>Summary of Updates Made",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:03:42",
+            "point_link": "https://edit.tosdr.org/points/18098",
+            "approval_status": "APPROVED",
+            "clause_text": "This Agreement shall be governed by and construed under the laws of the State of California, U.S.A.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:07:47",
+            "point_link": "https://edit.tosdr.org/points/18116",
+            "approval_status": "APPROVED",
+            "clause_text": "If you would like to correct or update information that you have provided to us, please logon to www.zoom.us and update your profile.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18084",
+            "approval_status": "APPROVED",
+            "clause_text": "If you repeatedly transmit or post content that infringes someone else’s intellectual property rights, such as copyrights or trademarks,&nbsp.\nZoom may terminate your use of our services.",
+            "point_source": "https://zoom.us/docs/en-us/dmca-policy.html",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:17",
+            "point_link": "https://edit.tosdr.org/points/18301",
+            "approval_status": "APPROVED",
+            "clause_text": "We share personal data with companies, organizations or individuals outside of Zoom if we believe that access, use, preservation or disclosure of the information is reasonably necessary to: </p>\n<ul>\n<li>\n<ul>\n<li> meet any applicable law or respond to valid legal process",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:14:05",
+            "point_link": "https://edit.tosdr.org/points/18118",
+            "approval_status": "APPROVED",
+            "clause_text": "You may have the right to access the personal data that we hold about you and, in some limited circumstances, have that data provided to you so that you can provide or “port” that data to another provider.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18107",
+            "approval_status": "APPROVED",
+            "clause_text": "Information we collect when you register for a free Zoom Account, such as: </p>\n<ul>\n<li> Date of birth (for age-verification purposes only, <strong>Zoom does not retain or use this information for any other purpose</strong>) </li>\n<li>First Name</li>\n<li>Last Name</li>\n<li>Phone (optional)</li>\n<li>Email</li>\n<li>Language preference</li>\n<li>User IDs and Password (if Single Sign On is not used)</li>\n<li>Profile Picture for avatar (optional)</li>\n<li>Department (optional)</li>\n<li>Meeting schedule</li>",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 10:14:17",
+            "point_link": "https://edit.tosdr.org/points/18302",
+            "approval_status": "APPROVED",
+            "clause_text": "including from law enforcement or other government agencies",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18081",
+            "approval_status": "APPROVED",
+            "clause_text": "If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device.</p>",
+            "point_source": "https://zoom.us/cookie-policy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:07:46",
+            "point_link": "https://edit.tosdr.org/points/18115",
+            "approval_status": "APPROVED",
+            "clause_text": "Zoom contractually prohibits such vendors from using the personal data for any reason other than to provide the contracted-for services and Zoom contractually requires its vendors to comply with all appropriate privacy and security requirements.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:36:11",
+            "point_link": "https://edit.tosdr.org/points/15341",
+            "approval_status": "APPROVED",
+            "clause_text": "Customers can delete their own accounts.</p>",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:47:44",
+            "point_link": "https://edit.tosdr.org/points/20266",
+            "approval_status": "APPROVED",
+            "clause_text": "If you would like to stop receiving these communications, you can update your preferences by using the “Unsubscribe” link found in those emails.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18096",
+            "approval_status": "APPROVED",
+            "clause_text": "INDEMNIFICATION</strong>.\nYou agree to indemnify, defend and hold harmless Zoom, its affiliates, officers, directors, employees, consultants, agents, suppliers and Resellers from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys' fees) arising from Your use of the Services, Your violation of this Agreement or the infringement or violation by You or any other user of Your account, of any intellectual property or other right of any person or entity or applicable law.</li>",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:12:16",
+            "point_link": "https://edit.tosdr.org/points/15342",
+            "approval_status": "APPROVED",
+            "clause_text": "Although Zoom is not responsible for any Content, Zoom may delete any Content, at any time without notice to You, if Zoom becomes aware that it violates any provision of this Agreement, or any law.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18091",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that Zoom may charge to Your credit card or other payment mechanism selected by You and approved by Zoom (\"Your Account\") all amounts due and owing for the Services, including taxes and service fees, set up fees, subscription fees, or any other fee or charge associated with Your Account.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18083",
+            "approval_status": "APPROVED",
+            "clause_text": "When we make updates, changes or revisions, they will be effective when we post the updated Cookie Policy to our site.\nIf we make any material changes, we will notify you by email or, at our option, by means of a notice on our site prior to the change becoming effective.",
+            "point_source": "https://zoom.us/cookie-policy",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18089",
+            "approval_status": "APPROVED",
+            "clause_text": "ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS AT YOUR OWN DISCRETION AND RISK.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:27:28",
+            "point_link": "https://edit.tosdr.org/points/29949",
+            "approval_status": "APPROVED",
+            "clause_text": "Last updated: August 2020",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:21:00",
+            "point_link": "https://edit.tosdr.org/points/24141",
+            "approval_status": "APPROVED",
+            "clause_text": "O THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL ZOOM OR ITS AFFILIATES, SUPPLIERS OR RESELLERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, EXEMPLARY OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS OR DAMAGE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICES OR THE PROVISION OF OR FAILURE TO PROVIDE TECHNICAL OR OTHER SUPPORT SERVICES, WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE) CONTRACT OR ANY OTHER LEGAL THEORY, EVEN IF ZOOM, ITS AFFILIATES, SUPPLIERS OR RESELLERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:33:41",
+            "point_link": "https://edit.tosdr.org/points/18085",
+            "approval_status": "APPROVED",
+            "clause_text": "Zoom may, in its sole discretion, discontinue the Services or modify the features of the Services from time to time without prior notice.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18095",
+            "approval_status": "APPROVED",
+            "clause_text": "BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18092",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong>YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED \"AS IS\" AND ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:35:22",
+            "point_link": "https://edit.tosdr.org/points/18087",
+            "approval_status": "APPROVED",
+            "clause_text": "use the Services to communicate any message or material that is harassing, libelous, threatening, obscene, indecent, would violate the intellectual property rights of any party or is otherwise unlawful",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:12:16",
+            "point_link": "https://edit.tosdr.org/points/15344",
+            "approval_status": "APPROVED",
+            "clause_text": "You affirm that You are at least 16 years of age",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:04",
+            "point_link": "https://edit.tosdr.org/points/18090",
+            "approval_status": "APPROVED",
+            "clause_text": "Your access may be terminated without warning if we believe that You are under the age of 16 or are otherwise ineligible",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:14:04",
+            "point_link": "https://edit.tosdr.org/points/18093",
+            "approval_status": "APPROVED",
+            "clause_text": "ZOOM, ITS AFFILIATES, SUPPLIERS AND RESELLERS MAKE NO WARRANTY OR REPRESENTATION REGARDING THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES, REGARDING THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE SERVICES",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:14:04",
+            "point_link": "https://edit.tosdr.org/points/18101",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of this Agreement is held by a court of competent jurisdiction to be illegal, invalid or unenforceable, that provision will be amended to achieve as nearly as possible the same economic effect of the original provision and the remainder of this Agreement will remain in full force and effect.</p>",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:34:11",
+            "point_link": "https://edit.tosdr.org/points/17728",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Statement does not apply to any third-party applications or software that you elect to add to the Services (“Third Party Services”), or any other third-party websites, mobile applications, or online products, services or businesses you may access from the Services.",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:14:04",
+            "point_link": "https://edit.tosdr.org/points/18100",
+            "approval_status": "APPROVED",
+            "clause_text": "Failure by either Party to exercise any of its rights under, or to enforce any provision of, this Agreement will not be deemed a waiver or forfeiture of such rights or ability to enforce such provision.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:34:12",
+            "point_link": "https://edit.tosdr.org/points/17727",
+            "approval_status": "APPROVED",
+            "clause_text": "You are entirely responsible for maintaining the security of Your user name and password and agree not to disclose such to any third party.</li>",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:14:04",
+            "point_link": "https://edit.tosdr.org/points/18086",
+            "approval_status": "APPROVED",
+            "clause_text": "engage in activity that is illegal, fraudulent, false, or misleading",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Santa Clara County, California, USA",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:03:42",
+            "point_link": "https://edit.tosdr.org/points/18099",
+            "approval_status": "APPROVED",
+            "clause_text": "Except as provided in Exhibit A, the Parties consent to the exclusive jurisdiction and venue of the state courts located in and serving Santa Clara County, California and the federal courts in the Northern District of California.",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:20:56",
+            "point_link": "https://edit.tosdr.org/points/24139",
+            "approval_status": "APPROVED",
+            "clause_text": "The service tracks its users and doesn't explain its attitude when receiving a DNT signal, so we can assume they ignore them.",
+            "point_source": "https://zoom.us/cookie-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:03",
+            "point_link": "https://edit.tosdr.org/points/18109",
+            "approval_status": "APPROVED",
+            "clause_text": "Approximate location (<em>e.g.</em>,<strong>\n</strong>nearest city or town)",
+            "point_source": "https://zoom.us/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18094",
+            "approval_status": "APPROVED",
+            "clause_text": "THAT THE SERVICES WILL MEET ANY USER'S REQUIREMENTS",
+            "point_source": "https://zoom.us/terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

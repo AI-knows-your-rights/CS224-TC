@@ -1,0 +1,431 @@
+{
+    "meta_data": {
+        "title": "Clockify - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2023-07-11 06:35:57",
+            "point_link": "https://edit.tosdr.org/points/17977",
+            "approval_status": "APPROVED",
+            "clause_text": "User must provide accurate and up-to-date information.\nThe User has to use accurate contact information.\nUsing false identity is strongly prohibited",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 06:36:06",
+            "point_link": "https://edit.tosdr.org/points/17962",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>However, as an exception to the retention periods in Section 4 the data may be processed to determine, pursue or defend claims and counterclaims.",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:35:28",
+            "point_link": "https://edit.tosdr.org/points/17956",
+            "approval_status": "APPROVED",
+            "clause_text": "Email address, password, time zone and sometimes profile photo, name and personal API key",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:36:05",
+            "point_link": "https://edit.tosdr.org/points/17954",
+            "approval_status": "APPROVED",
+            "clause_text": "Your continued access or use of the Website after any such change will constitute your acceptance of these changes.",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18065",
+            "approval_status": "APPROVED",
+            "clause_text": "NO CLASS ACTION <p>Except where prohibited by law, as a condition of using the Software and/or Service, you agree that any and all disputes, claims and causes of action arising out of or connected with the Software and/or Service, shall be resolved individually, without resort to any form of class action.</p>\n<p>Any arbitration under these Terms of Use will take place on an individual basis.\nclass arbitrations and class/representative/collective actions are not permitted.\nTHE PARTIES AGREE THAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER PARTY ONLY IN EACH INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS, COLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A PRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER.\nFurther, unless both you and COING agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:06:31",
+            "point_link": "https://edit.tosdr.org/points/9288",
+            "approval_status": "APPROVED",
+            "clause_text": "This is the list of processors and sub-processors with whom we share your personal data:</p> PROCESSOR ROLE SEAT The Rocket Science Group, LLC (MailChimp) Email services based on Cloud USA Google, Inc.\nAnalytics USA Amazon Web Services, Inc.\nCloud Infrastructure (IaaS) USA SendGrid, Inc.\nE-mail services based on Cloud USA Stripe, Inc.\nPayment provider USA Zendesk, Inc.\nEmail and chat support USA <p>We may also share your personal data with our outside accountants, legal counsels and auditors.</p>",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:35:33",
+            "point_link": "https://edit.tosdr.org/points/17957",
+            "approval_status": "APPROVED",
+            "clause_text": "When subscribing to any of the Paid Plans or when changing any Paid Plan in accordance with the Terms of Use, this information is being collected by a third party processor.",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:36:09",
+            "point_link": "https://edit.tosdr.org/points/17978",
+            "approval_status": "APPROVED",
+            "clause_text": "User is responsible and liable for any use of the Website, Services or Clockify through Client's account, whether authorized or unauthorized.COING cannot be held liable for any loss, damages or expenses incurred due to User's failure to comply with this obligation",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:36:09",
+            "point_link": "https://edit.tosdr.org/points/17964",
+            "approval_status": "APPROVED",
+            "clause_text": "If the personal data we have about you is incorrect, you have the right to request that we correct those data.",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18063",
+            "approval_status": "APPROVED",
+            "clause_text": "This Agreement and any matter or dispute arising out of or related to the subject matter of the Agreement shall be governed, construed, and enforced in accordance with the Laws of the State of California, without regard to its conflict of laws rules.",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:35:46",
+            "point_link": "https://edit.tosdr.org/points/17963",
+            "approval_status": "APPROVED",
+            "clause_text": "You can send us a request for a copy of the personal data we hold about you.</p>",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "This service will warn users about website maintenance",
+            "rating": "good",
+            "description": "Users will be notified before their experience is impacted due to website maintenance.",
+            "last_updated": "2023-07-11 06:35:55",
+            "point_link": "https://edit.tosdr.org/points/17971",
+            "approval_status": "APPROVED",
+            "clause_text": "planned downtime (of which we will give advance notice)",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You will be notified about website maintenance",
+                "href": "https://edit.tosdr.org/cases/159"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:06:30",
+            "point_link": "https://edit.tosdr.org/points/9282",
+            "approval_status": "APPROVED",
+            "clause_text": "COING will never:</p>\n<ul>\n<li>— Sell any kind of personal information or data",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "When the service wants to change its terms, users are notified a week or more in advance.",
+            "rating": "good",
+            "description": "Users will be notified a week before the Terms are somehow updated, which lets them a reasonable amount of time to carefully read the changes and perhaps stop using the services if they do not longer agree.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17972",
+            "approval_status": "APPROVED",
+            "clause_text": "COING may revise and update these Terms of Use or any part of Agreement at any time.</p>\n<p>If you use Cloud Clockify, you are cautioned to review the Terms of Use posted on the Website periodically.\nAny changes shall enter into force upon being published on the Website and/or after at least 10 days after you have received a notification from us via email.",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "When the service wants to change its terms, you are notified a week or more in advance.",
+                "href": "https://edit.tosdr.org/cases/123"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:35:34",
+            "point_link": "https://edit.tosdr.org/points/17958",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the right to withdraw your consent at any time",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:02:56",
+            "point_link": "https://edit.tosdr.org/points/17959",
+            "approval_status": "APPROVED",
+            "clause_text": "You may unsubscribe from receiving a newsletter from us.\nIf you wish to do so, simply follow the instructions found at the end of each e-mail.\nWe may use your email for this purpose until you unsubscribe or until you delete your User Account.",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "Prohibits the publishing of personally identifiable information without the owner’s consent",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:35:59",
+            "point_link": "https://edit.tosdr.org/points/17979",
+            "approval_status": "APPROVED",
+            "clause_text": "User will not engage in activity that violates the privacy of others",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:02",
+            "point_link": "https://edit.tosdr.org/points/18058",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify and hold COING harmless from any and all demands, losses, liability, claims or expenses (including attorneys' fees) made against COING by any third party due to or arising out of or in connection with your use of Clockify and the Services or, if you are an Admin User, in connection with the Regular user's use, including but not limited to:</p>\n<ul>\n<li>(a) your use of the Service and/or Software in violation of this Agreement and any applicable law, and/or arising from a breach of this Agreement and any applicable law;</li>\n<li>(b) any third-party claim of infringement of copyright or other intellectual property rights or invasion of privacy arising from hosting your User Content on the Software, and/or your making available thereof to other users of the Software, and/or the actual use of your User Content by other users of the Software or related services in accordance with the Agreement;</li>\n<li>(c) any activity related to your account, be it by you or by any other person accessing your account with or without your consent unless such activity was caused by the act or default of COING.</li>\n</ul>\n<p>In addition, in relation to Server Clockify, Client shall defend, indemnify and hold harmless COING, its officers, directors, employees, contractors, agents and representatives from and against all claims made by, and all damages, liabilities, penalties, fines, costs and expenses payable to, any third party, which arise from Client's or its End User's:</p>\n<ul>\n<li>(a) breach of this Agreement;</li>\n<li>(b) use of the Service;</li>\n<li>(c) processing of User's personal data;</li>\n<li>(d) contributions to the Service.\nor</li>\n<li>(e) infringement of any Intellectual Property or any proprietary or personal right.</li>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18062",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Should COING enable access to data from another service provider through linking, COING does not carry responsibility for such information.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17975",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If your Paid Plan involves a recurring payment of a fee, unless you notify us before a charge that you want to cancel or do not want to automatically renew your subscription, you understand it will automatically continue and you authorize us (without notice to you, unless required by the applicable law) to collect the then-applicable fees and any taxes using any credit card we have on record for you.</p>\n<p>You hereby authorize COING to charge to your designated account, relating to the Services you select, and you agree to pay all such fees in accordance with the TOU.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service can delete your content if you violate the terms",
+            "rating": "neutral",
+            "description": "Content infringing the Terms of Service (or the Acceptable Use Policy or equivalent) may be removed, with or without notice.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17973",
+            "approval_status": "APPROVED",
+            "clause_text": "I think this may be a better case. The terms of \"limited\" and \"revocable authorization\" lead me to believe that they can delete your account if you are not in accordance with the Agreement",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "Your content can be deleted if you violate the terms",
+                "href": "https://edit.tosdr.org/cases/377"
+            }
+        },
+        {
+            "title": "This service has a no refund policy with some exceptions",
+            "rating": "neutral",
+            "description": "Payments can be refunded if some requirements are fulfilled.",
+            "last_updated": "2023-07-11 10:13:58",
+            "point_link": "https://edit.tosdr.org/points/17976",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Paid fees are non-refundable.\nIf the Agreement or a Paid Plan or a Server Plan is terminated or varied during a certain billing period, the User shall not be entitled to any refund concerning that billing period.\nIn addition, payments made for the future billing periods will not be refunded unless the Parties explicitly agree otherwise.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "This service has a no refund policy with some exceptions",
+                "href": "https://edit.tosdr.org/cases/398"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:02:56",
+            "point_link": "https://edit.tosdr.org/points/17969",
+            "approval_status": "APPROVED",
+            "clause_text": "When we say \"<b>User Account</b>\" we mean an account provided by Clockify, whose purpose is to allow User to access and use Content or certain parts of it and create User Content.",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:35:49",
+            "point_link": "https://edit.tosdr.org/points/17967",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you are a natural person, you need to be at the age of majority (legal age) to be able to use the Service.\nLegal age depends on the national legislation applicable to the User (probably you need to be 18 years old).\nBy using the Service, you represent that you are of legal age.\nIf you are not at the required age, please stop using the Service or Clockify immediately.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:02:55",
+            "point_link": "https://edit.tosdr.org/points/17981",
+            "approval_status": "APPROVED",
+            "clause_text": "The User may not violate any applicable law or regulations in connection with your use of the Website, Services or Software.</li>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18061",
+            "approval_status": "APPROVED",
+            "clause_text": "COING has no control over such websites and shall not carry any responsibility neither for the availability of those websites nor for the Terms of Use and Privacy Policy that applies to their visitors and users.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18060",
+            "approval_status": "APPROVED",
+            "clause_text": "Our failure to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision.",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18059",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of this Agreement is found invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Agreement, which shall remain in full force and effect.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in San Francisco",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:14:01",
+            "point_link": "https://edit.tosdr.org/points/18064",
+            "approval_status": "APPROVED",
+            "clause_text": "The seat of arbitration shall be in San Francisco.</p>",
+            "point_source": "https://clockify.me/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 06:35:49",
+            "point_link": "https://edit.tosdr.org/points/17966",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to change Privacy Policy from time to time at our sole discretion.\nIf we make any changes, we will publish the new rules on this web page and, if we have your e-mail, we will notify you directly.</p>",
+            "point_source": "https://clockify.me/privacy",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

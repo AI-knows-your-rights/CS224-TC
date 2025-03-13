@@ -1,0 +1,67 @@
+{
+    "meta_data": {
+        "title": "Return YouTube Dislike - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 06:27:08",
+            "point_link": "https://edit.tosdr.org/points/29744",
+            "approval_status": "APPROVED",
+            "clause_text": "These addresses aren't stored on a hard drive, and therefore aren't logged.",
+            "point_source": "https://github.com/Anarios/return-youtube-dislike/blob/main/Docs/SECURITY-FAQ.md",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "Your personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 06:25:14",
+            "point_link": "https://edit.tosdr.org/points/28121",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>None of the saved data is shared with any third parties,",
+            "point_source": "https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/privacy/",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 06:27:04",
+            "point_link": "https://edit.tosdr.org/points/28120",
+            "approval_status": "APPROVED",
+            "clause_text": "The extension's code is public and you can see it for yourself.",
+            "point_source": "https://github.com/Anarios/return-youtube-dislike/blob/main/Docs/SECURITY-FAQ.md",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:27:09",
+            "point_link": "https://edit.tosdr.org/points/29745",
+            "approval_status": "APPROVED",
+            "clause_text": "Of course it will never be 100% accurate so it's up to you to decide whether you trust the count or not.</p>",
+            "point_source": "https://github.com/Anarios/return-youtube-dislike/blob/main/Docs/SECURITY-FAQ.md",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        }
+    ]
+}

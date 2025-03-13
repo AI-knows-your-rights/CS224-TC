@@ -1,0 +1,935 @@
+{
+    "meta_data": {
+        "title": "Reddit - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:09:12",
+            "point_link": "https://edit.tosdr.org/points/13308",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We collect the content you submit to the Services. This includes your posts and comments including saved drafts, videos you broadcast via RPAN, your messages with other users (e.g., private messages, chats, and modmail), and your reports and other communications with moderators and with us.\"",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "You sign away moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 06:33:57",
+            "point_link": "https://edit.tosdr.org/points/9849",
+            "approval_status": "APPROVED",
+            "clause_text": "you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "The service can delete specific content without prior notice and without a reason",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:04:34",
+            "point_link": "https://edit.tosdr.org/points/8179",
+            "approval_status": "APPROVED",
+            "clause_text": "we may, in our sole discretion, delete or remove Your Content at any time and for any reason",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:04:58",
+            "point_link": "https://edit.tosdr.org/points/13330",
+            "approval_status": "APPROVED",
+            "clause_text": "We may retain certain information for legitimate business purposes or as required by law.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:03:56",
+            "point_link": "https://edit.tosdr.org/points/13318",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds and advertising technology.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:02:58",
+            "point_link": "https://edit.tosdr.org/points/13326",
+            "approval_status": "APPROVED",
+            "clause_text": "With linked services.</em> If you link your Reddit account with a third-party service, Reddit will share the information you authorize with that third-party service.\nYou can control this sharing as described in \"Your Choices\" below.</li>\n<li>\n<em>With our service providers.</em> We may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:05:35",
+            "point_link": "https://edit.tosdr.org/points/13319",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, when you visit a site that uses Reddit embeds, we may receive information about the web page you visited.\nSimilarly, if an advertiser incorporates Reddit’s ad technology, Reddit may receive limited information about your activity on the advertiser’s site or app, such as whether you bought something from the advertiser.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:02:57",
+            "point_link": "https://edit.tosdr.org/points/13310",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-12-10 19:18:19 UTC, ChristianBennett (39035)  wrote:\n          Your perspective on this subject is refreshing and insightful. I love how you approach it with both nuance and clarity, making it easy to grasp without oversimplifying things. The research you’ve done is ragdoll archers evident, and it has enriched the conversation around this topic. I’ll be thinking about this subject for quite some time.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:33:11",
+            "point_link": "https://edit.tosdr.org/points/13393",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable,",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:33:57",
+            "point_link": "https://edit.tosdr.org/points/8177",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:04:34",
+            "point_link": "https://edit.tosdr.org/points/8176",
+            "approval_status": "APPROVED",
+            "clause_text": "This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit.",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:04:41",
+            "point_link": "https://edit.tosdr.org/points/13323",
+            "approval_status": "APPROVED",
+            "clause_text": "Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:05:44",
+            "point_link": "https://edit.tosdr.org/points/13313",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"We may log information when you access and use the Services. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), device settings, pages visited, links clicked, the requested URL, and search terms.\"",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:09:12",
+            "point_link": "https://edit.tosdr.org/points/13316",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-22 01:35:50 UTC, otis (28844)  wrote:\n          Experience the thrill of epic battles, heart-pounding action, and pulse-pounding excitement as you journey through a fantastical realm unlike any other. Strands NYT",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service receives your location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:03:52",
+            "point_link": "https://edit.tosdr.org/points/13315",
+            "approval_status": "APPROVED",
+            "clause_text": "We may receive and process information about your location.\nFor example, with your consent, we may collect information about the specific location of your mobile device (for example, by using GPS or Bluetooth).\nWe may also receive location information from you when you choose to share such information on our Services, including by associating your content with a location, or we may derive your approximate location from other information about you, including your IP address.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:03:52",
+            "point_link": "https://edit.tosdr.org/points/13317",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we may receive demographic or interest information about you from third parties, including advertisers (such as the fact that an advertiser is interested in showing you an ad), and combine it with our own data using a common account identifier such as a hash of an email address or a mobile-device ID.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:05:38",
+            "point_link": "https://edit.tosdr.org/points/13321",
+            "approval_status": "APPROVED",
+            "clause_text": "Programmatic ads</em>\n<br>We partner with third-party programmatic ad exchanges to show advertisements relevant to your interests.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:05:31",
+            "point_link": "https://edit.tosdr.org/points/13337",
+            "approval_status": "APPROVED",
+            "clause_text": "We may store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers.\nBy accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S.\nand other countries, where you may not have the same rights as you do under local law.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:05:32",
+            "point_link": "https://edit.tosdr.org/points/13322",
+            "approval_status": "APPROVED",
+            "clause_text": "We partner with audience measurement companies (including Quantcast and Nielsen) to learn demographic information about the population that uses Reddit.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data",
+            "rating": "good",
+            "description": "In case the Government governing the Terms requests personal data of a user of this service, they will make reasonable efforts to inform/notify the user (e.g. warrant canary).",
+            "last_updated": "2023-07-11 10:08:27",
+            "point_link": "https://edit.tosdr.org/points/5613",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-06-13 08:10:35 UTC, cehasa3703 (33996)  wrote:\n          “Siapa yang butuh jimat keberuntungan jika Anda punya mesin slot favorit?”  urutan slot terbaik",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "The service promises to inform and/or notify you regarding government inquiries that may involve your personal data",
+                "href": "https://edit.tosdr.org/cases/165"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:04:34",
+            "point_link": "https://edit.tosdr.org/points/8175",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You retain any ownership rights you have in Your Content",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 10:04:34",
+            "point_link": "https://edit.tosdr.org/points/8173",
+            "approval_status": "APPROVED",
+            "clause_text": "Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you.",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 10:04:48",
+            "point_link": "https://edit.tosdr.org/points/13329",
+            "approval_status": "APPROVED",
+            "clause_text": "We store the information we collect for as long as it is necessary for the purpose(s) for which we originally collected it.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:04:55",
+            "point_link": "https://edit.tosdr.org/points/13331",
+            "approval_status": "APPROVED",
+            "clause_text": "You can also request a copy of the personal information Reddit maintains about you by following the process described here.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:46",
+            "point_link": "https://edit.tosdr.org/points/13324",
+            "approval_status": "APPROVED",
+            "clause_text": "Although some parts of the Services may be private or quarantined, they may become public (e.g., at the moderator’s option in the case of private communities) and you should take that into consideration before posting to the Services.</p>",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:03:41",
+            "point_link": "https://edit.tosdr.org/points/13306",
+            "approval_status": "APPROVED",
+            "clause_text": "What We Collect",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:34:52",
+            "point_link": "https://edit.tosdr.org/points/13307",
+            "approval_status": "APPROVED",
+            "clause_text": "(and How it is Used and Shared)",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:04:48",
+            "point_link": "https://edit.tosdr.org/points/13325",
+            "approval_status": "APPROVED",
+            "clause_text": "Reddit only shares nonpublic information about you in the following ways.\nWe do not sell this information.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:09:12",
+            "point_link": "https://edit.tosdr.org/points/13335",
+            "approval_status": "APPROVED",
+            "clause_text": "We also offer you choices about receiving personalized advertisements.\nYou can adjust how we personalize advertisements for you by visiting your ads preferences in your account settings, or here if you use Reddit in a web browser.\nYou can also use device-level settings to control personalized advertisements on Android (“Reset advertising ID” and “Opt out of Ads Personalization”) and iOS (“Limit Ad Tracking”) devices.\nYou may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 10:07:24",
+            "point_link": "https://edit.tosdr.org/points/13409",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-10 08:11:43 UTC, cexixak648  (29694)  Suspended wrote:\n          Great Information sharing .. I am very happy to read this article .. thanks for giving us go through info.Fantastic nice. I appreciate this post. Https //Www.Microsoft.Com /Ink",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:04:55",
+            "point_link": "https://edit.tosdr.org/points/13327",
+            "approval_status": "APPROVED",
+            "clause_text": "Their use of personal data will be subject to appropriate confidentiality and security measures.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/13302",
+            "approval_status": "APPROVED",
+            "clause_text": "Rule 5</strong>\n<p>You don’t have to use your real name to use Reddit, but don’t impersonate an individual or an entity in a misleading or deceptive manner.</p>",
+            "point_source": "https://www.redditinc.com/policies/content-policy",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:02:58",
+            "point_link": "https://edit.tosdr.org/points/13332",
+            "approval_status": "APPROVED",
+            "clause_text": "You may delete your account information at any time from the user preferences page.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:32:55",
+            "point_link": "https://edit.tosdr.org/points/13336",
+            "approval_status": "APPROVED",
+            "clause_text": "You may opt out of receiving some or all categories of promotional communications from us by following the instructions in those communications or by updating your email options in your account preferences here.\nIf you opt out of promotional communications, we may still send you non-promotional communications, such as information about your account or your use of the Services.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:14",
+            "point_link": "https://edit.tosdr.org/points/13411",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-01 11:58:29 UTC, cehasa3703 (33996)  wrote:\n          You understand your projects stand out of the crowd. There is something unique about them. It seems to me all of them are brilliant.  ngentot",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 06:34:23",
+            "point_link": "https://edit.tosdr.org/points/9895",
+            "approval_status": "APPROVED",
+            "clause_text": "ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:09:11",
+            "point_link": "https://edit.tosdr.org/points/13410",
+            "approval_status": "APPROVED",
+            "clause_text": "If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes these costs and any applicable taxes and fees.</p>",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:24",
+            "point_link": "https://edit.tosdr.org/points/13398",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (“<strong>Third-Party Content</strong>”).\nThird-Party Content is not under our control, and we are not responsible for any third party’s websites, products, or services.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:01",
+            "point_link": "https://edit.tosdr.org/points/13396",
+            "approval_status": "APPROVED",
+            "clause_text": "to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "This service employs a broad copyright license over user content including the right to distribute through any media",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:32",
+            "point_link": "https://edit.tosdr.org/points/8178",
+            "approval_status": "APPROVED",
+            "clause_text": "display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:21:59",
+            "point_link": "https://edit.tosdr.org/points/25025",
+            "approval_status": "APPROVED",
+            "clause_text": "IN NO EVENT AND UNDER NO THEORY OF LIABILITY, INCLUDING CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, WARRANTY, OR OTHERWISE, WILL THE REDDIT ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS ARISING FROM OR RELATING TO THESE TERMS OR THE SERVICES, INCLUDING THOSE ARISING FROM OR RELATING TO CONTENT MADE AVAILABLE ON THE SERVICES THAT IS ALLEGED TO BE DEFAMATORY, OFFENSIVE, OR ILLEGAL.\nACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:22:46",
+            "point_link": "https://edit.tosdr.org/points/25620",
+            "approval_status": "APPROVED",
+            "clause_text": "Reddit User Agreement Effective October 15, 2020.\nLast Revised September 15, 2020",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:04:55",
+            "point_link": "https://edit.tosdr.org/points/13334",
+            "approval_status": "APPROVED",
+            "clause_text": "If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies.\nPlease note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 06:33:55",
+            "point_link": "https://edit.tosdr.org/points/8171",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-02-03 06:18:36 UTC, jojiken (32646)  wrote:\n          get paid to travel appget paid to travel appget paid to travel appget paid to travel appget paid to travel app get paid to travel app",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:54",
+            "point_link": "https://edit.tosdr.org/points/13305",
+            "approval_status": "APPROVED",
+            "clause_text": "The Services may contain information, text, links, graphics, photos, videos, or other materials (“<strong>Content</strong>”), including Content created or submitted to the Services by you or through your Account (“<strong>Your Content</strong>”).\nWe take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content.",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:09:13",
+            "point_link": "https://edit.tosdr.org/points/13413",
+            "approval_status": "APPROVED",
+            "clause_text": "WHILE REDDIT ATTEMPTS TO MAKE YOUR ACCESS TO AND USE OF OUR SERVICES SAFE, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.</p>",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/13301",
+            "approval_status": "APPROVED",
+            "clause_text": "Rule 2</strong>\n<p>Abide by community rules.\nPost authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including spamming, vote manipulation, ban evasion, or subscriber fraud) or otherwise interfere with or disrupt Reddit communities.",
+            "point_source": "https://www.redditinc.com/policies/content-policy",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:34:23",
+            "point_link": "https://edit.tosdr.org/points/9892",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:02:58",
+            "point_link": "https://edit.tosdr.org/points/13300",
+            "approval_status": "APPROVED",
+            "clause_text": "Rule 1</strong>\n<p>Remember the human.\nReddit is a place for creating community and belonging, not for attacking marginalized or vulnerable groups of people.\nEveryone has a right to use Reddit free of harassment, bullying, and threats of violence.\nCommunities and users that incite violence or that promote hate based on identity or vulnerability will be banned",
+            "point_source": "https://www.redditinc.com/policies/content-policy",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "You cannot delete your contributions, but it makes sense for this service",
+            "rating": "neutral",
+            "description": "For services that are under an open license where your contributions are for public knowledge (such as Wikipedia and ToS;DR).",
+            "last_updated": "2023-07-11 10:06:00",
+            "point_link": "https://edit.tosdr.org/points/13333",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-05-29 08:22:25 UTC, balancedbites (36837)  wrote:\n          Enjoy meal delivery in Dubai, United Arab Emirates from Balanced Bites and discover a proper diet for healthy body. Our nutrient-dense, tasty meal plans provide a range of options to help you achieve your wellness objectives. Savor the ease of having chef-prepared meals delivered right to your door, which simplifies eating well.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "You cannot delete your contributions, but it makes sense for this service",
+                "href": "https://edit.tosdr.org/cases/394"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:09:12",
+            "point_link": "https://edit.tosdr.org/points/13387",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Children under the age of 13 are not allowed to create an Account or otherwise use the Services.\nAdditionally, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have received verifiable consent from your parent or legal guardian.</p>\n<p>In addition, certain of our Services or portions of our Services require you to be 18 years of age or older, so please read all notices and any Additional Terms carefully when you access the Services.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:09:12",
+            "point_link": "https://edit.tosdr.org/points/13391",
+            "approval_status": "APPROVED",
+            "clause_text": "Because you alone are responsible for Your Content, you may expose yourself to liability if you post or share Content without all necessary rights.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:05:59",
+            "point_link": "https://edit.tosdr.org/points/13328",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share information about you that has been aggregated or anonymized such that it cannot reasonably be used to identify you.\nFor example, we may show the total number of times a post has been upvoted without identifying who the visitors were, or we may tell an advertiser how many people saw their ad.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:09:13",
+            "point_link": "https://edit.tosdr.org/points/13414",
+            "approval_status": "APPROVED",
+            "clause_text": "REDDIT ENTITIES DO NOT WARRANT THAT THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR FREE.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:33:12",
+            "point_link": "https://edit.tosdr.org/points/13399",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form, or by contacting:</p>\n<p>Copyright Agent<br>Reddit, Inc.<br>1455 Market Street, Suite 1600<br>San Francisco, CA 94103<br>copyright@reddit.com</p>",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:33:55",
+            "point_link": "https://edit.tosdr.org/points/9851",
+            "approval_status": "APPROVED",
+            "clause_text": "If any provision of these Terms is, for any reason, held to be illegal, invalid, or unenforceable, the rest of the Terms will remain in effect",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:03:53",
+            "point_link": "https://edit.tosdr.org/points/13314",
+            "approval_status": "APPROVED",
+            "clause_text": "We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests, and similar technologies.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:03:37",
+            "point_link": "https://edit.tosdr.org/points/13304",
+            "approval_status": "APPROVED",
+            "clause_text": "You will not license, sell, or transfer your Account without our prior written approval.</p>",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:33:55",
+            "point_link": "https://edit.tosdr.org/points/9850",
+            "approval_status": "APPROVED",
+            "clause_text": "Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:04:34",
+            "point_link": "https://edit.tosdr.org/points/8181",
+            "approval_status": "APPROVED",
+            "clause_text": "Use the Services to violate applicable law",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:04:34",
+            "point_link": "https://edit.tosdr.org/points/8172",
+            "approval_status": "APPROVED",
+            "clause_text": "p>\n<p>You are solely responsible for the information associated with your Account and anything that happens related to your Account",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:09:14",
+            "point_link": "https://edit.tosdr.org/points/13412",
+            "approval_status": "APPROVED",
+            "clause_text": "INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.",
+            "point_source": "http://www.reddit.com/help/useragreement",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:37",
+            "point_link": "https://edit.tosdr.org/points/13309",
+            "approval_status": "APPROVED",
+            "clause_text": "Reddit uses industry-standard payment processor services (for example, Stripe) to handle payment information.",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:55",
+            "point_link": "https://edit.tosdr.org/points/13312",
+            "approval_status": "APPROVED",
+            "clause_text": "<br>We may log information when you access and use the Services.\nThis may include your IP address,",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Users agree to comply with the law of the service's country",
+            "rating": "neutral",
+            "description": "By using the service, you agree to comply with the applicable laws of the service's jurisdiction, regardless of your location.",
+            "last_updated": "2023-07-11 06:34:01",
+            "point_link": "https://edit.tosdr.org/points/9864",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-12-14 12:14:11 UTC, PegLegge (29370)  Suspended wrote:\n          各大企業、公司團體服推薦製作品牌制服；團體服外套與公司制服訂做服務。設計POLO衫客製開發、T恤潮牌製作推薦量大印製工廠，擁有團體T恤製作及設計經驗豐富！T恤設計版型到生產，衣服訂製完善一條龍流程，致力於公司制服品牌形象完美呈現；台北/桃園/新竹/高雄區，團體服製作專業團隊，全省服務 公司制服",
+            "point_source": "https://www.redditinc.com/policies/user-agreement",
+            "case": {
+                "text": "You agree to comply with the law of the service's country",
+                "href": "https://edit.tosdr.org/cases/237"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 06:33:55",
+            "point_link": "https://edit.tosdr.org/points/5615",
+            "approval_status": "APPROVED",
+            "clause_text": "Most modern web browsers give you the option to send a Do Not Track signal to the sites you visit, indicating that you do not wish to be tracked.\nHowever, there is no accepted standard for how a site should respond to this signal, and we do not take any action in response to this signal",
+            "point_source": "https://www.redditinc.com/policies/privacy-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        }
+    ]
+}

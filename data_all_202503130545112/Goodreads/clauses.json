@@ -1,0 +1,473 @@
+{
+    "meta_data": {
+        "title": "Goodreads - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:12:18",
+            "point_link": "https://edit.tosdr.org/points/15350",
+            "approval_status": "APPROVED",
+            "clause_text": "You acknowledge\nthat Goodreads has the perpetual and irrevocable right to delete any or all of\nyour content and data from Goodreads's servers and from the Service, whether\nintentionally or unintentionally, and for any reason or no reason, without any\nliability of any kind to you or any other party.\n<",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 10:12:17",
+            "point_link": "https://edit.tosdr.org/points/15356",
+            "approval_status": "APPROVED",
+            "clause_text": "User Content includes, but is not\nlimited to, reviews, comments, and visual content.\nIf you remove User Content, copies may remain viewable in\ncached and archived pages or if other users have copied or stored your User Content.\n</p>",
+            "point_source": "https://www.goodreads.com/about/privacy",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for purposes including advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:12:19",
+            "point_link": "https://edit.tosdr.org/points/15358",
+            "approval_status": "APPROVED",
+            "clause_text": "Delivering content, including ads, relevant to your interests on sites belonging to us and our affiliates and\nthird-party sites (see the\nInterest Based Ads\nnotice for how we use cookies in serving interest-based ads).",
+            "point_source": "https://www.goodreads.com/about/cookies_notice",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/7871",
+            "approval_status": "APPROVED",
+            "clause_text": "We reserve the right to amend this Agreement at any time in our sole discretion\nby posting the revised Agreement on the Goodreads.com website.\nYour continued\nuse of the Service after any such changes constitutes your acceptance of the\nrevised Agreement.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/7872",
+            "approval_status": "APPROVED",
+            "clause_text": "Goodreads may permanently or temporarily terminate, suspend, or otherwise refuse\nto permit your access to the Service without notice and liability for any reason,\nincluding if in Goodreads' sole determination you violate any provision of\nthis Agreement, or for no reason.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:12:19",
+            "point_link": "https://edit.tosdr.org/points/15355",
+            "approval_status": "APPROVED",
+            "clause_text": "Information collected from Goodreads is combined with your Amazon account without your permission.",
+            "point_source": "https://www.goodreads.com/about/privacy",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:04:09",
+            "point_link": "https://edit.tosdr.org/points/7873",
+            "approval_status": "APPROVED",
+            "clause_text": "3.\nLicense Grant <p>\nBy posting any User Content on the Service, you expressly grant to Goodreads a\nnonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable\nright to use, reproduce, modify, adapt, publish, perform, translate, create\nderivative works from, distribute, and display such content throughout the\nworld in any media.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:12:17",
+            "point_link": "https://edit.tosdr.org/points/15354",
+            "approval_status": "APPROVED",
+            "clause_text": "Any dispute or claim arising\nfrom or relating to this Agreement or a Kindle, any Reading Application, the\nSoftware, the Digital Content or the Service is subject to the binding\narbitration",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:12:18",
+            "point_link": "https://edit.tosdr.org/points/15361",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Approved third parties may also set cookies when you interact with our services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies.\"",
+            "point_source": "https://www.goodreads.com/about/cookies_notice",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:12:17",
+            "point_link": "https://edit.tosdr.org/points/15359",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies, pixels, and other technologies (collectively, “cookies”) to recognize your browser or device, learn\nmore about your interests, and provide you with essential features and services",
+            "point_source": "https://www.goodreads.com/about/cookies_notice",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:12:20",
+            "point_link": "https://edit.tosdr.org/points/15357",
+            "approval_status": "APPROVED",
+            "clause_text": "We use your personal information to display interest-based ads for features, products, and services that might be of\ninterest to you.",
+            "point_source": "https://www.goodreads.com/about/privacy",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:12:20",
+            "point_link": "https://edit.tosdr.org/points/15360",
+            "approval_status": "APPROVED",
+            "clause_text": "Approved third parties may also set cookies when you interact with our services.\nThird parties include search\nengines, providers of measurement and analytics services,",
+            "point_source": "https://www.goodreads.com/about/cookies_notice",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service provides archives of their terms of service so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 10:03:43",
+            "point_link": "https://edit.tosdr.org/points/7589",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\nUpdates <ul>\n<li>\nDecember 6, 2017: We have updated our terms of use agreement.\nPlease\nread this Agreement carefully.\n</li>\n<li>\nApril 7, 2010: We added\nTerms of Use for Writers,\nwhich apply to works submitted to the Service via the \"My Writing\" or\n\"Ebook\" features.\n</li>\n<li>\nOctober 16, 2008: We replaced our\nformer terms of use agreement\nwith a new agreement.\nPlease read this Agreement carefully.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 10:03:01",
+            "point_link": "https://edit.tosdr.org/points/15347",
+            "approval_status": "APPROVED",
+            "clause_text": "You do not have to register in order to visit Goodreads.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:34:44",
+            "point_link": "https://edit.tosdr.org/points/9974",
+            "approval_status": "APPROVED",
+            "clause_text": "By providing Goodreads your e-mail address you consent to us sending you Service-related notices, including any\nnotices required by law, in lieu of communication by postal mail.\nWe may also use your e-mail address to send you\nother messages, such as newsletters, changes to features, notices of member-initiated content, or special offers\n(“Other Messages”).\nIf you do not want to receive Other Messages, you may opt out by changing your e-mail\npreference settings in the account settings section of Goodreads.com after you have signed in using your\npersonal password.\nOpting out may prevent you from receiving e-mail messages regarding updates, improvements, or\noffers",
+            "point_source": "https://www.goodreads.com/about/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/9973",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to defend, indemnify and hold harmless Goodreads and its subsidiaries,\nagents, managers, and other affiliated companies, and their employees,\ncontractors, agents, officers and directors, from and against any and all claims,\ndamages, obligations, losses, liabilities, costs or debt, and expenses\n(including but not limited to attorney's fees) arising from: (i) your use of\nand access to the Service, including any data or content transmitted or\nreceived by you.\n(ii) your violation of any term of this Agreement, including\nwithout limitation your breach of any of the representations and warranties\nabove.\n(iii) your violation of any third-party right, including without\nlimitation any right of privacy, publicity rights or intellectual property\nrights.\n(iv) your violation of any law, rule or regulation of the United States\nor any other country.\n(v) any claim or damages that arise as a result of any\nof your User Content or any that are submitted via your account.\nor (vi) any\nother party’s access and use of the Service with your unique username, password\nor other appropriate security code.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:35:49",
+            "point_link": "https://edit.tosdr.org/points/6604",
+            "approval_status": "APPROVED",
+            "clause_text": "Terms of Use <p>\nThis Agreement was last revised on Dec 6, 2017.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 06:35:49",
+            "point_link": "https://edit.tosdr.org/points/6602",
+            "approval_status": "APPROVED",
+            "clause_text": "No Refunds.</strong> You may cancel your Goodreads Account at any time.\nhowever, there are no refunds for cancellation.\nAs permitted under the terms of\nthis Agreement, Goodreads has the right at any time for any reason or no reason\nto suspend or terminate your Account, terminate this Agreement, and/or refuse\nany and all current or future use of the Service without notice, refund,\nobligation, or liability to you.\nIn the event that Goodreads suspends or\nterminates your Goodreads Account or this Agreement, you understand and agree\nthat you shall receive no refund or exchange for any unused time on a subscription,\nany license or subscription fees for any portion of the Service, any content or\ndata associated with your Goodreads Account, or for anything else.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:12:16",
+            "point_link": "https://edit.tosdr.org/points/15353",
+            "approval_status": "APPROVED",
+            "clause_text": "GOODREADS WILL NOT\nBE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE SERVICE, OR\nFROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR\nOTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE,\nINCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND\nCONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can intervene in user disputes",
+            "rating": "neutral",
+            "description": "If you have a dispute with another user on this service, they can review the issue and intervene. However, they don't have an obligation to do so.",
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/9969",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-11-28 19:05:23 UTC, Talks (29826)  Suspended wrote:\n          Such a very useful article. Very interesting to read this article.I would like to thank you for the efforts you had made for writing this awesome article. reportage photo et video pour entreprise dans le var et cote d'azur",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "The service can intervene in user disputes",
+                "href": "https://edit.tosdr.org/cases/276"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:12:16",
+            "point_link": "https://edit.tosdr.org/points/15348",
+            "approval_status": "APPROVED",
+            "clause_text": "Subject to your compliance with this Agreement and your payment of any applicable\nfees, we grant you a limited, non-exclusive, non-transferable, non-sublicensable\nlicense to access and make personal and non-commercial use of the Service.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:34:40",
+            "point_link": "https://edit.tosdr.org/points/9971",
+            "approval_status": "APPROVED",
+            "clause_text": "commercial solicitation, chain letters, mass mailings, or any form of \"spam\"\nor unsolicited commercial electronic messages.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:08:45",
+            "point_link": "https://edit.tosdr.org/points/7592",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE AND ALL INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE)\nAND OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE\nSERVICE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, UNLESS OTHERWISE\nSPECIFIED IN WRITING.\nGOODREADS MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY\nKIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE SERVICE, OR THE INFORMATION,\nCONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED\nON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE, UNLESS OTHERWISE\nSPECIFIED IN WRITING.\nYOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICE IS AT\nYOUR SOLE RISK.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/7591",
+            "approval_status": "APPROVED",
+            "clause_text": "This Service is intended solely for Users who are thirteen (13) years of age or\nolder, and any registration, use or access to the Service by anyone under 13 is\nunauthorized, unlicensed, and in violation of this Agreement.\nIf you are under\n18 years of age you may use the Service only if you either are an emancipated\nminor or possess legal parental or guardian consent, and are fully able and\ncompetent to enter into the terms, conditions, obligations, affirmations,\nrepresentations, and warranties set forth in this Agreement, and to abide by\nand comply with this Agreement.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:03:43",
+            "point_link": "https://edit.tosdr.org/points/7593",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>No Waiver.</strong> No waiver of any term of this Agreement shall be\ndeemed a further or continuing waiver of such term or any other term, and\nGoodreads' failure to assert any right or provision under this Agreement shall\nnot constitute a waiver of such right or provision.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 10:15:53",
+            "point_link": "https://edit.tosdr.org/points/19857",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to\nnotify Goodreads immediately of any breach of security or unauthorized use of\nyour account.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:12:18",
+            "point_link": "https://edit.tosdr.org/points/15351",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that your copyrighted work has been copied in a way that constitutes\ncopyright infringement and is accessible via the Service, please send us the\nfollowing information:",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/7590",
+            "approval_status": "APPROVED",
+            "clause_text": "You are\nresponsible for maintaining the confidentiality of your account and password\nand for restricting access to your account, and you agree to accept responsibility\nfor all activities that occur under your account or password.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:12:17",
+            "point_link": "https://edit.tosdr.org/points/15349",
+            "approval_status": "APPROVED",
+            "clause_text": "You may\nuse the Service only as permitted by law.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:34:40",
+            "point_link": "https://edit.tosdr.org/points/9972",
+            "approval_status": "APPROVED",
+            "clause_text": "Goodreads has no control over,\nand assumes no responsibility for, the content, privacy policies, or practices\nof any third party websites or services.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:34:42",
+            "point_link": "https://edit.tosdr.org/points/9970",
+            "approval_status": "APPROVED",
+            "clause_text": "Goodreads shall have no liability for your interactions with\nother Users, or for any User’s action or inaction.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:12:18",
+            "point_link": "https://edit.tosdr.org/points/15352",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, GOODREADS DISCLAIMS ALL\nWARRANTIES,EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Users agree not to submit illegal content",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:17",
+            "point_link": "https://edit.tosdr.org/points/9968",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree\nnot to post User Content that is illegal",
+            "point_source": "https://www.goodreads.com/about/terms",
+            "case": {
+                "text": "You agree not to submit illegal content",
+                "href": "https://edit.tosdr.org/cases/238"
+            }
+        }
+    ]
+}

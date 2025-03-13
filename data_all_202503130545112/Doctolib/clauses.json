@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "Doctolib - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You must provide your identifiable information",
+            "rating": "bad",
+            "description": "The Service requires users to provide their identifiable information, including phone number, iD number or other information, even though this data collection isn’t essential for the purposes of the service. They may still allow pseudonyms in the foreground.",
+            "last_updated": "2021-07-01 17:26:57",
+            "point_link": "https://edit.tosdr.org/points/23337",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.doctolib.fr/sessions/new",
+            "case": {
+                "text": "You must provide your identifiable information",
+                "href": "https://edit.tosdr.org/cases/409"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:48:07",
+            "point_link": "https://edit.tosdr.org/points/20548",
+            "approval_status": "APPROVED",
+            "clause_text": "_gcl_au (Google Adwords)</b> Ce cookie permet de mesurer l’efficacité d’une campagne publicitaire via Google Adwords 3 mois",
+            "point_source": "https://www.doctolib.fr/cookies",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23336",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>\n<p>A l’expiration des durées de conservation, les Données à caractère personnel des Utilisateurs sont supprimées de façon définitive ou anonymisées.</p>",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "Google Analytics is used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 04:48:06",
+            "point_link": "https://edit.tosdr.org/points/20547",
+            "approval_status": "APPROVED",
+            "clause_text": "_ga (Google Analytics)</b> Ce cookie permet d’identifier un visiteur unique 13 mois <b>_gid (Google Analytics)</b> Ce cookie permet d’identifier un visiteur unique 1 jour <b>_gat (Google Analytics)</b> Ce cookie permet d’identifier un visiteur unique Session Cookies publicitaires <p>Doctolib utilise des Cookies à des fins publicitaires, lesquels permettent de proposer aux internautes des publicités personnalisées.</p>",
+            "point_source": "https://www.doctolib.fr/cookies",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23332",
+            "approval_status": "APPROVED",
+            "clause_text": "Droit d'accès</strong> (article 15 RGPD) <strong>et de rectification</strong> (article 16 RGPD), de mise à jour, de complétude des Données à caractère personnel des Utilisateurs : les Utilisateurs ont le droit d’accéder aux Données à caractère personnel les concernant dont dispose Doctolib et en demander la rectification ou la mise à jour.</p>\n</li>\n<li>\n<p>\n<strong>Droit à l’effacement</strong> des Données à caractère personnel des Utilisateurs (article 17 du RGPD), lorsqu (i) ’elles ne sont plus nécessaires, (ii) l’Utilisateur a retiré son consentement, (iii) l’Utilisateur s’oppose au traitement, (iv) le traitement est illicite ou pour respecter une obligation légale.",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23329",
+            "approval_status": "APPROVED",
+            "clause_text": "ORIGINE DES DONNEES A CARACTERE PERSONNEL",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:19:48",
+            "point_link": "https://edit.tosdr.org/points/23334",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Droit à la limitation</strong> du traitement des Données à caractère personnel des Utilisateurs (article 18 RGPD) : Ce droit signifie que le traitement des Données à caractère personnel des Utilisateurs auquel Doctolib peut procéder est limité, de sorte que les Données à caractère personnel sont conservées, mais que Doctolib ne peut pas les utiliser ni les traiter.</p>\n</li>",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 04:48:05",
+            "point_link": "https://edit.tosdr.org/points/20541",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>3.1 Tout Utilisateur peut accéder au Service d’Annuaire sans avoir besoin de se créer un compte.",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "You aren’t forced into binding arbitration in case of disputes",
+            "rating": "good",
+            "description": "Binding Arbitration is a dispute resolution method involving a neutral third party which will render a decision instead of going to court. Since the arbitrator can decide the outgoing of a dispute without evidences or a legal basis, it is preferable that users decide whether they want or not their dispute to be resolved this way.",
+            "last_updated": "2023-07-11 06:19:50",
+            "point_link": "https://edit.tosdr.org/points/23339",
+            "approval_status": "APPROVED",
+            "clause_text": "Toutes difficultés relatives à la validité, l’application ou à l’interprétation du Contrat seront soumises, à défaut d’accord amiable, à la juridiction des Tribunaux compétents conformément au droit français.\n</p>",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "You aren’t forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/335"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23335",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Droit à la portabilité</strong> des Données à caractère personnel que les Utilisateurs auront fournies, lorsque ces Données à caractère personnel font l’objet de traitements automatisés fondés sur leur consentement ou sur un contrat (article 20 RGPD).\nLes Utilisateurs ont le droit de déplacer, copier ou transmettre les Données à caractère personnel les concernant de la base de donnée de Doctolib vers une autre.</p>",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23330",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>En cas de modification significative de la présente Politique (relatives aux finalités de traitement, aux Données à caractère personnel collectées, à l’exercice des droits, au transfert des Données à caractère personnel des Utilisateurs), Doctolib s’engage à en informer les Utilisateurs par tout moyen écrit dans un délai minimum de trente (30) jours avant leur date de prise d’effet.\n</p>\n<p>En cas de désaccord de l’Utilisateur avec les termes de la nouvelle Politique, ce dernier pourra supprimer son compte Doctolib.",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "A list of all cookies set by the website is provided",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23328",
+            "approval_status": "APPROVED",
+            "clause_text": "Nom du cookie et du partenaire Finalité Durée de conservation <b>patient_awareness_page_seen_at (Doctolib)</b>",
+            "point_source": "https://www.doctolib.fr/cookies",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:19:45",
+            "point_link": "https://edit.tosdr.org/points/23331",
+            "approval_status": "APPROVED",
+            "clause_text": "FINALITÉS ET TRAITEMENTS DES DONNEES A CARACTERE PERSONNEL COLLECTEES",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:48:06",
+            "point_link": "https://edit.tosdr.org/points/20546",
+            "approval_status": "APPROVED",
+            "clause_text": "Doctolib s’engage à respecter la réglementation française et européenne sur la protection des données personnelles, en particulier le Règlement (UE) général sur la protection des données du 27 avril 2016 (“RGPD”) et la Loi Informatique et Libertés du 6 janvier 1978 modifiée (“LIL”).</p>",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:48:06",
+            "point_link": "https://edit.tosdr.org/points/20550",
+            "approval_status": "APPROVED",
+            "clause_text": "Ces Cookies sont indispensables à la navigation sur la Plateforme Doctolib.\nLeur suppression peut entrainer des difficultés ou une impossibilité de naviguer sur la Plateforme Doctolib.</p>",
+            "point_source": "https://www.doctolib.fr/cookies",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service is only available to users over 15 years old",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 04:48:06",
+            "point_link": "https://edit.tosdr.org/points/20542",
+            "approval_status": "APPROVED",
+            "clause_text": "CAPACITÉ</strong> : L’Utilisation des Services est réservée aux Utilisateurs personnes physiques de plus de quinze (15) ans capables de souscrire des obligations conformément au droit français et européen .</p>",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:48:08",
+            "point_link": "https://edit.tosdr.org/points/20545",
+            "approval_status": "APPROVED",
+            "clause_text": "L'Utilisateur est seul responsable de l'utilisation qui est faite de ses Identifiants, notamment si celui-ci pré-enregistre sur un équipement son Identifiant, permettant ainsi la connexion automatique aux Services.\n</p>\n<p>Tout accès, utilisation des Services et transmission de données effectués à partir du Compte Utilisateur sera considéré comme ayant été effectué par l’Utilisateur.",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:48:08",
+            "point_link": "https://edit.tosdr.org/points/20544",
+            "approval_status": "APPROVED",
+            "clause_text": "Si l'un des éléments d'identification de l'Utilisateur est perdu ou volé, ce dernier doit informer sans délai Doctolib, qui procédera alors à l'annulation et/ou la mise à jour immédiate de l'Identifiant concerné.",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+            "rating": "neutral",
+            "description": "You must provide your legal name and pseudonyms aren't allowed, but it makes sense for the purposes of this service.",
+            "last_updated": "2023-07-11 04:48:06",
+            "point_link": "https://edit.tosdr.org/points/20543",
+            "approval_status": "APPROVED",
+            "clause_text": "Lors de la création de son Compte Utilisateur, l’Utilisateur s’engage à fournir des Informations exactes et complètes sur son identité comme demandées dans le formulaire en ligne.",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "You are not allowed to use pseudonyms, as trust and transparency between users regarding their identities is relevant to the service.",
+                "href": "https://edit.tosdr.org/cases/213"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 04:48:06",
+            "point_link": "https://edit.tosdr.org/points/20549",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Doctolib utilise des Cookies strictement nécessaires au fonctionnement du Site, à la fourniture de services demandés par l’internaute, à la protection de la Plateforme Doctolib face aux attaques informatiques, et à la conservation de votre consentement au dépôt de Cookies.",
+            "point_source": "https://www.doctolib.fr/cookies",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service (including Amazon Web Services)",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23333",
+            "approval_status": "APPROVED",
+            "clause_text": "Hébergement</strong>: Afin de respecter les dispositions du Code de la santé publique concernant les Données à caractère personnel de Santé, Doctolib a recours à Amazon Web Services en tant qu’ Hébergeur de Données de Santé (certifié HDS).</p>",
+            "point_source": "https://www.doctolib.fr/terms/agreement",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in France",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:19:49",
+            "point_link": "https://edit.tosdr.org/points/23338",
+            "approval_status": "APPROVED",
+            "clause_text": "L’Utilisateur est informé du fait que le Site s’adresse aux patients résidant en France et est soumise en droit français",
+            "point_source": "https://www.doctolib.fr/terms",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

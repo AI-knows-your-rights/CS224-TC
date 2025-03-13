@@ -1,0 +1,585 @@
+{
+    "meta_data": {
+        "title": "Kaspersky - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:05:42",
+            "point_link": "https://edit.tosdr.org/points/11505",
+            "approval_status": "APPROVED",
+            "clause_text": "We use different types of \"cookies\" (small text files that are placed on your device):</p>\n<ul>\n<li>user input cookies;</li>\n<li>authentication cookies;</li>\n<li>cookies storing your preferences and settings;</li>\n<li>performance cookies;</li>\n<li>security (antifraud) cookies;</li>\n<li>third party advertising cookies",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:10:48",
+            "point_link": "https://edit.tosdr.org/points/16165",
+            "approval_status": "APPROVED",
+            "clause_text": "In certain cases we are obliged to transfer your personal data to third parties due to applicable legal requirements.\nThis is for instance the case when there is reason to suspect a crime or misuse of our website.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "The service may collect extra data about you through promotions",
+            "rating": "bad",
+            "description": "Additional personal data may be collected through contests, surveys, promotions, petitions or sweepstakes.",
+            "last_updated": "2023-07-11 10:10:41",
+            "point_link": "https://edit.tosdr.org/points/16160",
+            "approval_status": "APPROVED",
+            "clause_text": "Kaspersky Lab holds per-incident surveys and an annual survey for Technical Support users with the purpose of improving the quality of service.\nIn order to conduct the Annual Customer Satisfaction Surveys we receive the following information:</p>\n<p>Your email address, which will allow us to identify you as a user in our database and link your opinion within the survey with your contacts and history of requests sent to our Technical Support Team.</p>\n<p>The rate you gave to our Technical Support Team and recommendations that will be used for improving the quality of services provided by Kaspersky Lab Technical Support.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Extra data may be collected about you through promotions",
+                "href": "https://edit.tosdr.org/cases/211"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:03:02",
+            "point_link": "https://edit.tosdr.org/points/11506",
+            "approval_status": "APPROVED",
+            "clause_text": "we use the data to:</p>\n<ul>\n<li>ensure the performance of a contract with users and to ensure the required performance of services for customers;</li>\n<li>protect the user from known threats to information security;</li>\n<li>improve user interaction and experience with our services, in particular, changing interfaces and providing the desired content and advertisements related to marketing purpose;",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:10:41",
+            "point_link": "https://edit.tosdr.org/points/16153",
+            "approval_status": "APPROVED",
+            "clause_text": "\"statistical information about your browser (domain names, IP addresses,[...] the web page you were visiting immediately prior to visiting our website,\"",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:05:44",
+            "point_link": "https://edit.tosdr.org/points/11504",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of our web pages use electronic markers (web beacons) that we use to obtain comprehensive statistics regarding the effectiveness of our advertising campaigns and other operations.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:10:47",
+            "point_link": "https://edit.tosdr.org/points/16162",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We use different types of \"cookies\" (small text files that are placed on your device):[...] social networking tracking cookies.\"",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:10:51",
+            "point_link": "https://edit.tosdr.org/points/16172",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>We also may share your information with vendors that help us in providing the services to us.\nThese will process your personal data as data processors (Article 28 GDPR) solely on our behalf.\nThe categories of such recipients include: provide web analytics, data processing, advertising,",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of users' data for analytical purposes",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 10:11:43",
+            "point_link": "https://edit.tosdr.org/points/16149",
+            "approval_status": "APPROVED",
+            "clause_text": "For the process of retrieving your requested information from our websites, our servers store certain data needed for service delivery and/or for statistical or security purposes in anonymized or pseudonymized form (pseudonymized form means data is collected under a pseudonym, i.e.\na unique random alphanumeric string generated internally in order to identify each data record).\nIn this context, general information is recorded, such as your domain name or browser type.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:10:49",
+            "point_link": "https://edit.tosdr.org/points/16166",
+            "approval_status": "APPROVED",
+            "clause_text": "\"In certain cases we are obliged to transfer your personal data to third parties due to applicable legal requirements.[...] For the provision of certain services we may make use of external service providers.[...]\"",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:10:48",
+            "point_link": "https://edit.tosdr.org/points/16169",
+            "approval_status": "APPROVED",
+            "clause_text": "The personal data provided by users to Kaspersky Lab can be processed in the countries, including countries outside the European Union (EU) or the European Economic Area (EEA) and can include the following: Germany, Netherlands, France, United Kingdom, Switzerland, Canada, Singapore, Russia, Japan, USA, Mexico, China, Azerbaijan.\nAccording to our general business practice, the data received from users in the EU is processed on servers located in the EU and Russia.\nPersonal data may be processed at destinations outside the European Union (EU) or the European Economic Area (EEA) some of which have not been determined by the European Commission to have an adequate level of data protection.\nIn which case Kaspersky Lab will transfer and disclose your data in compliance with the European Commission's adequacy decisions on certain countries and the Standard Contractual Clauses approved by the European Commission.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:05:44",
+            "point_link": "https://edit.tosdr.org/points/11512",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong>To collect comprehensive statistics on the use of Kaspersky Business Hub by website visitors, we may use various analytical services (third parties).",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 10:10:37",
+            "point_link": "https://edit.tosdr.org/points/14255",
+            "approval_status": "APPROVED",
+            "clause_text": "We also include web beacons in our emails to you in order to determine the effectiveness, performance, and optimization of email mailings and the user experience.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:05:47",
+            "point_link": "https://edit.tosdr.org/points/11515",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>How long do we keep your personal data</strong>\n<p>Data is deleted no later than 1 (one) calendar month after the account is deleted.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Users can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/16148",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In general, you can visit and read most parts of our website contents without providing any personal data.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:05:40",
+            "point_link": "https://edit.tosdr.org/points/11508",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Right of access</strong>.\nThis enables you to receive a copy of the Personal Data we process about you and to check that we are lawfully processing it.</li>\n<li>\n<strong>Right to rectification</strong>.\nRequest correction of the Personal Data that we process about you.</li>\n<li>\n<strong>Right to erasure (Right to be forgotten)</strong>.\nThis enables you to ask us to delete or remove Personal Data where there is no good reason for us continuing to process it",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 10:10:51",
+            "point_link": "https://edit.tosdr.org/points/16174",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>Right of restriction of processing</strong>.\nThis enables you to ask us to suspend the processing of Personal Data about you, for example if you want us to establish its accuracy or the reason for processing it.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data (but not in human-readable form)",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:10:48",
+            "point_link": "https://edit.tosdr.org/points/16173",
+            "approval_status": "APPROVED",
+            "clause_text": "Right to data portability</strong>.\nRequest the transfer of your Personal Data.\nWe will provide to you, or a third party you have chosen, your Personal Data in a structured, commonly used, machine-readable format.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/16151",
+            "approval_status": "APPROVED",
+            "clause_text": "WHAT PERSONAL DATA DO WE PROCESS",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/16147",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have any questions or comments regarding the processing of your personal information and Kaspersky's privacy practices or if you would like us to update information or preferences you provided to us, please contact our data protection officer at https://support.kaspersky.com/general/privacy or directly by post or email: Kaspersky Labs GmbH, Ingolstadt, Despag-Strasse 3, 85055, Germany, dpo@kaspersky.com.</p>",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/16150",
+            "approval_status": "APPROVED",
+            "clause_text": "\"WHAT PERSONAL DATA DO WE PROCESS AND HOW DO WE USE IT\" (Linked to another part and I can't do anything about it :/)",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides two factor authentication for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/16155",
+            "approval_status": "APPROVED",
+            "clause_text": "You may also need to provide us your mobile phone number for the purpose of additional protection of your account from unauthorized access.\nWe will only use your mobile phone number to send you authorization security codes.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "This service does not collect, use, or share location data",
+            "rating": "good",
+            "description": "No location-based information is tracked by the service, so that it cannot be used or shared with third parties.",
+            "last_updated": "2023-07-11 10:05:44",
+            "point_link": "https://edit.tosdr.org/points/11514",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not ask you for, access or track any location based information from your device.</p>",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "This service does not collect, use, or share location data",
+                "href": "https://edit.tosdr.org/cases/392"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 10:10:48",
+            "point_link": "https://edit.tosdr.org/points/16170",
+            "approval_status": "APPROVED",
+            "clause_text": "Where we share your personal data with a third party service provider outside of the European Economic Area and Switzerland (as detailed in the section entitled \"Recipients and legal basis for transfer\"), we contractually oblige the third party service provider to implement adequate safeguards to protect your information.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:10:41",
+            "point_link": "https://edit.tosdr.org/points/16156",
+            "approval_status": "APPROVED",
+            "clause_text": "You can delete your account at any point in time should you wish.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:11:45",
+            "point_link": "https://edit.tosdr.org/points/16159",
+            "approval_status": "APPROVED",
+            "clause_text": "Newsletters, Free Product Updates and Special Offers.\n</em>\n</strong>If you have signed up for it and provided us your email address and, in some cases, your name and last name we will use these data to provide you with additional information on products and services free product updates and special offers which might be of interest to.\nThe subscription is voluntary and you are free to unsubscribe anytime by clicking the unsubscribe link or contacting us by email address you will find in every email.\nIn that case, your name and email address will be deleted and we will no longer send you these kinds of emails, unless you sign up again.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:08:20",
+            "point_link": "https://edit.tosdr.org/points/11604",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Last updated: 04/28/2020",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 10:10:47",
+            "point_link": "https://edit.tosdr.org/points/16164",
+            "approval_status": "APPROVED",
+            "clause_text": "You can configure your browser settings in a way that cookies are blocked or your system informs you whenever a website wants to set a cookie.\nHowever, please be aware that the blocking of cookies may have the effect that you will not be able to use all our website functions any more.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:50",
+            "point_link": "https://edit.tosdr.org/points/16167",
+            "approval_status": "APPROVED",
+            "clause_text": "Our websites contain links to companies we maintain business relationships with, especially to our web shop providers.\nWe are in no way responsible for compliance with data protection requirements regarding the use of our partner's websites.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:48",
+            "point_link": "https://edit.tosdr.org/points/16171",
+            "approval_status": "APPROVED",
+            "clause_text": "We may only disclose information under restricted access as follows:</p>\n<ul>\n<li>Within the Kaspersky Lab group of companies.\nYour personal data will be used by our employees and other staff members on a need-to-know basis for the purposes described above.</li>",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "You must create an account to use this service",
+            "rating": "neutral",
+            "description": "You must provide the service with your information in order to use it",
+            "last_updated": "2023-07-11 10:10:44",
+            "point_link": "https://edit.tosdr.org/points/16154",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to use the Service and have access to all of its functions, you will need to create a personal account, which requires you to provide us with your email address (which will be your user name) and a password.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You must create an account to use this service",
+                "href": "https://edit.tosdr.org/cases/230"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:10:45",
+            "point_link": "https://edit.tosdr.org/points/16158",
+            "approval_status": "APPROVED",
+            "clause_text": "Interfering with the operation of the Website or gaining access to the Website's services through circumvention of the standard interface (by means of undocumented routes) is prohibited.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:08:29",
+            "point_link": "https://edit.tosdr.org/points/14253",
+            "approval_status": "APPROVED",
+            "clause_text": "THE DATA FILES AND SOFTWARE ARE PROVIDED \"AS IS\",",
+            "point_source": "https://my.kaspersky.com/Home/ThirdPartyCode",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:10:50",
+            "point_link": "https://edit.tosdr.org/points/16168",
+            "approval_status": "APPROVED",
+            "clause_text": "For information concerning data protection when visiting theses websites, please refer to the respective companies' website privacy policies.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/16161",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We use different types of \"cookies\" (small text files that are placed on your device):[...] first party analytics cookies;\"",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:10:46",
+            "point_link": "https://edit.tosdr.org/points/16163",
+            "approval_status": "APPROVED",
+            "clause_text": "We also use cookie files on our websites when you download Kaspersky Lab applications from our websites.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:41",
+            "point_link": "https://edit.tosdr.org/points/16152",
+            "approval_status": "APPROVED",
+            "clause_text": "statistical information about your browser (domain names, IP addresses,",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:37",
+            "point_link": "https://edit.tosdr.org/points/14256",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong>To collect comprehensive statistics on the use of Kaspersky Security Center Cloud by website visitors, we may use various analytical services (third parties).",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2020-11-28 14:06:24",
+            "point_link": "https://edit.tosdr.org/points/11310",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:10:38",
+            "point_link": "https://edit.tosdr.org/points/14254",
+            "approval_status": "APPROVED",
+            "clause_text": "WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.",
+            "point_source": "https://my.kaspersky.com/Home/ThirdPartyCode",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service employs separate policies for different parts of the service",
+            "rating": "neutral",
+            "description": "The user may need to read additional product-specific agreements depending on the way the service is used.",
+            "last_updated": "2023-07-11 10:10:42",
+            "point_link": "https://edit.tosdr.org/points/16146",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This privacy policy applies to AO Kaspersky Lab, located at bldg.\n3, 39A, Leningradskoe Shosse, Moscow, 125212, Russian Federation (\"Kaspersky\", \"Kaspersky Lab\" or \"we\") websites that receive data and are linking to this Privacy Policy.\nIt does not apply to Kaspersky websites that do not display or link to this Privacy Policy or that have their own Privacy Policy.\nIt also does not apply to Kaspersky Lab's services and products unless they are linking to this Privacy Policy.",
+            "point_source": "https://www.kaspersky.com/web-privacy-policy",
+            "case": {
+                "text": "Separate policies are employed for different parts of the service",
+                "href": "https://edit.tosdr.org/cases/200"
+            }
+        }
+    ]
+}

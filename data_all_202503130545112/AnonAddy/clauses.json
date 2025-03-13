@@ -1,0 +1,319 @@
+{
+    "meta_data": {
+        "title": "AnonAddy - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to the user",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 10:06:20",
+            "point_link": "https://edit.tosdr.org/points/9169",
+            "approval_status": "APPROVED",
+            "clause_text": "Changes</strong>\n<p>We may revise these terms of use at any time by amending this page.\nYou are expected to check this page from time to time to take notice of any changes we made, as they are binding on you.",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:06:18",
+            "point_link": "https://edit.tosdr.org/points/9164",
+            "approval_status": "APPROVED",
+            "clause_text": "We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever that includes, sending spam emails, sending viruses, repeatedly marking emails from us as spam, including without limitation if you breach the Terms of Service.",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:05:27",
+            "point_link": "https://edit.tosdr.org/points/9171",
+            "approval_status": "APPROVED",
+            "clause_text": "This site does not provide any third party cookies and makes no effort to track you.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 10:06:20",
+            "point_link": "https://edit.tosdr.org/points/9179",
+            "approval_status": "APPROVED",
+            "clause_text": "Our website is open-source and available for anyone (who understands PHP) to view and audit.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "This service only shares user information with third parties when given specific consent",
+            "rating": "good",
+            "description": "The service does not share user information with any third parties unless users specifically give it permission to do so.",
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/9174",
+            "approval_status": "APPROVED",
+            "clause_text": "</strong>\n<p>The only third party service that we use is Stripe to process payments for subscriptions.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Your information is only shared with third parties when given specific consent",
+                "href": "https://edit.tosdr.org/cases/296"
+            }
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:25:21",
+            "point_link": "https://edit.tosdr.org/points/28218",
+            "approval_status": "APPROVED",
+            "clause_text": "All log files are rotated daily and retained for 7 days, old log files are deleted.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:06:18",
+            "point_link": "https://edit.tosdr.org/points/9178",
+            "approval_status": "APPROVED",
+            "clause_text": "You can access, correct, update or request deletion of your personal information at any time, either through your online account or by contacting us.</p>",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:06:20",
+            "point_link": "https://edit.tosdr.org/points/9180",
+            "approval_status": "APPROVED",
+            "clause_text": "We will never misuse, sell, rent, share or give away any personal information to any third parties.</p>\n<p>",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:25:21",
+            "point_link": "https://edit.tosdr.org/points/28217",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use Your Personal Information</strong>\n<p>We use information held about you for the following purposes:</p>\n<ul>\n<li>To notify you about any changes to the service.</li>\n<li>To forward emails to the recipient addresses you have added to the site.</li>",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 06:25:21",
+            "point_link": "https://edit.tosdr.org/points/28215",
+            "approval_status": "APPROVED",
+            "clause_text": "Our website is open-source and available for anyone (who understands PHP) to view and audit.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 10:06:20",
+            "point_link": "https://edit.tosdr.org/points/9175",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not use Google Analytics or any other analytics/tracking (unless you count server logs mentioned above) on our site.</p>",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "The service provides two factor authentification for your account",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/9176",
+            "approval_status": "APPROVED",
+            "clause_text": "Two Factor Authentication (2FA) is also available on our site and we encourage users to enable it.</p>",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "This service only uses temporary session cookies",
+            "rating": "good",
+            "description": "Temporary session cookies are cookies that are deleted when you close your browser instead of remaining there until they are manually deleted (or expire). These cookies are only used for the purposes of the service and therefore disappear when it's no longer used.",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/9172",
+            "approval_status": "APPROVED",
+            "clause_text": "For keeping track of authenticated sessions we use a small number of cookies.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Only temporary session cookies are used",
+                "href": "https://edit.tosdr.org/cases/125"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:25:21",
+            "point_link": "https://edit.tosdr.org/points/28219",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to ensure confidentiality and lawful processing of its, Visitors personal data, AnonAddy in its capacity of a data controller and of a processor, conducts its activities in strict compliance with the requirements set in GDPR - Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of this data.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/9177",
+            "approval_status": "APPROVED",
+            "clause_text": "All information you provide to us is stored on our secure servers in the Netherlands (Greenhost.net).\nSensitive data in our database such as your recipient email addresses are encrypted using OpenSSL and the AES-256-CBC cipher.\nFurthermore, all encrypted values are signed with a message authentication code (MAC) to detect any modifications to the encrypted string.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:05:19",
+            "point_link": "https://edit.tosdr.org/points/9170",
+            "approval_status": "APPROVED",
+            "clause_text": "If you wish to terminate your account, you may simply contact us.</p>",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/9166",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our site or to your downloading of any material posted on it, or on any website linked to it.</p>",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:06:13",
+            "point_link": "https://edit.tosdr.org/points/9163",
+            "approval_status": "APPROVED",
+            "clause_text": "Last Updated: 4th September 2019</p>",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:06:18",
+            "point_link": "https://edit.tosdr.org/points/9165",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not accept any responsibility for any loss which may arise from accessing or reliance on the information on this site and to the fullest extent permitted by English law, we exclude all liability for loss or damages direct or indirect arising from use of this site.",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:06:18",
+            "point_link": "https://edit.tosdr.org/points/9167",
+            "approval_status": "APPROVED",
+            "clause_text": "Disclaimer</strong>\n<p>Your use of the Service is at your sole risk.\nThe Service is provided on an \"as if\" and \"as available\" basis.",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:06:18",
+            "point_link": "https://edit.tosdr.org/points/9168",
+            "approval_status": "APPROVED",
+            "clause_text": "These terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.</p>",
+            "point_source": "https://anonaddy.com/terms/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:06:19",
+            "point_link": "https://edit.tosdr.org/points/9173",
+            "approval_status": "APPROVED",
+            "clause_text": "Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.",
+            "point_source": "https://anonaddy.com/privacy/",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

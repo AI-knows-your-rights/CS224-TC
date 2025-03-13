@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "IVPN - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Users shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18193",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You will not run resource intensive programs that will interfere with the usage of our services by our users.</p>",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18197",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In any event, IVPN shall never be liable for any monetary damages beyond what the user paid to IVPN and this will not include court costs or attorney fees irrespective of any statutes or laws that may be interpreted otherwise.</p>",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third-party privacy-focused cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18204",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>IVPN have selected Matomo as their web analytics platform.",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+            "rating": "good",
+            "description": "The service has arrangements in place to ensure that users' personal information, if shared with an entity outside of the service's jurisdiction, is processed to the same standards that apply to the processing of personal data in the service's jurisdiction.",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18518",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>IVPN is subject to EU law and is in compliance with the EU Data Protection Directive (Directive 95/46/EC), which prohibits companies transferring data to overseas jurisdictions with weaker privacy laws.\nIVPN will not locate servers in countries where it’s forced to break this compliance.",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "Personal information that is shared outside its jurisdiction is processed according to the original jurisdiction’s data protection standards",
+                "href": "https://edit.tosdr.org/cases/302"
+            }
+        },
+        {
+            "title": "This service has a no VPN logs policy",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18201",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not log any data relating to a user’s VPN activity (while connected or connecting to the VPN).</p>\n<ul>\n<li>\n<p>No traffic logging</p>\n</li>\n<li>\n<p>No connection timestamp or connection duration</p>\n</li>\n<li>\n<p>No DNS request logging</p>\n</li>\n<li>\n<p>No logging of user bandwidth</p>\n</li>\n<li>\n<p>No logging of customer IP addresses</p>\n</li>\n<li>\n<p>No logging of any account activity except active total simultaneous connections (explained below)</p>\n</li>",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "Users are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18187",
+            "approval_status": "APPROVED",
+            "clause_text": "Refund Policy\n<p>IVPN strives to meet the expectations of all new users and offers unlimited support to help users with any problems they may face.</p>\n<p>If however you are unsatisfied for any reason whatsoever you can request <strong>a full refund within 30 days</strong> of your service being activated.</p>",
+            "point_source": "https://www.ivpn.net/refunds/",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "The apps are open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2021-05-06 21:19:05",
+            "point_link": "https://edit.tosdr.org/points/19347",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://www.ivpn.net/blog/ivpn-applications-are-now-open-source/",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "This service offers an anonymous payment method",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18202",
+            "approval_status": "APPROVED",
+            "clause_text": "What information is logged when making a payment using a credit card, PayPal, Cash or cryptocurrency?",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "An anonymous payment method is offered",
+                "href": "https://edit.tosdr.org/cases/405"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18200",
+            "approval_status": "APPROVED",
+            "clause_text": "When you sign up for IVPN, you will not be asked for any personal information e.g.\nemail address, name etc.",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18198",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-06-23 17:37:02 UTC, zubairkhatri (31500)  Suspended wrote:\n          Howdy, i read your blog occasionally and i own a similar one and i was just curious if you get a lot of spam responses? If so how do you protect against it, any plugin or anything you can suggest? I get so much lately it’s driving me crazy so any support is very much appreciated.  Folding Meat Thermometer",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18195",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not liable for any direct, indirect, consequential, inconveniences, or whatsoever damages, or loss of profit, that may arise from the use of our services.</p>",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:14:09",
+            "point_link": "https://edit.tosdr.org/points/18188",
+            "approval_status": "APPROVED",
+            "clause_text": "Last updated: 21 January 2021",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18196",
+            "approval_status": "APPROVED",
+            "clause_text": "</li>\n<li>\n<p>We cannot and do not guarantee the speed of our service.\nWe also cannot and do not guarantee that you will have an uninterrupted service.",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18190",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You will not use our service to send unsolicited data in any form.\nThis includes, but is not limited to the following: Sending unsolicited emails (i.e.\nSPAM email), hate email, mass-marketing emails, unsolicited instant messages and unsolicited SMS.</p>\n</li>",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18192",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You will not use our services to threaten or harass others.</p>",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 06:35:57",
+            "point_link": "https://edit.tosdr.org/points/18189",
+            "approval_status": "APPROVED",
+            "clause_text": "As a subscriber of our services, you agree that:\n<ol>\n<li>\n<p>You will not use our service to hack or attack other computers or networks on the internet.</p>\n</li>",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18194",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The service that is offered to you is provided on an “as is” basis, with no warranties whatsoever.",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:11",
+            "point_link": "https://edit.tosdr.org/points/18199",
+            "approval_status": "APPROVED",
+            "clause_text": "If you violate any of our terms, we reserve the right to terminate your service without any advance warning or notification.",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:35:51",
+            "point_link": "https://edit.tosdr.org/points/18191",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<p>You will not use our service for any type of criminal activities.",
+            "point_source": "https://www.ivpn.net/tos/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:14:10",
+            "point_link": "https://edit.tosdr.org/points/18203",
+            "approval_status": "APPROVED",
+            "clause_text": "For credit card payments, we use Braintree as our payment processor",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Gibraltar",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:14:29",
+            "point_link": "https://edit.tosdr.org/points/18517",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The company is incorporated in Gibraltar.\nIf a court order is received from a recognised legal authority with jurisdiction over IVPN, then the company will comply with that order.",
+            "point_source": "https://www.ivpn.net/privacy/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

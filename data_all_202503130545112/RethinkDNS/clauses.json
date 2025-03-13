@@ -1,0 +1,193 @@
+{
+    "meta_data": {
+        "title": "RethinkDNS - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-02-25 05:37:46",
+            "point_link": "https://edit.tosdr.org/points/29171",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "This Service does not keep any logs.",
+            "rating": "good",
+            "description": "This service is committed to not store any log data at all.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30037",
+            "approval_status": "APPROVED",
+            "clause_text": "The website does not log any interactions a visiting user has with the website.</li>\n<li>",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "This Service does not keep any logs.",
+                "href": "https://edit.tosdr.org/cases/501"
+            }
+        },
+        {
+            "title": "You can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30035",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-06-03 10:34:51 UTC, ledam40306 (17792)  Suspended wrote:\n          At OViK, we make HVAC simple. Our portal is packed with valuable resources to help you understand heating, ventilation, and air conditioning systems. Stay updated with the latest industry trends, find detailed guides, and get expert tips on equipment selection and maintenance. Ensure your indoor spaces are always comfortable and energy-efficient.\tКондиционеры",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "Your personal data is not shared with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30042",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not collect, sell, license, share any personally identifiable data from our DNS resolvers",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30034",
+            "approval_status": "APPROVED",
+            "clause_text": "our code which is open-source on GitHub.",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "Your feedback is invited regarding changes to the terms.",
+            "rating": "good",
+            "description": "The Service takes user suggestions into account to update its Terms.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30039",
+            "approval_status": "APPROVED",
+            "clause_text": "If you spot any ambiguity with privacy policies outlined on this page then please write to us and we would update it right away.",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "Your feedback is invited regarding changes to the terms.",
+                "href": "https://edit.tosdr.org/cases/119"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:27:40",
+            "point_link": "https://edit.tosdr.org/points/30031",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not collect, sell, license, share any data (personally identifiable or otherwise) from the RethinkDNS Android app",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "No third-party analytics or tracking platforms are used",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30032",
+            "approval_status": "APPROVED",
+            "clause_text": "The website does not embed any third-party analytics or services that may track users.</li>",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "The service does not use any third-party advertising services",
+            "rating": "good",
+            "description": "The service does not put any paid third party advertisements on their platform",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30033",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>The app is free of any trackers, spyware, ads, or loggers whatsoever.",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "The service does not use any third-party advertising services",
+                "href": "https://edit.tosdr.org/cases/498"
+            }
+        },
+        {
+            "title": "Information is provided about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30036",
+            "approval_status": "APPROVED",
+            "clause_text": "Crash logs, debug logs, and other non-personally identifiable information is stored encrypted with custom keys on Amazon S3",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:27:41",
+            "point_link": "https://edit.tosdr.org/points/30040",
+            "approval_status": "APPROVED",
+            "clause_text": "Revision: 21 Oct 2020<ul>",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:27:40",
+            "point_link": "https://edit.tosdr.org/points/30043",
+            "approval_status": "APPROVED",
+            "clause_text": "The resolver collects non-personally identifiable information and aggregates it to only to fight abuse and spam.</li>",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:27:40",
+            "point_link": "https://edit.tosdr.org/points/30038",
+            "approval_status": "APPROVED",
+            "clause_text": "The website and app download link are hosted and served by Cloudflare",
+            "point_source": "https://rethinkdns.com/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

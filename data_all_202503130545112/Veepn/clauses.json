@@ -1,0 +1,445 @@
+{
+    "meta_data": {
+        "title": "Veepn - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22555",
+            "approval_status": "APPROVED",
+            "clause_text": "your user agent string and IP address, along with the following device related metrics: time zone, device OS, device model, carrier, screen size, processor cores, total disk space, remaining disk space.\n</li>\n</ul>\n<p> Please read Facebook privacy policy regarding its collection and use of data in order to perform services for us, available at https://www.facebook.com/policy.php, https://www.facebook.com/full_data_use_policy, to acknowledge how Facebook operates with your Personal Information.",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 06:18:48",
+            "point_link": "https://edit.tosdr.org/points/22557",
+            "approval_status": "APPROVED",
+            "clause_text": "Device and advertising identifiers along with IP addess information is considered personal data in some jurisdictions",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22558",
+            "approval_status": "APPROVED",
+            "clause_text": "The service waives its right to object to legal requests.",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22551",
+            "approval_status": "APPROVED",
+            "clause_text": "communicating with you via email, push notifications and/or through other digital methods about products or services that may be of interest to you either from us or other third parties.\n</li>",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:18:48",
+            "point_link": "https://edit.tosdr.org/points/22559",
+            "approval_status": "APPROVED",
+            "clause_text": "<li> in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.\n</li>",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection (England and Wales)",
+            "rating": "bad",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for weak data regulations and poor user privacy protection. Usually contributors will need to explain in the Analysis view of each point linked to this Case the reason why it shall be applied.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22544",
+            "approval_status": "APPROVED",
+            "clause_text": "UK is part of the five eyes alliance aiming to collect and share as much user data as possible between government agencies.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is less friendly to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/242"
+            }
+        },
+        {
+            "title": "You are tracked via device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22548",
+            "approval_status": "APPROVED",
+            "clause_text": "Device information that may include information specific to your device (e.g., OS version, hardware model, unique device identifier, browser user-agent).",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your personal data is used to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22556",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> In order to receive those services from Facebook, we share such data as: </p>\n<ul>\n<li> Explicit events - information from events that we explicitly configure the Application to send, such as \"AddtoBasket\" or \"logPurchase\", along with any additional parameters provided.\n</li>\n<li> Implicit events - information from events that are logged implicitly, if we choose to make use of other features of the Facebook SDK, such as integration with Facebook Login or the \"Like\" button.\n</li>\n<li> Automatically logged events - basic interactions in the Application (e.g., Application installs, Application launches) that are collected automatically.\n</li>\n<li> Facebook app ID - a unique identifier provided by Facebook to reference our website and Application.\n</li>\n<li> Mobile advertiser ID - the iOS IDFA (Apple identifier for advertisers).",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22553",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> We may share your Personal Information with third parties that perform certain services on our behalf, such as our authorized service providers or analytics providers.",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22560",
+            "approval_status": "APPROVED",
+            "clause_text": "Please note that our business is global, so when you provide Personal Information through our Service, the information may be sent to servers located in different countries around the world.",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You shall not interfere with another person's enjoyment of the service",
+            "rating": "bad",
+            "description": "Users are asked not to interfere with another person't enjoyment in using the service.\nHowever, this statement is very vague and open to interpretation by the service itself.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22538",
+            "approval_status": "APPROVED",
+            "clause_text": "Engage in any conduct that restricts or inhibits any other Subscriber from using or enjoying the Service.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "You shall not interfere with another person's enjoyment of the service",
+                "href": "https://edit.tosdr.org/cases/285"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22554",
+            "approval_status": "APPROVED",
+            "clause_text": "We use an instrument called Facebook Analytics for analytics purposes.",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to $50",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22542",
+            "approval_status": "APPROVED",
+            "clause_text": "In no event will we be liable for any damages in excess of fifty US dollars ($50).",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22561",
+            "approval_status": "APPROVED",
+            "clause_text": "If you would like to update or correct any information that you have provided to us through your use of the Service, you may use the Service to do so.\nIf you need help with rectification of data you think is inaccurate, please contact us via email at support@veepn.com.\n</p>\n<p> If you reside in European Union or California you can make a request to erase your Personal Information via support@veepn.com.",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "No VPN logs policy",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22547",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>As an outstanding VPN Service provider, we value privacy of our users.\nTherefore, we never collect logs of your activity (“usage logs”), including no logging of browsing history, traffic destination or data content.</b>",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22545",
+            "approval_status": "APPROVED",
+            "clause_text": "What kind of information do we collect?",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22546",
+            "approval_status": "APPROVED",
+            "clause_text": "What do we collect this information for?",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22535",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> We have a Money-Back Guarantee policy in the mentioned term: </p>\n<ul>\n<li>For 1 month plans a 14-day Money Back Guarantee.</li>\n<li>For 6 months or greater subscriptions a 30-day Money Back Guarantee.</li>\n</ul>\n<p> If you choose not to use our paid Services anymore, we guarantee you a right to claim a refund within 14 or 30 days following your subscription to our Services.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "An anonymous payment method is offered",
+            "rating": "good",
+            "description": "Some services allow payments via cryptocurrencies, so that users don’t need to reveal their identity to payment processors.",
+            "last_updated": "2023-07-11 06:18:49",
+            "point_link": "https://edit.tosdr.org/points/22533",
+            "approval_status": "APPROVED",
+            "clause_text": "at the same time, five-years subscription that is made with credit card, PayPal, iTunes in-app purchases or Crypto currencies is a one time payment.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "An anonymous payment method is offered",
+                "href": "https://edit.tosdr.org/cases/405"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:49",
+            "point_link": "https://edit.tosdr.org/points/22543",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify, defend, and hold harmless VeePN, its officers, directors, employees, members, partners, agents, and suppliers, and their respective affiliates, officers, directors, employees, members, shareholders, partners, and agents, from any and all claims and expenses, including attorneys’ fees, arising out of your use of the Content and Service, including but not limited to:</p>\n<ol>\n<li> the breach of these Terms by you or anyone using your Device or your user account credentials (password or login information).\n</li>\n<li> any other matter for which you are responsible under these Terms or under any applicable law.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22541",
+            "approval_status": "APPROVED",
+            "clause_text": "VeePN shall not be liable and shall not have responsibility of any kind to any Subscriber or other individual for any loss or damage that you incur in the event of: </p>\n<ol>\n<li>any failure or interruption of the Site or Service;</li>\n<li> any act or omission of any Third Party involved in making the Site or Service or the data contained therein available to you.\n</li>\n<li> any other cause relating to your access or use, or inability to access or use, any portion of the Service or the Content.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22532",
+            "approval_status": "APPROVED",
+            "clause_text": "Notification on any core changes to the Terms will be provided to subscribers through an email message or update to the Site.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22534",
+            "approval_status": "APPROVED",
+            "clause_text": "All payments of monthly and yearly subscriptions made with credit card, iTunes in-app purchases, PayPal or Crypto currencies are recurring (i.e., shall be automatically renewed at the end of the billing period of your Subscription Plan)",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:18:47",
+            "point_link": "https://edit.tosdr.org/points/22540",
+            "approval_status": "APPROVED",
+            "clause_text": "or that it will be uninterrupted, timely, secure, or error-free",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22537",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that VeePN may terminate your account, without providing a refund for Services already paid, if you misuse the Service, inter alia as defined below",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users over 13 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22531",
+            "approval_status": "APPROVED",
+            "clause_text": "<p> By creating an account for using our Services, you represent that you are at least thirteen",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22536",
+            "approval_status": "APPROVED",
+            "clause_text": "You understand that it is your responsibility to keep your VeePN account information confidential.\nYou are responsible for all activity under your account.",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22550",
+            "approval_status": "APPROVED",
+            "clause_text": "performing research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others (“analytics purposes”).",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22539",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not make any warranty that the Services will meet your requirements",
+            "point_source": "https://veepn.com/terms-of-service/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22552",
+            "approval_status": "APPROVED",
+            "clause_text": "Service Providers</i>",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:18:46",
+            "point_link": "https://edit.tosdr.org/points/22549",
+            "approval_status": "APPROVED",
+            "clause_text": "<li> Location: IP address",
+            "point_source": "https://veepn.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

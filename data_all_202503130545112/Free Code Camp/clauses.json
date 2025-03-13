@@ -1,0 +1,529 @@
+{
+    "meta_data": {
+        "title": "Free Code Camp - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/16720",
+            "approval_status": "APPROVED",
+            "clause_text": "The company reserves the right to change, redact, and delete content on the website for any reason.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23251",
+            "approval_status": "APPROVED",
+            "clause_text": "Other than to seek an injunction or for claims under the Computer Fraud and Abuse Act, you and the company will resolve any Dispute by binding American Arbitration Association arbitration.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23252",
+            "approval_status": "APPROVED",
+            "clause_text": "You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/23257",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to provide service to you, your data does pass through some other services.",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to $50",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:44",
+            "point_link": "https://edit.tosdr.org/points/23248",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>As far as the law allows, the company’s total liability to you for claims of any kind that are related to the website or content on the website will be limited to $50.</p>",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third party cookies are employed, but with opt out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:38",
+            "point_link": "https://edit.tosdr.org/points/23260",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We use Google Analytics to help us understand the demographics of our community and how people are using freeCodeCamp.\nYou can opt out of Google Analytics on freeCodeCamp by <strong>installing this browser plugin</strong>.",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/16730",
+            "approval_status": "APPROVED",
+            "clause_text": "When you delete personal data from freeCodeCamp, we immediately delete it from our servers.</p>\n<p>We make emergency backups of our database every day, and we delete each of these backups after a few days.",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23243",
+            "approval_status": "APPROVED",
+            "clause_text": "Nothing in these terms gives the company any ownership rights in intellectual property that you share with the website, such as your account information or other content you submit to the website.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/23254",
+            "approval_status": "APPROVED",
+            "clause_text": "You can access all of freeCodeCamp's articles, videos, podcasts, and interactive coding lessons without creating an account.",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/23249",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You agree that the company will be free to act on feedback and suggestions you provide, and that the company won’t have to notify you that your feedback was used, get your permission to use it, or pay you.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (California, USA)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23250",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>California law will govern any dispute, including any legal proceedings, related to these terms or your use of the website.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/23255",
+            "approval_status": "APPROVED",
+            "clause_text": "at any time, you can download all of your data in a convenient JSON format.</p>",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:09:47",
+            "point_link": "https://edit.tosdr.org/points/16731",
+            "approval_status": "APPROVED",
+            "clause_text": "We don't sell your data to anyone.",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:19:44",
+            "point_link": "https://edit.tosdr.org/points/23258",
+            "approval_status": "APPROVED",
+            "clause_text": "Does freeCodeCamp meet Europe's GDPR privacy regulations?<p>Yes.\nfreeCodeCamp respects the privacy rights covered by Regulation (EU) 2016/679 - the European Union's General Data Protection Regulation (GDPR)",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "Pseudonyms are allowed",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23239",
+            "approval_status": "APPROVED",
+            "clause_text": "If you create an account, you agree to provide, at a minimum, a valid e-mail address, and to keep that address up-to-date.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation (including AWS and mLab)",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 06:19:44",
+            "point_link": "https://edit.tosdr.org/points/23259",
+            "approval_status": "APPROVED",
+            "clause_text": "We use Amazon Web Services, Azure, and mLab for our servers and databases.\nYou can read the privacy policy for <strong>Amazon Web Services</strong>, <strong>Microsoft Azure</strong>, and <strong>mLab</strong>.</p>\n<p>We use Stripe and PayPal to process donations.\nYou can read the privacy policy for <strong>Stripe</strong> and for <strong>PayPal</strong>.</p>\n<p>We use the CloudFlare and Netlify Content Delivery Networks so that freeCodeCamp is fast in all parts of the world.\nYou can read the privacy policy for <strong>CloudFlare</strong> and <strong>Netlify</strong> online.</p>\n<p>We use Auth0 to sign you into freeCodeCamp.\nYou can read <strong>the privacy policy for Auth0 online</strong>.</p>",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23240",
+            "approval_status": "APPROVED",
+            "clause_text": "You may close your account at any time by logging into your account and clicking the button on your account settings page.</p>\n<p>",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "Copyright license limited for the purposes of that same service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:40",
+            "point_link": "https://edit.tosdr.org/points/23245",
+            "approval_status": "APPROVED",
+            "clause_text": "That special license allows the company to copy, publish, and analyze content you submit to the website.</p>\n<p>When content you submit is removed from the website, whether by you or by the company, the company’s special license ends when the last copy disappears from the company’s backups, caches, and other systems.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Copyright license limited for the purposes of that same service but transferable and sublicenseable",
+                "href": "https://edit.tosdr.org/cases/135"
+            }
+        },
+        {
+            "title": "You can choose the copyright license",
+            "rating": "good",
+            "description": "You have the right to choose or change the license over content you publish through the Service.",
+            "last_updated": "2023-07-11 06:19:45",
+            "point_link": "https://edit.tosdr.org/points/23244",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Content you submit to the website belongs to you, and you decide what permission to give others for it.\nBut at a minimum, you license the company to provide content that you submit to the website to other users of the website.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You can choose the copyright license",
+                "href": "https://edit.tosdr.org/cases/222"
+            }
+        },
+        {
+            "title": "You can choose with whom you share content",
+            "rating": "good",
+            "description": "Users can decide whether or not they want their content to be shared and they can control how and with whom it is shared.",
+            "last_updated": "2023-07-11 06:19:44",
+            "point_link": "https://edit.tosdr.org/points/23256",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You can control which data shows up on your developer portfolio.</p>",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "You can choose with whom you share content",
+                "href": "https://edit.tosdr.org/cases/225"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:19:40",
+            "point_link": "https://edit.tosdr.org/points/23238",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You may not use the website to disclose information that you don’t have the right to disclose, like others’ confidential information",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/16723",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to indemnify the company from legal claims by others related to your breach of these terms, or breach of these terms by others using your account on the website.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:09:47",
+            "point_link": "https://edit.tosdr.org/points/16728",
+            "approval_status": "APPROVED",
+            "clause_text": "The company last updated these terms on May 25, 2018, and may update these terms again.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/23253",
+            "approval_status": "APPROVED",
+            "clause_text": "The company will post all updates to the website.\nFor updates that contain substantial changes, the company agrees to e-mail you, if you’ve created an account and provided a valid e-mail address.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "Defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:44",
+            "point_link": "https://edit.tosdr.org/points/23246",
+            "approval_status": "APPROVED",
+            "clause_text": "The following provisions survive the end of our agreement: Your Content, Feedback, Your Responsibility, Disclaimers, Limits on Liability, and General Terms",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages.",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/16718",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not send advertisements, chain letters, or other solicitations through the website, or use the website to gather addresses for commercial mailing lists.</p>",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/16724",
+            "approval_status": "APPROVED",
+            "clause_text": "As far as the law allows, the company provides the website as is, without any warranty whatsoever.</p>",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:19:40",
+            "point_link": "https://edit.tosdr.org/points/23237",
+            "approval_status": "APPROVED",
+            "clause_text": "This includes content that is harassing, inappropriate, or abusive",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/16719",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not automate access to the website, or monitor the website, such as with a web crawler, browser plug-in or add-on, or other computer program that is not a web browser.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/23247",
+            "approval_status": "APPROVED",
+            "clause_text": "You accept all risk of using the website and content on the website.\nAs far as the law allows, the company provides the website as is, without any warranty whatsoever.</p>\n<p>",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "age limit",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/4249",
+            "approval_status": "APPROVED",
+            "clause_text": "age limit",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:19:40",
+            "point_link": "https://edit.tosdr.org/points/23242",
+            "approval_status": "APPROVED",
+            "clause_text": "The company may restrict, suspend, or close your account on the website according to its policy for handling copyright-related takedown requests, or if the company reasonably believes that you’ve breached these terms.</p>",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 06:19:41",
+            "point_link": "https://edit.tosdr.org/points/16722",
+            "approval_status": "APPROVED",
+            "clause_text": "The company may restrict, suspend, or close your account on the website according to its policy for handling copyright-related takedown requests, or if the company reasonably believes that you’ve breached these terms.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:09:44",
+            "point_link": "https://edit.tosdr.org/points/16721",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to be responsible for all action taken using your account, whether authorized by you or not, until you either close your account or notify the company that your account has been compromised.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 06:19:40",
+            "point_link": "https://edit.tosdr.org/points/23241",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree to notify the company immediately if you suspect your account has been compromised.",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:48",
+            "point_link": "https://edit.tosdr.org/points/16732",
+            "approval_status": "APPROVED",
+            "clause_text": "In order to provide service to you, your data does pass through some other services.\nAll of these companies are based in the United States.</p>\n<p>We use Amazon Web Services, Azure, and mLab for our servers and databases.",
+            "point_source": "https://privacy-policy.freecodecamp.org/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service employs separate policies for different parts of the service",
+            "rating": "neutral",
+            "description": "The user may need to read additional product-specific agreements depending on the way the service is used.",
+            "last_updated": "2023-07-11 06:19:42",
+            "point_link": "https://edit.tosdr.org/points/16717",
+            "approval_status": "APPROVED",
+            "clause_text": "The company may offer other products and services, under different terms.\nThese terms apply only to use of the website",
+            "point_source": "https://terms-of-service.freecodecamp.org/",
+            "case": {
+                "text": "Separate policies are employed for different parts of the service",
+                "href": "https://edit.tosdr.org/cases/200"
+            }
+        }
+    ]
+}

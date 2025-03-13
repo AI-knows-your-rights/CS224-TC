@@ -1,0 +1,305 @@
+{
+    "meta_data": {
+        "title": "Kahoot! - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:05:51",
+            "point_link": "https://edit.tosdr.org/points/11209",
+            "approval_status": "APPROVED",
+            "clause_text": "In all cases, Kahoot! reserves the right to remove or disable access to any User Content for any or no reason, including but not limited to, User Content that, in Kahoot!’s sole discretion, violates the Agreements.\nKahoot! may take these actions without prior notification to you or any third party.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "You waive your moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 06:35:05",
+            "point_link": "https://edit.tosdr.org/points/11161",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-07-21 10:55:03 UTC, fedada (30172)  Suspended wrote:\n          Thank you very much for this useful article. I like it. slot demo",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "This service keeps a license on user-generated content even after users close their accounts.",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account. The case applies to terms requiring users to grant them a perpetual license over that content.",
+            "last_updated": "2023-07-11 06:36:13",
+            "point_link": "https://edit.tosdr.org/points/11259",
+            "approval_status": "APPROVED",
+            "clause_text": "You hereby grant to Kahoot! a perpetual (or, for as long as permitted under applicable law),",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "A license is kept on user-generated content even after you close your account",
+                "href": "https://edit.tosdr.org/cases/130"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 06:36:14",
+            "point_link": "https://edit.tosdr.org/points/11261",
+            "approval_status": "APPROVED",
+            "clause_text": "sub-licensable, transferable,",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:05:23",
+            "point_link": "https://edit.tosdr.org/points/11220",
+            "approval_status": "APPROVED",
+            "clause_text": "We and our service providers collect Personal Information from adult accountholders in a variety of ways, including:</p>\n<ul>\n<li>\n<strong>Through the Services</strong>: We collect Personal Information through the Services, e.g., when you create an account, register your credit/debit card information and other financial data that we/our payment processors need to provide the Services, or populate your profile.</li>\n<li>\n<strong>Offline:</strong> We collect Personal Information from you offline, such as when you contact customer service.</li>\n<li>\n<strong>From Other Sources:</strong> We may receive your Personal Information from other sources, such as Google or Microsoft (if you choose to register using your Google or Microsoft account), public databases, joint marketing partners and other third parties.</li",
+            "point_source": "https://kahoot.com/privacy-policy/",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:34:59",
+            "point_link": "https://edit.tosdr.org/points/11160",
+            "approval_status": "APPROVED",
+            "clause_text": "Analytics:</strong> We use third parties, including Google Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.\nYou can learn about Google’s practices by going to www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout",
+            "point_source": "https://kahoot.com/privacy-policy/",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "When the service wants to make a material change to its terms, users are notified at least 30 days in advance",
+            "rating": "good",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified at least 30 days in advance.",
+            "last_updated": "2023-07-11 06:35:57",
+            "point_link": "https://edit.tosdr.org/points/11226",
+            "approval_status": "APPROVED",
+            "clause_text": "In the event of material changes to the Terms, we will notify you at least 30 days before these new Terms apply to you, by issuing notice accessible through your use of the Services or by email to your registered email account.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "When the service wants to make a material change to its terms, you are notified at least 30 days in advance",
+                "href": "https://edit.tosdr.org/cases/124"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 06:35:58",
+            "point_link": "https://edit.tosdr.org/points/11213",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, the DMCA permits you to send to Kahoot a counter-notice.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use to your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:09:27",
+            "point_link": "https://edit.tosdr.org/points/11260",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"You hereby grant to Kahoot! a perpetual (or, for as long as permitted under applicable law), non-exclusive, sub-licensable, transferable, royalty-free, irrevocable, fully paid, universal license to commercialize, use, reproduce, make available to the public (e.g. perform or display), publish, translate, modify, create derivative works from, and distribute any of your User Content you have made available to the public in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created.\"\n    \n      \n        \n          \n              Version 2: 2020-11-12 05:23:07 UTC by Peepo (2527)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 2: 2020-11-12 05:23:07 UTC by Peepo (2527)  Staff\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 2: 2020-11-12 05:23:07 UTC by Peepo (2527)  Staff\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Full quote: \"You hereby grant to Kahoot! a perpetual (or, for as long as permitted under applicable law), non-exclusive, sub-licensable, transferable, royalty-free, irrevocable, fully paid, universal license to commercialize, use, reproduce, make available to the public (e.g. perform or display), publish, translate, modify, create derivative works from, and distribute any of your User Content you have made available to the public in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created.\"\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Full quote: \"You hereby grant to Kahoot! a perpetual (or, for as long as permitted under applicable law), non-exclusive, sub-licensable, transferable, royalty-free, irrevocable, fully paid, universal license to commercialize, use, reproduce, make available to the public (e.g. perform or display), publish, translate, modify, create derivative works from, and distribute any of your User Content you have made available to the public in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created.\"\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Full quote: \"You hereby grant to Kahoot! a perpetual (or, for as long as permitted under applicable law), non-exclusive, sub-licensable, transferable, royalty-free, irrevocable, fully paid, universal license to commercialize, use, reproduce, make available to the public (e.g. perform or display), publish, translate, modify, create derivative works from, and distribute any of your User Content you have made available to the public in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created.\"\n          \n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Full quote: \"You hereby grant to Kahoot! a perpetual (or, for as long as permitted under applicable law), non-exclusive, sub-licensable, transferable, royalty-free, irrevocable, fully paid, universal license to commercialize, use, reproduce, make available to the public (e.g. perform or display), publish, translate, modify, create derivative works from, and distribute any of your User Content you have made available to the public in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created.\"\n          \n            Previous Status: No changes recorded\n            Updated Status: No changes recorded",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 06:35:58",
+            "point_link": "https://edit.tosdr.org/points/11221",
+            "approval_status": "APPROVED",
+            "clause_text": "You may opt-out from receiving marketing-related emails from us on a going-forward basis by clicking the unsubscribe link in any such email.\nIn addition, in your user settings, you may opt-out of receiving emails letting you know that a Kahoot has been shared.<br>\nWe will try to comply with your request(s) as soon as reasonably practicable.",
+            "point_source": "https://kahoot.com/privacy-policy/",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2023-07-11 10:03:40",
+            "point_link": "https://edit.tosdr.org/points/7574",
+            "approval_status": "APPROVED",
+            "clause_text": "We will not refund any subscription fees already paid to us.</p>",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service employs a broad copyright license over user content including the right to distribute through any media",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:36:11",
+            "point_link": "https://edit.tosdr.org/points/11258",
+            "approval_status": "APPROVED",
+            "clause_text": "and distribute any of your User Content you have made available to the public in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 06:35:04",
+            "point_link": "https://edit.tosdr.org/points/6474",
+            "approval_status": "APPROVED",
+            "clause_text": "The Paid Subscription and the payment to Kahoot! will automatically renew at the end of the monthly subscription period, unless you cancel your Paid Subscription through your subscription page before the end of the current monthly subscription period.</p>",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:57",
+            "point_link": "https://edit.tosdr.org/points/11215",
+            "approval_status": "APPROVED",
+            "clause_text": "Kahoot! does not endorse the correctness of the User Content or any opinion contained in any User Content.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:05:51",
+            "point_link": "https://edit.tosdr.org/points/11256",
+            "approval_status": "APPROVED",
+            "clause_text": "Although Kahoot! will endeavor to provide the Kahoot! Service in the best possible way without interruptions, you understand and agree that the Kahoot! Service is provided “as is” and “as available”, without any express or implied warranty, condition or assurance of any kind.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies, which are cookies that only belong to the domain of the service and not a third party.",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:06:04",
+            "point_link": "https://edit.tosdr.org/points/5365",
+            "approval_status": "APPROVED",
+            "clause_text": "Cookies are pieces of information stored directly on the computer that you are using.\nCookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data.",
+            "point_source": "https://kahoot.com/privacy-policy/",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:35:44",
+            "point_link": "https://edit.tosdr.org/points/11224",
+            "approval_status": "APPROVED",
+            "clause_text": "You are responsible for maintaining the confidentiality of any login information associated with any account you use to access our Services and Resources.\nAccordingly, you are responsible for all activities that occur under your account/s.",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:35:40",
+            "point_link": "https://edit.tosdr.org/points/11219",
+            "approval_status": "APPROVED",
+            "clause_text": "This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link.\nThe inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.",
+            "point_source": "https://kahoot.com/privacy-policy/",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:35:45",
+            "point_link": "https://edit.tosdr.org/points/11223",
+            "approval_status": "APPROVED",
+            "clause_text": "Any failure by Kahoot! or any third party beneficiary to enforce the Agreements or any provision thereof shall not waive Kahoot!’s or the applicable third party beneficiary’s right to do so.</p>",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:35:45",
+            "point_link": "https://edit.tosdr.org/points/11222",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless as otherwise stated in the Agreements, should any provision of the Agreements be held invalid or unenforceable for any reason or to any extent, such invalidity or unenforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Agreements, and the application of that provision shall be enforced to the extent permitted by law",
+            "point_source": "https://kahoot.com/terms-and-conditions/",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:35:59",
+            "point_link": "https://edit.tosdr.org/points/11206",
+            "approval_status": "APPROVED",
+            "clause_text": "We may also derive your approximate, general, location from your IP address.</p>",
+            "point_source": "https://kahoot.com/privacy-policy/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

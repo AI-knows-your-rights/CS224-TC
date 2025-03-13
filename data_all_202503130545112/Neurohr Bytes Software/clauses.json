@@ -1,0 +1,151 @@
+{
+    "meta_data": {
+        "title": "Neurohr Bytes Software - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for up to 90 days",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-06-30 18:24:58",
+            "point_link": "https://edit.tosdr.org/points/34192",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://neurohr.bytes.software/public/data-protection?lang=en",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:06:25",
+            "point_link": "https://edit.tosdr.org/points/10820",
+            "approval_status": "APPROVED",
+            "clause_text": "Wir bemühen uns, nur die Daten zu sammeln, die wir tatsächlich für die Bereitstellung unserer Services benötigen.",
+            "point_source": "https://neurohr.bytes.software/laravel/data-protection?language=de",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 06:32:49",
+            "point_link": "https://edit.tosdr.org/points/10814",
+            "approval_status": "APPROVED",
+            "clause_text": "Changed to \"Gerichtsstand Graz, Österreich\" as suggested.\n    \n      \n        \n          \n              Version 1: 2020-10-30 09:03:08 UTC by NeurohrByteS (20647) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2020-10-30 09:03:08 UTC by NeurohrByteS (20647) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2020-10-30 09:03:08 UTC by NeurohrByteS (20647) \n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://neurohr.bytes.software/public/data-protection?lang=de",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:06:25",
+            "point_link": "https://edit.tosdr.org/points/10819",
+            "approval_status": "APPROVED",
+            "clause_text": "Capture\nYour data is captured personally by our employees, or provided by you via this portal.",
+            "point_source": "https://neurohr.bytes.software/laravel/data-protection?language=en",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "A list of cookies originating from the portal itself and inherited from external services is provided with explanations",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 06:32:49",
+            "point_link": "https://edit.tosdr.org/points/10810",
+            "approval_status": "APPROVED",
+            "clause_text": "Cookies und externe Dienste\n\nInformation zur EU Richtlinie 2009/136/EG\nDiese Onlineanwendung nutzt Cookies, Cloudflare und hCaptcha, um Ihnen bestmögliche Funktionalität bieten zu können, den Service zu verbessern und das Portal vor Angriffen zu schützen.\n\n\nBeim Besuch unseres Portals werden Sie feststellen, dass Cookies angelegt werden, welche für die Funktion des Portals notwendig sind\n\n\nXSRF-TOKEN: Dieses Cookie unterstützt uns bei der Bekämpfung von Cross-Site-Request-Forgery (Wikipedia) .\n\n\nlaravel_token: Dieses Cookie dient uns ebenso in der Bekämpfung von Cross-Site-Request-Forgery (Technische Referenz) .\n\n\nportal_name_session: Dies ist ein sicheres, verschlüsseltes Cookie, welches Ihre unbeständigen Daten der aktuellen Sitzung speichert.\n\n\nremember_web_zufallszeichen: Dieses Cookie wird gesetzt, wenn Sie beim Anmelden \"Dauerhaft anmelden\" aktivieren.\n\n\nbrowser_authentication: Dieses Cookie wird gesetzt um die Anzahl der CAPTCHA-Aufgaben im aktuellen Browser zu senken.\n\n\nIm Bedarfsfall\n\nCloudflare: Zur Abwehr von DDoS-Angriffen setzen wir bei ausgewählten Diensten und Diensten die aktuell angegriffen werden Cloudflare ein, wenn die Sensibilität der verarbeiteten Daten diese Maßnahme zulässt.\n\n\nMehrere Cookies für hcaptcha.com: Diese Cookies werden von hCaptcha spätestens dann gesetzt, wenn ein Anmeldeformular bei Ihnen angezeigt wurde. hCaptcha sind die Bilderrätsel die Sie lösen müssen, bevor Sie sich anmelden können. Diese verhindern, dass Angreifer durch automatisierte Passwortangriffe Ihren Account übernehmen können. hCaptcha Datenstutzrichtlinien\n\n\nMehrere Cookies für vimeo.com: Diese Cookies werden von Vimeo gesetzt, wenn eine Videovorschau, oder das Video selber geladen werden. Vimeo Cookie-Richtlinie\n\n\nMehrere Cookies für youtube.com: Diese Cookies werden von YouTube gesetzt, wenn eine Videovorschau, oder das Video selber geladen werden. YouTube Datenstutzrichtlinien\n\n\n__stripe_mid: Betrugsprävention durch den Zahlungsanbieter Stripe. Stripe Cookierichtlinien \n    \n          On 2024-10-21 07:44:10 UTC, vexer85285 (35608)  wrote:\n          Just proves the aged adage. Its an ill wind that blows no great.  You fail to overlook the crucial position. paint protection near me\n\n        \n        \n      \n        \n          \n              Version 4: 2023-06-21 14:10:20 UTC by NeurohrByteS (20647) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 4: 2023-06-21 14:10:20 UTC by NeurohrByteS (20647) \n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 4: 2023-06-21 14:10:20 UTC by NeurohrByteS (20647) \n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Since we recently updated our DNT-mechanisms to prevent external scripts from loading, we also checked all cookies.\n\nTo quote myself, since I wrote that part of the document (in the document words like \"Wikipedia\" or \"Technical reference\" are linked):\n\n```\nCookies and external services\n\nInformation regarding the EU directive 2009/136/EC\nThis online tool uses Cookies, Cloudflare and hCaptcha to provide the best possible functionality, to improve the service and to protect the portal from attacks.\n\n\nWhen you visit our portal you will receive some cookies necessary for the provision of the portal's services\n\n\nXSRF-TOKEN: This cookie helps us to battle Cross-Site-Request-Forgery (Wikipedia) .\n\n\nlaravel_token: This cookie is also used to battle Cross-Site-Request-Forgery (Technical reference) .\n\n\nportal_name_session: This is a secure and encrypted cookie storing all volatile data of your session.\n\n\nremember_web_random_string: This cookie is set if you check the \"Remember login\" button during login.\n\n\nbrowser_authentication: This cookie is set to reduce the amount of CAPTCHA-challenges in the current browser.\n\n\nIf necessary\n\nCloudflare: In order to defend servers against DDoS attacks selected services and services under attack use Cloudflare, if the sensitivity of the processed data allows this measure.\n\n\nSeveral cookies for hcaptcha.com: These cookies are set by hCaptcha at the latest if the login form is shown. hCaptcha are the picture challenges you have to solve before being able to login. This prevents attackers from accessing your account just by testing random password until one matches. hCaptcha data security notice\n\n\nSeveral cookies for vimeo.com: This cookies are set when a Vimeo video or preview is loaded on the page. Vimeo's Cookie Policy\n\n\nSeveral cookies for youtube.com: This cookies are set when a YouTube video or preview is loaded on the page. YouTube data security notice\n\n\n__stripe_mid: Fraud prevention by the payment provider Stripe. Stripe's Cookie Policy\n\n```\n          \n          \n            Previous Status:  DECLINED\n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Since we recently updated our DNT-mechanisms to prevent external scripts from loading, we also checked all cookies.\n\nTo quote myself, since I wrote that part of the document (in the document words like \"Wikipedia\" or \"Technical reference\" are linked):\n\n```\nCookies and external services\n\nInformation regarding the EU directive 2009/136/EC\nThis online tool uses Cookies, Cloudflare and hCaptcha to provide the best possible functionality, to improve the service and to protect the portal from attacks.\n\n\nWhen you visit our portal you will receive some cookies necessary for the provision of the portal's services\n\n\nXSRF-TOKEN: This cookie helps us to battle Cross-Site-Request-Forgery (Wikipedia) .\n\n\nlaravel_token: This cookie is also used to battle Cross-Site-Request-Forgery (Technical reference) .\n\n\nportal_name_session: This is a secure and encrypted cookie storing all volatile data of your session.\n\n\nremember_web_random_string: This cookie is set if you check the \"Remember login\" button during login.\n\n\nbrowser_authentication: This cookie is set to reduce the amount of CAPTCHA-challenges in the current browser.\n\n\nIf necessary\n\nCloudflare: In order to defend servers against DDoS attacks selected services and services under attack use Cloudflare, if the sensitivity of the processed data allows this measure.\n\n\nSeveral cookies for hcaptcha.com: These cookies are set by hCaptcha at the latest if the login form is shown. hCaptcha are the picture challenges you have to solve before being able to login. This prevents attackers from accessing your account just by testing random password until one matches. hCaptcha data security notice\n\n\nSeveral cookies for vimeo.com: This cookies are set when a Vimeo video or preview is loaded on the page. Vimeo's Cookie Policy\n\n\nSeveral cookies for youtube.com: This cookies are set when a YouTube video or preview is loaded on the page. YouTube data security notice\n\n\n__stripe_mid: Fraud prevention by the payment provider Stripe. Stripe's Cookie Policy\n\n```\n          \n          \n            Previous Status:  DECLINED\n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Since we recently updated our DNT-mechanisms to prevent external scripts from loading, we also checked all cookies.\n\nTo quote myself, since I wrote that part of the document (in the document words like \"Wikipedia\" or \"Technical reference\" are linked):\n\n```\nCookies and external services\n\nInformation regarding the EU directive 2009/136/EC\nThis online tool uses Cookies, Cloudflare and hCaptcha to provide the best possible functionality, to improve the service and to protect the portal from attacks.\n\n\nWhen you visit our portal you will receive some cookies necessary for the provision of the portal's services\n\n\nXSRF-TOKEN: This cookie helps us to battle Cross-Site-Request-Forgery (Wikipedia) .\n\n\nlaravel_token: This cookie is also used to battle Cross-Site-Request-Forgery (Technical reference) .\n\n\nportal_name_session: This is a secure and encrypted cookie storing all volatile data of your session.\n\n\nremember_web_random_string: This cookie is set if you check the \"Remember login\" button during login.\n\n\nbrowser_authentication: This cookie is set to reduce the amount of CAPTCHA-challenges in the current browser.\n\n\nIf necessary\n\nCloudflare: In order to defend servers against DDoS attacks selected services and services under attack use Cloudflare, if the sensitivity of the processed data allows this measure.\n\n\nSeveral cookies for hcaptcha.com: These cookies are set by hCaptcha at the latest if the login form is shown. hCaptcha are the picture challenges you have to solve before being able to login. This prevents attackers from accessing your account just by testing random password until one matches. hCaptcha data security notice\n\n\nSeveral cookies for vimeo.com: This cookies are set when a Vimeo video or preview is loaded on the page. Vimeo's Cookie Policy\n\n\nSeveral cookies for youtube.com: This cookies are set when a YouTube video or preview is loaded on the page. YouTube data security notice\n\n\n__stripe_mid: Fraud prevention by the payment provider Stripe. Stripe's Cookie Policy\n\n```\n          \n          \n            Previous Status:  DECLINED\n            Updated Status:  PENDING\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: Generated through the annotate view\n            Updated Analysis: Since we recently updated our DNT-mechanisms to prevent external scripts from loading, we also checked all cookies.\n\nTo quote myself, since I wrote that part of the document (in the document words like \"Wikipedia\" or \"Technical reference\" are linked):\n\n```\nCookies and external services\n\nInformation regarding the EU directive 2009/136/EC\nThis online tool uses Cookies, Cloudflare and hCaptcha to provide the best possible functionality, to improve the service and to protect the portal from attacks.\n\n\nWhen you visit our portal you will receive some cookies necessary for the provision of the portal's services\n\n\nXSRF-TOKEN: This cookie helps us to battle Cross-Site-Request-Forgery (Wikipedia) .\n\n\nlaravel_token: This cookie is also used to battle Cross-Site-Request-Forgery (Technical reference) .\n\n\nportal_name_session: This is a secure and encrypted cookie storing all volatile data of your session.\n\n\nremember_web_random_string: This cookie is set if you check the \"Remember login\" button during login.\n\n\nbrowser_authentication: This cookie is set to reduce the amount of CAPTCHA-challenges in the current browser.\n\n\nIf necessary\n\nCloudflare: In order to defend servers against DDoS attacks selected services and services under attack use Cloudflare, if the sensitivity of the processed data allows this measure.\n\n\nSeveral cookies for hcaptcha.com: These cookies are set by hCaptcha at the latest if the login form is shown. hCaptcha are the picture challenges you have to solve before being able to login. This prevents attackers from accessing your account just by testing random password until one matches. hCaptcha data security notice\n\n\nSeveral cookies for vimeo.com: This cookies are set when a Vimeo video or preview is loaded on the page. Vimeo's Cookie Policy\n\n\nSeveral cookies for youtube.com: This cookies are set when a YouTube video or preview is loaded on the page. YouTube data security notice\n\n\n__stripe_mid: Fraud prevention by the payment provider Stripe. Stripe's Cookie Policy\n\n```\n          \n            Previous Status:  DECLINED\n            Updated Status:  PENDING",
+            "point_source": "https://neurohr.bytes.software/public/data-protection?lang=de",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "Your browser's Do Not Track (DNT) headers are respected, you have to manually opt-in to external services",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-06-30 18:24:24",
+            "point_link": "https://edit.tosdr.org/points/34193",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://neurohr.bytes.software/.well-known/dnt-policy.txt",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "The service explains how to prevent disclosure of personal information to third parties",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-06-30 18:29:56",
+            "point_link": "https://edit.tosdr.org/points/34196",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://neurohr.bytes.software/public/data-protection?lang=en",
+            "case": {
+                "text": "The service explains how to prevent disclosure of personal information to third parties",
+                "href": "https://edit.tosdr.org/cases/334"
+            }
+        },
+        {
+            "title": "2FA via TOTP / RFC 6238 is available to all accounts and is enforced for all administrative accounts",
+            "rating": "good",
+            "description": "The service provides means of further securing your account with two factor authentification, thus greatly improving account security.",
+            "last_updated": "2023-06-30 18:29:04",
+            "point_link": "https://edit.tosdr.org/points/34194",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://neurohr.bytes.software/login",
+            "case": {
+                "text": "Two factor authentication is provided for your account",
+                "href": "https://edit.tosdr.org/cases/312"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Graz, Austria",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:06:28",
+            "point_link": "https://edit.tosdr.org/points/10815",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2020-10-30 09:03:39 UTC by NeurohrByteS (20647) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2020-10-30 09:03:39 UTC by NeurohrByteS (20647) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2020-10-30 09:03:39 UTC by NeurohrByteS (20647) \n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The court of law governing the terms is in location X\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://neurohr.bytes.software/laravel/data-protection?language=de",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-02 09:30:04",
+            "point_link": "https://edit.tosdr.org/points/34266",
+            "approval_status": "APPROVED",
+            "clause_text": "P addresses</strong> of failed and successful login attempts are kept for up to 90 days.</p>",
+            "point_source": "https://neurohr.bytes.software/public/data-protection?lang=en",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

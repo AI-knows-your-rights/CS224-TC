@@ -1,0 +1,221 @@
+{
+    "meta_data": {
+        "title": "Netsyms Technologies - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "User logs are deleted after 30 days",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:08:23",
+            "point_link": "https://edit.tosdr.org/points/5021",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Under normal conditions, we keep server access logs no longer than one month.\"\n    \n      \n        \n          \n              Version 3: 2019-06-15 02:39:46 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 3: 2019-06-15 02:39:46 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 3: 2019-06-15 02:39:46 UTC by skylarmt (713)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 06:33:14",
+            "point_link": "https://edit.tosdr.org/points/5014",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 3: 2019-06-24 05:15:33 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 3: 2019-06-24 05:15:33 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 3: 2019-06-24 05:15:33 UTC by skylarmt (713)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  CHANGES REQUESTED\n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  CHANGES REQUESTED\n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  CHANGES REQUESTED\n            Updated Status:  PENDING\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  CHANGES REQUESTED\n            Updated Status:  PENDING",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "The service will not allow third parties to access your personal information without a legal basis",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:04:35",
+            "point_link": "https://edit.tosdr.org/points/5008",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We will never sell your information to anybody, because it belongs to you, not us.  Sometimes we do take a peek to make sure everything goes smoothly for all our users, but we never tell anyone what we find (unless we find something very illegal).\"",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "Third parties are not allowed to access your personal information without a legal basis",
+                "href": "https://edit.tosdr.org/cases/167"
+            }
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:34:17",
+            "point_link": "https://edit.tosdr.org/points/5020",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We only retain data as needed to provide you with services.\"\n    \n      \n        \n          \n              Version 1: 2018-11-24 07:44:37 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2018-11-24 07:44:37 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2018-11-24 07:44:37 UTC by skylarmt (713)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: Only necessary user logs are kept by the service to ensure quality\n          \n          \n            Previous Analysis: \n            Updated Analysis: \"We only retain data as needed to provide you with services.\"\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: Only necessary user logs are kept by the service to ensure quality\n          \n          \n            Previous Analysis: \n            Updated Analysis: \"We only retain data as needed to provide you with services.\"\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: Only necessary user logs are kept by the service to ensure quality\n          \n          \n            Previous Analysis: \n            Updated Analysis: \"We only retain data as needed to provide you with services.\"\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: Only necessary user logs are kept by the service to ensure quality\n          \n            Previous Analysis: \n            Updated Analysis: \"We only retain data as needed to provide you with services.\"\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:02:55",
+            "point_link": "https://edit.tosdr.org/points/5017",
+            "approval_status": "APPROVED",
+            "clause_text": "\"If you wish to have your personal information removed from our systems, you want a copy of your data, or you want to change your information but can't find a way to do so, contact us and we will be happy to assist you.\"",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2019-06-18 03:45:23",
+            "point_link": "https://edit.tosdr.org/points/5011",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "This service provides a way for you to export your data",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2019-06-25 04:06:04",
+            "point_link": "https://edit.tosdr.org/points/5012",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "This service provides a way for you to export your data",
+                "href": "https://edit.tosdr.org/cases/184"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:33:21",
+            "point_link": "https://edit.tosdr.org/points/5016",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Analytical data does not move outside Netsyms servers, and you cannot be identified with it.  If you don't want to be tracked at all, enable Do-Not-Track in your web browser or [click here](https://netsyms.com/tracking-opt-out/) to opt out.\"",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:34:16",
+            "point_link": "https://edit.tosdr.org/points/5006",
+            "approval_status": "APPROVED",
+            "clause_text": "\"You are allowed to use a pseudonym if you so choose; we only use your name as a 'friendly' alternative to your username.\"\n    \n      \n        \n          \n              Version 1: 2018-11-24 07:13:45 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2018-11-24 07:13:45 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2018-11-24 07:13:45 UTC by skylarmt (713)  Curator\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The service allows you to use pseudonyms\n          \n          \n            Previous Analysis: \n            Updated Analysis: The terms don't specify any requirements on names at all.\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The service allows you to use pseudonyms\n          \n          \n            Previous Analysis: \n            Updated Analysis: The terms don't specify any requirements on names at all.\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The service allows you to use pseudonyms\n          \n          \n            Previous Analysis: \n            Updated Analysis: The terms don't specify any requirements on names at all.\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The service allows you to use pseudonyms\n          \n            Previous Analysis: \n            Updated Analysis: The terms don't specify any requirements on names at all.\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2019-06-26 01:05:58",
+            "point_link": "https://edit.tosdr.org/points/5009",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:33:15",
+            "point_link": "https://edit.tosdr.org/points/5018",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We will attempt to notify you via email of any major changes to this document.\"",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "This services gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 10:04:35",
+            "point_link": "https://edit.tosdr.org/points/5015",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Netsyms Technologies’ digital products and services are provided by the copyright holders and contributors \"as is\" and any express or implied warranties...\"",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2019-06-09 22:53:06",
+            "point_link": "https://edit.tosdr.org/points/5010",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "This service cannot be held responsible for disputes that you may have with other users",
+            "rating": "neutral",
+            "description": "You are responsible for the interactions and the disputes that may occur with other users of the Service. In the event of a dispute, you release the Service from all claims resulting from it.",
+            "last_updated": "2023-07-11 06:34:18",
+            "point_link": "https://edit.tosdr.org/points/5013",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We are not responsible in any way for the activities of users on our online services.\"",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "This service cannot be held responsible for disputes that you may have with other users",
+                "href": "https://edit.tosdr.org/cases/154"
+            }
+        },
+        {
+            "title": "Users agree not to submit illegal content",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:34:17",
+            "point_link": "https://edit.tosdr.org/points/5007",
+            "approval_status": "APPROVED",
+            "clause_text": "\"illegal or illicit activities\" is listed under the section \"Some content is banned.\"\n    \n      \n        \n          \n              Version 5: 2019-06-15 02:39:45 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 5: 2019-06-15 02:39:45 UTC by skylarmt (713)  Curator\n          \n        \n        \n          \n            \n              Analysis updated\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 5: 2019-06-15 02:39:45 UTC by skylarmt (713)  Curator\n          \n        \n          \n            \n              Analysis updated\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n    \n        \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n      \n          \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT\n          \n        \n            Previous Title: No changes recorded\n            Updated Title: No changes recorded\n          \n            Previous Analysis: No changes recorded\n            Updated Analysis: No changes recorded\n          \n            Previous Status:  PENDING\n            Updated Status:  DRAFT",
+            "point_source": "https://netsyms.com/legal",
+            "case": {
+                "text": "You agree not to submit illegal content",
+                "href": "https://edit.tosdr.org/cases/238"
+            }
+        }
+    ]
+}

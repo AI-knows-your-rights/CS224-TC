@@ -1,0 +1,81 @@
+{
+    "meta_data": {
+        "title": "Fritter - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Features of the service are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2021-06-15 10:16:58",
+            "point_link": "https://edit.tosdr.org/points/22462",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://f-droid.org/en/packages/com.jonjomckay.fritter/",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "Your information is only shared with third parties when given specific consent",
+            "rating": "good",
+            "description": "The service does not share user information with any third parties unless users specifically give it permission to do so.",
+            "last_updated": "2023-07-11 06:18:41",
+            "point_link": "https://edit.tosdr.org/points/22461",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Fritter <i>does not</i>, and will never, share user data with any third-party, except data submitted by users in requests to Twitter (e.g.\nsearching for a hashtag), or unless that data has voluntarily been submitted (e.g.\nuploading a crash dump).</p>",
+            "point_source": "https://fritter.cc/privacy/",
+            "case": {
+                "text": "Your information is only shared with third parties when given specific consent",
+                "href": "https://edit.tosdr.org/cases/296"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2021-06-15 10:10:34",
+            "point_link": "https://edit.tosdr.org/points/22464",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://fritter.cc",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "Only necessary logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 06:18:40",
+            "point_link": "https://edit.tosdr.org/points/22460",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>No data is collected by Fritter, unless you submit a crash dump, or manually send a \"Hello\" ping in the app.",
+            "point_source": "https://fritter.cc/privacy/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2021-06-15 10:16:55",
+            "point_link": "https://edit.tosdr.org/points/22463",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://github.com/jonjomckay/fritter",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        }
+    ]
+}

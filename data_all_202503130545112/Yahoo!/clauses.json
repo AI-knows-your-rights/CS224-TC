@@ -1,0 +1,627 @@
+{
+    "meta_data": {
+        "title": "Yahoo! - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 10:12:47",
+            "point_link": "https://edit.tosdr.org/points/15630",
+            "approval_status": "APPROVED",
+            "clause_text": "(Please note, when you&nbsp;use our Services, we may recognize you or your devices even if you are not signed in to our Services.)",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "The service can read your private messages",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 10:09:54",
+            "point_link": "https://edit.tosdr.org/points/15631",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).</p>\n</li>\n<li>\n<p>Verizon Media analyzes and stores all communications content, including email content from incoming and outgoing mail.\nThis allows us to deliver, personalize and develop relevant features, content, advertising and Services.</p>\n</li>\n<li>",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "App required for this service requires broad device permissions",
+            "rating": "bad",
+            "description": "The app of the service requires more device permissions than necessary. As a consequence it can compromise your privacy by accessing many functions and information from your device, such as precise location, contacts, device identifiers etc.",
+            "last_updated": "2023-07-11 10:12:47",
+            "point_link": "https://edit.tosdr.org/points/15634",
+            "approval_status": "APPROVED",
+            "clause_text": "This information includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "App required for this service requires broad device permissions",
+                "href": "https://edit.tosdr.org/cases/322"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:04:31",
+            "point_link": "https://edit.tosdr.org/points/11227",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Verizon Media may access, store, and use the location information described above to provide Services such as: enhanced location based services, serve location-targeted advertising, search results, and other content.\nVerizon Media may maintain a history of your locations.\nRefer to the \"Managing Your Location Information\" section below for more details on your control of this information.</p>\n<p>Other uses of location information may include determining the appropriate language for presenting a website, conducting product analysis, and assisting in the detection of fraud and abuse.</p>",
+            "point_source": "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/location/index.html",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes without your consent.",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:12:49",
+            "point_link": "https://edit.tosdr.org/points/15694",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We allow other companies&nbsp;that show advertisements on our webpages or apps to collect information from your browsers or devices.&nbsp;Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:12:42",
+            "point_link": "https://edit.tosdr.org/points/15632",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services)",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:08:31",
+            "point_link": "https://edit.tosdr.org/points/952",
+            "approval_status": "APPROVED",
+            "clause_text": "“Section 15: Termination … You agree that Yahoo! may, without prior notice, immediately terminate, limit your access to or suspend your Yahoo! account, any associated email address, and access to the Yahoo! Services. Cause for such termination, limitation of access or suspension shall include, but not be limited to, (a) breaches or violations of the TOS or other incorporated agreements or guidelines, (b)requests by law enforcement or other government agencies, (c) discontinuance or material modification to the Yahoo! Services (or any part thereof), (d) unexpected technical or security issues or problems, (e) extended periods of inactivity, (f) engagement by you in fraudulent or illegal activities, and/or (g) nonpayment of any fees owed by you in connection with the Yahoo! Services. Further, you agree that all terminations, limitations of access and suspensions for cause shall be made in Yahoo!'s sole discretion and that Yahoo! shall not be liable to you or any third party for any termination of your account, any associated email address, or access to the Yahoo! Services.”\n    \n          On 2024-10-16 13:36:44 UTC, sowaro4784 (31933)  wrote:\n          Nice information, valuable and excellent design, as share good stuff with good ideas and concepts, lots of great information and inspiration, both of which I need, thanks to offer such a helpful information here.\tفتح باب",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:08:57",
+            "point_link": "https://edit.tosdr.org/points/15688",
+            "approval_status": "APPROVED",
+            "clause_text": "transferable, sublicensable license",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:09:55",
+            "point_link": "https://edit.tosdr.org/points/15684",
+            "approval_status": "APPROVED",
+            "clause_text": "YOU AND </strong>\n<strong>VERIZON MEDIA</strong>&nbsp;<strong>BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (“DISPUTE(S)”), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15677",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-01-01 11:23:45 UTC, Opurnerly (33910)  Suspended wrote:\n          Visagovindia made my visa application process easy. INDIAN VISA FOR CRUISE SHIP VISITORS",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:08:39",
+            "point_link": "https://edit.tosdr.org/points/15663",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This information also includes the kind of content or ads served, viewed or clicked on.\nthe frequency and duration of your activities.\nthe sites or apps you used before accessing our Services and where you went next.",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15683",
+            "approval_status": "APPROVED",
+            "clause_text": "<u>CLASS ACTION WAIVER FOR U.S.\nUSERS</u>\n</strong>\n<strong>.\nTHESE TERMS DO&nbsp;<u>NOT</u>&nbsp;ALLOW CLASS OR COLLECTIVE ARBITRATIONS, EVEN IF THE AAA PROCEDURES OR RULES WOULD.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15665",
+            "approval_status": "APPROVED",
+            "clause_text": "We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:35:32",
+            "point_link": "https://edit.tosdr.org/points/1132",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We may [...] set and access device identifiers which could include [...] user agent information (browser version, OS type and version)\"",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 06:35:44",
+            "point_link": "https://edit.tosdr.org/points/11228",
+            "approval_status": "APPROVED",
+            "clause_text": "Verizon Media may receive location data from third parties that you have linked your account with.",
+            "point_source": "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/location/index.html",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 06:35:47",
+            "point_link": "https://edit.tosdr.org/points/11225",
+            "approval_status": "APPROVED",
+            "clause_text": "We may recognize your devices to provide you with personalized experiences and advertising across the devices you use",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:09:54",
+            "point_link": "https://edit.tosdr.org/points/15669",
+            "approval_status": "APPROVED",
+            "clause_text": "We also may use the information we have about you for the following purposes:&nbsp;</p>\n<ol>\n<li>\n<p>Provide, maintain, improve, and develop relevant features, content, and Services.</p>\n</li>\n<li>\n<p>Analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications).\nYou can review and control certain types of information tied to your Verizon Media&nbsp;account by using Privacy Controls.&nbsp;</p>\n</li>\n<li>\n<p>Fulfill your requests and when authorized by you.&nbsp;</p>\n</li>\n<li>\n<p>Help advertisers and publishers connect to offer relevant advertising in their apps and websites.</p>\n</li>\n<li>\n<p>Match and serve targeted advertising (across devices and both on and off of our Services) and provide targeted advertising&nbsp;based on your device activity, inferred interests and location information.</p>",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:12:18",
+            "point_link": "https://edit.tosdr.org/points/11229",
+            "approval_status": "APPROVED",
+            "clause_text": "We may associate activity and accounts under a single user ID.&nbsp;</p>\n</li>\n<li>\n<p>Carry out or support promotions.</p>\n</li>\n<li>\n<p>Conduct research and support innovation.&nbsp;</p>\n</li>\n<li>\n<p>Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties&nbsp;and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences.",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15674",
+            "approval_status": "APPROVED",
+            "clause_text": "THE UNAUTHORIZED ACCESS TO YOUR ACCOUNT OR ANY DATA MAINTAINED OR TRANSMITTED BY THE SERVICES.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15668",
+            "approval_status": "APPROVED",
+            "clause_text": "Provide location-based Services, advertising, search results, and other content consistent with your location settings.</p>",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "This service retains rights to your content even after you stop using your account",
+            "rating": "bad",
+            "description": "The service may still use your content and display it after you stopped using it by closing your account, since you granted them a perpetual or (in some cases) an unlimited license over that content.",
+            "last_updated": "2023-07-11 10:12:26",
+            "point_link": "https://edit.tosdr.org/points/15687",
+            "approval_status": "APPROVED",
+            "clause_text": "perpetual,",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "This service retains rights to your content even after you stop using your account",
+                "href": "https://edit.tosdr.org/cases/173"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15676",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE FULLEST EXTENT PERMITTED BY LAW AND EXCEPT AS OTHERWISE STATED IN SECTION 14, VERIZON MEDIA ENTITIES ARE NOT LIABLE IN CONNECTION WITH ANY DISPUTES THAT ARISE OUT OF OR RELATE TO THESE TERMS OR SERVICES FOR ANY AMOUNT GREATER THAN THE AMOUNT YOU PAID TO US FOR THE SERVICES.</p>\n</li>\n<li>\n<p>",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "You maintain ownership of your data",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15685",
+            "approval_status": "APPROVED",
+            "clause_text": "Except as otherwise provided in the specific&nbsp;product terms or guidelines for&nbsp;one of our Services, when you upload, share with or submit content to the Services you retain ownership of any intellectual property rights that you hold in that content",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15690",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>\n<strong>Information Collection",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:12:41",
+            "point_link": "https://edit.tosdr.org/points/15664",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use This Information</strong>",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "This service does not sell your personal data",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:12:52",
+            "point_link": "https://edit.tosdr.org/points/15691",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Verizon Media unless one of the following circumstances applies",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:12:15",
+            "point_link": "https://edit.tosdr.org/points/15686",
+            "approval_status": "APPROVED",
+            "clause_text": "you grant&nbsp;to us&nbsp;a worldwide, royalty-free, non-exclusive,",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:21",
+            "point_link": "https://edit.tosdr.org/points/836",
+            "approval_status": "APPROVED",
+            "clause_text": "Yahoo asks for indemnification from users. Please note that the terms of service for Yahoo have been brought under those for \nOath.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2024-04-04 14:39:53",
+            "point_link": "https://edit.tosdr.org/points/36005",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Last updated: August 2020</em>",
+            "point_source": null,
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15681",
+            "approval_status": "APPROVED",
+            "clause_text": "Unless stated differently for your country in Section 14, we may modify the Terms from time to time.\nUnless we indicate otherwise, modifications will be effective as of the date they are posted on this page or any successor page.\nYou should look at the Terms regularly.\nWe will provide notice (in accordance with Section 3(c) above) of material modifications.</p>\n</li>",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "You authorise the service to charge a credit card supplied on re-occurring basis",
+            "rating": "neutral",
+            "description": "You card will be billed on recurring basis unless cancelled. For instance, monthly or annual subscriptions.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15678",
+            "approval_status": "APPROVED",
+            "clause_text": "We use auto-renewal for many of our fee-based Services.\nAt the expiration of each subscription term for such fee-based Services, we will automatically renew your subscription and charge the credit card or other payment method you have provided to us, unless you cancel your subscription at least 48 hours before the end of the current period.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "You authorise the service to charge a credit card supplied on re-occurring basis",
+                "href": "https://edit.tosdr.org/cases/384"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15675",
+            "approval_status": "APPROVED",
+            "clause_text": "LINKS PROVIDED BY THE SERVICES OR THIRD PARTIES TO EXTERNAL SITES OR RESOURCES.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "The service can distribute your content through any media known now or in the future",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15689",
+            "approval_status": "APPROVED",
+            "clause_text": "to (a) use, host, store, reproduce, modify, prepare derivative works (such as translations, adaptations, summaries or other changes), communicate, publish, publicly perform, publicly display, and distribute this content in any manner, mode of delivery or media now known or developed in the future.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:34:57",
+            "point_link": "https://edit.tosdr.org/points/15629",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Last updated: October&nbsp;2020</em>\n</p>",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15673",
+            "approval_status": "APPROVED",
+            "clause_text": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE AND UNDERSTAND THAT VERIZON MEDIA&nbsp;ENTITIES WILL NOT BE LIABLE FOR: ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, TREBLE OR OTHER MULTIPLES OF DAMAGES, EXEMPLARY OR PUNITIVE DAMAGES ARISING FROM OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF THE SERVICES.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:08:39",
+            "point_link": "https://edit.tosdr.org/points/15680",
+            "approval_status": "APPROVED",
+            "clause_text": "We, in our sole discretion, may change, discontinue or terminate any or all aspects of a fee-based Service without notice, including access to support services, content and other products or services ancillary to the fee-based Service, subject to providing an appropriate refund for any portions of a specified but no longer available term.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "This service has a no refund policy with some exceptions",
+            "rating": "neutral",
+            "description": "Payments can be refunded if some requirements are fulfilled.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15679",
+            "approval_status": "APPROVED",
+            "clause_text": "All charges are nonrefundable unless provided otherwise in the terms you agree to when you register for a fee-based Service, unless stated differently for your country in Section 14 or as otherwise specified below.</p>\n</li>",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "This service has a no refund policy with some exceptions",
+                "href": "https://edit.tosdr.org/cases/398"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15671",
+            "approval_status": "APPROVED",
+            "clause_text": "WE DO NOT REPRESENT, PROMISE, OR WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15670",
+            "approval_status": "APPROVED",
+            "clause_text": "WE PROVIDE OUR SERVICES “AS-IS,” “WITH ALL FAULTS,” AND “AS AVAILABLE.” YOUR USE OF THE SERVICES, INCLUDING CONTENT WITHIN THE SERVICES, IS AT YOUR OWN RISK",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:34:29",
+            "point_link": "https://edit.tosdr.org/points/15667",
+            "approval_status": "APPROVED",
+            "clause_text": "These analytics and reports may include aggregate or pseudonymized information.</p>",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15682",
+            "approval_status": "APPROVED",
+            "clause_text": "Our&nbsp;failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision.",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:12:51",
+            "point_link": "https://edit.tosdr.org/points/15672",
+            "approval_status": "APPROVED",
+            "clause_text": "WE MAKE NO COMMITMENTS, PROMISES OR WARRANTIES ABOUT THE CONTENT WITHIN THE SERVICES OR CONTENT LINKED FROM THE SERVICES, THE SUPPORT WE PROVIDE FOR THE SERVICES, THE SPECIFIC FUNCTIONS OF THE SERVICES, THE SECURITY OF THE SERVICES, OR THE SERVICES’ RELIABILITY, QUALITY, ACCURACY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS, PROVIDE CERTAIN OUTPUTS OR ACHIEVE CERTAIN RESULTS.</p>\n</li>",
+            "point_source": "https://policies.oath.com/us/en/oath/terms/otos/index.html",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15692",
+            "approval_status": "APPROVED",
+            "clause_text": "where Verizon Media&nbsp;data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present.",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:09",
+            "point_link": "https://edit.tosdr.org/points/15633",
+            "approval_status": "APPROVED",
+            "clause_text": "This information includes device specific identifiers and information such as IP address,",
+            "point_source": "https://policies.oath.com/us/en/oath/privacy/index.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

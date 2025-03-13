@@ -1,0 +1,683 @@
+{
+    "meta_data": {
+        "title": "t2bot.io - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Private messages can be read",
+            "rating": "blocker",
+            "description": "The Service is able to access, scan, review or read all user communications, including private messages, which may contain personal or sensitive data.",
+            "last_updated": "2023-07-11 06:32:30",
+            "point_link": "https://edit.tosdr.org/points/33844",
+            "approval_status": "APPROVED",
+            "clause_text": "We may pre-screen user messages or files to prevent spam and other abuse,",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Private messages can be read",
+                "href": "https://edit.tosdr.org/cases/239"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:32:29",
+            "point_link": "https://edit.tosdr.org/points/33845",
+            "approval_status": "APPROVED",
+            "clause_text": "we may\nremove any messages or files (including entire rooms) from the Service for\nany reason without notice at our sole discretion.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Some personal data may be kept for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33083",
+            "approval_status": "APPROVED",
+            "clause_text": "We may need your personal information to establish, bring, or defend legal claims.\nFor\nthis purpose, we will retain your personal information for no longer than 7 years after\nthe date it is no longer needed by us for any purposes listed in this document, as per\nthe statutory recommendations.</p>",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "The Terms and Conditions may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33079",
+            "approval_status": "APPROVED",
+            "clause_text": "We will likely improve this document over time.\nBy continuing to use the Service, you\nwill implicitly accept the changes we make.\nYour access and use of the Service is always\nsubject to the most current version of this document.</p>",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:32:35",
+            "point_link": "https://edit.tosdr.org/points/33867",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: 'We may block, restrict, disable, suspend, or terminate your access to all or part of the Service at any time in our sole discretion, without prior notice or liability to you.'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 06:31:23",
+            "point_link": "https://edit.tosdr.org/points/33077",
+            "approval_status": "APPROVED",
+            "clause_text": "By continuing to use the Service, you implicitly accept the changes\nwe make.",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33857",
+            "approval_status": "APPROVED",
+            "clause_text": "'Without limiting the following, we make no warranty that: [...] any errors or defects in the Service will be corrected.'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "Your personal data may be transferred as part of a bankruptcy proceeding or other type of financial transaction",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 06:31:32",
+            "point_link": "https://edit.tosdr.org/points/33088",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In the event that we sell or buy any business or assets, we may disclose your personal\ndata to the prospective seller or buyer.\nIf we or substantially all of our assets are\nacquired by a third party, personal data held by us about our users will be one of\nthe transferred assets.",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "Your use can be throttled",
+            "rating": "bad",
+            "description": "The service may impose limits or restrictions to the use of the service, thus negatively impacting users experience. They may do so without reason or prior notice.",
+            "last_updated": "2023-07-11 06:32:22",
+            "point_link": "https://edit.tosdr.org/points/33836",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: 'We may block, restrict, disable, suspend, or terminate your access to all or part of the Service at any time in our sole discretion, without prior notice or liability to you.'\n    \n      \n        \n          \n              Version 1: 2023-05-28 11:14:28 UTC by lr19_ (30170) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2023-05-28 11:14:28 UTC by lr19_ (30170) \n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2023-05-28 11:14:28 UTC by lr19_ (30170) \n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: Your use is throttled\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: Your use is throttled\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: Your use is throttled\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: Your use is throttled\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Your use is throttled",
+                "href": "https://edit.tosdr.org/cases/157"
+            }
+        },
+        {
+            "title": "Your information is only shared with third parties when given specific consent",
+            "rating": "good",
+            "description": "The service does not share user information with any third parties unless users specifically give it permission to do so.",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33086",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Your information is only shared with third parties when given specific consent",
+                "href": "https://edit.tosdr.org/cases/296"
+            }
+        },
+        {
+            "title": "Logs are deleted after 180 days",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33085",
+            "approval_status": "APPROVED",
+            "clause_text": "Our logs are kept for no longer than\n180 days.</p>",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Archives of their T&C and PN documents are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:31:32",
+            "point_link": "https://edit.tosdr.org/points/33091",
+            "approval_status": "APPROVED",
+            "clause_text": "Document history",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33081",
+            "approval_status": "APPROVED",
+            "clause_text": "'For completeness, your rights under GDPR are: [...] 5. The right to restrict processing.'",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:31:33",
+            "point_link": "https://edit.tosdr.org/points/33080",
+            "approval_status": "APPROVED",
+            "clause_text": "'For completeness, your rights under GDPR are: [...] 2. The right of access. 3. The right to rectification. 4. The right to erasure.'",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 06:32:29",
+            "point_link": "https://edit.tosdr.org/points/33838",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not claim intellectual property rights over rooms, message content or files\nuploaded to the Service.</p>",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "You can retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33082",
+            "approval_status": "APPROVED",
+            "clause_text": "Under GDPR you have a right to request a copy of the data we have of yours in a\ncommonly-accepted format.\nIf you would like a copy of your data, please contact us and\nindicate as such.",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "Your feedback is invited regarding changes to the terms.",
+            "rating": "good",
+            "description": "The Service takes user suggestions into account to update its Terms.",
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33076",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you read something that rubs you the wrong way, or you think something should be\nadded - let us know using the contact methods above.\nWe'd love to chat!</p>",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Your feedback is invited regarding changes to the terms.",
+                "href": "https://edit.tosdr.org/cases/119"
+            }
+        },
+        {
+            "title": "The service will only respond to government requests that are reasonable",
+            "rating": "good",
+            "description": "The Agreement explains they will disclose personal data about you if it is reasonably necessary to comply with applicable law and government requests.",
+            "last_updated": "2023-07-11 06:31:33",
+            "point_link": "https://edit.tosdr.org/points/33087",
+            "approval_status": "APPROVED",
+            "clause_text": "In exceptional circumstances, we may share inforamtion about you with a third party\nif we believe that sharing is reasonably necessary to comply with any applicable law,\nregulation, legal process, governmental request, protect the security or integrity of\nour Service (security audits, for example), protect us and our users from harm or\nillegal activities, or respond to an emergency which we believe in good faith requires\nus to disclose information to assist in preventing the serious bodily harm of any\nperson.</p>",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "The service will only respond to government requests that are reasonable",
+                "href": "https://edit.tosdr.org/cases/393"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:31:32",
+            "point_link": "https://edit.tosdr.org/points/33089",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not sell your data for any purpose.</p>",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 06:31:32",
+            "point_link": "https://edit.tosdr.org/points/33097",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that the material you posted on the Service or using the Service was\nremoved or access to it was disabled by mistake or misidentification, you may file a\ncounter-notification with us (a \"Counter-Notice\") by submitting written notification to\nour Copyright Agent.",
+            "point_source": "https://t2bot.io/docs/legal/copyright-v1/",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "User suspension from the service will be fair and proportionate.",
+            "rating": "good",
+            "description": "The Service promises to fairly terminate users accounts, only with a reason, and may give them an opportunity to explain and defend themselves.",
+            "last_updated": "2023-07-11 06:32:29",
+            "point_link": "https://edit.tosdr.org/points/33837",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you think we removed your access by mistake, contact us and we will respond with our\nreasoning.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "User suspension from the service will be fair and proportionate.",
+                "href": "https://edit.tosdr.org/cases/204"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-06-30 22:35:56",
+            "point_link": "https://edit.tosdr.org/points/34258",
+            "approval_status": "APPROVED",
+            "clause_text": ".</p>\nLegal basis for processing\n<p>Under the GDPR (General Data Protection Regulation)",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 06:31:30",
+            "point_link": "https://edit.tosdr.org/points/33073",
+            "approval_status": "APPROVED",
+            "clause_text": "Most terms of use and privacy documents are unreadable.\nThey are written by lawyers and\nfor lawyers, and in our opinion are not very effective.</p>\n<p>We decided to use plain English as much as possible to make our terms as clear as\npossible.\nSome sections still have room for improvement - we plan to tackle these over\ntime.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:32:30",
+            "point_link": "https://edit.tosdr.org/points/33851",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: 'Violate the rights of us or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk, or threaten another.'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33861",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In no event shall we, our officers, directors, employees, partners, or suppliers be\nliable to you or any third party for any special, punitive, incidental, indirect, or\nconsequential damages or losses of any kind, or any damages or losses whatsoever,\nincluding those resulting from loss of use, data, or profits, whether or not forseeable\nor if we have been advised of the possibility of such damages or losses, and on any\ntheory of liability, including breach of contract or warranty, negligence, or other\ntortious action, or any other claim arising out of or in connection with:",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:35",
+            "point_link": "https://edit.tosdr.org/points/33853",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service may include links that will take you to other sites outside of the Service.\nThe linked sites are provided as a convience and the inclusion of the links do not imply\nany endorsement by us of any linked site.\nWe have no control of the linked sites and you\ntherefore acknowledge and agree that we are not responsible for the contents of any\nlinked site, any link contained in a linked site, or any changes or updates to a linked\nsite.\nYou further acknowledge and agree that we are not responsible for any form of\ntransmission (e.g.\nwebcasting) received from any linked site.</p>",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the PN, SDP and CoC documents",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:31:33",
+            "point_link": "https://edit.tosdr.org/points/33075",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Last updated: November 7th, 2020",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the T&C and CN documents",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:31:30",
+            "point_link": "https://edit.tosdr.org/points/33074",
+            "approval_status": "APPROVED",
+            "clause_text": "<em>Last updated: November 8th, 2020",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You should revisit the Privacy Notice periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:31:32",
+            "point_link": "https://edit.tosdr.org/points/33078",
+            "approval_status": "APPROVED",
+            "clause_text": "If updates to this document are ever associated with significant changes to the\nway we collect or process your data, we will promptly notify you.",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33860",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree and indemnify and hold us and our officers, co-branders, other partners,\nand employees harmless from any claim or demand, including reasonable attorneys' fees,\nmade by any third party due to or arising out of:",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33858",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not control or endorse the materials or message content found in any rooms or\ncommunities.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33856",
+            "approval_status": "APPROVED",
+            "clause_text": "'Without limiting the following, we make no warranty that: [...] the Service will be uninterrupted, timely, secure, or error-free;'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33848",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Use the Service to transmit unsolicited or bulk communications to anyone at all, be\nthey users of the Service, federated Matrix homeservers, or connected on a bridged\nnetwork.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 06:32:35",
+            "point_link": "https://edit.tosdr.org/points/33847",
+            "approval_status": "APPROVED",
+            "clause_text": "Use or attempt to gain unauthorised access to or use another's account, password,\ndata, or computer systems or networks connected to the Service, whether\nthrough malicious attacks, password mining or any other means.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "No guarantee is given regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 06:32:35",
+            "point_link": "https://edit.tosdr.org/points/33886",
+            "approval_status": "APPROVED",
+            "clause_text": "'Without limiting the following, we make no warranty that: [...] the quality of the Service will meet your expectations;'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33854",
+            "approval_status": "APPROVED",
+            "clause_text": "We provide this service under these terms \"as-is\" without warranty of any kind, either\nexpress, implied, statutory, or otherwise, including, but not limited to, the implied\nwarranties of title, non-infringement, merchantability, or fitness for a particular\npurpose.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33850",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: 'Violate the rights of us or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk, or threaten another.'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33866",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you breach any of the terms and conditions in this document, your authorization to\naccess or use the Service automatically terminates.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33864",
+            "approval_status": "APPROVED",
+            "clause_text": "If for any reason\na court of competent jurisdiction finds any provision of the Terms of Use, or any portion\nthereof, to be unenforceable, that provision shall be enforced to the maximum extent\npermissable so as to effect the intent of the parties as reflected by that provision, and\nthe remainder of the Terms of Use shall continue in full force and effect.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:31:26",
+            "point_link": "https://edit.tosdr.org/points/33092",
+            "approval_status": "APPROVED",
+            "clause_text": "We take claims of copyright infringement seriously.\nThis policy deals with what to do if\nyou believe that any user contributions violate your copyright.",
+            "point_source": "https://t2bot.io/docs/legal/copyright-v1/",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33865",
+            "approval_status": "APPROVED",
+            "clause_text": "Any failure\nby us to enforce or exercise any provision of the Terms of Use or related right shall not\nconsitute a waiver of that right or provision.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33846",
+            "approval_status": "APPROVED",
+            "clause_text": "You shall assume all risks associated with the use\nof said content including any reliance on the accuracy, completeness or usefulness.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33849",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Use the Service for any unlawful purposes or in support of illegal activities under\nUK, EU, or Canadian law.\nBy using the Service, you agree to comply with all applicable\nlaws governing your online conduct and content.</li>",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "This service informs you that its Terms of Service does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its Terms of Service does not apply. Those third party websites or applications hosted or operated by other organizations may have their Terms of Service.",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33852",
+            "approval_status": "APPROVED",
+            "clause_text": "Materials and Services provided by third parties are governed by separate agreements\naccompanying such materials and services.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "This service informs you that its Terms of Service does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/408"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Canada",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33862",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>This Agreement shall be governed by the laws of Canada, exclusing its conflict of law\nprovisions.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:31:31",
+            "point_link": "https://edit.tosdr.org/points/33084",
+            "approval_status": "APPROVED",
+            "clause_text": "Your IP address is logged when you access the Service.\nThis data is used in order to\nmitigate abuse and debug operational issues.",
+            "point_source": "https://t2bot.io/docs/legal/privacy-v1/",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 06:32:31",
+            "point_link": "https://edit.tosdr.org/points/33863",
+            "approval_status": "APPROVED",
+            "clause_text": "You may also be subject to additional terms and conditions that may apply when you use\nother services from us, third party content, or third party software.",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it meets your expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 06:32:32",
+            "point_link": "https://edit.tosdr.org/points/33855",
+            "approval_status": "APPROVED",
+            "clause_text": "'Without limiting the following, we make no warranty that: the Service will meet your requirements;'",
+            "point_source": "https://t2bot.io/docs/legal/terms-v1/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        }
+    ]
+}

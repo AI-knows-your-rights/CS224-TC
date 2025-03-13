@@ -1,0 +1,375 @@
+{
+    "meta_data": {
+        "title": "Smartmessages - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:09:54",
+            "point_link": "https://edit.tosdr.org/points/13802",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We collect email addresses and any other personal data that subscribers choose to provide.\nWe must be able to prove opt-in status of subscriptions, so we record IP addresses, referrer URLs, and user agent strings when subscribers confirm subscriptions to enable us to do that.</p>\n<p>",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/13794",
+            "approval_status": "APPROVED",
+            "clause_text": "The only information we <em>need</em> from subscribers is an email address, and so that is the only data that we require when subscribing to a mailing list.\nSubscribers are free to provide more personal data, and there may be opportunities for them to do so, but it is entirely voluntary",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/13801",
+            "approval_status": "APPROVED",
+            "clause_text": "we provide a way for subscribers to access, amend, or delete personal data as part of our services to them",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:09:53",
+            "point_link": "https://edit.tosdr.org/points/13791",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not share any personal data nor sell it to any third parties",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:35:17",
+            "point_link": "https://edit.tosdr.org/points/13788",
+            "approval_status": "APPROVED",
+            "clause_text": "Individual subscriber data can be exported in a machine-readable format (usually CSV) from our subscriber data access portal so that you can provide it to another service, or to inspect it yourself",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:09:53",
+            "point_link": "https://edit.tosdr.org/points/13799",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect subscribers personal data for our account holders when subscribers subscribe to mailing lists.\nWe may also be given subscriber data by account holders, for example when they upload their mailing lists.\nAccount holders can choose to have us collect message open and click data from actions performed by subscribers, if their browser settings allow us to (see Do Not Track)</p>\n<p>We collect data on account holders when they sign up for a Smartmessages.net account, and use it to run their account, inform them of changes, deal with billing, system updates, etc",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The services will notify users if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 10:09:53",
+            "point_link": "https://edit.tosdr.org/points/13804",
+            "approval_status": "APPROVED",
+            "clause_text": "Breaches can include:</p>\n<ul>\n<li>Unauthorised third-party acccess.</li>\n<li>Deliberate or accidental action by a controller or processor.</li>\n<li>Revealing personal data to an incorrect recipient.</li>\n<li>Alteration of personal data without permission.</li>\n<li>Loss of availability of personal data.</li>\n</ul>\n<p>Should a breach occur relating to subscriber data, we will inform the relevant account holder(s) (the data controller) by email to their account addresses, and it is their responsiblity to communicate with subscribers, if necessary.</p>",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:09:53",
+            "point_link": "https://edit.tosdr.org/points/13796",
+            "approval_status": "APPROVED",
+            "clause_text": "Subscribers and account holders may object to our use of personal data in several ways (in order of convenience):</p>\n<ul>\n<li>Use our unsubscribe links – <em>they really work</em>!</li>\n<li>Make use of our subscriber data access portal to view, amend, export, or delete personal data.\n</li>\n<li>Ask us at privacy@smartmessages.net to deal with your complaint.\n</li>\n<li>Ask the account holder (the data controller) to deal with the complaint (their contact details appear on every interaction subscribers have with them via Smartmessages.net).\n</li>\n<li>Ask the UK Information Commissioner's Office (the applicable supervisory authority) to intervene on your behalf",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "This service respects your browser's Do Not Track (DNT) headers",
+            "rating": "good",
+            "description": "This service does respect the browser's Do Not Track header and disables all user tracking if it is enabled.",
+            "last_updated": "2023-07-11 06:34:54",
+            "point_link": "https://edit.tosdr.org/points/13786",
+            "approval_status": "APPROVED",
+            "clause_text": "We honour the standard \"Do Not Track\" mechanism built into browsers, which is usually controlled by a browser setting labelled something like \"Ask websites not to track me",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "Your browser's Do Not Track (DNT) headers are respected",
+                "href": "https://edit.tosdr.org/cases/383"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2023-07-11 06:34:58",
+            "point_link": "https://edit.tosdr.org/points/13790",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not use any third party services that require cookies.\nWe don't use any tracking scripts either.\nyou'll find all our sites are unpolluted by google, facebook, and other trackers",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "This service only uses temporary session cookies",
+            "rating": "good",
+            "description": "Temporary session cookies are cookies that are deleted when you close your browser instead of remaining there until they are manually deleted (or expire). These cookies are only used for the purposes of the service and therefore disappear when it's no longer used.",
+            "last_updated": "2023-07-11 10:09:53",
+            "point_link": "https://edit.tosdr.org/points/13787",
+            "approval_status": "APPROVED",
+            "clause_text": "When necessary, we use only secure, first-party session cookies, containing no identifiable data, that are deleted as soon as you close your browser window.\nSince these are strictly necessary for the operation of our site, we do not ask for consent (in accordance with PECR).",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "Only temporary session cookies are used",
+                "href": "https://edit.tosdr.org/cases/125"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15701",
+            "approval_status": "APPROVED",
+            "clause_text": "Users may terminate this Agreement at any time by sending an e-mail message to accounts@smartmessages.net or by sending written notice to Synchromedia Limited, Sussex Innovation Centre, Science Park Square, Falmer, East Sussex BN1 9SB, UK.",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-07-11 10:09:53",
+            "point_link": "https://edit.tosdr.org/points/13803",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have a Smartmessages.net account, this is you.\nSynchromedia Limited is your data controller, you are bound by Smartmessages.net terms and conditions, and also have privacy rights as described below.</p> Privacy policy for Smartmessages.net list subscribers.\n<p>If you subscribe to a mailing list belonging to a Smartmessages.net account holder, this is you.\nHi 👋!",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15703",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The Service Provider may terminate this Agreement or the Service at any time with or without cause, and with or without notice.",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15705",
+            "approval_status": "APPROVED",
+            "clause_text": "Users hereby agree to indemnify and hold the Service Provider harmless against any damages, losses, liabilities, settlements, and expenses (including without limitation costs and reasonable attorneys’ fees) in connection with any claim or action that arises from an alleged violation of the foregoing or otherwise arising from or relating to their use of the Service.",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "Indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15706",
+            "approval_status": "APPROVED",
+            "clause_text": "All sections of this Agreement that by their nature should survive termination will survive termination, including, without limitation, ownership, warranty disclaimers and limitations of liability.</p>\n<p>",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15698",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE PROVIDER DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR FREE.",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15696",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE IS PROVIDED “AS IS”",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15704",
+            "approval_status": "APPROVED",
+            "clause_text": "Provider, at its sole discretion, retains the right to terminate Service accounts that are deemed or alleged to have violated the foregoing.",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users over 18 years of age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:12:50",
+            "point_link": "https://edit.tosdr.org/points/15707",
+            "approval_status": "APPROVED",
+            "clause_text": "Without limiting the foregoing, the Service is not available to individuals under the age of 18 years.</p>",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15702",
+            "approval_status": "APPROVED",
+            "clause_text": "Users may send an unlimited number of emails providing all such activity is in compliance with this Agreement, is for lawful purposes, and respects the rights of each Subscriber.</p>\n<p>",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15699",
+            "approval_status": "APPROVED",
+            "clause_text": "No delay or omission by either party in exercising any right or remedy under this Agreement or existing at law or equity shall be considered a waiver of such right or remedy.</p>",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:04:55",
+            "point_link": "https://edit.tosdr.org/points/13792",
+            "approval_status": "APPROVED",
+            "clause_text": "We may sometimes send you email messages that contain important links, such as if you need to reset a password or confirm a subscription.\nyou should treat these as confidential, much as you would a password",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/13798",
+            "approval_status": "APPROVED",
+            "clause_text": "If open and click activity is recorded (see Do Not Track), that data is kept for 6 months, and is then deleted and only appears in aggregated statistics",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:12:53",
+            "point_link": "https://edit.tosdr.org/points/15697",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.</p>",
+            "point_source": "https://info.smartmessages.net/terms-conditions/",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location X",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:09:52",
+            "point_link": "https://edit.tosdr.org/points/13793",
+            "approval_status": "APPROVED",
+            "clause_text": "As we are a UK company, we are subject to the Data Protection Act 2018 (DPA), the Privacy and Electronic Communications Regulations (PECR), the EU General Data Protection Regulation (GDPR), and the forthcoming EU Electronic Privacy Regulation (ePR) in our role as a data processor for account holders, and as a data controller for our account holders.</p>\n<p>Synchromedia Limited is registered as a data controller and processor with the UK ICO",
+            "point_source": "https://www.smartmessages.net/privacy",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        }
+    ]
+}

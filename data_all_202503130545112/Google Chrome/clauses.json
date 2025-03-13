@@ -1,0 +1,221 @@
+{
+    "meta_data": {
+        "title": "Google Chrome - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "They store data on you even if you did not interact with the service",
+            "rating": "blocker",
+            "description": "Some services store data on you even if you did not provide that data yourself. For example, users might provide access to their address book, after which a service might also store the phone numbers of that person's contacts.",
+            "last_updated": "2023-07-11 06:18:37",
+            "point_link": "https://edit.tosdr.org/points/22404",
+            "approval_status": "APPROVED",
+            "clause_text": "Even if users didn't sign in to their Google Account for their desktop browser, the action of signing in to a Google managed account through the browser automatically connects Chrome to the user account.\nThis connection leads to increased data gathering.",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "They store data on you even if you did not interact with the service",
+                "href": "https://edit.tosdr.org/cases/234"
+            }
+        },
+        {
+            "title": "This service can view your browser history",
+            "rating": "blocker",
+            "description": "The service can view your search history and the websites you visit, which is an extremely intrusive way of collecting information that may include personal and/or sensitive data.",
+            "last_updated": "2023-07-11 10:14:07",
+            "point_link": "https://edit.tosdr.org/points/18135",
+            "approval_status": "APPROVED",
+            "clause_text": "In general, usage statistics do not include web page URLs or personal information, but, if you have turned on \"Make searches and browsing better / Sends URLs of pages you visit to Google\", then Chrome usage statistics include information about the web pages you visit and your usage of them.",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "Your browsing history can be viewed by the service",
+                "href": "https://edit.tosdr.org/cases/395"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22400",
+            "approval_status": "APPROVED",
+            "clause_text": "Chrome automatically shares your location with your default search engine if the Chrome app has permission to access your location and you haven’t blocked geolocation for the associated web site.\nChrome uses Google Location Services to estimate your location.\nThe information that Chrome sends to Google Location Services may include: </p>\n<ul>\n<li>The Wi-Fi routers closest to you </li>\n<li>Cell IDs of the cell towers closest to you </li>\n<li>The strength of your Wi-Fi or cell signal </li>\n<li>The IP address that is currently assigned to your device </li>",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "If you sync with your Google Account, many different types of personal data are collected",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 06:18:45",
+            "point_link": "https://edit.tosdr.org/points/22402",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The basic browser mode stores information locally on your system.\nThis information might include: </p>\n<ul>\n<li>\n<p>Browsing history information.\nFor example, Chrome stores the URLs of pages that you visit, a cache of text, images and other resources from those pages, and, if the network actions prediction feature is turned on, a list of some of the IP addresses linked from those pages.\n</p>\n</li>\n<li>\n<p>Personal information and passwords, to help you fill out forms or sign in to sites you visit.\n</p>\n</li>\n<li>\n<p>A list of permissions that you have granted to websites.\n</p>\n</li>\n<li>\n<p>Cookies or data from websites that you visit.\n</p>\n</li>\n<li>\n<p>Data saved by add-ons.\n</p>\n</li>\n<li>\n<p>A record of what you downloaded from websites.\n</p>\n</li>\n</ul>\n<p>You can manage this information in several ways: </p>\n<ul>\n<li>\n<p>You can delete your browsing history information.\n</p>\n</li>\n<li>\n<p>You can manage or delete stored browsing data from the Cookies and Site Data dialog.\n</p>\n</li>\n<li>\n<p>You can stop Chrome from accepting cookies.\nLearn more.\n</p>\n</li>\n<li>\n<p>You can review stored passwords in Chrome settings.\nLearn more.\n</p>\n</li>\n<li>\n<p>You can view and manage your stored Autofill information.\nLearn more.\n</p>\n</li>\n</ul>\n<p>The personal information that Chrome stores won't be sent to Google unless you choose to store that data in your Google Account by turning on sync, or, in the case of passwords, payment cards, and billing information, choosing specific credentials or payment card and billing information to store in your Google Account.",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:08:51",
+            "point_link": "https://edit.tosdr.org/points/18123",
+            "approval_status": "APPROVED",
+            "clause_text": "give web developers insight into improving their pages.",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22401",
+            "approval_status": "APPROVED",
+            "clause_text": "if you include Chrome history in your Google Web &amp.\nApp Activity, it may be used to personalize your experience in other Google products.",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "You are tracked via device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22403",
+            "approval_status": "APPROVED",
+            "clause_text": "The mobile version of Chrome uses a variant of the device identifier on an ongoing basis to track the number of installations of Chrome.",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:18:37",
+            "point_link": "https://edit.tosdr.org/points/22399",
+            "approval_status": "APPROVED",
+            "clause_text": "Logs of these suggestion requests are retained for two weeks, after which 2% of the log data is randomly selected, anonymized, and retained in order to improve the suggestion feature.",
+            "point_source": "https://www.google.com/intl/en/chrome/privacy/whitepaper.html",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22409",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For Chrome on iOS 13 and later, Apple allows for connecting to multiple Safe Browsing services.\nThis means that Chrome may connect to a third-party Safe Browsing service instead of the Google one.",
+            "point_source": "https://www.google.com/intl/en/chrome/privacy/whitepaper.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22408",
+            "approval_status": "APPROVED",
+            "clause_text": "Google collects standard log information for Safe Browsing requests, including an IP address and one or more cookies.\nAfter at most 30 days, Safe Browsing deletes the raw logs, storing only calculated data in an anonymized form that does not include your IP addresses or cookies.",
+            "point_source": "https://www.google.com/intl/en/chrome/privacy/whitepaper.html",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Archives of their agreements are provided so that changes can be viewed over time",
+            "rating": "good",
+            "description": "This case applies to Services whose agreements provide previous versions, so that users can compare them and understand how the Service seems to evolve regarding user rights.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22405",
+            "approval_status": "APPROVED",
+            "clause_text": "View archived versions: Select date\nMay 20, 2020\nMarch 17, 2020\nDecember 10, 2019\nOctober 31, 2019\nMarch 12, 2019\nJanuary 30, 2019\nDecember 04, 2018\nOctober 24, 2018\nSeptember 24, 2018\nMarch 6, 2018\nApril 25, 2017\nMarch 7, 2017\nJanuary 24, 2017\nNovember 30, 2016\nOctober 11, 2016\nAugust 30, 2016\nJune 21, 2016\nSeptember 1, 2015\nNovember 12, 2014\nAugust 26, 2014\nMay 20, 2014\nFebruary 20, 2014",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "Archives of their agreements are provided so that changes can be viewed over time",
+                "href": "https://edit.tosdr.org/cases/197"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:18:36",
+            "point_link": "https://edit.tosdr.org/points/22406",
+            "approval_status": "APPROVED",
+            "clause_text": "How Chrome handles your information",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:23:56",
+            "point_link": "https://edit.tosdr.org/points/26876",
+            "approval_status": "APPROVED",
+            "clause_text": "You can edit or delete your account at any time through your Google Account settings.\n</p>",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:14:06",
+            "point_link": "https://edit.tosdr.org/points/18122",
+            "approval_status": "APPROVED",
+            "clause_text": "Last modified: January 15, 2021",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:35:19",
+            "point_link": "https://edit.tosdr.org/points/18124",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share aggregated, non-personally identifiable information publicly and with partners — like publishers, advertisers or web developers",
+            "point_source": "https://www.google.com/chrome/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        }
+    ]
+}

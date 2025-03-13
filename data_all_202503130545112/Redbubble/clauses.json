@@ -1,0 +1,781 @@
+{
+    "meta_data": {
+        "title": "Redbubble - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You sign away moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/7603",
+            "approval_status": "APPROVED",
+            "clause_text": "Review Tool is Yotpo’s intellectual property – not yours;</li>\n<li>in respect of any reviews or other content you contribute through your use of the Review Tool, you grant Yotpo and Redbubble the perpetual right to use that content;</li>\n<li>if the concept of ‘moral rights’ (or analogous rights) in relation to content applies in your country, then you agree to waive those rights, to the extent permitted by local laws",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21418",
+            "approval_status": "APPROVED",
+            "clause_text": "in its sole discretion deemed necessary, remove any content from the website",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 10:03:08",
+            "point_link": "https://edit.tosdr.org/points/10279",
+            "approval_status": "APPROVED",
+            "clause_text": "7.\nSTORAGE TIME <p>We will only store your personal data as long as necessary to fulfil the purposes for which they were collected or – where the law provides for longer retention periods – for the duration of the retention period required by law.\nAfter that your personal data will be deleted.</p>",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21401",
+            "approval_status": "APPROVED",
+            "clause_text": "It is also possible that by visiting a website or by opening an e-mail where an advertisement or promotion about our services is displayed, a cookie will be installed in your browser that will be useful to show to the user some other advertisements related to the searches that it has carried out, to develop a control of our advertising in connection, for example, with the number of times each advertisement is displayed, where or at what time it is displayed etc.</p>\n<p>This processing is necessary for the purpose of our legitimate interests.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21419",
+            "approval_status": "APPROVED",
+            "clause_text": "cancel your account",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:05:20",
+            "point_link": "https://edit.tosdr.org/points/11313",
+            "approval_status": "APPROVED",
+            "clause_text": "(f) Third-party social networks cookies</p>\n<p>If you interact with the content of the Marketplace, third-party cookies may also be installed (for example, by clicking on social media buttons or viewing videos housed on other websites).",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:02:50",
+            "point_link": "https://edit.tosdr.org/points/10222",
+            "approval_status": "APPROVED",
+            "clause_text": "Full Quote: \"When you visit and use the Marketplace our web server, due to technical reasons, automatically collects your IP address, the date and time of your visit of the Marketplace, the sites visited on the Marketplace, the referrer website, your browser type (e.g. Microsoft Explorer or Mozilla Firefox), your operating system (e.g. Microsoft Windows&nbsp;10), the domain name and the address of your internet access provider.</p>\"",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:03:06",
+            "point_link": "https://edit.tosdr.org/points/10278",
+            "approval_status": "APPROVED",
+            "clause_text": "This User Agreement and all disputes relating to this User Agreement, or relating to your use of any part of the Redbubble service, will be exclusively resolved under confidential binding arbitration held in San Francisco, California.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "Users have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 10:03:43",
+            "point_link": "https://edit.tosdr.org/points/7599",
+            "approval_status": "APPROVED",
+            "clause_text": "You and Redbubble agree that any cause of action arising out of or related to the Redbubble site (including but not limited to any services provided or made available therein) or this Agreement must commence within one (1) year after the cause of action arose.\notherwise, such cause of action is permanently barred.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:03:43",
+            "point_link": "https://edit.tosdr.org/points/10221",
+            "approval_status": "APPROVED",
+            "clause_text": "sublicense able and transferable license to use, reproduce, distribute, prepare derivative works of and display the content of such listings in connection with Redbubble's (and its successors' and affiliates') services and business in facilitating the sale of your product,",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "Your personal data may be used for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21395",
+            "approval_status": "APPROVED",
+            "clause_text": "we will further use the personal data collected for the provision and optimisation of our marketing measures via e-mail, in particular, the provision of our newsletter and other promotional messages on Redbubble events, services, products and/or special offers",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "Instead of asking directly, this Service will assume your consent merely from your usage.",
+            "rating": "bad",
+            "description": "The Service infers your acceptance from your continued usage, instead of prompting you to read the new Terms and asking for direct consent. This doesn’t apply to services that have no way to seek consent from users through their contact details or an account.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21408",
+            "approval_status": "APPROVED",
+            "clause_text": "Either way, your continuing use of the website will be taken to be acceptance of the new terms",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Instead of asking directly, this Service will assume your consent to changes of terms merely from your usage.",
+                "href": "https://edit.tosdr.org/cases/403"
+            }
+        },
+        {
+            "title": "Your personal information is used for many different purposes",
+            "rating": "bad",
+            "description": "Personal Data can be processed for many reasons, including non essential processing such as for advertising, marketing and analytics purposes.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21389",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect personal data that you have provided to us on a voluntary basis for the purposes to provide, operate and manage the Marketplace as well as to provide our services in accordance with our user agreement",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Your personal information is used for many different purposes",
+                "href": "https://edit.tosdr.org/cases/185"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21396",
+            "approval_status": "APPROVED",
+            "clause_text": "is necessary to fulfil our services and/or the provision of the Marketplace",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Usernames can be rejected for any reason",
+            "rating": "bad",
+            "description": "The service's terms explain they may change or remove usernames at their sole discretion, and they may do so without prior notice.",
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/7600",
+            "approval_status": "APPROVED",
+            "clause_text": "In its sole discretion, Redbubble may refuse any user name that it decides is inappropriate and / or refuse any person from becoming a member.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Usernames can be rejected or changed for any reason",
+                "href": "https://edit.tosdr.org/cases/328"
+            }
+        },
+        {
+            "title": "This service uses third-party cookies for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 10:05:23",
+            "point_link": "https://edit.tosdr.org/points/10225",
+            "approval_status": "APPROVED",
+            "clause_text": "Third-party analytics cookies</p>\n<p>Together with our server logs and other web analysis programs, analytical cookies enable Redbubble to ascertain the total number of users visiting the website and the most popular areas.\nThanks to them, Redbubble can obtain information to improve browsing and offer a better service to users.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "This service employs third-party cookies, but with opt-out instructions",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:05:22",
+            "point_link": "https://edit.tosdr.org/points/10280",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>8.3 In particular, we use the following third-party services which use cookies and other technologies.\nIf you do not agree to this use, you may deactivate these services by refusing to accept the cookies in your browser.\nYou may also deactivate the service by clicking on the opt-out link or using other opt-out possibilities.\nFor the opt-out links and other opt-out possibilities, please see the column “Opt-out”&nbsp;in the table below.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Third party cookies are employed, but with opt out instructions",
+                "href": "https://edit.tosdr.org/cases/127"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21403",
+            "approval_status": "APPROVED",
+            "clause_text": "If your personal data is inaccurate or incomplete, you have the right to obtain the rectification of such personal data.\nFurthermore, you may have the right to obtain the erasure or restriction of processing of your personal data, for example if no legitimate business purpose exists anymore for the data processing under this privacy policy or applicable law and the further storage is not necessary under statutory storage obligations.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21414",
+            "approval_status": "APPROVED",
+            "clause_text": "You keep the copyright in any content you submit or upload to the website.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 10:08:15",
+            "point_link": "https://edit.tosdr.org/points/10224",
+            "approval_status": "APPROVED",
+            "clause_text": "REPEAT INFRINGER POLICY</strong>: It is Redbubble’s policy, in appropriate circumstances, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights, trademark rights, other intellectual property rights or publicity rights of others.",
+            "point_source": "https://help.redbubble.com/hc/en-us/articles/201579195",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "Information is provided about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21391",
+            "approval_status": "APPROVED",
+            "clause_text": "When we collect your personal data, we inform you whether the designation of certain personal data is compulsory or optional and of the possible consequences that arise in case of the absence of a designation.</li>\n<li>In addition, we collect the data which you have provided to us through the visit and use of the Marketplace as well as our services, e.g.\nyour purchases and sales history, favorited and earmarked items on the Marketplace, your movement and actions taken on the Marketplace as well as the content and details of messages send or received via our BubbleMail service.\nProvided that you log in via a social media single sign-on we collect your personal data from the respective social media platform which you have made publically available.</li>\n</ul>\n<p>(b) Provided that you have given us your consent, we further collect your e-mail address when you register for our newsletter and promotional messages.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21429",
+            "approval_status": "APPROVED",
+            "clause_text": "You do not have to be a member to purchase a product.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "The service provides a complete list of all cookies set by its website",
+            "rating": "good",
+            "description": "The service provides users with a complete list of all first and third party cookies its website sets and an explanation of their uses. This information can be valuable for users to make an informed choice whether to allow those cookies.",
+            "last_updated": "2023-07-11 10:03:06",
+            "point_link": "https://edit.tosdr.org/points/10281",
+            "approval_status": "APPROVED",
+            "clause_text": "Version 1: 2020-09-19 02:22:42 UTC by Peepo (2527)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n  \n        \n          \n              Version 1: 2020-09-19 02:22:42 UTC by Peepo (2527)  Staff\n          \n        \n        \n          \n            \n              Analysis created\n            \n          \n        \n        \n          \n              \n          \n        \n    \n          \n              Version 1: 2020-09-19 02:22:42 UTC by Peepo (2527)  Staff\n          \n        \n          \n            \n              Analysis created\n            \n          \n        \n          \n              \n          \n        \n      \n        \n          \n            Previous Title: \n            Updated Title: The service provides a complete list of all cookies set by its website\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n    \n        \n          \n            Previous Title: \n            Updated Title: The service provides a complete list of all cookies set by its website\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n      \n          \n            Previous Title: \n            Updated Title: The service provides a complete list of all cookies set by its website\n          \n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n          \n            Previous Status: \n            Updated Status:  PENDING\n          \n        \n            Previous Title: \n            Updated Title: The service provides a complete list of all cookies set by its website\n          \n            Previous Analysis: \n            Updated Analysis: Generated through the annotate view\n          \n            Previous Status: \n            Updated Status:  PENDING",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "A list of all cookies set by the website is provided",
+                "href": "https://edit.tosdr.org/cases/306"
+            }
+        },
+        {
+            "title": "You are informed about the risk of publishing personal info in public message boards or chatrooms",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21393",
+            "approval_status": "APPROVED",
+            "clause_text": "please be aware that this environment and all personal data posted there is publicly accessible.\nWe cannot control how other visitors of the Marketplace will use this information.\nIn particular, we are unable to prevent you from receiving unsolicited messages from third parties.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21392",
+            "approval_status": "APPROVED",
+            "clause_text": "HOW WE PROCESS YOUR PERSONAL DATA",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides a complaint mechanism for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:05:20",
+            "point_link": "https://edit.tosdr.org/points/10223",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions, concerns or complaints relating to this privacy policy or Redbubble’s privacy/data protection practices, you are welcome to contact the Redbubble Data Protection Officer at the contact details listed in Section 1.</p>\n<p>The relevant supervisory authority for the making of complaints depends on your location:</p>\n<ul>\n<li>in the United States you can contact the Federal Trade Commission and lodge a complaint through the process set out at: www.ftccomplaintassistant.gov</li>\n<li>in the European Union you can complain to the supervisory authority of the Member State where you reside, where you work, or where you believe a GDPR infringement occurred</li>\n<li>in Australia you can complain to the Office of the Australian Information Commissioner – see here: https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint</li>\n<li>in the UK you have the right to lodge a complaint with the UK Information Commissioner’s Office which you can contact under https://ico.org.uk/global/contact-us/.</li>",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Details are provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 04:49:04",
+            "point_link": "https://edit.tosdr.org/points/21390",
+            "approval_status": "APPROVED",
+            "clause_text": "For example, we collect (a) your user name and e-mail address when you create an user account and register for the Marketplace.\n(b) your name, delivery address, phone number, e-mail address, bank respectively payment information when you order a product via the Marketplace.\n(c) your name, address, phone number, e-mail address, bank account details and tax status respectively tax file number when you sell products via the Marketplace.\nand (d) your e-mail address when you complete a form or send us an e-mail",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 04:49:03",
+            "point_link": "https://edit.tosdr.org/points/21387",
+            "approval_status": "APPROVED",
+            "clause_text": "We will never rent or sell your personal data for marketing or other purposes",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 04:49:15",
+            "point_link": "https://edit.tosdr.org/points/21467",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are a California Resident, our California Resident Privacy Notice contained in Section 10 of this Policy provides more information about your California privacy rights and explains how you can exercise those rights",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/10218",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>While the work may not have been a direct copy of someone else's work, it may contain elements, logos, or personal likenesses which may infringe on another's rights.</p>\n<p>If you believe a report was in error or should not apply to your work, you have the right to lodge a counter-notification.</p>",
+            "point_source": "https://help.redbubble.com/hc/en-us/articles/201579195",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+            "rating": "good",
+            "description": "You have the right to send a counter-notice to the service if you believe the content that was removed wasn't infringing any copyright.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21407",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that removal of the content is the result of a mistake (for example, that you have authorisation) or misidentification, you can send us a Counter Notice",
+            "point_source": "https://help.redbubble.com/hc/en-us/articles/201579195",
+            "case": {
+                "text": "If you are the target of a copyright holder's take down notice, this service gives you the opportunity to defend yourself",
+                "href": "https://edit.tosdr.org/cases/155"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21423",
+            "approval_status": "APPROVED",
+            "clause_text": "If you are located in the European Economic Area (“EEA”), this policy informs you of your choices and our practices in relation to your Personal Data.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21430",
+            "approval_status": "APPROVED",
+            "clause_text": "You may close your account at any time",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21413",
+            "approval_status": "APPROVED",
+            "clause_text": "you grant Redbubble a non-exclusive royalty free license to use and archive the content in accordance with or as reasonably contemplated by this agreement",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21394",
+            "approval_status": "APPROVED",
+            "clause_text": "You may, at any time, opt out from receiving such communications by following the instructions included in each e-mail or contacting Redbubble customer service",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/7602",
+            "approval_status": "APPROVED",
+            "clause_text": "Indemnity <p>You agree to indemnify, defend and hold us, our officers, directors, employees, agents and representatives harmless, as well as, all third parties printing, manufacturing and/or otherwise fulfilling the products you are selling via the website, their officers, directors, employees, agents and representatives harmless, from and against any and all claims, damages, losses, liabilities, costs (including reasonable legal fees) or other expenses that arise directly or indirectly out of or from:</p>\n<ul>\n<li>your breach of any clause of this agreement;</li>\n<li>any allegation that any materials that you submit to us or transmit to the website infringe or otherwise violate the copyright, trademark, trade secret or other intellectual property or other rights of any third party.\nand/or</li>\n<li>your activities in connection with the website.\n</li>\n</ul>\n<p>This indemnity will be applicable without regard to the negligence of any party, including any indemnified person.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21426",
+            "approval_status": "APPROVED",
+            "clause_text": "We are not responsible for the content",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 04:49:09",
+            "point_link": "https://edit.tosdr.org/points/21399",
+            "approval_status": "APPROVED",
+            "clause_text": "if you opt out of the cookie function, some areas and functions of the Marketplace may be disabled",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 04:49:13",
+            "point_link": "https://edit.tosdr.org/points/21425",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not accept liability for any losses arising directly or indirectly from a failure to provide the Redbubble service, corruption to or loss of data, errors or interruptions, any suspension or discontinuance of the Redbubble service",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:40",
+            "point_link": "https://edit.tosdr.org/points/11312",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not warrant, endorse, make representations about or recommend any content or art offered or provided by any member.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "Your private content may be accessed by people working for the service on a need-to-know basis",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:09",
+            "point_link": "https://edit.tosdr.org/points/21398",
+            "approval_status": "APPROVED",
+            "clause_text": "Access to personal data on our databases is subject to reasonable technical safeguards and is restricted to authorized staff on a strict need-to-know basis.",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Your private content may be accessed by people working for the service",
+                "href": "https://edit.tosdr.org/cases/189"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21428",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not represent or guarantee that access to the Redbubble service or these websites will be uninterrupted",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21420",
+            "approval_status": "APPROVED",
+            "clause_text": "malicious code, including but not limited to viruses, trojan horses, worms, time bombs, cancelbots, or any other computer programming routines that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, data, or personal information",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 04:49:12",
+            "point_link": "https://edit.tosdr.org/points/21417",
+            "approval_status": "APPROVED",
+            "clause_text": "the content does not contain material that defames or vilifies any person, people, races, religion or religious group and is not obscene, pornographic, indecent, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:02:51",
+            "point_link": "https://edit.tosdr.org/points/7601",
+            "approval_status": "APPROVED",
+            "clause_text": "Our services are not available to persons under 16 years of age.</p>",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21406",
+            "approval_status": "APPROVED",
+            "clause_text": "If the Redbubble Content Team has received a Notice and Takedown Report which specifically notes one or more of your works, the noted works will have been removed.",
+            "point_source": "https://help.redbubble.com/hc/en-us/articles/201579195",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 04:49:09",
+            "point_link": "https://edit.tosdr.org/points/21400",
+            "approval_status": "APPROVED",
+            "clause_text": "we use cookies and other technologies on the Marketplace and within our services",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21405",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that your content has been used in a way that constitutes an infringement of your rights, please notify Redbubble's designated agent for complaints (submit form below) by sending a Notice and Takedown Report",
+            "point_source": "https://help.redbubble.com/hc/en-us/articles/201579195",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21411",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You are responsible for actions made on the website using your password, including any products purchased or sold and any content displayed or messages sent, even if these actions were not approved or contemplated by you.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21427",
+            "approval_status": "APPROVED",
+            "clause_text": "privacy practices associated with linked websites",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 06:36:17",
+            "point_link": "https://edit.tosdr.org/points/10219",
+            "approval_status": "APPROVED",
+            "clause_text": "If any of the terms of this agreement are held to be invalid, unenforceable or illegal for any reason, the remaining terms and conditions shall nevertheless continue in full force.</p>",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 04:49:10",
+            "point_link": "https://edit.tosdr.org/points/21415",
+            "approval_status": "APPROVED",
+            "clause_text": "your use of the website will comply with all applicable law, rules and regulations",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:36:17",
+            "point_link": "https://edit.tosdr.org/points/10220",
+            "approval_status": "APPROVED",
+            "clause_text": "If we waive any rights available to us under this agreement on one occasion, this does not mean that those rights will automatically be waived on any other occasion.</p>",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:49:02",
+            "point_link": "https://edit.tosdr.org/points/21388",
+            "approval_status": "APPROVED",
+            "clause_text": "automatically collects your IP address",
+            "point_source": "https://www.redbubble.com/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The terms may be changed at any time, but you will receive notification of the changes",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 04:49:11",
+            "point_link": "https://edit.tosdr.org/points/21409",
+            "approval_status": "APPROVED",
+            "clause_text": "We may amend the terms of this agreement from time to time, and we will let you know about these changes either by sending you an email to the email address you have registered with Redbubble or by displaying information about the changes on our home page, or both.",
+            "point_source": "https://www.redbubble.com/agreement",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}

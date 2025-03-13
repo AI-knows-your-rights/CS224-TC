@@ -1,0 +1,165 @@
+{
+    "meta_data": {
+        "title": "Codeberg - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You are not being tracked",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 04:48:22",
+            "point_link": "https://edit.tosdr.org/points/20734",
+            "approval_status": "APPROVED",
+            "clause_text": "membership data.\nThis is the data you enter in the join.codeberg.org form if you wish",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/PrivacyPolicy.md",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 04:48:28",
+            "point_link": "https://edit.tosdr.org/points/20787",
+            "approval_status": "APPROVED",
+            "clause_text": "Service\n<p>For Free and Open Software projects (FOSS) as defined by the Free Software Foundation (FSF) and the Open Source Initiative (OSI), Codeberg provides Repository and Version Control, Wiki, and Issue Tracker hosting under certain terms and conditions.",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/TermsOfUse.md",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "Logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 06:25:15",
+            "point_link": "https://edit.tosdr.org/points/28128",
+            "approval_status": "APPROVED",
+            "clause_text": "These log files are destroyed automatically within at most seven days.</p>",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/PrivacyPolicy.md",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Logs are deleted after seven days.",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 04:48:21",
+            "point_link": "https://edit.tosdr.org/points/20732",
+            "approval_status": "APPROVED",
+            "clause_text": "These log files are destroyed automatically within at most seven days.</p>",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/PrivacyPolicy.md",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "You maintain ownership of your content",
+            "rating": "good",
+            "description": "This service does not claim ownership over user-generated content or materials, and the user doesn't need to waive any moral rights by posting owned content.",
+            "last_updated": "2023-07-11 04:48:22",
+            "point_link": "https://edit.tosdr.org/points/20735",
+            "approval_status": "APPROVED",
+            "clause_text": "For all data you contribute (for example code, content, repositories, account details and settings), you have full responsibility and control to add, modify, create this data.",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/PrivacyPolicy.md",
+            "case": {
+                "text": "You maintain ownership of your content",
+                "href": "https://edit.tosdr.org/cases/183"
+            }
+        },
+        {
+            "title": "The service is open-source",
+            "rating": "good",
+            "description": "The code of the software is open-source and the users can have access to the source code.",
+            "last_updated": "2023-07-11 04:48:21",
+            "point_link": "https://edit.tosdr.org/points/20738",
+            "approval_status": "APPROVED",
+            "clause_text": "Our service is open for all projects working under a license compatible with either the Open-Source-License definition of the Free Software foundation (FSF) or the Open Source Initiative (OSI).",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/TermsOfUse.md",
+            "case": {
+                "text": "The service is open-source",
+                "href": "https://edit.tosdr.org/cases/485"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 04:48:22",
+            "point_link": "https://edit.tosdr.org/points/20736",
+            "approval_status": "APPROVED",
+            "clause_text": "You may close your account at any time.",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/TermsOfUse.md",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2021-05-17 18:40:18",
+            "point_link": "https://edit.tosdr.org/points/20739",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://codeberg.org/Codeberg/org",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 04:48:26",
+            "point_link": "https://edit.tosdr.org/points/20737",
+            "approval_status": "APPROVED",
+            "clause_text": "The materials on our platform are provided on an 'as is' basis.\nCodeberg makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/TermsOfUse.md",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 06:27:09",
+            "point_link": "https://edit.tosdr.org/points/28127",
+            "approval_status": "APPROVED",
+            "clause_text": "Please act responsibly and apply appropriate security measures to protect your own data and account access credentials.</p>\n<ul>\n<li>You are legally responsible for your edits and contributions on the platform, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws.\nAlthough we may not agree with such actions, we warn authors, editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content.</li>\n<li>You are responsible for safeguarding your account credentials and should never disclose them to any third party.</li>\n<li>You are solely responsible for your use of any third-party websites or resources.\nAlthough some projects may contain links to third-party websites and resources, we do not endorse and are not responsible or liable for their availability, accuracy, or the related content, products, or services, nor do we have any obligation to monitor such third-party content.</li>",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/TermsOfUse.md",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:48:21",
+            "point_link": "https://edit.tosdr.org/points/20733",
+            "approval_status": "APPROVED",
+            "clause_text": "Server log files can contain client IP addresses and user agent strings from connecting computers.",
+            "point_source": "https://codeberg.org/codeberg/org/src/branch/master/PrivacyPolicy.md",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        }
+    ]
+}

@@ -1,0 +1,697 @@
+{
+    "meta_data": {
+        "title": "Fiverr - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14140",
+            "approval_status": "APPROVED",
+            "clause_text": "Fiverr reserves the right to delete Gigs for several reasons or for no reason at all: \"(but are not limited to)\".",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "You waive your moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14156",
+            "approval_status": "APPROVED",
+            "clause_text": "Ownership <p>Ownership and limitations: When purchasing a Gig on Fiverr, unless clearly stated otherwise on the Seller's Gig page/description, when the work is delivered, and subject to payment, the Buyer is granted all intellectual property rights, including but not limited to, copyright in the work delivered from the Seller, and the Seller waives any and all moral rights therein.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 10:05:07",
+            "point_link": "https://edit.tosdr.org/points/14137",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you delete your User Generated Content (<b>“UGC”</b>), as defined in the Fiverr Terms of Service, from the Site, copies of your UGC may remain viewable in cached and archived pages, or might have been copied or stored by other Site users.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "This service keeps user logs for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14117",
+            "approval_status": "APPROVED",
+            "clause_text": "We will retain personal information for the following purposes:</p>\n<ul>\n<li>\n<p>as long as it is necessary and relevant for our operations, e.g.\nso that we have an accurate record of your dealings with us in the event of any complaints or challenge.\nand</p>\n</li>\n<li>\n<p>in relation to personal information from closed accounts to comply with applicable laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our Site terms and take other actions as permitted by law.</p>\n</li>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "This service can share your personal information to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14132",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Site includes certain social media features, including single sign on features.\nWe also share limited personal information with such social media platforms and marketing partners, such as Facebook and Google, to promote our services or the Fiverr marketplace.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "The service collects many different types of personal data",
+            "rating": "bad",
+            "description": "The service collects different kinds of personal data, such as name, demographic information, postal address, biometric data, device information, IDs, contacts, call logs...",
+            "last_updated": "2023-07-11 10:09:27",
+            "point_link": "https://edit.tosdr.org/points/14125",
+            "approval_status": "APPROVED",
+            "clause_text": "When you register to the Site, use it, complete forms, or use it as collaborator, and/or register to our affiliate or influencer or similar program, we ask you to provide certain personal information, including a valid email address, Facebook or Google account login details and username.\nWe will also ask you to provide or otherwise collect additional information that you provide us, such as, your profile details, physical address or billing information, telephone number or other contact details, financial information (such as payment method and credit card number), taxpayer information and forms, details about other social networks linked accounts, details about your listed gigs, purchases, education, profession and expertise, and additional authentication information (such as your government issued ID, passport, or driving license, as permitted by applicable laws and as detailed in our Seller Help Center at&nbsp;“Verifying Your Identity”).",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Many different types of personal data are collected",
+                "href": "https://edit.tosdr.org/cases/376"
+            }
+        },
+        {
+            "title": "This service reserves the right to disclose your personal information without notifying you",
+            "rating": "bad",
+            "description": "If the Government governing the Terms requests personal data of a user of this service, they may not inform/notify the user while complying with the request.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14131",
+            "approval_status": "APPROVED",
+            "clause_text": "We share personal information to law enforcement agencies, public authorities or other parties in order to respond to a subpoena or court order, judicial process or to regulatory authorities, if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes.\nwhen we believe it necessary or appropriate to disclose personal information to law enforcement authorities, such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Policy.\nto respond to claims against us.\nand to protect the rights, property, or personal safety of Fiverr, our customers, or the public;</p>\n</li>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be disclosed to comply with government requests without notice to you",
+                "href": "https://edit.tosdr.org/cases/164"
+            }
+        },
+        {
+            "title": "Many third parties are involved in operating the service",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:32",
+            "point_link": "https://edit.tosdr.org/points/14128",
+            "approval_status": "APPROVED",
+            "clause_text": "We receive information from third party vendors and/or other commercially available sources, such as:</p>\n<ul>\n<li>\n<p>Third party vendors who provide us data to supplement the information we collect about you, in accordance with applicable laws.\nFor example, we receive fraud warnings from service providers for our fraud prevention and risk assessment efforts.\nWe also receive information from enrichment service providers to enhance and personalize your experience as well as from advertising and marketing partners in order to manage and measure our campaigns.\n</p>\n</li>\n<li>\n<p>If you link, connect, or login to your Fiverr Account with a third-party service (e.g.\nGoogle, Facebook, LinkedIn), we receive certain information, such as your registration and profile information from that service.\nThis information varies and is controlled by that service or as authorized by you via your privacy settings at that service.</p>\n</li>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Many third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/208"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+            "rating": "bad",
+            "description": "The service can claim ownership on feedback, proposals, ideas and suggestions submitted by the users, who may waive their \"moral rights\" on that feedback.",
+            "last_updated": "2023-07-11 10:10:29",
+            "point_link": "https://edit.tosdr.org/points/14152",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent that you provide Fiverr with any comments, suggestions or other feedback regarding the Fiverr platform or the Site as a whole, as well as other Fiverr products or services (collective, the “<b>Feedback</b>”), you will be deemed to have granted Fiverr an exclusive, royalty-free, fully paid up, perpetual, irrevocable, worldwide ownership rights in the Feedback.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "If you offer suggestions to the service, they become the owner of the ideas that you give them",
+                "href": "https://edit.tosdr.org/cases/182"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14121",
+            "approval_status": "APPROVED",
+            "clause_text": "We use cookies and similar technologies (such as web beacons, pixels, tags, and scripts)",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:10:26",
+            "point_link": "https://edit.tosdr.org/points/14116",
+            "approval_status": "APPROVED",
+            "clause_text": "We use personal information to provide you with quality service and security, to operate the Site and to perform our obligations to you;&nbsp;to ensure marketplace integrity and security.\nto prevent fraud.\nto contact you and send you direct marketing communications.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14120",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Personal information will also be disclosed if we go through a business transition such as a merger, sale, transfer of all or a portion of Fiverr's assets, acquisition, bankruptcy or similar event.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "This service gathers information about you through third parties",
+            "rating": "bad",
+            "description": "This Service may employ, either identifiable or non-identifiable, data collection from third party sources about you.",
+            "last_updated": "2023-07-11 10:10:25",
+            "point_link": "https://edit.tosdr.org/points/14114",
+            "approval_status": "APPROVED",
+            "clause_text": "We also collect information from third party vendors and/or other commercially available sources.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Information is gathered about you through third parties",
+                "href": "https://edit.tosdr.org/cases/382"
+            }
+        },
+        {
+            "title": "The service uses social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14133",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Our Site includes certain social media features, including single sign on features. We also share limited personal information with such social media platforms and marketing partners, such as Facebook and Google, to promote our services or the Fiverr marketplace.\nSuch features and third party services collect certain information about you and may set a cookie to enable their functionality.\"",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "This service receives your percise location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14126",
+            "approval_status": "APPROVED",
+            "clause_text": "In other words, when you access the Site we are aware of your usage of the Site, and gather, collect and record the information relating to such usage, including geo-location information",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:10:26",
+            "point_link": "https://edit.tosdr.org/points/14129",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We will use your personal information for the following purposes: [...] to promote and advertise the Site and the Fiverr marketplace.\"\nAlso, Fiverr works with marketing and advertising partners to provide its advertising.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:10:26",
+            "point_link": "https://edit.tosdr.org/points/14118",
+            "approval_status": "APPROVED",
+            "clause_text": "We share personal information with third parties in order to operate the Site, provide our services to you, fulfil obligations imposed on us by applicable laws and regulations, and prevent fraud, infringements and illegal activities.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14119",
+            "approval_status": "APPROVED",
+            "clause_text": "Some of the personal information you provide to us will be stored or processed on our behalf by third party suppliers and data processors and may be located in other jurisdictions, such as the United States and Israel.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14150",
+            "approval_status": "APPROVED",
+            "clause_text": "You may not create a false identity on Fiverr, misrepresent your identity, create a Fiverr profile for anyone other than yourself (a real person), or use or attempt to use another user’s account or information.\nYour profile information, including your description, skills, location, etc., while may be kept anonymous, must be accurate and complete and may not be misleading, illegal, offensive or otherwise harmful.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "The service provides information about how they collect personal data",
+            "rating": "good",
+            "description": "The service details situations in which they collect personal information or means by which they do.",
+            "last_updated": "2023-07-11 10:04:45",
+            "point_link": "https://edit.tosdr.org/points/14124",
+            "approval_status": "APPROVED",
+            "clause_text": "How Do We Collect Information</b>?",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how they collect personal data",
+                "href": "https://edit.tosdr.org/cases/297"
+            }
+        },
+        {
+            "title": "EU users can retrieve an archive of their data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14136",
+            "approval_status": "APPROVED",
+            "clause_text": "</p>Rights of EU Users<p>Under applicable EU regulation, you have the following rights in respect of your personal information:</p>\n<ul>\n<li>\n<p>to obtain a copy of your personal information together with information about how and on what basis that personal information is processed;</p>\n</li>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 10:04:39",
+            "point_link": "https://edit.tosdr.org/points/14115",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>How Do We Use the Information Collected?</b>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:33:45",
+            "point_link": "https://edit.tosdr.org/points/5258",
+            "approval_status": "APPROVED",
+            "clause_text": "The Privacy Policy outlines details about personal information they collect.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:10:25",
+            "point_link": "https://edit.tosdr.org/points/14134",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We take great care in maintaining the security of the Site and your information and in preventing unauthorized access, loss, misuse, alteration, destruction or damage to it through industry standard technologies and internal procedures.\nAmong other things, we regularly maintain a PCI DSS (Payment Card Industry Data Security Standards) certification (with respect to payment by credit cards).\nIn addition, we contractually ensure that any third party processing your personal information equally provides for confidentiality and integrity of your data in a secure way.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "You can opt out of promotional communications",
+            "rating": "good",
+            "description": "You can update your account preferences and/or easily unsubscribe of email/sms lists to stop receiving promotional communications.",
+            "last_updated": "2023-07-11 10:10:26",
+            "point_link": "https://edit.tosdr.org/points/14130",
+            "approval_status": "APPROVED",
+            "clause_text": "You have a right to prevent direct marketing of any form at any time - this can be exercised by following the opt-out link attached to each communication or by sending an email to optout@fiverr.com.</p>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "You can opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/223"
+            }
+        },
+        {
+            "title": "The service provides a free help desk",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14138",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>If you have any questions (or comments) concerning this Policy, please email our team at&nbsp;privacy@fiverr.com, and we will make an effort to reply within a reasonable timeframe.</p>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:06:06",
+            "point_link": "https://edit.tosdr.org/points/14145",
+            "approval_status": "APPROVED",
+            "clause_text": "and shall not be responsible or liable for any damages or other problems resulting from shipping.</li>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "The service can use and distribute your content for any purpose",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:29",
+            "point_link": "https://edit.tosdr.org/points/14157",
+            "approval_status": "APPROVED",
+            "clause_text": "Furthermore, users (both Buyers and Sellers) agree that unless they explicitly indicate otherwise, the content users voluntarily create/upload to Fiverr, including Gig texts, photos, videos, usernames, user photos, user videos and any other information, including the display of delivered work, may be used by Fiverr for no consideration for marketing and/or other purposes.</p>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "Your content can be distributed through any media known now or in the future",
+                "href": "https://edit.tosdr.org/cases/139"
+            }
+        },
+        {
+            "title": "Users are responsible for any risks, damages, or losses they may incur by downloading materials",
+            "rating": "neutral",
+            "description": "Users are responsible for any harm to their computer system or loss of data they may incur through the download of materials from the service.",
+            "last_updated": "2023-07-11 10:06:06",
+            "point_link": "https://edit.tosdr.org/points/14146",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Users are responsible for scanning all transferred files for viruses and malware.\nFiverr will not be held responsible for any damages which might occur due to site usage, use of content or files transferred.</li>\n<li>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You are responsible for any risks, damages, or losses that may incur by downloading materials",
+                "href": "https://edit.tosdr.org/cases/291"
+            }
+        },
+        {
+            "title": "Service does not allow alternative accounts",
+            "rating": "neutral",
+            "description": "Services that do not allow multiple or alternative accounts are covered by this case.\nAlternative accounts can contribute to an increased privacy, but can also be used to manipulate discussions and polls and might decrease the trustworthiness of a person.",
+            "last_updated": "2023-07-11 10:11:14",
+            "point_link": "https://edit.tosdr.org/points/14151",
+            "approval_status": "APPROVED",
+            "clause_text": "To prevent fraud and abuse, users are limited to one active Fiverr account and one active Fiverr Business account.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "Alternative accounts are not allowed",
+                "href": "https://edit.tosdr.org/cases/324"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14153",
+            "approval_status": "APPROVED",
+            "clause_text": "Users are to refrain from spamming or soliciting previous Buyers or Sellers to pursue removing/modifying reviews or cancelling orders that do not align on Order Cancellation or Feedback policies.</li>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "This services gives no guarantee regarding quality",
+            "rating": "neutral",
+            "description": "The Service doesn't warrant or guarantee the quality of the products or services provided.",
+            "last_updated": "2023-07-11 10:05:37",
+            "point_link": "https://edit.tosdr.org/points/14144",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>Fiverr does not handle or guarantee shipping, tracking, quality,",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "No guarantee is given regarding quality",
+                "href": "https://edit.tosdr.org/cases/160"
+            }
+        },
+        {
+            "title": "Users agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14142",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "This service prohibits users from attempting to gain unauthorized access to other computer systems",
+            "rating": "neutral",
+            "description": "The service does not allow any attempts at hacking or otherwise gaining unauthorized access to other users' computers.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14149",
+            "approval_status": "APPROVED",
+            "clause_text": "Any attempts to publish or send malicious content with the intent to compromise another member’s account or computer environment is strictly prohibited.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You are prohibited from attempting to gain unauthorized access to other computer systems",
+                "href": "https://edit.tosdr.org/cases/284"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14158",
+            "approval_status": "APPROVED",
+            "clause_text": "YOUR USE OF THE SITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE IS AT YOUR OWN RISK.\nTHE SITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS,",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:10:35",
+            "point_link": "https://edit.tosdr.org/points/14155",
+            "approval_status": "APPROVED",
+            "clause_text": "By uploading to, or creating content on, the Fiverr platform, you represent and warrant that you own or have obtained all rights, licenses, consents, permissions, power and/or authority, necessary to use and/or upload such content and that such content or the use thereof in the Site does not and shall not (a) infringe or violate any intellectual property, proprietary or privacy, data protection or publicity rights of any third party.\n(b) violate any applicable local, state, federal and international laws, regulations and conventions.\nand/or (c) violate any of your or third party’s policies and/or terms of service.\nWe invite everyone to report violations together with proof of ownership as appropriate.\nReported violating content may be removed or disabled.</p>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Prohibits the posting of pornographic content",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 10:05:08",
+            "point_link": "https://edit.tosdr.org/points/14141",
+            "approval_status": "APPROVED",
+            "clause_text": ">\n<li>Stock Image(s) may not be used: <ul>\n<li>on a stand-alone basis with no other content;</li>\n<li>for pornographic,",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "The service can suspend your account for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14148",
+            "approval_status": "APPROVED",
+            "clause_text": "Discrimination against a community member based on gender, race, age, religious affiliation, sexual preference or otherwise is not acceptable and may result in the suspension/removal of your account.</li>\n<li>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 06:34:15",
+            "point_link": "https://edit.tosdr.org/points/5259",
+            "approval_status": "APPROVED",
+            "clause_text": "Our Site is not intended for children under 13 years of age.\nNo one under age 13 should provide any personal information to or on the Site.\nWe do not knowingly collect personal information from children under 13.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:10:30",
+            "point_link": "https://edit.tosdr.org/points/14160",
+            "approval_status": "APPROVED",
+            "clause_text": "NEITHER FIVERR NOR ANY PERSON ASSOCIATED WITH FIVERR MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE WEBSITE.</p>",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:05:08",
+            "point_link": "https://edit.tosdr.org/points/14135",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Users who have registered to the Site agree to keep their password in strict confidence and not disclose such password to any third party.</p>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:05:33",
+            "point_link": "https://edit.tosdr.org/points/14143",
+            "approval_status": "APPROVED",
+            "clause_text": "Full quote: \"Stock Image(s) may not be used: on a stand-alone basis with no other content; for pornographic, defamatory or other unlawful purposes;\"",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 10:10:27",
+            "point_link": "https://edit.tosdr.org/points/14123",
+            "approval_status": "APPROVED",
+            "clause_text": "<b>External Links</b> - the Site contains links to third party sites and if you link to a third party site from the Site, any data you provide to that site and any use of that data by the third party are not under the control of Fiverr and are not subject to this Policy.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:05:26",
+            "point_link": "https://edit.tosdr.org/points/14139",
+            "approval_status": "APPROVED",
+            "clause_text": "You are solely responsible for any activity on your account and for maintaining the confidentiality and security of your password.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:10:28",
+            "point_link": "https://edit.tosdr.org/points/14147",
+            "approval_status": "APPROVED",
+            "clause_text": "There is no warranty, express or implied, with the grant of this license, including with respect to fitness for a particular purpose.",
+            "point_source": "https://www.fiverr.com/terms_of_service",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "The terms for this service are translated into different languages",
+            "rating": "neutral",
+            "description": "Although there's generally a unique binding language for the terms, they are translated to allow all users to understand the agreement they're accepting, no matter their native language.",
+            "last_updated": "2023-07-11 10:04:37",
+            "point_link": "https://edit.tosdr.org/points/14112",
+            "approval_status": "APPROVED",
+            "clause_text": "English</p>\n<p> Deutsch</p>\n<p> Español</p>\n<p> Français</p>\n<p> Português</p>\n<p> Italiano</p>\n<p> Nederlands</p>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "The terms for this service are translated into different languages",
+                "href": "https://edit.tosdr.org/cases/198"
+            }
+        },
+        {
+            "title": "This service collects your IP address, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:31",
+            "point_link": "https://edit.tosdr.org/points/14127",
+            "approval_status": "APPROVED",
+            "clause_text": "While you view our ads, we gather user Global Unique Identifier, HTTP request data like, user agent, IP, host, URL, country/continent from which request made, browser info, device/operating system/operating system version.</p>\n<p>",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:10:25",
+            "point_link": "https://edit.tosdr.org/points/14113",
+            "approval_status": "APPROVED",
+            "clause_text": "This Policy may change from time to time.\nany changes we make to this Policy will be posted on this Site, we will also take any other steps, to the extent required by applicable law, including notifying you and/or seeking your explicit consent to material changes.",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:10:26",
+            "point_link": "https://edit.tosdr.org/points/14122",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2024-10-27 14:59:14 UTC, hammadamir (24272)  Suspended wrote:\n          Some  truly   excellent   information,  Sword lily I  detected  this. bounce houses rentals near me",
+            "point_source": "https://www.fiverr.com/privacy-policy",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        }
+    ]
+}

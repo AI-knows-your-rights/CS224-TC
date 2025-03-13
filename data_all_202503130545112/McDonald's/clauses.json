@@ -1,0 +1,725 @@
+{
+    "meta_data": {
+        "title": "McDonald's - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service holds onto content that you've deleted",
+            "rating": "blocker",
+            "description": "Content may remain in backup servers and be retained after deletion, and thus never be completely deleted. This case doesn't apply to contributions that can't be removed due to the nature of the service.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/13443",
+            "approval_status": "APPROVED",
+            "clause_text": "McDonald's reserves the right to request additional information to verify your identity before deletion, with no limit of time. Therefore, you may not be able to delete your data.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "This service holds onto content that you've deleted",
+                "href": "https://edit.tosdr.org/cases/174"
+            }
+        },
+        {
+            "title": "This service may collect, use, and share location data",
+            "rating": "bad",
+            "description": "Location-based information is collected and may be used and/or shared with third parties for purposes not directly related to the services provided (i.e. the Service doesn't rely on the use or share of location data to function properly).",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/13446",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>With your consent (where required by applicable law), we may use the information we collect for the following purposes:</p>\n<ul>\n<li>to send you e-mails or text messages about our products and services, competitions, offers, promotions or special events that we believe may interest you;</li>\n<li>to send you e-mails or text messages about the products and services of our business partners;</li>\n<li>provide location-based services;</li>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "This service may collect, use, and share location data",
+                "href": "https://edit.tosdr.org/cases/373"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for other purposes including advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:08:44",
+            "point_link": "https://edit.tosdr.org/points/13438",
+            "approval_status": "APPROVED",
+            "clause_text": "\"We may use these technologies to: [...] market to you through targeted advertising\"",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service tracks you on other websites",
+            "rating": "bad",
+            "description": "The service may use tracking technologies in third-party websites to track your online activity while you aren't visiting their Site.",
+            "last_updated": "2023-07-11 10:07:06",
+            "point_link": "https://edit.tosdr.org/points/13432",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Where video is available on our online services, we may target and track the videos you view.\nYou consent to our tracking of your video viewing through online services or third-party social media for up to two years, or as otherwise permitted by applicable law, or until you withdraw your consent.</p>\n<p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "This service tracks you on other websites",
+                "href": "https://edit.tosdr.org/cases/129"
+            }
+        },
+        {
+            "title": "The service may sell your data",
+            "rating": "bad",
+            "description": "There is a form to opt-out (typically California's CCPA) of the selling of your personal data. This is a bad a point because there are many services that don't have this form due to not selling your data in the first place.",
+            "last_updated": "2023-07-11 10:08:24",
+            "point_link": "https://edit.tosdr.org/points/13430",
+            "approval_status": "APPROVED",
+            "clause_text": "Depending on the definition of selling data, McDonald's may sell your personal data.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Your Personal data may be sold unless you opt out",
+                "href": "https://edit.tosdr.org/cases/396"
+            }
+        },
+        {
+            "title": "Your profile is combined across various products",
+            "rating": "bad",
+            "description": "When using multiple services from one same company, they can combine these (unrelated) information sources about you to build up a single richer user profile about you.",
+            "last_updated": "2023-07-11 10:08:25",
+            "point_link": "https://edit.tosdr.org/points/13453",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Both we and others (such as our advertising networks) may use these technologies to collect information about your online activities, over time and across third-party websites and devices, and when using our online services to further personalize your experience with us.</p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Your profile is combined across various products",
+                "href": "https://edit.tosdr.org/cases/326"
+            }
+        },
+        {
+            "title": "This service tracks which web page referred you to it",
+            "rating": "bad",
+            "description": "The service logs the URL of the last web page you visited before visiting the Site and may use that information to gather more data about you.",
+            "last_updated": "2023-07-11 10:05:42",
+            "point_link": "https://edit.tosdr.org/points/10784",
+            "approval_status": "APPROVED",
+            "clause_text": "referring website (a site that has led you to ours) or application;",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "This service tracks which web page referred you to it",
+                "href": "https://edit.tosdr.org/cases/387"
+            }
+        },
+        {
+            "title": "The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users.",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 10:05:42",
+            "point_link": "https://edit.tosdr.org/points/10785",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>unique device identifier (UDID) or mobile equipment identifier (MEID) for your mobile device;</li>\n<li>device and component serial numbers;</li>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "The service can sell or otherwise transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction.",
+            "rating": "bad",
+            "description": "If the service gets acquired or is involved in a merger, bankruptcy, reorganisation or sale, your personal data may be transferred or sold.",
+            "last_updated": "2023-07-11 10:05:42",
+            "point_link": "https://edit.tosdr.org/points/10783",
+            "approval_status": "APPROVED",
+            "clause_text": "We may, for strategic or other business reasons, decide to sell or transfer all or part of our business.\nAs part of that sale or transfer, we may pass information we have collected and stored, including personal information, to anyone involved in the sale or transfer.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Your personal data may be sold or otherwise transferred as part of a bankruptcy proceeding or other type of financial transaction",
+                "href": "https://edit.tosdr.org/cases/243"
+            }
+        },
+        {
+            "title": "The service does not guarantee that software errors will be corrected",
+            "rating": "bad",
+            "description": "Users agree to use the service and its software as provided and accept that any errors within that software may not be corrected.",
+            "last_updated": "2023-07-11 10:08:26",
+            "point_link": "https://edit.tosdr.org/points/13436",
+            "approval_status": "APPROVED",
+            "clause_text": "that defects will be corrected, or that the online services are free of viruses or other harmful components.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "The service does not guarantee that software errors will be corrected",
+                "href": "https://edit.tosdr.org/cases/289"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 10:05:07",
+            "point_link": "https://edit.tosdr.org/points/7644",
+            "approval_status": "APPROVED",
+            "clause_text": "no claims shall be arbitrated on a class or representative basis as you and McDonald’s hereby waive the right to assert claims in any class or representative action.\narbitration will therefore only decide the individual claims of you and McDonald’s.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "This service forces users into binding arbitration in the case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 10:08:26",
+            "point_link": "https://edit.tosdr.org/points/13440",
+            "approval_status": "APPROVED",
+            "clause_text": "You agree that:</p>\n<ol>\n<li>any claim or dispute (whether in contract, tort, or otherwise) you may have with McDonald’s or any other Members of the McDonald’s System arising from or related to the online services or these terms will be resolved exclusively by final and binding arbitration administered by JAMS and conducted before a single arbitrator using JAMS’s Streamlined Arbitration Rules and Procedures (“rules and procedures”)",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "This service receives your location through GPS coordinates",
+            "rating": "bad",
+            "description": "Unless the service relies on Geo Location, this case is to be assigned to points that don't need your GPS coordinates to function properly.",
+            "last_updated": "2023-07-11 10:09:15",
+            "point_link": "https://edit.tosdr.org/points/13445",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Our online services and in-restaurant technology may collect information about the exact location of your mobile device or computer using geolocation and technology such as GPS, Wi-Fi, Bluetooth, or cell tower proximity.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "This service receives your precise location through GPS coordinates",
+                "href": "https://edit.tosdr.org/cases/400"
+            }
+        },
+        {
+            "title": "The service uses your personal data to employ targeted third-party advertising",
+            "rating": "bad",
+            "description": "Your Personal Information is traded and shared with advertising companies to target ads on you, either on the website you were visiting or in third party websites. Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile.",
+            "last_updated": "2023-07-11 10:09:03",
+            "point_link": "https://edit.tosdr.org/points/13431",
+            "approval_status": "APPROVED",
+            "clause_text": "When you use our online services, we (and our vendors who provide services to us) may collect information about your activities so that we can provide you with advertising tailored to your interests.</p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Your personal data is used to employ targeted third-party advertising",
+                "href": "https://edit.tosdr.org/cases/220"
+            }
+        },
+        {
+            "title": "Your personal data is given to third parties",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 10:03:23",
+            "point_link": "https://edit.tosdr.org/points/13441",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>We may share your personal information with vendors who provide services to us, such as fulfilling orders, providing data processing and other information technology services, managing promotions, contests, prize draws and sweepstakes, carrying out research and analysis, and personalizing individual McDonald’s customer experiences.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "You cannot opt out of promotional communications",
+            "rating": "bad",
+            "description": "This applies to cases where opting out of promotional communications requires sending a written letter by mail or is otherwise more complicated and time consuming than necessary.",
+            "last_updated": "2023-07-11 10:03:25",
+            "point_link": "https://edit.tosdr.org/points/13428",
+            "approval_status": "APPROVED",
+            "clause_text": "",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You cannot opt out of promotional communications",
+                "href": "https://edit.tosdr.org/cases/224"
+            }
+        },
+        {
+            "title": "Your data may be processed and stored anywhere in the world",
+            "rating": "bad",
+            "description": "Your data is stored all over the world, including in countries where data protection rules may differ from the ones of the service's jurisdiction or those of your country jurisdiction.",
+            "last_updated": "2023-07-11 10:02:57",
+            "point_link": "https://edit.tosdr.org/points/13442",
+            "approval_status": "APPROVED",
+            "clause_text": "As such, we may share information about you within the McDonald’s Family and transfer it to countries in the world where we do business in connection with the uses identified above.\nAny international data transfers will be in accordance with this Privacy Statement and in compliance with applicable laws.\nSome countries in which we operate may have requirements pertaining to international data transfers.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Your data may be processed and stored anywhere in the world",
+                "href": "https://edit.tosdr.org/cases/187"
+            }
+        },
+        {
+            "title": "You must provide your legal name, pseudonyms are not allowed",
+            "rating": "bad",
+            "description": "You must provide your legal name and pseudonyms aren't allowed. This case doesn't apply to Services for which transparency regarding users identities is relevant for their purposes.",
+            "last_updated": "2023-07-11 10:03:26",
+            "point_link": "https://edit.tosdr.org/points/13542",
+            "approval_status": "APPROVED",
+            "clause_text": "You can only use one online services account and must keep your account information accurate at all times.</p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You must provide your legal name, pseudonyms are not allowed",
+                "href": "https://edit.tosdr.org/cases/214"
+            }
+        },
+        {
+            "title": "Tracking pixels are used in service-to-user communication",
+            "rating": "bad",
+            "description": "The service tracks the user count or some actions of the user; this is usually used for statistics. For example, emails sent by a service can contain a pixel tag, which is a small, clear image that can tell them whether or not you have opened an email and what your IP address is.",
+            "last_updated": "2023-07-11 06:33:01",
+            "point_link": "https://edit.tosdr.org/points/13452",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>For example, we may use certain technologies to determine whether you have opened an e-mail or selected a link contained in an e-mail, how you use the pages and content in our mobile apps, or whether you have selected a McDonald’s online advertisement.</p>\n<p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Tracking pixels are used in service-to-user communication",
+                "href": "https://edit.tosdr.org/cases/217"
+            }
+        },
+        {
+            "title": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+            "rating": "good",
+            "description": "The service may employ a broad copyright license over feedback, proposals, ideas and suggestions submitted, including the right to use them without restriction, compensation or obligation to the user, but they do not claim ownership on them.",
+            "last_updated": "2023-07-11 10:04:00",
+            "point_link": "https://edit.tosdr.org/points/7642",
+            "approval_status": "APPROVED",
+            "clause_text": "6.\nUser submissions and unsolicited ideas.\nUser submissions.\n<p>Some online services may allow you to send comments, remarks, suggestions, ideas, graphics, photographs, questions, complaints or other information posted or communicated to McDonald’s through the online services (together, “submissions”).\nYou understand that by submitting any information to McDonald’s through the online services, you grant McDonald's a perpetual, irrevocable, worldwide, non-exclusive, royalty-free, transferable license to use, reproduce, distribute, sublicense to others, modify, translate, prepare derivative works of, publicly display, and publicly perform the submissions, including to use them for any commercial or other purpose whatsoever without approval from or compensation to you or any other person, including to use them for any commercial or other purpose whatsoever without approval from or compensation to you or any other person.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "If you offer suggestions to the service, they may use that without your approval or compensation, but they do not become the owner",
+                "href": "https://edit.tosdr.org/cases/390"
+            }
+        },
+        {
+            "title": "Users are entitled to a refund if certain thresholds or standards are not met by the service",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:26",
+            "point_link": "https://edit.tosdr.org/points/13545",
+            "approval_status": "APPROVED",
+            "clause_text": "You have the ability to update or abandon your order at any time until you check in your order at a restaurant.\nHowever, once you complete your check in at a restaurant, you cannot cancel it.\nIf you desire to seek a refund for any reason, including if the products are unsatisfactory or other reasons, please contact the restaurant where you purchased the product regarding any refund due to you.\nYour legal rights in this respect are not affected by anything in these terms.</p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You are entitled to a refund if certain thresholds or standards are not met by the service",
+                "href": "https://edit.tosdr.org/cases/161"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of personal information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:32:59",
+            "point_link": "https://edit.tosdr.org/points/13447",
+            "approval_status": "APPROVED",
+            "clause_text": "Information We Collect",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:32:59",
+            "point_link": "https://edit.tosdr.org/points/13448",
+            "approval_status": "APPROVED",
+            "clause_text": "How We Use The Information We Collect <br>\n</u>\n</li>\n<li>\n<u> How We Share The Information We Collect <",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 10:08:35",
+            "point_link": "https://edit.tosdr.org/points/13439",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>You can opt out of targeted advertising by visiting&nbsp;the Digital Advertising Alliance website&nbsp;or&nbsp;the Network Advertising Initiative website&nbsp;",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 10:09:26",
+            "point_link": "https://edit.tosdr.org/points/13543",
+            "approval_status": "APPROVED",
+            "clause_text": "To close your account, you can visit www.mcdonalds.com/contact or email us at contact.privacy@us.mcd.com.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:23",
+            "point_link": "https://edit.tosdr.org/points/13455",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The online services may link to or allow you to use third-party websites, downloadable materials, content, social networks, or other digital services (together, “third party services”).\nThese third parties may have their separate terms and conditions or privacy policies that you should review and understand before using them.\nMcDonald’s does not endorse and is not associated with any of these third party services.\n<b>Neither McDonald’s nor any other Members of the McDonald’s System have any responsibility arising from or related to these third party services.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:33:00",
+            "point_link": "https://edit.tosdr.org/points/13451",
+            "approval_status": "APPROVED",
+            "clause_text": "<li>We offer certain features that are available only through the use of cookies and other similar technologies.</li>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+            "rating": "neutral",
+            "description": "The service assumes no liability for any damages the user incurs, including tangible (e.g. profits) and intangible losses (e.g. data), resulting from the use or inability to use the service or any other matter relating to the service.",
+            "last_updated": "2023-07-11 10:09:24",
+            "point_link": "https://edit.tosdr.org/points/13547",
+            "approval_status": "APPROVED",
+            "clause_text": "Neither McDonald’s nor any other Members of the McDonald’s System shall be liable for any direct or indirect lost profits or lost business damage, special, indirect, consequential, exemplary or incidental damages, including lost data, personal injury or property damage related to or arising out of the online services.\nNothing in this section is intended to limit McDonald’s liability for damages to the extent caused by McDonald’s own gross negligence or intentional or unlawful misconduct.\nAdditionally, nothing in this section is intended to limit or alter your rights as a consumer that cannot be limited or altered under applicable law</b>.\nMcDonald’s reserves all legal rights to recover damages or other compensation under these terms or as allowed by law.</p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "This service assumes no liability for any losses or damages resulting from any matter relating to the service",
+                "href": "https://edit.tosdr.org/cases/293"
+            }
+        },
+        {
+            "title": "Users should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 10:08:12",
+            "point_link": "https://edit.tosdr.org/points/13427",
+            "approval_status": "APPROVED",
+            "clause_text": "Updates to these terms.\n<p>McDonald's may also update these terms at any time and at its sole discretion.\nIf McDonald’s makes material changes to the terms, we will notify you by any reasonable means such as by posting the new terms in the online service.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the terms",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 10:04:11",
+            "point_link": "https://edit.tosdr.org/points/7585",
+            "approval_status": "APPROVED",
+            "clause_text": "Terms and Conditions for McDonald’s Online Services (USA)\n<p>Last updated: March 13, 2017<br>\n(McDonald’s address update: January 18, 2019.\nnon-substantive update for accessibility: May 15, 2019)</p>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "defend, indemnify, hold harmless; survives termination",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:09:24",
+            "point_link": "https://edit.tosdr.org/points/13550",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon termination, all rights of McDonald’s and other Members of the McDonald’s System, including all intellectual property rights, proprietary rights, and licenses in these terms shall survive, as well as all restrictions on use, all limitations on liability and disclaimers, and all of Section 9 (“How we settle disputes”)",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Defend, indemnify, hold harmless; survives termination",
+                "href": "https://edit.tosdr.org/cases/147"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 10:03:25",
+            "point_link": "https://edit.tosdr.org/points/13435",
+            "approval_status": "APPROVED",
+            "clause_text": "McDonald’s does not warrant or make any representation that the online services will be accurate, reliable, uninterrupted or error-free,",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/13458",
+            "approval_status": "APPROVED",
+            "clause_text": "Subject to these terms, you are granted a personal, non-exclusive, non-transferable and revocable license to use the online services solely for your own personal, non-commercial purposes and solely in accordance with these terms.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "Spidering or crawling is not allowed",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/7643",
+            "approval_status": "APPROVED",
+            "clause_text": "Use or launch any unauthorized technology or automated system to access the online services or extract content from the online services, including but not limited to spiders, robots, screen scrapers, or offline readers;",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Spidering, crawling, or accessing the site through any automated means is not allowed",
+                "href": "https://edit.tosdr.org/cases/150"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at the users' sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 10:08:30",
+            "point_link": "https://edit.tosdr.org/points/13433",
+            "approval_status": "APPROVED",
+            "clause_text": "McDonald’s provides the online services “as is” and without warranties of any kind either expressed or implied.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 10:05:10",
+            "point_link": "https://edit.tosdr.org/points/13546",
+            "approval_status": "APPROVED",
+            "clause_text": "7.\nCopyright notice.\n<p>McDonald’s will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (“DMCA”).",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "This service is only available to users of a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/7641",
+            "approval_status": "APPROVED",
+            "clause_text": "The online services are not intended to be used by, or targeted to, anyone under the age of 13 years old.\nYou must be at least 13 years old to use the online services.\nIf you are at least 13 years old but not yet 18 years old (or the legal age of majority if different in your jurisdiction), then you must review these terms with your parent or guardian and they must understand and agree to these terms in order for you to use the online services.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "You are responsible for maintaining the security of your account and for the activities on your account",
+            "rating": "neutral",
+            "description": "You are responsible for protecting the confidentiality of your password and for maintaining the security of your account. Any activity occurring under your account is your responsibility, whether authorized by you or not.",
+            "last_updated": "2023-07-11 10:07:23",
+            "point_link": "https://edit.tosdr.org/points/13426",
+            "approval_status": "APPROVED",
+            "clause_text": "If you create an online services account, you are responsible for keeping the account secure and for all activity under the account.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You are responsible for maintaining the security of your account and for the activities on your account",
+                "href": "https://edit.tosdr.org/cases/148"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 10:09:24",
+            "point_link": "https://edit.tosdr.org/points/13548",
+            "approval_status": "APPROVED",
+            "clause_text": "McDonald’s provides the online services “AS-IS” and without any warranties.\n<p>\n<b>\n</b>The online services may include inaccuracies or errors.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:04:03",
+            "point_link": "https://edit.tosdr.org/points/7819",
+            "approval_status": "APPROVED",
+            "clause_text": "Each of the terms and conditions in these terms are severable and operate separately.\nIf any of them are unlawful, void or unenforceable, then the remaining terms and conditions will remain in full force and effect.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service informs users that its privacy policy does not apply to third party websites",
+            "rating": "neutral",
+            "description": "The service states that whenever it links to third party websites or applications, its privacy policy does not apply. Those third party websites or applications hosted or operated by other organizations may have their own privacy policies.",
+            "last_updated": "2023-07-11 06:33:00",
+            "point_link": "https://edit.tosdr.org/points/13454",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Our online services may offer links to websites that are not run by us but by third parties.\nIf you visit one of these linked websites, you should read the website’s privacy policy, terms and conditions, and their other policies.\nWe are not responsible for the policies and practices of third parties.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "The service informs you that its privacy policy does not apply to third party websites",
+                "href": "https://edit.tosdr.org/cases/299"
+            }
+        },
+        {
+            "title": "This service requires first-party cookies",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:33:00",
+            "point_link": "https://edit.tosdr.org/points/13450",
+            "approval_status": "APPROVED",
+            "clause_text": "You might be assigned a cookie when using our online services.</li>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 10:04:02",
+            "point_link": "https://edit.tosdr.org/points/7820",
+            "approval_status": "APPROVED",
+            "clause_text": "If McDonald’s fails to insist that you perform any of your obligations under these terms, or if McDonald’s does not enforce its rights against you, or delays in doing so, that will not mean that McDonald’s has waived its rights against you and will not mean that you do not have to comply with those obligations.</li>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "Provides instructions on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 10:09:16",
+            "point_link": "https://edit.tosdr.org/points/13456",
+            "approval_status": "APPROVED",
+            "clause_text": "If you believe that your copyrighted work is infringed by content appearing on the online services, please provide a written DMCA notice to McDonald’s at: McDonald’s USA, LLC, 110 North Carpenter Street, Chicago, Illinois 60607, Attn: DMCA copyright administrator, (630) 623-3000 or by email to dmca@us.mcd.com.</p>\nWhat to include in your infringement notice.\n<p>Please include the following information in your notice to us, along with your full name, address, telephone number and email address:</p>\n<ol>\n<li>A detailed description of the copyrighted work that you believe has been infringed.</li>\n<li>A detailed description of the content on the online services that you believe infringes the copyrighted work, including information reasonably sufficient to permit McDonald’s to locate the alleged infringing content (e.g., the page on the online services where the alleged infringing content is located).</li>\n<li>The following statement, signed by the copyright owner or a person authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed: “I have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.\nI swear, under penalty of perjury, that the information in the notification is accurate and that I am the copyright owner or am authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed.”</li>",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:09:14",
+            "point_link": "https://edit.tosdr.org/points/13457",
+            "approval_status": "APPROVED",
+            "clause_text": "you may not, and may not allow third parties, to:</p>\n<ol>\n<li>Use the online services for any purpose that is unlawful or prohibited by these terms;",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Illinois, USA.",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:09:24",
+            "point_link": "https://edit.tosdr.org/points/13549",
+            "approval_status": "APPROVED",
+            "clause_text": "These terms will be governed and interpreted pursuant to the laws of Illinois, notwithstanding any principles of conflicts of law.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "This service does not guarantee that it or the products obtained through it meet the users' expectations or requirements",
+            "rating": "neutral",
+            "description": "This service provider informs its users that the services, information, products, or other materials provided on its website may not meet the users' expectations or requirements.",
+            "last_updated": "2023-07-11 10:08:36",
+            "point_link": "https://edit.tosdr.org/points/13434",
+            "approval_status": "APPROVED",
+            "clause_text": "McDonald’s disclaims all warranties of merchantability and fitness or a particular purpose.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "This service does not guarantee that it or the products obtained through it meet your expectations or requirements",
+                "href": "https://edit.tosdr.org/cases/290"
+            }
+        },
+        {
+            "title": "This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header.",
+            "rating": "neutral",
+            "description": "Even though the Do Not Track (DNT) header was not implemented perfectly, services should not track users whose browsers send a DNT header.",
+            "last_updated": "2023-07-11 10:03:59",
+            "point_link": "https://edit.tosdr.org/points/7645",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Some newer web browsers may have a \"Do Not Track\" preference that transmits a \"Do Not Track\" header to the websites you visit with information indicating that you do not want your activity to be tracked.\nMcDonald’s does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.\nWe continue to review new technologies and may adopt a standard once one is created.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Do Not Track (DNT) headers are ignored and you are tracked anyway even if you set this header.",
+                "href": "https://edit.tosdr.org/cases/233"
+            }
+        },
+        {
+            "title": "Third parties may be involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:24",
+            "point_link": "https://edit.tosdr.org/points/13429",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>McDonald’s and the restaurants use third party providers to securely store your payment card information and process your payments to restaurants.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        },
+        {
+            "title": "This service collects your IP address for location use",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:08:30",
+            "point_link": "https://edit.tosdr.org/points/13449",
+            "approval_status": "APPROVED",
+            "clause_text": "We may collect information about your:</p>\n<ul>\n<li>internet protocol (IP) address;",
+            "point_source": "https://www.mcdonalds.com/us/en-us/privacy.html",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Other applicable rules, terms, conditions or guidelines",
+            "rating": "neutral",
+            "description": "Use of the service is subject also to an exhaustive list of other documents containing rules, guidelines, terms or policies (in addition to the obvious Terms of Service/Terms of Use and Privacy Policy/Data Use Policy)",
+            "last_updated": "2023-07-11 10:03:26",
+            "point_link": "https://edit.tosdr.org/points/13544",
+            "approval_status": "APPROVED",
+            "clause_text": "When you opt in to any of our text message programs, you understand that such text message programs are separately governed by&nbsp;McDonald’s Text Messaging Program Terms &amp.\nConditions.",
+            "point_source": "https://www.mcdonalds.com/us/en-us/terms-and-conditions.html",
+            "case": {
+                "text": "Other applicable rules, terms, conditions or guidelines",
+                "href": "https://edit.tosdr.org/cases/144"
+            }
+        }
+    ]
+}

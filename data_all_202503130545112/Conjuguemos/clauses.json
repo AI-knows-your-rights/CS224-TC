@@ -1,0 +1,655 @@
+{
+    "meta_data": {
+        "title": "Conjuguemos - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "Logs are kept for an undefined period of time",
+            "rating": "bad",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that may keep logs indefinitely, allowing user sessions to be tracked over time. Logs that are kept for a time \"consistent with applicable law\" also fall under this case, since this period of time may be murky or undefined.",
+            "last_updated": "2023-07-11 06:32:41",
+            "point_link": "https://edit.tosdr.org/points/33998",
+            "approval_status": "APPROVED",
+            "clause_text": "Like most web-based services, we (or our service providers) may automatically receive and log information on our server logs from your browser or your device when you use the Service",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Logs are kept for an undefined period of time",
+                "href": "https://edit.tosdr.org/cases/178"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 06:32:41",
+            "point_link": "https://edit.tosdr.org/points/33999",
+            "approval_status": "APPROVED",
+            "clause_text": "While Conjuguemos does not sell/rent personal information, however, non-premium users will see ads that are served via third-party companies",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "Some personal data may be kept for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 06:32:41",
+            "point_link": "https://edit.tosdr.org/points/34000",
+            "approval_status": "APPROVED",
+            "clause_text": "We only keep a child's personal information for as long as his or her student account is active, unless we are required by law to retain it, need it to ensure the security of our community or our Service, or to enforce our Terms of Service",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Your account can be deleted without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 06:32:41",
+            "point_link": "https://edit.tosdr.org/points/34001",
+            "approval_status": "APPROVED",
+            "clause_text": "The Company may suspend or terminate your access to the Service or your account at any time, for any reason (without cause or for your violation of any term of this Agreement), at its sole discretion, and without warning or notice, which may result in the loss of information associated with your account",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "You have a reduced time period to take legal action against the service",
+            "rating": "bad",
+            "description": "If you wish to bring legal action against a service about a past incident, you may not be able to do so if the Terms you agreed to implied a limited amount of time. As a result it may be worthy to carefully read that section of the Terms to know exactly how much time you might have before your right to take legal action expires.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34010",
+            "approval_status": "APPROVED",
+            "clause_text": "IN THE TWELVE (12) MONTHS PRIOR TO THE EVENTS GIVING RISE TO THE CLAIM",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You have a reduced time period to take legal action against the service",
+                "href": "https://edit.tosdr.org/cases/151"
+            }
+        },
+        {
+            "title": "You are forced into binding arbitration in case of disputes",
+            "rating": "bad",
+            "description": "This service forces users to use their own contracted arbitrator and forces users to waive their rights to jury trial.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34007",
+            "approval_status": "APPROVED",
+            "clause_text": "(A) Generally: in the interest of resolving disputes between you and the Company in the most expedient and cost effective manner, you and the Company agree that any and all disputes arising in connection with these Terms of Service shall be resolved by binding arbitration",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You are forced into binding arbitration in case of disputes",
+                "href": "https://edit.tosdr.org/cases/339"
+            }
+        },
+        {
+            "title": "You are being tracked via social media cookies/pixels",
+            "rating": "bad",
+            "description": "These types of cookies/pixels send information to social media sites when you interact with the service.",
+            "last_updated": "2023-07-11 06:32:41",
+            "point_link": "https://edit.tosdr.org/points/34003",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service may now or in the future include social media features, such as the Facebook Like button, and the Twitter Tweet button.\nThese social media features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "You are being tracked via social media cookies/pixels",
+                "href": "https://edit.tosdr.org/cases/307"
+            }
+        },
+        {
+            "title": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+            "rating": "bad",
+            "description": "Tracking technologies (such as web beacons, tracking pixels...) are employed on users and/or the service assigns a unique ID to a browser or device to track its behaviour.",
+            "last_updated": "2023-07-11 06:32:41",
+            "point_link": "https://edit.tosdr.org/points/34004",
+            "approval_status": "APPROVED",
+            "clause_text": "We (or our service providers) may use various technologies to collect and store information when you visit our Service, including clear GIFs (also known as “web beacons”), “tags”, “scripts”",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "You are tracked via web beacons, tracking pixels, browser fingerprinting, and/or device fingerprinting",
+                "href": "https://edit.tosdr.org/cases/323"
+            }
+        },
+        {
+            "title": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+            "rating": "bad",
+            "description": "This case means that user data is not anywhere in the world, but somewhere where it is more likely to be obtained and used by government and/or possible data analysts.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34006",
+            "approval_status": "APPROVED",
+            "clause_text": "Hence, personal data we collect from you will be processed in the United States.</p>\n<p>The United States has not sought, nor received, a finding of “adequacy” from the European Union under Article 45 of the GDPR, and the Court of Justice of the European Union (CJEU) declared in its July 2020 Schrems II judgment the European Commission’s Privacy Shield Decision invalid on account of invasive U.S.\nsurveillance programs, making data transfers under the Privacy Shield Framework unlawful",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Your data is processed and stored in a country that is less friendly to user privacy protection",
+                "href": "https://edit.tosdr.org/cases/411"
+            }
+        },
+        {
+            "title": "You waive your right to a class action.",
+            "rating": "bad",
+            "description": "The right to be represented in a class action (or representative action) exists in the US and some European countries. It allows people who have been similarly injured by the same accused to take legal action by a single lawsuit instead of individually. Some Terms of Service try to limit that right. By agreeing to them, you could waive (= renounce to) your right to a class action, which might reduce your chances to be successful in a case.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34008",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>(F) No Class Actions: you and the Company agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You waive your right to a class action.",
+                "href": "https://edit.tosdr.org/cases/117"
+            }
+        },
+        {
+            "title": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+            "rating": "bad",
+            "description": "The data retention period states how long a service keeps user data. In this case, the service may anonymize the personal data after its retention period is over and use it for analytical or research purposes.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34011",
+            "approval_status": "APPROVED",
+            "clause_text": "We may retain and use de-identified data (i.e., data which has been stripped off of all information that can be used to identify a person) for purposes of research, improvement of our products and services, and/or the development of new products and services.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "The service may keep a secure, anonymized record of your data for analytical purposes even after the data retention period",
+                "href": "https://edit.tosdr.org/cases/304"
+            }
+        },
+        {
+            "title": "This service gives your personal data to third parties involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties essential to the service’s operation. This could be an external spam detection service for an internet forum.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34012",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not disclose any personal information about children to third parties, except to service providers necessary to provide the Service",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "This service gives your personal data to third parties involved in its operation",
+                "href": "https://edit.tosdr.org/cases/188"
+            }
+        },
+        {
+            "title": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34009",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>IN NO EVENT WILL CONJUGUEMOS OR ITS SUCCESSORS, AFFILIATES, CONTRACTORS, EMPLOYEES, LICENSORS, PARTNERS OR AGENTS, BE LIABLE TO YOU IN THE AGGREGATE (FOR ALL POTENTIAL CLAIMS BY YOU) FOR ANY DAMAGES INCURRED IN EXCESS OF THE GREATER OF ANY FEES YOU HAVE ACTUALLY PAID TO THE COMPANY FOR USE OF THE SERVICE",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "Any liability on behalf of the service is only limited to the fees you paid as a user",
+                "href": "https://edit.tosdr.org/cases/149"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34013",
+            "approval_status": "APPROVED",
+            "clause_text": "We collect, through our third-party analytics services",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34015",
+            "approval_status": "APPROVED",
+            "clause_text": "to request access to personal information held by Conjuguemos, and to have any incorrect, inaccurate or incomplete personal information rectified",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 06:32:47",
+            "point_link": "https://edit.tosdr.org/points/34014",
+            "approval_status": "APPROVED",
+            "clause_text": "Teachers can choose to have their students interact with the site without having students provide any PII.\nThis is done via the PLAY LIVE feature.\nWhen using the PLAY LIVE feature, students can access and use the Conjuguemos service without the need to create an account",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+            "rating": "good",
+            "description": "User accounts can be terminated for having been in breach of the terms of service repeatedly, meaning they cannot be terminated without a reason, but only for a limited number of reasons. Additionally, user accounts will not be deleted after a first infringement.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34016",
+            "approval_status": "APPROVED",
+            "clause_text": "If your account has been involved in serious rule-breaking, the account will be either suspended or banned indefinitely depending on the severity of the offense.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "User accounts can be terminated after having been in breach of the terms of service repeatedly",
+                "href": "https://edit.tosdr.org/cases/313"
+            }
+        },
+        {
+            "title": "Information is provided about how your personal data is used",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34018",
+            "approval_status": "APPROVED",
+            "clause_text": "how is it used",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "You will be notified if personal data has been affected by data breaches",
+            "rating": "good",
+            "description": "Should the personal information of a service be compromised, the service will inform users if any personal data has been affected by data breaches. This case is also related to privacy.",
+            "last_updated": "2023-07-11 06:32:47",
+            "point_link": "https://edit.tosdr.org/points/34019",
+            "approval_status": "APPROVED",
+            "clause_text": "Upon the discovery of a security breach that results in the unauthorized release, disclosure or acquisition of personal information, we will notify electronically, no later than forty-eight (48) hours of such discovery to all affected users, schools and districts so that you can take appropriate protective steps.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "You will be notified if personal data has been affected by data breaches",
+                "href": "https://edit.tosdr.org/cases/391"
+            }
+        },
+        {
+            "title": "Information is provided about what kind of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34017",
+            "approval_status": "APPROVED",
+            "clause_text": "What PII (Personal Identifiable Information) does Conjuguemos collect",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34020",
+            "approval_status": "APPROVED",
+            "clause_text": "First and foremost, you should know that Conjuguemos does not sell or rent any of your, or your students' personal information.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "This Service provides a list of Third Parties involved in its operation.",
+            "rating": "good",
+            "description": "The Service provides a list detailing the third parties involved, their roles, and may even provide more information.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34021",
+            "approval_status": "APPROVED",
+            "clause_text": "Below is a list of the service providers",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "This Service provides a list of Third Parties involved in its operation.",
+                "href": "https://edit.tosdr.org/cases/404"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:32:42",
+            "point_link": "https://edit.tosdr.org/points/34022",
+            "approval_status": "APPROVED",
+            "clause_text": "These companies (\"third-party service providers\", \"collaborators\" or \"agents\") will only have access to the information they need to provide the Conjuguemos service.</p>",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service claims to be GDPR compliant for European users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the GDPR.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34024",
+            "approval_status": "APPROVED",
+            "clause_text": "If we discover that we have collected information from a child in a manner inconsistent with COPPA, FERPA, GDPR, or any other applicable laws or regulations, we will take appropriate steps to delete the information.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "The service claims to be GDPR compliant for European users",
+                "href": "https://edit.tosdr.org/cases/481"
+            }
+        },
+        {
+            "title": "The service claims to be CCPA compliant for California users",
+            "rating": "good",
+            "description": "The service has a different behavior towards users protected by the California Consumer Privacy Act.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34023",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Regarding California AB 1584 (Buchanan) Privacy of Pupil Records: 3rd-Party Digital Storage &amp.\nEducation Software (Education Code section 49073.1), Conjuguemos will adhere to the following",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "The service claims to be CCPA compliant for California users",
+                "href": "https://edit.tosdr.org/cases/482"
+            }
+        },
+        {
+            "title": "The terms for this service are easy to read",
+            "rating": "good",
+            "description": "The Agreements are well-organised, define legal terms (where applicable), aren't needlessly long and may be pleasant to read.",
+            "last_updated": "2023-06-10 19:58:07",
+            "point_link": "https://edit.tosdr.org/points/34043",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "The terms for this service are easy to read",
+                "href": "https://edit.tosdr.org/cases/199"
+            }
+        },
+        {
+            "title": "You have the right to leave this service at any time",
+            "rating": "good",
+            "description": "You can stop using the service and/or cancel or delete your account at any time for any reason. Moreover, the termination is reasonably fast and simple.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34025",
+            "approval_status": "APPROVED",
+            "clause_text": "Remember, nonetheless, that you will be able to withdraw your consent at any time by deleting your account.\nYou can delete your account at any time by writing to support@conjuguemos.com and asking to have your account deleted.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "You have the right to leave this service at any time",
+                "href": "https://edit.tosdr.org/cases/170"
+            }
+        },
+        {
+            "title": "A free help desk is provided",
+            "rating": "good",
+            "description": "The service can be easily contacted for questions or provides a support center at no extra cost.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34026",
+            "approval_status": "APPROVED",
+            "clause_text": "If you have any questions or concerns about these Terms of Service or how we protect our community, please contact us at support@conjuguemos.com.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "A free help desk is provided",
+                "href": "https://edit.tosdr.org/cases/232"
+            }
+        },
+        {
+            "title": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+            "rating": "good",
+            "description": "Users agree not to publicly post personally identifiable information (name, postal address, contact information…) without the owner’s knowledge or consent",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34027",
+            "approval_status": "APPROVED",
+            "clause_text": "You will not collect, use or disclose data, including personal information, about other users without their consent or for unlawful purposes or in violation of applicable laws or regulations.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "The publishing of personally identifiable information without the owner’s consent is not allowed",
+                "href": "https://edit.tosdr.org/cases/444"
+            }
+        },
+        {
+            "title": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:30:30",
+            "point_link": "https://edit.tosdr.org/points/34040",
+            "approval_status": "APPROVED",
+            "clause_text": "You will indemnify, defend, and hold the Company, its parent companies, partners, subsidiaries, affiliates, officers, and employees not responsible for damages, losses, demands, liabilities, settlements, costs and expenses of any kind",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/146"
+            }
+        },
+        {
+            "title": "There is a date of the last update of the agreements",
+            "rating": "neutral",
+            "description": "The given text has a date that allows to know when it was last updated.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34039",
+            "approval_status": "APPROVED",
+            "clause_text": "Last updated",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "There is a date of the last update of the agreements",
+                "href": "https://edit.tosdr.org/cases/331"
+            }
+        },
+        {
+            "title": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+            "rating": "neutral",
+            "description": "The service may update the Terms without notice, but if they significantly change the agreements in a manner that importantly and/or negatively affects the way the service is used, users will be notified.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34041",
+            "approval_status": "APPROVED",
+            "clause_text": "You should check the Agreement regularly.\nWe will post notice of material changes to this Agreement on this page and/or send you written notice via email (using the email address you provided upon signing up for the Services and thereafter verified).",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You should revisit the terms periodically, although in case of material changes, the service will notify",
+                "href": "https://edit.tosdr.org/cases/329"
+            }
+        },
+        {
+            "title": "The service has a no refund policy",
+            "rating": "neutral",
+            "description": "Payments are final and can't be refunded unless required by law.",
+            "last_updated": "2024-07-04 17:37:36",
+            "point_link": "https://edit.tosdr.org/points/36297",
+            "approval_status": "APPROVED",
+            "clause_text": "To the extent permitted by the applicable law, payments are non-refundable and we do not provide refunds or credits for any partial-month membership periods.",
+            "point_source": null,
+            "case": {
+                "text": "The service has a no refund policy",
+                "href": "https://edit.tosdr.org/cases/162"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:32:46",
+            "point_link": "https://edit.tosdr.org/points/34028",
+            "approval_status": "APPROVED",
+            "clause_text": "The Service is available for your personal, non-commercial use.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "The service is provided 'as is' and to be used at your sole risk",
+            "rating": "neutral",
+            "description": "This service does not provide any guarantees as to its usability or fitness for the users' purposes. Users agree to use it at their own risk, accepting any possible bugs, malfunctions or harm to their devices.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34042",
+            "approval_status": "APPROVED",
+            "clause_text": "THE SERVICE (AND ANY ASSOCIATED CONTENT OR SOFTWARE) IS PROVIDED ON AN \"AS IS\" BASIS.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "The service is provided 'as is' and to be used at your sole risk",
+                "href": "https://edit.tosdr.org/cases/286"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34035",
+            "approval_status": "APPROVED",
+            "clause_text": "You will not post content that: is hate speech, discriminating",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "You agree not to submit libelous, harassing or threatening content",
+            "rating": "neutral",
+            "description": "This service prohibits users from submitting content of a variety of types. This can include content that is unlawful, harassing, abusive, threatening, libelous, sexist, racist, homophobic, transphobic, or discriminatory in any other way.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34034",
+            "approval_status": "APPROVED",
+            "clause_text": "is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You agree not to submit libelous, harassing or threatening content",
+                "href": "https://edit.tosdr.org/cases/283"
+            }
+        },
+        {
+            "title": "If you are the target of a copyright claim, your content may be removed",
+            "rating": "neutral",
+            "description": "The content you have published on the service may be removed if it infringes copyright.",
+            "last_updated": "2023-07-11 06:30:30",
+            "point_link": "https://edit.tosdr.org/points/34038",
+            "approval_status": "APPROVED",
+            "clause_text": "Conjuguemos may remove any allegedly infringing content without any liability to the infringing user.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "If you are the target of a copyright claim, your content may be removed",
+                "href": "https://edit.tosdr.org/cases/310"
+            }
+        },
+        {
+            "title": "Your account can be suspended for several reasons",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:47",
+            "point_link": "https://edit.tosdr.org/points/34029",
+            "approval_status": "APPROVED",
+            "clause_text": "We may add or remove functionalities or features, and we may suspend or stop a Service altogether if, for example, you do not comply with this Agreement or if we are investigating suspected misconduct.",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "Your account can be suspended for several reasons",
+                "href": "https://edit.tosdr.org/cases/205"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34036",
+            "approval_status": "APPROVED",
+            "clause_text": "pornographic or sexually explicit",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "First-party cookies are used",
+            "rating": "neutral",
+            "description": "First-party cookies only belong to the domain of the service and not a third party.",
+            "last_updated": "2023-07-11 06:32:40",
+            "point_link": "https://edit.tosdr.org/points/34005",
+            "approval_status": "APPROVED",
+            "clause_text": "“cookies”",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "First-party cookies are used",
+                "href": "https://edit.tosdr.org/cases/126"
+            }
+        },
+        {
+            "title": "Instructions are provided on how to submit a copyright claim",
+            "rating": "neutral",
+            "description": "If content that you own is copied or made accessible through the service in a way that constitutes an intellectual property right infringement, you can report it following the instructions given in the agreements.",
+            "last_updated": "2023-07-11 06:32:44",
+            "point_link": "https://edit.tosdr.org/points/34037",
+            "approval_status": "APPROVED",
+            "clause_text": "The fastest and simplest way to submit a copyright takedown notice is through the form attached to the bottom of this article from our Help Center .",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "Instructions are provided on how to submit a copyright claim",
+                "href": "https://edit.tosdr.org/cases/138"
+            }
+        },
+        {
+            "title": "You agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 06:31:50",
+            "point_link": "https://edit.tosdr.org/points/34033",
+            "approval_status": "APPROVED",
+            "clause_text": "You will only use the Service as permitted by law.</li>",
+            "point_source": "https://conjuguemos.com/terms",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34031",
+            "approval_status": "APPROVED",
+            "clause_text": "We may share aggregated, non-personally identifiable information publicly, including with users, partners or the press in order to, for example, demonstrate how Conjuguemos is used, spot industry trends, or to provide marketing materials for Conjuguemos.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "Your IP address is collected, which can be used to view your approximate location",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:30:30",
+            "point_link": "https://edit.tosdr.org/points/34030",
+            "approval_status": "APPROVED",
+            "clause_text": "IP Address",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Your IP address is collected, which can be used to view your approximate location",
+                "href": "https://edit.tosdr.org/cases/399"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:43",
+            "point_link": "https://edit.tosdr.org/points/34032",
+            "approval_status": "APPROVED",
+            "clause_text": "To best provide our services, and keep your information safe, we work with a few other companies.",
+            "point_source": "https://conjuguemos.com/privacy",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

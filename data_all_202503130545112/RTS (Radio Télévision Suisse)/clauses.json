@@ -1,0 +1,249 @@
+{
+    "meta_data": {
+        "title": "RTS (Radio Télévision Suisse) - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "You waive your moral rights",
+            "rating": "blocker",
+            "description": "Moral rights are rights to creators of literary, dramatic, musical and artistic works, as well as directors of films.\n\"The moral rights include the right of attribution, the right to have a work published anonymously or pseudonymously, and the right to the integrity of the work. The preserving of the integrity of the work allows the author to object to alteration, distortion, or mutilation of the work that is \"prejudicial to the author's honor or reputation\". Anything else that may detract from the artist's relationship with the work even after it leaves the artist's possession or ownership may bring these moral rights into play. Moral rights are distinct from any economic rights tied to copyrights. Even if an artist has assigned his or her copyright rights to a work to a third party, he or she still maintains the moral rights to the work.\" -Wikipedia\nIn general, any terms that use the exact words \"moral rights\" as rights that are waived will fall under this Case.",
+            "last_updated": "2023-07-11 04:47:31",
+            "point_link": "https://edit.tosdr.org/points/20104",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>L’utilisateur cède à la RTS, sans restriction aucune et sans limite de temps ni de lieu, tous les droits afférant aux messages textes, audios et vidéos ainsi qu’à tous autres contenus qu’il communique à la RTS, notamment les droits d’auteur, les droits voisins ainsi que les droits à l’image.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "You waive your moral rights",
+                "href": "https://edit.tosdr.org/cases/118"
+            }
+        },
+        {
+            "title": "Specific content can be deleted without reason and may be removed without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 04:47:31",
+            "point_link": "https://edit.tosdr.org/points/20103",
+            "approval_status": "APPROVED",
+            "clause_text": "Par conséquent, la RTS se réserve le droit, à sa seule et entière discrétion, de publier ou non tout message texte, audio ou vidéo ou autre contenu communiqué par l’utilisateur, de le modifier, de le conserver en ligne ou de le supprimer à tout moment sans avoir à en informer préalablement ou postérieurement l’utilisateur et sans que cela ne puisse donner lieu à de quelconques prétentions de quelque nature que ce soit à l’égard de la RTS.</p>",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "Terms may be changed any time at their discretion, without notice to you",
+            "rating": "bad",
+            "description": "The Agreements can be updated at any time, including in a way that negatively affects user rights, without notifying before or after the changes.",
+            "last_updated": "2023-07-11 04:47:28",
+            "point_link": "https://edit.tosdr.org/points/20095",
+            "approval_status": "APPROVED",
+            "clause_text": "La RTS se réserve le droit de modifier à tout moment et sans préavis les présentes conditions générales.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "Terms may be changed any time at their discretion, without notice to you",
+                "href": "https://edit.tosdr.org/cases/121"
+            }
+        },
+        {
+            "title": "User communications can be blocked or censored",
+            "rating": "bad",
+            "description": "The service reserves the right, for any or no reason, to refuse to post or reject user communications.",
+            "last_updated": "2023-07-11 04:47:28",
+            "point_link": "https://edit.tosdr.org/points/20102",
+            "approval_status": "APPROVED",
+            "clause_text": "Les forums, blogs, chats et autres rubriques similaires proposés sur les sites de la RTS sont modérés.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "User-generated content can be blocked or censored for any reason",
+                "href": "https://edit.tosdr.org/cases/379"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 04:47:32",
+            "point_link": "https://edit.tosdr.org/points/20109",
+            "approval_status": "APPROVED",
+            "clause_text": "<strong>1.&nbsp.\nDroit aux renseignements: </strong>l’utilisateur a le droit de demander au responsable du traitement quelles données personnelles le concernant sont traitées et si ces données sont transmises dans un pays tiers.</p>\n<p>\n<strong>2.&nbsp.\nDroit de rectification: </strong>l’utilisateur a le droit de demander au responsable du traitement la rectification de données personnelles incorrectes ou incomplètes le concernant.</p>\n<p>\n<strong>3.&nbsp.\nDroit d’effacement:</strong> l’utilisateur a le droit de demander au responsable du traitement d’effacer sans délai les données personnelles le concernant si celles-ci ne sont plus nécessaires aux fins pour lesquelles elles ont été collectées ou traitées et qu’aucune disposition légale n’interdise leur suppression.</p>\n<p>",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection (CH)",
+            "rating": "good",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction known for protecting citizens privacy with strong data regulations. Usually contributors will need to explain in the Analysis view of each point linked to this Case why the jurisdiction is friendly to user privacy protection.",
+            "last_updated": "2023-07-11 04:47:31",
+            "point_link": "https://edit.tosdr.org/points/20105",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Les présentes conditions générales sont soumises au droit suisse.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "The court of law governing the terms is in a jurisdiction that is friendlier to user privacy protection.",
+                "href": "https://edit.tosdr.org/cases/241"
+            }
+        },
+        {
+            "title": "No need to register",
+            "rating": "good",
+            "description": "This service can be used without providing a user profile.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20108",
+            "approval_status": "APPROVED",
+            "clause_text": "En principe, vous pouvez utiliser notre offre en ligne sans fournir vos données personnelles.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "No need to register",
+                "href": "https://edit.tosdr.org/cases/320"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20111",
+            "approval_status": "APPROVED",
+            "clause_text": "Droit d’opposition: </strong>l’utilisateur a le droit de s’opposer à tout moment au traitement des données personnelles le concernant, si ledit traitement repose sur un intérêt légitime du responsable du traitement ou d’un tiers ou est effectué à des fins de prospection.</p>\n<p>",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20110",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Pour exercer vos droits, veuillez-vous adresser à: <strong>protectiondesdonnees@rts.ch</strong>.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "Your personal data is not sold",
+            "rating": "good",
+            "description": "This service makes an explicit promise not to sell \"personal data\" of users.",
+            "last_updated": "2023-07-11 10:10:21",
+            "point_link": "https://edit.tosdr.org/points/20107",
+            "approval_status": "APPROVED",
+            "clause_text": "Nous ne vendons jamais les données.</em>",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "Your personal data is not sold",
+                "href": "https://edit.tosdr.org/cases/193"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20112",
+            "approval_status": "APPROVED",
+            "clause_text": "En règle générale, ces prestataires sont mandatés comme sous-traitants et tenus de respecter nos instructions lors du traitement des données personnelles des utilisateurs de notre offre en ligne.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20106",
+            "approval_status": "APPROVED",
+            "clause_text": "Par conséquent, la RTS ne peut être tenue responsable pour avoir proposé de tels liens hypertextes.\nEn outre, la RTS n’est en aucun cas responsable du contenu ou de l’existence des sites concernés, ni d’un quelconque dommage, direct ou indirect, subi par l’utilisateur du fait de la consultation et/ou de l’utilisation d’un site tiers accessible à partir des sites de la RTS",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 04:47:28",
+            "point_link": "https://edit.tosdr.org/points/20096",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Les sites de la RTS ne peuvent être utilisés, notamment dans le cadre de l’écoute et du visionnement en direct ou à la demande des émissions, que pour un usage strictement privé et non commercial.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 04:47:31",
+            "point_link": "https://edit.tosdr.org/points/20101",
+            "approval_status": "APPROVED",
+            "clause_text": "incitant à la discrimination, à la haine, à la violence, ou&nbsp;à commettre un crime ou un délit ou à consommer des substances illicites;",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "The posting of pornographic content is prohibited",
+            "rating": "neutral",
+            "description": "Users are not allowed to post any content of pornographic nature. This includes adult content, things that are sexually explicit, or obscene.",
+            "last_updated": "2023-07-11 04:47:28",
+            "point_link": "https://edit.tosdr.org/points/20100",
+            "approval_status": "APPROVED",
+            "clause_text": "obscènes, pornographiques, pédophiles,",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "The posting of pornographic content is prohibited",
+                "href": "https://edit.tosdr.org/cases/315"
+            }
+        },
+        {
+            "title": "You must report to the service any unauthorized use of your account or any breach of security",
+            "rating": "neutral",
+            "description": "The service asks the user to notify them immediately of any unauthorized use or security breaches.",
+            "last_updated": "2023-07-11 04:47:32",
+            "point_link": "https://edit.tosdr.org/points/20097",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>L’utilisateur s’engage à informer immédiatement la RTS de toute utilisation non autorisée de ses paramètres d’accès.</p>",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html",
+            "case": {
+                "text": "You must report to the service any unauthorized use of your account or any breach of security",
+                "href": "https://edit.tosdr.org/cases/484"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 04:47:29",
+            "point_link": "https://edit.tosdr.org/points/20113",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Nous faisons appel à des prestataires pour le traitement de données.",
+            "point_source": "https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

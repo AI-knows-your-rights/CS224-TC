@@ -1,0 +1,291 @@
+{
+    "meta_data": {
+        "title": "NewPipe - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "This service does not track you",
+            "rating": "good",
+            "description": "The document excerpt needs to include the words \"[the service] does not track [users]\" or \"[the service] does not use any tracking technology\".",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/17733",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not install cookies on your system, and we do not track our users.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "You are not being tracked",
+                "href": "https://edit.tosdr.org/cases/218"
+            }
+        },
+        {
+            "title": "Features of the website are made available under a free software license",
+            "rating": "good",
+            "description": "This case applies to services under licenses that are free as in \"freedom\". According to the Free Software Foundation, \"free software is the software that grants the user the freedom to share, study, and modify it\". Furthermore, the code is entirely open source and may be used without any restriction, including for commercial purposes.",
+            "last_updated": "2023-07-11 06:33:33",
+            "point_link": "https://edit.tosdr.org/points/17731",
+            "approval_status": "APPROVED",
+            "clause_text": "The fonts are licensed under the terms of the SIL Open Font License.</p>\n<p>The source code (CSS files etc.) is licensed under the terms of the MIT\nlicense.</p>\n<p>The details can be found on the Font Awesome homepage.</p>\n<p>You can fetch a copy of these licenses from the \"licenses\" directory\ninside this repository as well as from the\nSIL homepage and the\nOpen Source Initiative's\nhomepage.</p>",
+            "point_source": "https://newpipe.net/legal/license/",
+            "case": {
+                "text": "Features of the website are made available under a free software license",
+                "href": "https://edit.tosdr.org/cases/171"
+            }
+        },
+        {
+            "title": "Content is published under a free license instead of a bilateral one",
+            "rating": "good",
+            "description": "User-generated content, such as posts or comments, is published under a free license, meaning other users can reuse it (e.g. Creative Commons license).",
+            "last_updated": "2023-07-11 10:13:26",
+            "point_link": "https://edit.tosdr.org/points/17730",
+            "approval_status": "APPROVED",
+            "clause_text": "The contents of this site, except for third-party resources or where noted\notherwise, are licensed under the terms of the Creative Commons\nAttribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).",
+            "point_source": "https://newpipe.net/legal/license/",
+            "case": {
+                "text": "Content is published under a free license instead of a bilateral one",
+                "href": "https://edit.tosdr.org/cases/131"
+            }
+        },
+        {
+            "title": "User logs are deleted after a finite period of time",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that periodically delete their logs to prevent user sessions being tracked over time.",
+            "last_updated": "2023-07-11 10:13:48",
+            "point_link": "https://edit.tosdr.org/points/17742",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data such as the IP address are only processed for the purpose of serving the pages by our webserver software, and are deleted from the memory immediately after the page has been sent to the user.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Logs are deleted after a finite period of time",
+                "href": "https://edit.tosdr.org/cases/177"
+            }
+        },
+        {
+            "title": "Your personal data is used for limited purposes",
+            "rating": "good",
+            "description": "Your Personal Data is only used for the essential purposes of the Service, which are clearly defined on the Agreements. For instance, the Service won't abuse your data to deliver targeted advertisements to you or for marketing purposes.",
+            "last_updated": "2023-07-11 06:33:04",
+            "point_link": "https://edit.tosdr.org/points/17747",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In many cases, due to our philosophy, the data is highly anonymized.\nIf your data is, and we think it should be, anonymized so that we cannot associate with any user, we can most likely not delete it from our system.\nIn these cases, however, no personal data is collected.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Your personal data is used for limited purposes",
+                "href": "https://edit.tosdr.org/cases/196"
+            }
+        },
+        {
+            "title": "Users can access most of the pages on the service's website without revealing any personal information",
+            "rating": "good",
+            "description": "The service does not require users to reveal personal information for most of its website. However, it may still collect anonymous logs.",
+            "last_updated": "2023-07-11 10:09:07",
+            "point_link": "https://edit.tosdr.org/points/17732",
+            "approval_status": "APPROVED",
+            "clause_text": "We do not collect any personal data of visitors of the NewPipe website.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "You can access most of the pages on the service's website without revealing any personal information",
+                "href": "https://edit.tosdr.org/cases/298"
+            }
+        },
+        {
+            "title": "Only necessary user logs are kept by the service to ensure quality",
+            "rating": "good",
+            "description": "Logs are text files containing some information about web visitors, such as user agents (showing for instance that you're connecting from Firefox for Android) and ip addresses (which reveal your approximate location). This case applies to Services that only keep the strictly necessary logs on their servers and therefore protect your privacy.",
+            "last_updated": "2023-07-11 10:13:48",
+            "point_link": "https://edit.tosdr.org/points/17735",
+            "approval_status": "APPROVED",
+            "clause_text": "Personal data such as the IP address are only processed for the purpose of serving the pages by our webserver software, and are deleted from the memory immediately after the page has been sent to the user.</p>\nServer logs\n<p>To have a minimum of control in scenarios where our website is abused, for example denial-of-service attacks, we configured our webserver to create a so-called acces log.\nThis log file contains a list of all requests made to this server, each request in a separate line.</p>\n<p>The logged lines contain the following information:</p>\n<ul>\n<li>the IP address that was used to make the request</li>\n<li>a timestamp</li>\n<li>the URL</li>\n<li>the HTTP status code</li>\n<li>the user agent the user‘s browser sends automatically</li>\n</ul>\n<p>We need to keep logs of the IP addresses sending requests to our server.\nAs IP addresses are considered personal data and we respect the privacy of our users, we only keep enough of the IP address to be able to able to react to abuse (e.g., DoS and other attacks).<br>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Only necessary logs are kept by the service to ensure quality",
+                "href": "https://edit.tosdr.org/cases/176"
+            }
+        },
+        {
+            "title": "The service does not share user information with third parties",
+            "rating": "good",
+            "description": "Information collected from users by this service is not given to third parties.",
+            "last_updated": "2023-07-11 10:13:11",
+            "point_link": "https://edit.tosdr.org/points/17740",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>The data is processed and stored only for the purposes described above.\nWe will not share any of the data with third parties.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Your personal data is not shared with third parties",
+                "href": "https://edit.tosdr.org/cases/311"
+            }
+        },
+        {
+            "title": "You can request access, correction and/or deletion of your data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 10:13:41",
+            "point_link": "https://edit.tosdr.org/points/17738",
+            "approval_status": "APPROVED",
+            "clause_text": "Every user has the right to request the correction or completion (GDPR Art.\n16) or deletion (GDPR Art.\n17) or restriction of use (GDPR Art.\n18) of the data sent to us at any time.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "IP addresses of website visitors are not tracked",
+            "rating": "good",
+            "description": "The Service disclaims that IP adresses from users are not collected (or anonymized) nor shared.",
+            "last_updated": "2023-07-11 10:13:27",
+            "point_link": "https://edit.tosdr.org/points/17734",
+            "approval_status": "APPROVED",
+            "clause_text": "We calculate prefixes of the IP addresses to anonymize them as follows:</p>\n<ul>\n<li>For IPv4 addresses, we remove the last two bytes to anonymize them.\nFor example, an IP address such as <code>12.34.56.78</code> would be logged as <code>12.34.0.0</code>.</li>\n<li>For IPv6 addresses, we remove all bytes but the first two.\nFor example, an IP address such as <code>2001:db8:85a3:8d3:1319:8a2e:370:7344</code> would be logged as <code>2001:db8:0:0:0:0:0:0</code> (short <code>2001:0db8::</code>).</li>\n</ul>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "IP addresses of website visitors are not tracked",
+                "href": "https://edit.tosdr.org/cases/192"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2021-03-25 10:11:15",
+            "point_link": "https://edit.tosdr.org/points/17748",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "The service informs users about the risk of publishing personal info online",
+            "rating": "good",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:46",
+            "point_link": "https://edit.tosdr.org/points/17737",
+            "approval_status": "APPROVED",
+            "clause_text": "Due to the amount of bug reports we receive every day (varies from a few hundred to a few thousand e-mails every week), we can not check every report for personal data by hand.\nWe ask you to ensure you don't send us any personal data you don't want to share with us.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "You are informed about the risk of publishing personal info online",
+                "href": "https://edit.tosdr.org/cases/231"
+            }
+        },
+        {
+            "title": "The service provides details about what kinds of information they collect",
+            "rating": "good",
+            "description": "The Privacy Policy describes in detail the data collected through the website and through the services provided.",
+            "last_updated": "2023-07-11 10:05:46",
+            "point_link": "https://edit.tosdr.org/points/17749",
+            "approval_status": "APPROVED",
+            "clause_text": "The following document fulfills the requirements of the GDPR Articles 13 and 14, and informs you about the collection and processing of personal data within our project.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Information is provided about what kind of information they collect",
+                "href": "https://edit.tosdr.org/cases/228"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 10:04:28",
+            "point_link": "https://edit.tosdr.org/points/17744",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>According to GDPR Art.\n77, you may, at any time, file a complaint about our data processing at your local data protection officer.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "The service does not use third-party analytics or tracking platforms",
+            "rating": "good",
+            "description": "There are no Google Analytics or other tracking codes embedded in the service. Any tracking is performed by the service itself.",
+            "last_updated": "2021-03-25 10:11:32",
+            "point_link": "https://edit.tosdr.org/points/17746",
+            "approval_status": "APPROVED",
+            "clause_text": null,
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "No third-party analytics or tracking platforms are used",
+                "href": "https://edit.tosdr.org/cases/381"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 10:13:14",
+            "point_link": "https://edit.tosdr.org/points/17736",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Users have the ability to leave comments themselves.\nWe use the excellent isso software to provide this feature.</p>\n<p>If a user sends a comment, the following data is collected:</p>\n<ul>\n<li>mandatory data:\n<ul>\n<li>a name (can, but does not have to be a user's real name), allowing users to let others (including the NewPipe project) identify them, for example on other services, such as GitHub.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "The user is informed about security practices",
+            "rating": "good",
+            "description": "It's important to know what security measures are taken to protect your data from unauthorized access. This case applies to the Agreements that precisely explain their security practices.",
+            "last_updated": "2023-07-11 10:13:48",
+            "point_link": "https://edit.tosdr.org/points/17739",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>All data is stored on a dedicated server administrated by the NewPipe project.\nNeither the hosting provider nor any other third party does have any access to the data, as it is stored encryptedly on the hard disks using so-called full-disk encryption.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Information is provided about security practices",
+                "href": "https://edit.tosdr.org/cases/226"
+            }
+        },
+        {
+            "title": "Your personal data is aggregated into statistics",
+            "rating": "neutral",
+            "description": "Your personal data is used for statistics in a de-identified/aggregated form (i.e. not directly linked to a unique identity) to analyse trends, for research and for analytics.",
+            "last_updated": "2023-07-11 10:13:14",
+            "point_link": "https://edit.tosdr.org/points/17741",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>In many cases, due to our philosophy, the data is highly anonymized.",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Your personal data is aggregated into statistics",
+                "href": "https://edit.tosdr.org/cases/190"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in Germany",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 10:13:20",
+            "point_link": "https://edit.tosdr.org/points/17745",
+            "approval_status": "APPROVED",
+            "clause_text": "All data is stored in a German datacenter, and therefore the data is subject to German law as well as EU law.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "Third parties are involved in operating the service",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:13:20",
+            "point_link": "https://edit.tosdr.org/points/17743",
+            "approval_status": "APPROVED",
+            "clause_text": "Data collection and processing by Sentry, our bug report tracking system\n<p>We maintain an instance of Sentry, a bug tracking and aggregation system, in order to process user-provided bug reports including crash logs and messages.</p>",
+            "point_source": "https://newpipe.net/legal/privacy/",
+            "case": {
+                "text": "Third parties are involved in operating the service",
+                "href": "https://edit.tosdr.org/cases/207"
+            }
+        }
+    ]
+}

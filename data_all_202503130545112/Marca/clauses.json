@@ -1,0 +1,571 @@
+{
+    "meta_data": {
+        "title": "Marca - ToS;DR",
+        "meta": {
+            "charset": "UTF-8",
+            "viewport": "width=device-width,initial-scale=1"
+        }
+    },
+    "clauses": [
+        {
+            "title": "The service can delete specific content without reason and may do it without prior notice",
+            "rating": "blocker",
+            "description": "This service can delete specific content. Usually they will claim they reserve the right to do it at their sole discretion, which is legalese for saying they won't give a specific reason. If the terms say they will not notify you, it shall be included in the quote but if it does not explicitly say they will give you a notice, it can be reasonably inferred that they can do it without telling you.",
+            "last_updated": "2023-07-11 06:32:59",
+            "point_link": "https://edit.tosdr.org/points/16366",
+            "approval_status": "APPROVED",
+            "clause_text": "El Sitio Web se reserva el derecho de suprimir, por cualquier razón y sin previo aviso, cualquier información o contenido generado en los espacios de participación.</p>\n<p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "Specific content can be deleted without reason and may be removed without prior notice",
+                "href": "https://edit.tosdr.org/cases/202"
+            }
+        },
+        {
+            "title": "This service may keep personal data after a request for erasure for business interests or legal obligations",
+            "rating": "bad",
+            "description": "After the end of the data retention period and/or if you request the deletion of your data, they may still keep it for business interests (fraud detection, transactions...) or legal obligations (tax, legal reporting...)",
+            "last_updated": "2023-07-11 10:04:43",
+            "point_link": "https://edit.tosdr.org/points/16386",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Una vez finalizada su relación con los Universos de Unidad Editorial, es posible que conservemos algunos de sus Datos Personales mientras sea necesario para cumplir con nuestras obligaciones legales o reglamentarias, derivadas de la relación contractual establecida entre el usuario y la sociedad así como para atender eventuales responsabilidades nacidas de su tratamiento.</p>",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "Some personal data may be kept for business interests or legal obligations",
+                "href": "https://edit.tosdr.org/cases/333"
+            }
+        },
+        {
+            "title": "Tracking via third-party cookies for purposes including advertising",
+            "rating": "bad",
+            "description": "The service's website sets third-party cookies (cookies that do not belong to their domain) for purposes not including statistics and analytics.",
+            "last_updated": "2023-07-11 10:04:39",
+            "point_link": "https://edit.tosdr.org/points/16393",
+            "approval_status": "APPROVED",
+            "clause_text": "Análisis para la personalización de anuncios <p>La recopilación de información y combinación con información recopilada previamente, para seleccionar y entregar anuncios, y para medir la entrega y la efectividad de dichos anuncios.\nEsto incluye el uso de información recopilada previamente sobre los intereses de los usuarios para seleccionar anuncios, procesar datos sobre qué publicidades se mostraron, con qué frecuencia se mostraron, cuándo y dónde se mostraron y si tomaron alguna medida relacionada con el anuncio, incluyendo, por ejemplo, hacer clic en un anuncio o hacer una compra.</p>",
+            "point_source": "http://cookies.unidadeditorial.es",
+            "case": {
+                "text": "Third-party cookies are used for advertising",
+                "href": "https://edit.tosdr.org/cases/128"
+            }
+        },
+        {
+            "title": "This service shares your personal data with third parties that are not involved in its operation",
+            "rating": "bad",
+            "description": "Your personal data is or may be given to third parties nonessential to the service’s operation. This could be a business partner that receives your data to provide targeted advertisements.",
+            "last_updated": "2023-07-11 10:04:44",
+            "point_link": "https://edit.tosdr.org/points/16383",
+            "approval_status": "APPROVED",
+            "clause_text": "Marca shares personal data with third parties that aren't essential to provide the services, such as marketing partners.",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "This service shares your personal data with third parties that are not essential to its operation",
+                "href": "https://edit.tosdr.org/cases/166"
+            }
+        },
+        {
+            "title": "The service can delete your account without prior notice and without a reason",
+            "rating": "bad",
+            "description": "At any time, your account can be terminated without explanation and without warning by the service.",
+            "last_updated": "2023-07-11 10:04:55",
+            "point_link": "https://edit.tosdr.org/points/16362",
+            "approval_status": "APPROVED",
+            "clause_text": "UNIDAD EDITORIAL se reserva el derecho de cursar la baja inmediata del Usuario Registrado si considera, a su sola discreción, que el Usuario Registrado está realizando cualquier actividad que constituya o pueda constituir un incumplimiento de estas Condiciones Generales.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "Your account can be deleted or permanently suspended without prior notice and without a reason",
+                "href": "https://edit.tosdr.org/cases/201"
+            }
+        },
+        {
+            "title": "Service can block or censor user communications",
+            "rating": "bad",
+            "description": "The service reserves the right, for any or no reason, to refuse to post or reject user communications.",
+            "last_updated": "2023-07-11 06:33:00",
+            "point_link": "https://edit.tosdr.org/points/16368",
+            "approval_status": "APPROVED",
+            "clause_text": "UNIDAD EDITORIAL se reserva la facultad de decidir la divulgación o publicación de los contenidos enviados por el Usuario.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "User-generated content can be blocked or censored for any reason",
+                "href": "https://edit.tosdr.org/cases/379"
+            }
+        },
+        {
+            "title": "This service may use your personal information for marketing purposes",
+            "rating": "bad",
+            "description": "The service may use your personal data for marketing, such as sending you personalised offerings.",
+            "last_updated": "2023-07-11 10:04:54",
+            "point_link": "https://edit.tosdr.org/points/16381",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>ii.\nLa realización de acciones comerciales personalizadas -mediante la elaboración de un perfil comercial por parte de Unidad Editorial, S.A.\nen base a la información facilitada en cualquier Universo de Unidad Editorial en el que se haya registrado como se describe en esta Política de Privacidad- por medios electrónicos o no, sobre productos, servicios y contenidos de distintos sectores* (descritos a continuación) ofrecidos (i) en esta página web, (ii) en el Universo Unidad Editorial.\ny/o (iii) por terceros.</p>",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "Your personal data may be used for marketing purposes",
+                "href": "https://edit.tosdr.org/cases/336"
+            }
+        },
+        {
+            "title": "This service can license user content to third parties",
+            "rating": "bad",
+            "description": "By posting content through the Services, users grant them a transferable and/or sublicensable right, which allows user content to be licensed to third parties.",
+            "last_updated": "2023-07-11 10:04:54",
+            "point_link": "https://edit.tosdr.org/points/16370",
+            "approval_status": "APPROVED",
+            "clause_text": "\"El Usuario cede a título gratuito a UNIDAD EDITORIAL, sin carácter de exclusiva, los derechos de reproducción, distribución, transformación y comunicación pública, en todas las posibles modalidades, en relación a los contenidos enviados [...] .La citada cesión se realiza para todo el mundo , por la duración máxima actualmente prevista en la ley de propiedad intelectual y con expresa facultad de cesión a terceros.\"",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "Your content can be licensed to third parties",
+                "href": "https://edit.tosdr.org/cases/134"
+            }
+        },
+        {
+            "title": "This service assumes no liability for unauthorized access to your personal information",
+            "rating": "bad",
+            "description": null,
+            "last_updated": "2023-07-11 06:32:52",
+            "point_link": "https://edit.tosdr.org/points/16359",
+            "approval_status": "APPROVED",
+            "clause_text": "En virtud de lo anterior, es obligación del Usuario notificar de forma inmediata a Marca.com cualquier hecho que permita el uso indebido de los identificadores y/o contraseñas, tales como el robo, extravío, o el acceso no autorizado a los mismos, con el fin de proceder a su inmediata cancelación.\nMientras no se comuniquen tales hechos, UNIDAD EDITORIAL quedará eximida de cualquier responsabilidad que pudiera derivarse del uso indebido de los identificadores o contraseñas por terceros no autorizados.\n</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "This service assumes no liability for unauthorized access to your personal information",
+                "href": "https://edit.tosdr.org/cases/186"
+            }
+        },
+        {
+            "title": "The service uses your personal data for advertising",
+            "rating": "bad",
+            "description": "Your interaction with the service and data you have shared with them may be gathered to create an advertising ID or profile to target ads on you, either on the website you were visiting or in third party websites.",
+            "last_updated": "2023-07-11 10:04:48",
+            "point_link": "https://edit.tosdr.org/points/16382",
+            "approval_status": "APPROVED",
+            "clause_text": "vi.\nAnálisis de las necesidades, gustos y preferencias del usuario de los Universos en los que se haya registrado para la elaboración de un perfil comercial en base a la información facilitada en cualquier Universo de Unidad Editorial en el que se haya registrado.\nEsté perfil será utilizado por Unidad Editorial Información Deportiva, S.L.U.\npara la realización de acciones comerciales personalizadas tal y como se describe en el apartado 1 de esta Política de Privacidad.</p>",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "Your personal data is used for advertising",
+                "href": "https://edit.tosdr.org/cases/216"
+            }
+        },
+        {
+            "title": "Third-party cookies are used for statistics",
+            "rating": "bad",
+            "description": "For instance, Google Analytics, rather than self-hosted (first-party) statistics software.",
+            "last_updated": "2023-07-11 06:33:27",
+            "point_link": "https://edit.tosdr.org/points/16394",
+            "approval_status": "APPROVED",
+            "clause_text": "Although third-party cookies aren't clearly mentioned, trackers are used for analytics and the information collected is shared with third parties.",
+            "point_source": "http://cookies.unidadeditorial.es",
+            "case": {
+                "text": "Third-party cookies are used for statistics",
+                "href": "https://edit.tosdr.org/cases/325"
+            }
+        },
+        {
+            "title": "You can request access and deletion of personal data",
+            "rating": "good",
+            "description": "Users have the right to access personal data hold by the Service, correct it and/or permanently delete it. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:35:11",
+            "point_link": "https://edit.tosdr.org/points/16387",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Los usuarios podrán ejercitar los derechos de acceso, rectificación, supresión,",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "You can request access, correction and/or deletion of your data",
+                "href": "https://edit.tosdr.org/cases/195"
+            }
+        },
+        {
+            "title": "Tracking cookies refused will not limit your ability to use the service",
+            "rating": "good",
+            "description": "Blocking tracking technologies will not negatively impact your use of the service.",
+            "last_updated": "2023-07-11 06:35:13",
+            "point_link": "https://edit.tosdr.org/points/16395",
+            "approval_status": "APPROVED",
+            "clause_text": "Puede desactivar las cookies analíticas, publicitarias y comportamentales sin que afecte al funcionamiento del sitio web.",
+            "point_source": "http://cookies.unidadeditorial.es",
+            "case": {
+                "text": "Tracking cookies refused will not limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/385"
+            }
+        },
+        {
+            "title": "The service's data retention period is kept to the minimum necessary for fulfilling its purposes",
+            "rating": "good",
+            "description": "The service will remove personal data from its systems once it is no longer required. Depending on the type of information and the reason it was collected, data retention periods will vary.",
+            "last_updated": "2023-07-11 06:35:10",
+            "point_link": "https://edit.tosdr.org/points/16385",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Sus datos se conservarán mientras exista un interés mutuo en mantener el Registro Único, o mientras usted no ejerza su derecho de supresión, oposición o limitación del tratamiento.",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "The data retention period is kept to the minimum necessary for fulfilling its purposes",
+                "href": "https://edit.tosdr.org/cases/303"
+            }
+        },
+        {
+            "title": "You can limit how your information is used by third-parties and the service",
+            "rating": "good",
+            "description": "Usually it's related to the right to object to data processing or restrict it under the GDPR. Users may be able to refuse the use of their data for marketing purposes for instance.",
+            "last_updated": "2023-07-11 06:33:25",
+            "point_link": "https://edit.tosdr.org/points/16388",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Los usuarios podrán ejercitar los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de los datos (\"Derechos de los interesados\") siguiendo las indicaciones que se detallan a continuación:\"",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "You can limit how your information is used by third-parties and the service",
+                "href": "https://edit.tosdr.org/cases/338"
+            }
+        },
+        {
+            "title": "This service allows you to retrieve an archive of your data",
+            "rating": "good",
+            "description": "Users can request a copy of the data collected through the services and infer from it the amount of personal information that is processed and stored by the Service. This usually applies to Services GDPR compliants.",
+            "last_updated": "2023-07-11 06:35:09",
+            "point_link": "https://edit.tosdr.org/points/16389",
+            "approval_status": "APPROVED",
+            "clause_text": "\"Los usuarios podrán ejercitar los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de los datos (\"Derechos de los interesados\") siguiendo las indicaciones que se detallan a continuación:\"",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "You can retrieve an archive of your data",
+                "href": "https://edit.tosdr.org/cases/140"
+            }
+        },
+        {
+            "title": "The service provides information about how they intend to use your personal data",
+            "rating": "good",
+            "description": "The Privacy Policy explains the purposes for which data is collected and the way it is processed, used and shared.",
+            "last_updated": "2023-07-11 06:33:19",
+            "point_link": "https://edit.tosdr.org/points/16380",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>A continuación se indican las finalidades para las que esta sociedad tratará sus Datos Personales, así como la base jurídica que legitima el tratamiento para cada una de las referidas finalidades:</p>",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "Information is provided about how your personal data is used",
+                "href": "https://edit.tosdr.org/cases/227"
+            }
+        },
+        {
+            "title": "A complaint mechanism is provided for the handling of personal data",
+            "rating": "good",
+            "description": "The service provides users with contact information for an internal or external structure to lodge complaints. It also provides users with contact information for a higher data protection / privacy office in case the internal mechanism fails to satisfy the user.",
+            "last_updated": "2023-07-11 06:33:25",
+            "point_link": "https://edit.tosdr.org/points/16391",
+            "approval_status": "APPROVED",
+            "clause_text": "<p>Asimismo, si considera que no ha obtenido satisfacción en el ejercicio de sus derechos ante los responsables de los Datos Personales, puede contactar con nuestro Delegado de Protección de datos a través del mail dpo@unidadeditorial.es y/o presentar una reclamación ante la Agencia Española de Protección de Datos a través de su página web www.agpd.es.</p>",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "A complaint mechanism is provided for the handling of personal data",
+                "href": "https://edit.tosdr.org/cases/300"
+            }
+        },
+        {
+            "title": "You can opt out of targeted advertising",
+            "rating": "good",
+            "description": "The service employs your data to target ads to you, but you can opt-out of this interest-based advertising.",
+            "last_updated": "2023-07-11 06:33:25",
+            "point_link": "https://edit.tosdr.org/points/16390",
+            "approval_status": "APPROVED",
+            "clause_text": "Asimismo, puede modificar sus preferencias de publicidad en su cuenta.</p>",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "You can opt out of targeted advertising",
+                "href": "https://edit.tosdr.org/cases/219"
+            }
+        },
+        {
+            "title": "The service allows you to use pseudonyms",
+            "rating": "good",
+            "description": "You don't need to provide your full name to use the Service and you are allowed to use a pseudonym instead.",
+            "last_updated": "2023-07-11 06:35:17",
+            "point_link": "https://edit.tosdr.org/points/16363",
+            "approval_status": "APPROVED",
+            "clause_text": "Por medio de estas herramientas y espacios el Usuario Registrado podrá disponer de un espacio propio, llamado Perfil, que le identificará bajo su nombre real o su identificador de Usuario (\"Nick\"), asociado a la cuenta de Usuario.",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "Pseudonyms are allowed",
+                "href": "https://edit.tosdr.org/cases/215"
+            }
+        },
+        {
+            "title": "Third parties used by the service are bound by confidentiality obligations",
+            "rating": "good",
+            "description": "The Third Parties accessing your personal information must keep it confidential and only use it for limited purposes.",
+            "last_updated": "2023-07-11 06:33:23",
+            "point_link": "https://edit.tosdr.org/points/16384",
+            "approval_status": "APPROVED",
+            "clause_text": "En estos casos, nos aseguramos que dichos terceros cumplen con la normativa sobre protección de datos de carácter personal.</p>\n<p>No se comunicarán datos a otros terceros, salvo obligación legal.",
+            "point_source": "https://www.marca.com/corporativo/politica_privacidad.html",
+            "case": {
+                "text": "Third parties used by the service are bound by confidentiality obligations",
+                "href": "https://edit.tosdr.org/cases/210"
+            }
+        },
+        {
+            "title": "The service has non-exclusive use of your content",
+            "rating": "good",
+            "description": "The service can pay for your content and you are allowed to make it commercially available to other services/parties.",
+            "last_updated": "2023-07-11 10:03:45",
+            "point_link": "https://edit.tosdr.org/points/16369",
+            "approval_status": "APPROVED",
+            "clause_text": "\"El Usuario cede a título gratuito a UNIDAD EDITORIAL, sin carácter de exclusiva, los derechos de reproducción, distribución, transformación y comunicación pública, en todas las posibles modalidades, en relación a los contenidos enviados\"",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "The service has non-exclusive use of your content",
+                "href": "https://edit.tosdr.org/cases/402"
+            }
+        },
+        {
+            "title": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/16374",
+            "approval_status": "APPROVED",
+            "clause_text": "UNIDAD EDITORIAL no garantiza la licitud, fiabilidad y utilidad de los servicios prestados por terceros a través del Sitio Web o sobre los que UNIDAD EDITORIAL únicamente actúe como medio cauce publicitario o prestador de servicio de intermediación.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "The service is not responsible for linked or (clearly) quoted content from third-party content providers",
+                "href": "https://edit.tosdr.org/cases/278"
+            }
+        },
+        {
+            "title": "This service assumes no responsibility and liability for the contents of links to other websites",
+            "rating": "neutral",
+            "description": "The service rejects any responsibility for the contents of other websites to which it links.",
+            "last_updated": "2023-07-11 10:03:33",
+            "point_link": "https://edit.tosdr.org/points/16373",
+            "approval_status": "APPROVED",
+            "clause_text": "En el Sitio Web, el Usuario podrá encontrar enlaces a otras páginas web mediante diferentes botones, links, banners, etc., los cuales son gestionados por terceros.\nUNIDAD EDITORIAL no asume ningún tipo de responsabilidad por cualquier aspecto relativo a la página web enlazada.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "This service assumes no responsibility and liability for the contents of links to other websites",
+                "href": "https://edit.tosdr.org/cases/279"
+            }
+        },
+        {
+            "title": "Blocking first party cookies may limit your ability to use the service",
+            "rating": "neutral",
+            "description": "Most browsers allow users to set preferences related to cookies storage. You may choose to block all cookies (including first-party cookies), but it may impact your use of this service and you may not be able to access some or any of the features provided.",
+            "last_updated": "2023-07-11 06:35:12",
+            "point_link": "https://edit.tosdr.org/points/16392",
+            "approval_status": "APPROVED",
+            "clause_text": "Estrictamente necesarias para la prestación de determinados servicios solicitados expresamente por el usuario: si se desactivan estas cookies, no podrá recibir correctamente nuestros contenidos y servicios.",
+            "point_source": "http://cookies.unidadeditorial.es",
+            "case": {
+                "text": "Blocking first party cookies may limit your ability to use the service",
+                "href": "https://edit.tosdr.org/cases/375"
+            }
+        },
+        {
+            "title": "They may stop providing the service at any time",
+            "rating": "neutral",
+            "description": "They may discontinue the services without prior notice, at any time, for any or no reason. They usually assume no liability for losses and damages resulting from this suspension.",
+            "last_updated": "2023-07-11 10:04:54",
+            "point_link": "https://edit.tosdr.org/points/16376",
+            "approval_status": "APPROVED",
+            "clause_text": "Con independencia de lo dispuesto en las condiciones particulares, UNIDAD EDITORIAL podrá dar por terminado, suspender o interrumpir, en cualquier momento sin necesidad de preaviso, el acceso a los contenidos de la página, sin posibilidad por parte del Usuario de exigir indemnización alguna.",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "They may stop providing the service at any time",
+                "href": "https://edit.tosdr.org/cases/203"
+            }
+        },
+        {
+            "title": "You are solely responsible for claims made against the service and agree to indemnify and hold harmless the service.",
+            "rating": "neutral",
+            "description": "You are responsible for your use of the service. If a claim arises related to that use, you agree to indemnify and hold the service harmless.\nIf users are also required to defend the service, see Case 146 instead.",
+            "last_updated": "2023-07-11 10:04:54",
+            "point_link": "https://edit.tosdr.org/points/16367",
+            "approval_status": "APPROVED",
+            "clause_text": "El Usuario reconoce asumir la responsabilidad y dejará indemne a UNIDAD EDITORIAL por cualquier daño derivado de cualquier comunicación que suministre personalmente o a su nombre, alcanzando dicha responsabilidad sin restricción alguna la exactitud, legalidad, originalidad y titularidad de la misma.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "You agree to indemnify and hold the service harmless in case of a claim related to your use of the service",
+                "href": "https://edit.tosdr.org/cases/145"
+            }
+        },
+        {
+            "title": "This service does not condone any ideas contained in its user-generated contents",
+            "rating": "neutral",
+            "description": null,
+            "last_updated": "2023-07-11 10:03:34",
+            "point_link": "https://edit.tosdr.org/points/16365",
+            "approval_status": "APPROVED",
+            "clause_text": "Los Mensajes de los usuarios no se corresponden necesariamente con nuestra línea editorial.</p>\n<p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "This service does not condone any ideas contained in its user-generated contents",
+                "href": "https://edit.tosdr.org/cases/292"
+            }
+        },
+        {
+            "title": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+            "rating": "neutral",
+            "description": "The service provider expressly does not claim to provide uninterrupted, timely, secure or error-free service.",
+            "last_updated": "2023-07-11 06:33:16",
+            "point_link": "https://edit.tosdr.org/points/16372",
+            "approval_status": "APPROVED",
+            "clause_text": "En consecuencia, UNIDAD EDITORIAL no garantiza ni se hace responsable de: (i) el funcionamiento del Sitio Web.\n(ii) la continuidad de los Contenidos del Sitio Web.\n(ii) la ausencia de errores en dichos Contenidos ni la corrección de cualquier defecto que pudiera ocurrir.\n(iii) la ausencia de virus y/o demás componentes dañinos en el Sitio Web o en el servidor que lo suministra.",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "The service provider makes no warranty regarding uninterrupted, timely, secure or error-free service",
+                "href": "https://edit.tosdr.org/cases/287"
+            }
+        },
+        {
+            "title": "This service is only available for use individually and non-commercially.",
+            "rating": "neutral",
+            "description": "Users can't use the Service for commercial purposes (unless the Service consents): it is only for personal, individual purposes.",
+            "last_updated": "2023-07-11 06:32:51",
+            "point_link": "https://edit.tosdr.org/points/16357",
+            "approval_status": "APPROVED",
+            "clause_text": "On 2025-02-04 05:54:45 UTC, hsolvijay009 (39767)  wrote:\n          Thank you for explanation, it was very useful. 스포츠중계티비",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "This service is only available for use individually and non-commercially.",
+                "href": "https://edit.tosdr.org/cases/143"
+            }
+        },
+        {
+            "title": "This service prohibits users sending chain letters, junk mail, spam or any unsolicited messages",
+            "rating": "neutral",
+            "description": "Users are not allowed to use the service for chain letters, junk mail, spamming or any other distribution of content to people who have not agreed to receiving it.",
+            "last_updated": "2023-07-11 06:32:55",
+            "point_link": "https://edit.tosdr.org/points/16361",
+            "approval_status": "APPROVED",
+            "clause_text": "mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como a abstenerse de comercializar o divulgar de cualquier modo dicha información.</li>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "You are prohibited from sending chain letters, junk mail, spam or any unsolicited messages",
+                "href": "https://edit.tosdr.org/cases/281"
+            }
+        },
+        {
+            "title": "Prohibits the posting of content which promotes or glorifies violence or politically or religiously extremist values.",
+            "rating": "neutral",
+            "description": "Users are not allowed to post extremist political or religious content. They are also not allowed to post content that glorifies violence.",
+            "last_updated": "2023-07-11 06:32:59",
+            "point_link": "https://edit.tosdr.org/points/16364",
+            "approval_status": "APPROVED",
+            "clause_text": "En ningún caso se permitirá la publicación de contenidos que de forma manifiesta fomenten el odio, el desprecio o la discriminación por motivos de nacimiento, raza, sexo, religión, nacionalidad, opinión o cualquier otra circunstancia personal o social.",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "You are prohibited from posting content which promotes violence or politically or religiously extremist values.",
+                "href": "https://edit.tosdr.org/cases/314"
+            }
+        },
+        {
+            "title": "This service is only available to users over a certain age",
+            "rating": "neutral",
+            "description": "The Services are intended for users who are at least a certain age. If you are younger than the age required then you are prohibited from using the Service.",
+            "last_updated": "2023-07-11 10:03:44",
+            "point_link": "https://edit.tosdr.org/points/16356",
+            "approval_status": "APPROVED",
+            "clause_text": "Queda prohibida la contratación de productos y servicios a través del Sitio Web por parte de menores de edad legal, debiendo obtener debidamente y con anterioridad, el consentimiento de sus padres, tutores o representantes legales, los cuales serán considerados como responsables de los actos que lleven a cabo los menores a su cargo, conforme a la normativa vigente.",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "This service is only available to users over a certain age",
+                "href": "https://edit.tosdr.org/cases/152"
+            }
+        },
+        {
+            "title": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+            "rating": "neutral",
+            "description": "Even if the service does not or not always enforce all of the rules or provisions contained in its terms, they still apply. Users can at a later time still be held accountable for violating provisions that have not been enforced consistently.",
+            "last_updated": "2023-07-11 06:35:57",
+            "point_link": "https://edit.tosdr.org/points/16378",
+            "approval_status": "APPROVED",
+            "clause_text": "El no ejercicio o ejecución por parte de UNIDAD EDITORIAL de cualquier derecho o disposición contenida en estas Condiciones Generales no constituirá una renuncia al mismo, salvo reconocimiento y acuerdo por escrito por su parte.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "Failure to enforce any provision of the Terms of Service does not constitute a waiver of such provision",
+                "href": "https://edit.tosdr.org/cases/295"
+            }
+        },
+        {
+            "title": "You cannot distribute or disclose your account to third parties",
+            "rating": "neutral",
+            "description": "In this context third-parties refers to anyone including friends, family, or company",
+            "last_updated": "2023-07-11 10:03:34",
+            "point_link": "https://edit.tosdr.org/points/16358",
+            "approval_status": "APPROVED",
+            "clause_text": "En consecuencia, los Usuarios son responsables de la adecuada custodia y confidencialidad de cualesquiera identificadores y/o contraseñas que le sean suministradas por UNIDAD EDITORIAL , y se comprometen a no ceder su uso a terceros, ya sea temporal o permanente, ni a permitir su acceso a personas ajenas.",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "You cannot distribute or disclose your account to third parties",
+                "href": "https://edit.tosdr.org/cases/229"
+            }
+        },
+        {
+            "title": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+            "rating": "neutral",
+            "description": "Should any portion of the Terms of Service be unenforceable or invalid, that portion will be enforced to the fullest extent permitted by applicable law and the remainder of the TOS will remain valid and enforceable.",
+            "last_updated": "2023-07-11 10:02:59",
+            "point_link": "https://edit.tosdr.org/points/16377",
+            "approval_status": "APPROVED",
+            "clause_text": "En el caso de que cualquier disposición o disposiciones de estas Condiciones Generales fuera(n) considerada(s) nula(s) o inaplicable(s), en su totalidad o en parte, por cualquier Juzgado, Tribunal u órgano administrativo competente, dicha nulidad o inaplicación no afectará a las otras disposiciones de las Condiciones Generales ni a las condiciones particulares de los diferentes servicios de UNIDAD EDITORIAL.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "Invalidity of any portion of the Terms of Service does not entail invalidity of its remainder",
+                "href": "https://edit.tosdr.org/cases/294"
+            }
+        },
+        {
+            "title": "The service does not guarantee accuracy or reliability of the information provided",
+            "rating": "neutral",
+            "description": "This service makes no warranty regarding the accuracy or reliability of any information that is given on its website or the results that may be obtained from the use of the service.",
+            "last_updated": "2023-07-11 06:33:00",
+            "point_link": "https://edit.tosdr.org/points/16371",
+            "approval_status": "APPROVED",
+            "clause_text": "UNIDAD EDITORIAL no garantiza la licitud, fiabilidad, utilidad, veracidad o exactitud de los servicios o de la información que difunda a través del Sitio Web.\n</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "The service does not guarantee accuracy or reliability of the information provided",
+                "href": "https://edit.tosdr.org/cases/288"
+            }
+        },
+        {
+            "title": "Users agree not to use the service for illegal purposes",
+            "rating": "neutral",
+            "description": "The user agrees not to commit any unlawful acts through the use of the website, including the posting of illegal content or messaging.",
+            "last_updated": "2023-07-11 10:03:35",
+            "point_link": "https://edit.tosdr.org/points/16360",
+            "approval_status": "APPROVED",
+            "clause_text": "Por tanto, el Usuario se obliga a usar los contenidos de forma diligente, correcta y lícita",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "You agree not to use the service for illegal purposes",
+                "href": "https://edit.tosdr.org/cases/280"
+            }
+        },
+        {
+            "title": "The court of law governing the terms is in location Madrid, Spain",
+            "rating": "neutral",
+            "description": "The Terms are governed by the applicable laws of a jurisdiction (specified in the title of each point by replacing the \"X\").",
+            "last_updated": "2023-07-11 06:33:19",
+            "point_link": "https://edit.tosdr.org/points/16379",
+            "approval_status": "APPROVED",
+            "clause_text": "No obstante, para los casos en los que la normativa prevea la posibilidad a las partes de someterse a un fuero, UNIDAD EDITORIAL y el Usuario, con renuncia expresa a cualquier otro fuero que pudiera corresponderles, se someten a los Juzgados y Tribunales de la ciudad de Madrid.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "The court of law governing the terms is in location X",
+                "href": "https://edit.tosdr.org/cases/163"
+            }
+        },
+        {
+            "title": "The service may change its terms at any time, but the user will receive notification of the changes.",
+            "rating": "neutral",
+            "description": "The Terms may be updated without prior notice, but users will be notified of the changes at the moment they will start applying.",
+            "last_updated": "2023-07-11 10:03:09",
+            "point_link": "https://edit.tosdr.org/points/16375",
+            "approval_status": "APPROVED",
+            "clause_text": "UNIDAD EDITORIAL podrá modificar los términos y condiciones aquí estipulados, total o parcialmente, publicando cualquier cambio en la misma forma en que aparecen estas condiciones generales o a través de cualquier tipo de comunicación dirigida a los Usuarios.</p>",
+            "point_source": "https://www.marca.com/corporativo/aviso-legal.html",
+            "case": {
+                "text": "The terms may be changed at any time, but you will receive notification of the changes",
+                "href": "https://edit.tosdr.org/cases/122"
+            }
+        }
+    ]
+}
