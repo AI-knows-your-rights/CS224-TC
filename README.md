@@ -136,16 +136,23 @@ conda install scikit-learn
 conda install transformers
 conda install pytorch
 conda install datasets
+conda install nltk
 pip install 'accelerate>=0.26.0'
 # pip install torch transformers datasets
 
 ```
 
-Open the `Ray_score_prediction.ipynb` file in Jupyter Notebook:
-
-```python
+If you modify the environment, export the new environment:
+```bash
+conda env export --name tc_ranker --no-builds > tc_ranker_environment.yaml
 ```
 
+Test the `Ray_score_prediction.ipynb` file in Jupyter Notebook:
+
+```bash
+jupyter notebook Ray_score_prediction.ipynb
+```
+There are other notebooks to test.
 
 ---
 
