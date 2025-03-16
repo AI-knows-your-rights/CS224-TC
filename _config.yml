@@ -1,10 +1,10 @@
 # Site Settings
 title: "AI-Powered User Rights Detection"
 description: "Using AI to detect and analyze terms and conditions related to user rights."
-url: "https://your-domain.com"  # Update this with your website's URL
+url: "https://ai-knows-your-rights.github.io/CS224-TC/"  # Update this with your website's URL
 baseurl: ""  # Leave empty unless the site is in a subdirectory
 lang: "en"
-author:
+contact:
   name: "Ray Hu"
   email: "rayhu@stanford.edu"
 
@@ -54,7 +54,7 @@ seo:
   title: "AI-Powered User Rights Detection"
   description: "Automatically detect and analyze terms and conditions for user rights using AI."
   keywords: ["AI", "User Rights", "Terms and Conditions", "Privacy Policy", "Legal Analysis"]
-  author: "Ray Hu"
+  contact: "Ray Hu"
 
 # Pagination
 paginate: 5  # Number of posts per page
