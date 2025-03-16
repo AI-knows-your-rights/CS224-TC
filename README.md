@@ -18,13 +18,20 @@ The document scoring is under improvement while we test different clause extract
 ```
 ├── data_downloader/
 │   ├── download-data.js
-│
-├── src/
-│   ├── legal-bert.py
+│   ├── points_html
+│   ├── cases_html
 │
 ├── data/
+│
+│── data_all_<timestamp>/
+│
+├── data_trial_<timestamp>/
+
 ```
 
+The `points_html` and `cases_html` folders contain the HTML files for the points and cases that are shared among all websites, double as a local cache
+
+The company folders under `data_all_<timestamp>` contain the data for each company.
 ---
 
 ## 📊 Data
