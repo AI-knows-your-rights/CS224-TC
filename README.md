@@ -2,6 +2,10 @@
 
 This repository contains the code for the **T&C Ranker** project, developed as part of the **Stanford CS 224N Final Project**.
 
+We were able to achieve 80% accuracy in predicting the rating of the T&C clauses.
+
+The document scoring is under improvement while we test different clause extraction methods.
+
 **Authors:** Ray Hu, Benjamin Ward, and Basant Khalil  
 **Mentor:** Jing Huang
 
