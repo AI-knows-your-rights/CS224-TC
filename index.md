@@ -7,6 +7,9 @@ title: "Home"
 
 This tool uses AI Natural Language Processing techniques to detect and analyze terms and conditions for user rights. 
 
+The project is hosted on GitHub: [https://github.com/AI-knows-your-rights/CS224-TC](https://github.com/AI-knows-your-rights/CS224-TC)
+
+
 **Background**. Legal language is one of the most complex and sophisticated forms of natural
 language. A tragic 2024 case brought this issue to public attention: a woman passed away at Disney
 Park, and the company argued that her family had waived their right to sue because she had accepted
@@ -87,14 +90,16 @@ cross-checking AI ratings with the community and asking for feedback. We will al
 disclaimer that AI summaries are informational, not legal advice, and recommend consulting a lawyer
 for critical decisions.
 
-Refere****nces
+**References**
 [1] Anjalie Field, Shrimai Prabhumoye, Maarten Sap, Zhijing Jin, Jieyu Zhao, and Chris Brockett.
 NLP for consumer protection: Battling illegal clauses in German terms and conditions in online
 shopping. In Association for Computational Linguistics (ACL), 2021.
+
 [2] Shubham Vatsal, Adam Meyers, and John E. Ortega. Classification of US Supreme Court cases
 using BERT-based techniques. In Ruslan Mitkov and Galia Angelova, editors, Proceedings of
 the 14th International Conference on Recent Advances in Natural Language Processing, Varna,
 Bulgaria, September 2023. INCOMA Ltd., Shoumen, Bulgaria.
+
 [3] Ilias Chalkidis, Manos Fergadiotis, Prodromos Malakasiotis, Nikolaos Aletras, and Ion Androut-
 sopoulos. LEGAL-BERT: The muppets straight out of law school. In Trevor Cohn, Yulan He,
 and Yang Liu, editors, Findings of the Association for Computational Linguistics: EMNLP 2020,
