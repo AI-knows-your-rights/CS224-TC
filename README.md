@@ -5,6 +5,8 @@ This repository contains the code for the **T&C Ranker** project, developed as p
 **Authors:** Ray Hu, Benjamin Ward, and Basant Khalil  
 **Mentor:** Jing Huang
 
+[![pages-build-deployment](https://github.com/AI-knows-your-rights/CS224-TC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AI-knows-your-rights/CS224-TC/actions/workflows/pages/pages-build-deployment)
+
 ---
 
 ## 📂 Folder Structure
