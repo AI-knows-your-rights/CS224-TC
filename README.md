@@ -1,193 +1,119 @@
-# T&C Ranker
-
-This repository contains the code for the **T&C Ranker** project, developed as part of the **Stanford CS 224N Final Project**.
-
-We were able to achieve 80% accuracy in predicting the rating of the T&C clauses.
-
-The document scoring is under improvement while we test different clause extraction methods.
-
-**Authors:** Ray Hu, Benjamin Ward, and Basant Khalil  
-**Mentor:** Jing Huang
+# T&C Ranker — Lost in Legalese: NLP for Privacy Risk Detection
 
 [![pages-build-deployment](https://github.com/AI-knows-your-rights/CS224-TC/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AI-knows-your-rights/CS224-TC/actions/workflows/pages/pages-build-deployment)
 
----
+Fine-tuned LegalBERT models that detect unfair and privacy-invasive clauses in consumer Terms & Conditions agreements — classifying individual clauses and scoring entire documents for privacy risk.
 
-## 📂 Folder Structure
+**Stanford CS224N (Natural Language Processing with Deep Learning) final project.**
+Authors: Ray Hu, Benjamin Ward, Basant Khalil · Mentor: Jing Huang
+📄 [Project poster](docs/CS224N_poster.pdf)
+
+## Why This Matters
+
+Terms & Conditions agreements are long, complex, and deliberately obscure. Users routinely accept clauses that waive their legal rights — in one widely reported case, a family's lawsuit was dismissed because of an arbitration clause buried in a Disney+ trial agreement. Reading every T&C is not realistic; automated privacy-risk detection is.
+
+The model performs two tasks:
+
+1. **Clause classification** — rate each clause: `Good` / `Neutral` / `Bad` / `Very Bad`
+2. **Document scoring** — assign an overall privacy-risk grade (`A`–`E`) to a full T&C document
+
+## Results
+
+| Model | Test Accuracy | Test F1 |
+|---|---|---|
+| LLaMA-2 7B (zero-shot) | 0.28 | 0.23 |
+| LLaMA-2 7B (chain-of-thought) | 0.30 | 0.24 |
+| **LegalBERT (fine-tuned)** | **0.84** | **0.84** |
+| LegalBERT (LoRA, r=8) | 0.77 | 0.77 |
+
+Fine-tuned LegalBERT beats strong LLM prompting baselines by ~3x on real-world legal text, confirming that domain-adapted encoders still outperform general-purpose LLMs on specialized classification tasks. LoRA achieves 92% of full fine-tuning quality while updating a small fraction of parameters.
+
+**Evaluation rigor:** legal documents are full of paraphrased boilerplate, so a naive train/test split leaks information. We de-duplicated using n-gram similarity (n = 3) and removed test clauses with >0.5 similarity to any training clause.
+
+## Dataset
+
+- **450 T&C documents, 9,292 human-annotated clauses**, collected from community-annotated Terms-of-Service reviews ([ToS;DR](https://tosdr.org)-style points and cases)
+- Each company's folder contains website metadata (`details.json`), clause-level ratings (`clauses.json`), and original + text-converted T&C documents
+- Document candidates are classified as T&C vs. non-T&C using zero-shot classification with [facebook/bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli)
+
+Document grades follow the community scoring methodology:
 
 ```
-├── data_downloader/
-│   ├── download-data.js
-│   ├── points_html
-│   ├── cases_html
-│
-├── data/
-│
-│── data_all_<timestamp>/
-│
-├── data_trial_<timestamp>/
-
+balance = good_points − bad_points − (3 × blocker_points)
 ```
-
-The `points_html` and `cases_html` folders contain the HTML files for the points and cases that are shared among all websites, double as a local cache
-
-The company folders under `data_all_<timestamp>` contain the data for each company.
----
-
-## 📊 Data
-
-The raw data is stored in the `data/` folder. Cleaned data is saved in `data_all_<timestamp>`, with the latest folder containing the most up-to-date processed data.
-
-Each company has a dedicated subfolder containing relevant data.
-
-### 🔹 Website Scoring
-
-Each company's folder contains a `details.json` file, which includes:
-- Website scoring
-- Domain and URL information
-- Other metadata
-
-We need to do a DE-DUP that with n-gram duplication detection. So the test dataset doesn't have 10-gram dup with the training dataset.
-
-#### Grading System
-
-Each identified point is classified as:
-- **Good** ✅
-- **Neutral** ⚖️
-- **Bad** ❌
-- **Blocker** 🚫
-
-A point must be **approved** to be included in the grade calculation.
-
-##### 📌 Grade Calculation Formula
-
-```python
-balance = number_of_good_points - number_of_bad_points - (number_of_blocker_points * 3)
-```
-
-##### 🏆 Grade Assignment Rules
 
 | Grade | Condition |
-|--------|------------------------------------------------|
-| **N/A** | No points recorded (good + bad + blocker = 0) |
-| **E** | `balance ≤ -10` OR `blockers > good points` |
-| **D** | `blockers ≥ 3` OR `bad points > good points` |
-| **C** | `balance < 5` |
-| **B** | Any bad points exist |
-| **A** | Only good points exist |
+|---|---|
+| A | Only good points |
+| B | Some bad points exist |
+| C | balance < 5 |
+| D | blockers ≥ 3, or bad > good |
+| E | balance ≤ −10, or blockers > good |
 
-This same methodology is applied for **document scoring** based on predicted clause ratings.
+## Repository Structure
 
-### 🔹 Clause-by-Clause Rating
+```
+├── data_downloader/               # Node.js scraper + HuggingFace data fetch
+├── data/                          # Raw data
+├── data_all_<timestamp>/          # Cleaned per-company data snapshots
+├── src/                           # Shared processing code
+├── baselines/                     # LLaMA-2 zero-shot & CoT baselines
+├── LegalBERT_model.ipynb          # LegalBERT full fine-tuning
+├── LegalBERT_with_LoRA.ipynb      # LegalBERT + LoRA (r=8, α=16)
+├── LegalBERT_hyperparam_tuning.ipynb
+├── BERT_model.ipynb               # BERT baselines
+├── BERT_with_LoRA.ipynb
+├── BERT_hyperparam_tuning.ipynb
+├── Ray_score_prediction.ipynb     # Document-level scoring
+└── tc_ranker_environment.yaml     # Conda environment
+```
 
-- Each folder contains a `service.html` file with clause-level ratings.
-- This file is converted to `service.txt` for easier reading.
-- Additionally, we extract data from `service.html`, its `points` and `cases`, save them in the clauses.json for efficient processing.
+## Usage
 
-### 🔹 T&C Documents
-
-Each website folder contains a `documents/` subfolder with Terms & Conditions (T&C) documents:
-- Original documents are in **HTML format**.
-- A **text version** is created for readability.
-- The text version is classified using **Facebook/BART**:
-  - **T&C documents:** `TC_xx`
-  - **Non-T&C documents:** `Review_xx`
-
----
-
-## 🚀 Usage
-
-### 🔹 Clone the Repository
+### Clone
 
 ```bash
-brew install git-lfs # if you haven't installed git-lfs
-# or sudo apt-get install git-lfs
 git lfs install
+git clone --depth 1 https://github.com/AI-knows-your-rights/TC-ranker.git
+cd TC-ranker
 git lfs pull
-git clone --depth 1 https://github.com/rayhu-stanford/tc_ranker.git
 ```
 
-### 🔹 Download Data
-
-1. Navigate to the `data_downloader/` folder.
-2. Add your Hugging Face API token to a `.env` file:
+### Download data
 
 ```bash
-HUGGINGFACE_API_TOKEN=<your_huggingface_token>
-```
-
-3. Install dependencies and download trial data:
-
-```bash
+cd data_downloader
+echo "HUGGINGFACE_API_TOKEN=<your_token>" > .env
 npm install
-npm run download
+npm run download           # trial subset first
+npm run download -- --all  # full dataset once verified
 ```
 
-4. Verify that the downloaded data appears in the `data_trial_<timestamp>/` folder.
-5. If the data is clean, download the full dataset:
-
-```bash
-npm run download -- --all
-```
-
-### 🔹 Fine-Tune the Model
-
-#### Setup
+### Set up environment & train
 
 ```bash
 conda env create -f tc_ranker_environment.yaml
 conda activate tc_ranker
+jupyter notebook LegalBERT_with_LoRA.ipynb
 ```
 
-Or do it manually:
-```bash
-conda create -n tc_ranker python=3.10
-conda activate tc_ranker
-conda install jupyter
-conda install pandas
-conda install scikit-learn
-conda install transformers
-conda install pytorch
-conda install datasets
-conda install nltk
-pip install 'accelerate>=0.26.0'
-# pip install torch transformers datasets
+Training configuration: LoRA rank 8, alpha 16, dropout 0.1 · batch size 16 · lr 3e-4 · 6 epochs.
 
-```
+## Known Limitations & Future Work
 
-If you modify the environment, export the new environment:
-```bash
-conda env export --name tc_ranker --no-builds > tc_ranker_environment.yaml
-```
+- "Very Bad" clauses are under-predicted (recall 0.48) — threshold tuning and confidence calibration are the next step
+- Clauses citing external laws confuse the model — retrieval augmentation (RAG) with legal context is planned
+- Document-level scoring is sensitive to clause-extraction parsing errors — exploring attention-based aggregation
+- Expanding beyond consumer T&Cs to finance and healthcare contracts
 
-Test the `Ray_score_prediction.ipynb` file in Jupyter Notebook:
+## References
 
-```bash
-jupyter notebook Ray_score_prediction.ipynb
-```
-There are other notebooks to test.
+- Chalkidis et al., [LEGAL-BERT: The Muppets Straight Out of Law School](https://aclanthology.org/2020.findings-emnlp.261/), EMNLP Findings 2020
+- Hu et al., [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), NeurIPS 2021
+- Touvron et al., [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288), 2023
+- Harkous et al., [Polisis: Automated Analysis of Privacy Policies](https://www.usenix.org/conference/usenixsecurity18/presentation/harkous), USENIX Security 2018
+- [LexGLUE benchmark](https://huggingface.co/datasets/coastalcph/lex_glue)
 
----
+## License
 
-## 📚 References
-
-### 🔹 Cheerio
-- [Cheerio.js](https://cheerio.js.org/) - A library for parsing HTML.
-
-### 🔹 Facebook/BART
-- [facebook/bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli) - Used for zero-shot classification of T&C documents.
-
-### 🔹 Legal-BERT
-- **Paper:** [LEGAL-BERT: The Muppets Straight Out of Law School](https://aclanthology.org/2020.findings-emnlp.261/)
-- **Arxiv:** [Paper PDF](https://arxiv.org/pdf/2010.02559)
-- **Model Variants on Hugging Face:**
-  - [legal-bert-base-uncased](https://huggingface.co/nlpaueb/legal-bert-base-uncased)
-  - [legal-bert-large-uncased](https://huggingface.co/nlpaueb/legal-bert-large-uncased)
-  - [bert-base-uncased-eurlex](https://huggingface.co/nlpaueb/bert-base-uncased-eurlex) (Fine-tuned for EURLEX)
-  - [bert-base-uncased-contracts](https://huggingface.co/nlpaueb/bert-base-uncased-contracts)
-
-### 🔹 Additional Resources
-- [Legal-BERT Training Overview](https://www.youtube.com/watch?v=-Ix2zWbq878)
-- [Open Source Legal Dataset](https://huggingface.co/datasets/coastalcph/lex_glue)
-
----
+[MIT](LICENSE)
