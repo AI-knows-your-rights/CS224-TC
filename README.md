@@ -6,7 +6,7 @@ Fine-tuned LegalBERT models that detect unfair and privacy-invasive clauses in c
 
 **Stanford CS224N (Natural Language Processing with Deep Learning) final project.**
 Authors: Ray Hu, Benjamin Ward, Basant Khalil · Mentor: Jing Huang
-📄 [Project poster](docs/CS224N_poster.pdf)
+📄 [Project poster](docs/CS_224N_Project_Poster.pdf)
 
 ## Why This Matters
 
